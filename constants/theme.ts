@@ -18,11 +18,11 @@ export const Colors = {
     tabIconSelected: tintColorLight,
   },
   dark: {
-    text: '#ECEDEE',
+    text: '#0a7ea4', // Blue accent color for better visibility in dark mode
     background: '#151718',
     tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
+    icon: '#4a9bc4', // Lighter blue for icons in dark mode
+    tabIconDefault: '#4a9bc4',
     tabIconSelected: tintColorDark,
   },
 };

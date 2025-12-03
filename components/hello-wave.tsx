@@ -1,6 +1,7 @@
+import { memo } from 'react';
 import Animated from 'react-native-reanimated';
 
-export function HelloWave() {
+export const HelloWave = memo(() => {
   return (
     <Animated.Text
       style={{
@@ -16,4 +17,6 @@ export function HelloWave() {
       👋
     </Animated.Text>
   );
-}
+});
+
+HelloWave.displayName = 'HelloWave';

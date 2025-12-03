@@ -1,4 +1,4 @@
-import { PropsWithChildren, useState } from 'react';
+import { PropsWithChildren, useCallback, useMemo, useState } from 'react';
 import { StyleSheet, TouchableOpacity } from 'react-native';
 
 import { ThemedText } from '@/components/themed-text';
@@ -11,18 +11,31 @@ export function Collapsible({ children, title }: PropsWithChildren & { title: st
   const [isOpen, setIsOpen] = useState(false);
   const theme = useColorScheme() ?? 'light';
 
+  const handleToggle = useCallback(() => {
+    setIsOpen((value) => !value);
+  }, []);
+
+  const iconColor = useMemo(() => 
+    theme === 'light' ? Colors.light.icon : Colors.dark.icon, 
+    [theme]
+  );
+
+  const iconStyle = useMemo(() => ({
+    transform: [{ rotate: isOpen ? '90deg' : '0deg' }]
+  }), [isOpen]);
+
   return (
     <ThemedView>
       <TouchableOpacity
         style={styles.heading}
-        onPress={() => setIsOpen((value) => !value)}
+        onPress={handleToggle}
         activeOpacity={0.8}>
         <IconSymbol
           name="chevron.right"
           size={18}
           weight="medium"
-          color={theme === 'light' ? Colors.light.icon : Colors.dark.icon}
-          style={{ transform: [{ rotate: isOpen ? '90deg' : '0deg' }] }}
+          color={iconColor}
+          style={iconStyle}
         />
 
         <ThemedText type="defaultSemiBold">{title}</ThemedText>

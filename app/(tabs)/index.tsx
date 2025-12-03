@@ -1,98 +1,168 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
+import { useAppTint } from '@/components/color-context';
+import { IconSymbol } from '@/components/ui/icon-symbol';
+import * as Haptics from 'expo-haptics';
+import { useRouter } from 'expo-router';
+import { memo, useCallback } from 'react';
+import { Platform, StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import { useThemeColors } from '../../hooks/use-theme-colors';
 
-import { HelloWave } from '@/components/hello-wave';
-import ParallaxScrollView from '@/components/parallax-scroll-view';
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
-import { Link } from 'expo-router';
+// Color palette removed - colors are now theme-based only
 
-export default function HomeScreen() {
-  return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <Link href="/modal">
-          <Link.Trigger>
-            <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-          </Link.Trigger>
-          <Link.Preview />
-          <Link.Menu>
-            <Link.MenuAction title="Action" icon="cube" onPress={() => alert('Action pressed')} />
-            <Link.MenuAction
-              title="Share"
-              icon="square.and.arrow.up"
-              onPress={() => alert('Share pressed')}
-            />
-            <Link.Menu title="More" icon="ellipsis">
-              <Link.MenuAction
-                title="Delete"
-                icon="trash"
-                destructive
-                onPress={() => alert('Delete pressed')}
-              />
-            </Link.Menu>
-          </Link.Menu>
-        </Link>
-
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
-  );
+interface QuickActionButtonProps {
+  icon: string;
+  title: string;
+  description: string;
+  onPress: () => void;
+  tint: string;
 }
 
+const QuickActionButton = memo<QuickActionButtonProps>(({ icon, title, description, onPress, tint }) => {
+  const handlePress = useCallback(() => {
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+    onPress();
+  }, [onPress]);
+
+  return (
+    <TouchableOpacity 
+      style={[styles.actionButton, Platform.OS !== 'web' && styles.actionButtonShadow]}
+      onPress={handlePress}
+      activeOpacity={0.7}
+    >
+      <View style={[styles.actionIconContainer, { backgroundColor: tint }]}>
+        <IconSymbol size={32} name={icon as any} color="#fff" />
+      </View>
+      <View style={styles.actionTextContainer}>
+        <Text style={styles.actionTitle}>{title}</Text>
+        <Text style={styles.actionDescription}>{description}</Text>
+      </View>
+      <IconSymbol size={20} name="chevron.right" color="#999" />
+    </TouchableOpacity>
+  );
+});
+
+QuickActionButton.displayName = 'QuickActionButton';
+
+const HomeScreen = memo(() => {
+  const { tint } = useAppTint();
+  const theme = useThemeColors();
+  const router = useRouter();
+  
+  const handleOpenPathfinder = useCallback(() => {
+    router.push('/(tabs)/ai-assistant');
+  }, [router]);
+
+  const handleOpenRecorder = useCallback(() => {
+    router.push('/(tabs)/recorder');
+  }, [router]);
+
+  const handleOpenTravelLog = useCallback(() => {
+    router.push('/(tabs)/explore');
+  }, [router]);
+
+  const handleOpenBookings = useCallback(() => {
+    router.push('/(tabs)/bookings');
+  }, [router]);
+
+  return (
+    <View style={[styles.container, { backgroundColor: theme.background }]}>
+      <View style={styles.headerSection}>
+        <Text style={[styles.greeting, { color: theme.text }]}>What&apos;s the move,</Text>
+        <Text style={[styles.greeting, { color: theme.text }]}>Chief?</Text>
+      </View>
+
+      <View style={styles.actionsSection}>
+        <QuickActionButton
+          icon="brain.head.profile"
+          title="Pathfinder"
+          description="Plan your trip with AI"
+          onPress={handleOpenPathfinder}
+          tint={tint}
+        />
+        <QuickActionButton
+          icon="paperplane.fill"
+          title="Start Recording"
+          description="Track your journey"
+          onPress={handleOpenRecorder}
+          tint={tint}
+        />
+        <QuickActionButton
+          icon="map.fill"
+          title="Travel Log"
+          description="View your trip history"
+          onPress={handleOpenTravelLog}
+          tint={tint}
+        />
+        <QuickActionButton
+          icon="calendar"
+          title="My Bookings"
+          description="Manage your travel bookings"
+          onPress={handleOpenBookings}
+          tint={tint}
+        />
+      </View>
+
+    </View>
+  );
+});
+
+HomeScreen.displayName = 'HomeScreen';
+
+export default HomeScreen;
+
 const styles = StyleSheet.create({
-  titleContainer: {
+  container: {
+    flex: 1,
+    backgroundColor: '#f8f9fa',
+  },
+  headerSection: {
+    paddingTop: 60,
+    paddingHorizontal: 24,
+    paddingBottom: 32,
+  },
+  greeting: {
+    fontSize: 36,
+    fontWeight: '800',
+    color: '#1a1a1a',
+    letterSpacing: -0.5,
+  },
+  actionsSection: {
+    flex: 1,
+    paddingHorizontal: 20,
+    gap: 16,
+  },
+  actionButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    backgroundColor: '#fff',
+    padding: 20,
+    borderRadius: 16,
+    gap: 16,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  actionButtonShadow: {
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 8,
+    elevation: 3,
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
+  actionIconContainer: {
+    width: 56,
+    height: 56,
+    borderRadius: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  actionTextContainer: {
+    flex: 1,
+  },
+  actionTitle: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#1a1a1a',
+    marginBottom: 4,
+  },
+  actionDescription: {
+    fontSize: 14,
+    color: '#888',
   },
 });
