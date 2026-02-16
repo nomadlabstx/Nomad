@@ -20,6 +20,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useAppTint } from '../../components/color-context';
 import { useExplorer } from '../../hooks/use-explorer';
 import { useThemeColors } from '../../hooks/use-theme-colors';
+import { useSelectedBackgroundColor } from '../../utils/theme-helpers';
 import type {
     ExplorerCity,
     ExplorerCountry,
@@ -29,13 +30,14 @@ import type {
     ExplorerState
 } from '../../types/explorer';
 
-type ExpandedSections = Set<string>;
+type ExpandedSections = string[];
 
 const Explorer = React.memo(() => {
   const { explorerData, isTracking, stats, startTracking, stopTracking, clearAll, setVisibilityMode } = useExplorer();
   const { tint } = useAppTint();
   const theme = useThemeColors();
-  const [expandedSections, setExpandedSections] = useState<ExpandedSections>(new Set());
+  const selectedBgColor = useSelectedBackgroundColor(tint);
+  const [expandedSections, setExpandedSections] = useState<ExpandedSections>([]);
   const [searchQuery, setSearchQuery] = useState('');
   
   // Get current visibility mode from filters
@@ -57,15 +59,9 @@ const Explorer = React.memo(() => {
    */
   const toggleSection = useCallback((id: string) => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-    setExpandedSections((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) {
-        next.delete(id);
-      } else {
-        next.add(id);
-      }
-      return next;
-    });
+    setExpandedSections((prev) => (
+      prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]
+    ));
   }, []);
 
   /**
@@ -95,7 +91,7 @@ const Explorer = React.memo(() => {
         onPress: async () => {
             Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
             await clearAll();
-            setExpandedSections(new Set());
+            setExpandedSections([]);
           },
         },
       ]
@@ -155,38 +151,42 @@ const Explorer = React.memo(() => {
       grouped.get(baseId)!.push(hw);
     });
     
-    return Array.from(grouped.entries()).map(([baseId, hws]) => {
-      const hasDirections = hws.length > 1 && hws.some(h => h.direction);
-      const first = hws[0];
-      const baseName = hasDirections 
-        ? first.fullName.replace(/ (North|South|East|West)$/, '')
-        : first.fullName;
-      
-      // Calculate overall progress across all directions
-      const totalExits = hws.reduce((sum, h) => sum + h.totalExits, 0);
-      const visitedExits = hws.reduce((sum, h) => sum + (h.visitedExits || 0), 0);
-      const overallProgress = totalExits > 0 ? (visitedExits / totalExits) * 100 : 0;
-      
-      return {
-        baseId,
-        baseName,
-        baseNumber: first.number,
-        highways: hws.sort((a, b) => {
-          // Sort: North/East before South/West
-          const order = { north: 0, east: 0, south: 1, west: 1 };
-          return (order[a.direction as keyof typeof order] || 0) - (order[b.direction as keyof typeof order] || 0);
-        }),
-        hasDirections,
-        overallProgress,
-      };
-    });
+    return Array.from(grouped.entries())
+      .map(([baseId, hws]) => {
+        if (!hws || hws.length === 0) return null;
+        const hasDirections = hws.length > 1 && hws.some(h => h.direction);
+        const first = hws[0];
+        if (!first) return null;
+        const baseName = hasDirections 
+          ? first.fullName.replace(/ (North|South|East|West)$/, '')
+          : first.fullName;
+        
+        // Calculate overall progress across all directions
+        const totalExits = hws.reduce((sum, h) => sum + h.totalExits, 0);
+        const visitedExits = hws.reduce((sum, h) => sum + (h.visitedExits || 0), 0);
+        const overallProgress = totalExits > 0 ? (visitedExits / totalExits) * 100 : 0;
+        
+        return {
+          baseId,
+          baseName,
+          baseNumber: first.number,
+          highways: hws.sort((a, b) => {
+            // Sort: North/East before South/West
+            const order = { north: 0, east: 0, south: 1, west: 1 };
+            return (order[a.direction as keyof typeof order] || 0) - (order[b.direction as keyof typeof order] || 0);
+          }),
+          hasDirections,
+          overallProgress,
+        };
+      })
+      .filter((group): group is NonNullable<typeof group> => group !== null);
   };
 
   /**
    * Render highway item (for non-directional highways)
    */
   const renderHighway = useCallback((highway: ExplorerHighway) => {
-    const isExpanded = expandedSections.has(highway.id);
+    const isExpanded = expandedSections.includes(highway.id);
     const progressPercent = highway.completionPercent || 0;
 
   return (
@@ -275,11 +275,12 @@ const Explorer = React.memo(() => {
    * Render directional highway group (e.g., I-35 with North/South sub-sections)
    */
   const renderDirectionalHighwayGroup = useCallback((group: ReturnType<typeof groupDirectionalHighways>[0]) => {
-    const isGroupExpanded = expandedSections.has(group.baseId);
+    const isGroupExpanded = expandedSections.includes(group.baseId);
     const anyVisited = group.highways.some(h => h.visited);
     
     if (!group.hasDirections) {
       // Single highway without directions - render normally
+      if (!group.highways || group.highways.length === 0) return null;
       return renderHighway(group.highways[0]);
     }
     
@@ -322,7 +323,7 @@ const Explorer = React.memo(() => {
    * Render individual directional highway (North/South/East/West variant)
    */
   const renderDirectionalHighway = useCallback((highway: ExplorerHighway) => {
-    const isExpanded = expandedSections.has(highway.id);
+    const isExpanded = expandedSections.includes(highway.id);
     const progressPercent = highway.completionPercent || 0;
     const directionIcon = getDirectionIcon(highway.direction);
     const directionLabel = highway.direction ? highway.direction.charAt(0).toUpperCase() + highway.direction.slice(1) : '';
@@ -449,7 +450,7 @@ const Explorer = React.memo(() => {
    * Render city item
    */
   const renderCity = useCallback((city: ExplorerCity) => {
-    const isExpanded = expandedSections.has(city.id);
+    const isExpanded = expandedSections.includes(city.id);
     const hasLandmarks = city.landmarks && city.landmarks.length > 0;
 
     return (
@@ -497,7 +498,7 @@ const Explorer = React.memo(() => {
    * Render county item
    */
   const renderCounty = useCallback((county: ExplorerCounty) => {
-    const isExpanded = expandedSections.has(county.id);
+    const isExpanded = expandedSections.includes(county.id);
 
           return (
       <View key={county.id} style={styles.itemContainer}>
@@ -545,7 +546,7 @@ const Explorer = React.memo(() => {
    * Render state item
    */
   const renderState = useCallback((state: ExplorerState) => {
-    const isExpanded = expandedSections.has(state.id);
+    const isExpanded = expandedSections.includes(state.id);
     const stateHighways = state.highways || [];
     const visitedStateHighways = stateHighways.filter(h => h.visited);
 
@@ -585,11 +586,11 @@ const Explorer = React.memo(() => {
                     </Text>
                   </View>
                   <Text style={styles.expandIcon}>
-                    {expandedSections.has(`${state.id}-highways`) ? '▼' : '▶'}
+                    {expandedSections.includes(`${state.id}-highways`) ? '▼' : '▶'}
                   </Text>
                 </TouchableOpacity>
                 
-                {expandedSections.has(`${state.id}-highways`) && (
+                {expandedSections.includes(`${state.id}-highways`) && (
                   <View>
                     {/* Interstate Highways */}
                     {(() => {
@@ -670,11 +671,11 @@ const Explorer = React.memo(() => {
                     <Text style={styles.sectionHeader}>🏛️ Counties & Cities</Text>
                   </View>
                   <Text style={styles.expandIcon}>
-                    {expandedSections.has(`${state.id}-counties`) ? '▼' : '▶'}
+                    {expandedSections.includes(`${state.id}-counties`) ? '▼' : '▶'}
                   </Text>
             </TouchableOpacity>
                 
-                {expandedSections.has(`${state.id}-counties`) && (
+                {expandedSections.includes(`${state.id}-counties`) && (
                   <View>
                     {state.counties.map(renderCounty)}
                   </View>
@@ -691,7 +692,7 @@ const Explorer = React.memo(() => {
    * Render country item
    */
   const renderCountry = useCallback((country: ExplorerCountry) => {
-    const isExpanded = expandedSections.has(country.id);
+    const isExpanded = expandedSections.includes(country.id);
 
     return (
       <View key={country.id} style={styles.itemContainer}>
@@ -715,7 +716,13 @@ const Explorer = React.memo(() => {
 
         {isExpanded && (
           <View style={styles.nestedContainer}>
-            {country.states.map(renderState)}
+            {country.states.length > 0 ? (
+              country.states.map(renderState)
+            ) : (
+              <Text style={styles.emptySubtext}>
+                No states match the current filters.
+              </Text>
+            )}
           </View>
         )}
     </View>
@@ -846,7 +853,7 @@ const Explorer = React.memo(() => {
           style={[
             styles.visibilityButton,
             { backgroundColor: theme.inactive, borderColor: theme.border },
-            visibilityMode === 'all' && { backgroundColor: tint, borderColor: tint },
+            visibilityMode === 'all' && { backgroundColor: selectedBgColor, borderColor: selectedBgColor },
           ]}
           onPress={() => handleVisibilityChange('all')}
         >
@@ -865,7 +872,7 @@ const Explorer = React.memo(() => {
           style={[
             styles.visibilityButton,
             { backgroundColor: theme.inactive, borderColor: theme.border },
-            visibilityMode === 'discovered' && { backgroundColor: tint, borderColor: tint },
+            visibilityMode === 'discovered' && { backgroundColor: selectedBgColor, borderColor: selectedBgColor },
           ]}
           onPress={() => handleVisibilityChange('discovered')}
         >
@@ -884,7 +891,7 @@ const Explorer = React.memo(() => {
           style={[
             styles.visibilityButton,
             { backgroundColor: theme.inactive, borderColor: theme.border },
-            visibilityMode === 'undiscovered' && { backgroundColor: tint, borderColor: tint },
+            visibilityMode === 'undiscovered' && { backgroundColor: selectedBgColor, borderColor: selectedBgColor },
           ]}
           onPress={() => handleVisibilityChange('undiscovered')}
         >
@@ -1207,6 +1214,12 @@ const styles = StyleSheet.create({
     color: '#888',
     textAlign: 'center',
     marginBottom: 8,
+  },
+  emptySubtext: {
+    fontSize: 13,
+    color: '#888',
+    textAlign: 'center',
+    paddingVertical: 8,
   },
   placeholderContainer: {
     padding: 24,
