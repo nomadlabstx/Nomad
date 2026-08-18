@@ -4,6 +4,8 @@
 
 For **what works today** and v0.1 release status, read these first:
 
+- **[Code Audit 18 Aug 2026](./CODE_AUDIT_2026-08-18.md)** — Current audit (supersedes June)
+
 - **[State of the Union](./STATE_OF_UNION.md)** — Implemented / Verified / Unverified
 - **[Consolidation Plan](./CONSOLIDATION_PLAN.md)** — 14-day scope and engineering freeze
 - **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Active task queue
