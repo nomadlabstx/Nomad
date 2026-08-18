@@ -1,0 +1,5649 @@
+{
+  "name": "New Mexico",
+  "code": "NM",
+  "counties": [
+    {
+      "name": "Bernalillo County",
+      "cities": [
+        {
+          "name": "South Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.0100487,
+          "longitude": -106.6780809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sedillo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.099768,
+          "longitude": -106.2955808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandia Heights",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1769887,
+          "longitude": -106.4914122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandia Knolls",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1639331,
+          "longitude": -106.3114135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandia Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1681798,
+          "longitude": -106.3664171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Antonito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1630999,
+          "longitude": -106.3475243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponderosa Pine",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 34.9715101,
+          "longitude": -106.3257768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pajarito Mesa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 34.9931919,
+          "longitude": -106.7714522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradise Hills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.20059820000001,
+          "longitude": -106.7011388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paa-Ko",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1979421,
+          "longitude": -106.3346061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Town",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.0963121,
+          "longitude": -106.6694583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1890502,
+          "longitude": -106.6172581,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lee Acres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1480939,
+          "longitude": -106.6490254,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kirtland AFB",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.0488506,
+          "longitude": -106.5505704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Isleta",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 34.9078296,
+          "longitude": -106.6930811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edith Enclave",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.2108095,
+          "longitude": -106.5878723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chilili",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 34.8894968,
+          "longitude": -106.2328016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.02222,
+          "longitude": -106.35306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Crest",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.1075459,
+          "longitude": -106.3728019,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carnuel",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.0639089,
+          "longitude": -106.4574003,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tijeras",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Bernalillo County",
+          "latitude": 35.0795244,
+          "longitude": -106.3878905,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Catron County",
+      "cities": [
+        {
+          "name": "Rivers",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.6716766,
+          "longitude": -108.7779168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rancho Grande",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.6804004,
+          "longitude": -108.8578172,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quemado",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 34.3418337,
+          "longitude": -108.4936332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasanton",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.2720973,
+          "longitude": -108.872953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pie Town",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 34.2983884,
+          "longitude": -108.1347836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mogollon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.3967283,
+          "longitude": -108.7942288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middle Frisco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.6957623,
+          "longitude": -108.7656751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luna",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.8189419,
+          "longitude": -108.9545153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lower Frisco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.6628336,
+          "longitude": -108.7872862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homestead",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 34.1491382,
+          "longitude": -107.88143,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenwood",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.316173,
+          "longitude": -108.8833714,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escudilla Bonita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 34.111658,
+          "longitude": -109.023998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Datil",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 34.1449543,
+          "longitude": -107.8429625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cruzville",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.8072758,
+          "longitude": -108.6653406,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Apache Creek",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.8336066,
+          "longitude": -108.6215391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aragon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.8812844,
+          "longitude": -108.5389602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alma",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.3795055,
+          "longitude": -108.903398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reserve",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Catron County",
+          "latitude": 33.7131104,
+          "longitude": -108.7578411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chaves County",
+      "cities": [
+        {
+          "name": "Midway",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Chaves County",
+          "latitude": 33.29472,
+          "longitude": -104.45,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dexter",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Chaves County",
+          "latitude": 33.197328,
+          "longitude": -104.3730202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hagerman",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Chaves County",
+          "latitude": 33.1151077,
+          "longitude": -104.3269074,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Arthur",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Chaves County",
+          "latitude": 32.9981657,
+          "longitude": -104.3666291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roswell",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Chaves County",
+          "latitude": 33.3942528,
+          "longitude": -104.5226958,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cibola County",
+      "cities": [
+        {
+          "name": "Stoneridge",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.303348,
+          "longitude": -108.1028458,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Acomita Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0563752,
+          "longitude": -107.572706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Skyline-Ganipa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.040642,
+          "longitude": -107.6156133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seama",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.039765,
+          "longitude": -107.5247714,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seboyeta",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2011501,
+          "longitude": -107.3892143,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Rafael",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.1125344,
+          "longitude": -107.8826751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Mateo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.3314225,
+          "longitude": -107.6431104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Fidel",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0822634,
+          "longitude": -107.5992181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinehill",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0026856,
+          "longitude": -108.4031175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paraje",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0553205,
+          "longitude": -107.4756036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paguate",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.1386519,
+          "longitude": -107.3789354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Acomita Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0633752,
+          "longitude": -107.5658838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain View",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 34.9992044,
+          "longitude": -108.4111819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Taylor",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.1263462,
+          "longitude": -107.8080386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moquino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.171539,
+          "longitude": -107.3687209,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mesita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.01837800000001,
+          "longitude": -107.312821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCartys Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0628191,
+          "longitude": -107.6694974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lobo Canyon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2182818,
+          "longitude": -107.7103291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Las Tusas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2720416,
+          "longitude": -108.1250791,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laguna",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0367105,
+          "longitude": -107.3828231,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Acres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2112924,
+          "longitude": -107.9146687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fence Lake",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 34.6534543,
+          "longitude": -108.6776648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Encinal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.1172631,
+          "longitude": -107.4647708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Morro Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0306811,
+          "longitude": -108.3445308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cubero",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0858748,
+          "longitude": -107.5181051,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Candy Kitchen",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 34.9137789,
+          "longitude": -108.4857507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluewater",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2545102,
+          "longitude": -107.9798506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluewater Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.2545102,
+          "longitude": -107.9798506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bibo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.169441,
+          "longitude": -107.391899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anzac Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0615678,
+          "longitude": -107.7428952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Acomita Lake",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.0703192,
+          "longitude": -107.6136628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milan",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.1754484,
+          "longitude": -107.8954549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grants",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Cibola County",
+          "latitude": 35.14726,
+          "longitude": -107.8514466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Colfax County",
+      "cities": [
+        {
+          "name": "Ute Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.5578224,
+          "longitude": -105.1140041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Angel Fire",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.3930879,
+          "longitude": -105.2850091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Nest",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.554754,
+          "longitude": -105.2636179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maxwell",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.5400319,
+          "longitude": -104.5433229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springer",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.36114450000001,
+          "longitude": -104.5952668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cimarron",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Colfax County",
+          "latitude": 36.5108691,
+          "longitude": -104.9158341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Curry County",
+      "cities": [
+        {
+          "name": "Cannon AFB",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.3897838,
+          "longitude": -103.3183038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broadview",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.81951,
+          "longitude": -103.2135603,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grady",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.8214543,
+          "longitude": -103.3174518,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melrose",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.4303525,
+          "longitude": -103.63246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Texico",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.3886868,
+          "longitude": -103.0513351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clovis",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Curry County",
+          "latitude": 34.4014624,
+          "longitude": -103.207807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "De Baca County",
+      "cities": [
+        {
+          "name": "Lake Sumner",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "De Baca County",
+          "latitude": 34.6228421,
+          "longitude": -104.3766465,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Sumner",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "De Baca County",
+          "latitude": 34.4717332,
+          "longitude": -104.2455304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Doña Ana County",
+      "cities": [
+        {
+          "name": "Las Cruces",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.3142451,
+          "longitude": -106.7797529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anthony",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.0039897,
+          "longitude": -106.6058257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hatch",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.6653572,
+          "longitude": -107.1530744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mesilla",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.2700945,
+          "longitude": -106.8008376,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunland Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 31.796496,
+          "longitude": -106.5799891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.0709325,
+          "longitude": -106.6213827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butterfield Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.4057982,
+          "longitude": -106.6438673,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chamberino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.0367565,
+          "longitude": -106.6842358,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chaparral",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.0513075,
+          "longitude": -106.4288088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairacres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.299917,
+          "longitude": -106.8355372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garfield",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.7570318,
+          "longitude": -107.264858,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Mesa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.1219048,
+          "longitude": -106.7078788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Union",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 31.9506578,
+          "longitude": -106.6616595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mesquite",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.1645415,
+          "longitude": -106.6966649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Organ",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.4257966,
+          "longitude": -106.6013218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Picacho Hills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.3154743,
+          "longitude": -106.8827427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Radium Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.4928349,
+          "longitude": -106.9106762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rincon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.6728583,
+          "longitude": -107.064739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rodey",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.6567467,
+          "longitude": -107.1358517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.71274880000001,
+          "longitude": -107.2045841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Pablo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.24944000000001,
+          "longitude": -106.77222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Teresa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 31.8559384,
+          "longitude": -106.6391577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tortugas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.2700948,
+          "longitude": -106.7527804,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "University Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.2834278,
+          "longitude": -106.7533362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vado",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.1339908,
+          "longitude": -106.6611831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Sands",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Doña Ana County",
+          "latitude": 32.38422020000001,
+          "longitude": -106.491868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Eddy County",
+      "cities": [
+        {
+          "name": "Whites City",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.1756724,
+          "longitude": -104.3766136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morningside",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.8607216,
+          "longitude": -104.3973778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malaga",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.2246101,
+          "longitude": -104.0715779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loco Hills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.8182868,
+          "longitude": -103.9804377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livingston Wheeler",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.3960654,
+          "longitude": -104.196619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Huerta",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.4540102,
+          "longitude": -104.2250605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Happy Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.421709,
+          "longitude": -104.2842756,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atoka",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.7696542,
+          "longitude": -104.3922227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hope",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.8103854,
+          "longitude": -104.7327473,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Artesia",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.8423345,
+          "longitude": -104.4032962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loving",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.2862317,
+          "longitude": -104.095773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlsbad",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Eddy County",
+          "latitude": 32.4203395,
+          "longitude": -104.2289925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "White Signal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.555321,
+          "longitude": -108.365402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tyrone",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7097986,
+          "longitude": -108.3019925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trout Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 33.0365345,
+          "longitude": -108.1890659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Lorenzo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.8098985,
+          "longitude": -107.9206158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosedale",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7697856,
+          "longitude": -108.2407175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redrock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.6861879,
+          "longitude": -108.738111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinos Altos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.86319,
+          "longitude": -108.221697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Hurley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7228547,
+          "longitude": -108.132543,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mimbres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.8432952,
+          "longitude": -107.9674909,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Walnut Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.8353515,
+          "longitude": -108.2744929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Roberts",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 33.0339038,
+          "longitude": -108.1683216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Roberts Heights",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 33.026164,
+          "longitude": -108.1384199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hachita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 31.9181501,
+          "longitude": -108.3203211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanover",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.8134085,
+          "longitude": -108.0911535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gila",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.9646574,
+          "longitude": -108.5775687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gila Hot Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 33.1887578,
+          "longitude": -108.205132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Faywood",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.6261511,
+          "longitude": -107.8700476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cliff",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.9634373,
+          "longitude": -108.6135032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cobre",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7801479,
+          "longitude": -108.10923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Casas Adobes",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.8092932,
+          "longitude": -107.9383696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buckhorn",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 33.0370333,
+          "longitude": -108.708981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arenas Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7751179,
+          "longitude": -108.205132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Clara",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.778651,
+          "longitude": -108.153234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayard",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.7617427,
+          "longitude": -108.1305989,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Grant County",
+          "latitude": 32.6992442,
+          "longitude": -108.1319872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Guadalupe County",
+      "cities": [
+        {
+          "name": "Puerto de Luna",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 34.8401109,
+          "longitude": -104.6238048,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pastura",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 34.7828401,
+          "longitude": -104.9447168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newkirk",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 35.0683903,
+          "longitude": -104.2646989,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Llano del Medio",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 35.188831,
+          "longitude": -105.112297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anton Chico",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 35.2001481,
+          "longitude": -105.142205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Rosa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 34.93867,
+          "longitude": -104.6824892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vaughn",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Guadalupe County",
+          "latitude": 34.6017346,
+          "longitude": -105.2083337,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harding County",
+      "cities": [
+        {
+          "name": "Mosquero",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Harding County",
+          "latitude": 35.77698360000001,
+          "longitude": -103.9566375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roy",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Harding County",
+          "latitude": 35.9439243,
+          "longitude": -104.1960888,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hidalgo County",
+      "cities": [
+        {
+          "name": "Windmill",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 31.97778,
+          "longitude": -108.62444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rodeo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 31.8353718,
+          "longitude": -109.0311699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Playas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 31.9167598,
+          "longitude": -108.5336597,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Acres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 32.3765201,
+          "longitude": -108.71877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cotton City",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 32.0884202,
+          "longitude": -108.8792236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Animas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 31.9496748,
+          "longitude": -108.8067046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lordsburg",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 32.3503605,
+          "longitude": -108.7086649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Virden",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Hidalgo County",
+          "latitude": 32.6870176,
+          "longitude": -109.0020052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lea County",
+      "cities": [
+        {
+          "name": "North Hobbs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.7726565,
+          "longitude": -103.126161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nadine",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.62389,
+          "longitude": -103.12694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monument",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.6240696,
+          "longitude": -103.2650604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eunice",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.4373434,
+          "longitude": -103.1590798,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lovington",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.9440077,
+          "longitude": -103.3485543,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tatum",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 33.2570566,
+          "longitude": -103.317728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.1131814,
+          "longitude": -103.1935127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hobbs",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Lea County",
+          "latitude": 32.7012285,
+          "longitude": -103.1343854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Nogal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lincoln County",
+          "latitude": 33.5581325,
+          "longitude": -105.7077626,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carrizozo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lincoln County",
+          "latitude": 33.6417408,
+          "longitude": -105.877212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruidoso Downs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lincoln County",
+          "latitude": 33.3289733,
+          "longitude": -105.6044291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Capitan",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lincoln County",
+          "latitude": 33.5453572,
+          "longitude": -105.5722043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corona",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Lincoln County",
+          "latitude": 34.2509071,
+          "longitude": -105.5966686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Los Alamos County",
+      "cities": [
+        {
+          "name": "White Rock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Los Alamos County",
+          "latitude": 35.8275257,
+          "longitude": -106.2039145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Alamos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Los Alamos County",
+          "latitude": 35.8800364,
+          "longitude": -106.3031138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "CaÃ±ada de los Alamos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Los Alamos County",
+          "latitude": 35.8800364,
+          "longitude": -106.3031138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Luna County",
+      "cities": [
+        {
+          "name": "Ventura",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.2465039,
+          "longitude": -107.6866471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunshine",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.1381037,
+          "longitude": -107.7525577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pulpotio Bareas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.225066,
+          "longitude": -107.7769021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pecan Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.2709642,
+          "longitude": -107.6740669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Hacienda",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.2052627,
+          "longitude": -107.7251314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keeler Farm",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.3084684,
+          "longitude": -107.7517775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "City of the Sun",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 31.8450848,
+          "longitude": -107.6481653,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbus",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 31.8276002,
+          "longitude": -107.6400232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deming",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Luna County",
+          "latitude": 32.2686981,
+          "longitude": -107.7586404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McKinley County",
+      "cities": [
+        {
+          "name": "Zuni Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.0694767,
+          "longitude": -108.8484168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yah-ta-hey",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6280758,
+          "longitude": -108.7803635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williams Acres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4970601,
+          "longitude": -108.8714878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Cliffs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5447589,
+          "longitude": -108.6648722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vanderwagen",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.2736493,
+          "longitude": -108.7546582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twin Lakes",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.7091851,
+          "longitude": -108.7748082,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tse Bonito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6566848,
+          "longitude": -109.0412036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tohatchi",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.8589039,
+          "longitude": -108.7614749,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thoreau",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4025272,
+          "longitude": -108.2234015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sundance",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5098649,
+          "longitude": -108.6353764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sagar",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.2486639,
+          "longitude": -108.7630664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6094648,
+          "longitude": -108.8292535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Rock Ranch",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4264495,
+          "longitude": -108.0183739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ramah",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.1330889,
+          "longitude": -108.491741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Purty Rock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4911755,
+          "longitude": -108.8997119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblo Pintado",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.9515001,
+          "longitude": -107.627451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prewitt",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.3628248,
+          "longitude": -108.0439557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinedale",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6039103,
+          "longitude": -108.447021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinehaven",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.326189,
+          "longitude": -108.6591293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ojo Encino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.95398369999999,
+          "longitude": -107.346448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Navajo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.9000121,
+          "longitude": -109.0339832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nakaibito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.7927939,
+          "longitude": -108.8270322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manuelito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4219675,
+          "longitude": -108.9939784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McGaffey",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.3753042,
+          "longitude": -108.5156328,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamestown",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4373459,
+          "longitude": -108.4570183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iyanbito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5132204,
+          "longitude": -108.48102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homer C Jones",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.3078301,
+          "longitude": -108.0909887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haystack",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.3648801,
+          "longitude": -107.9354068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gamerco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5722438,
+          "longitude": -108.7653629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Wingate",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4718903,
+          "longitude": -108.5438525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crownpoint",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6780769,
+          "longitude": -108.1511785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crestview",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4873356,
+          "longitude": -108.8581191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Continental Divide",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.4251626,
+          "longitude": -108.315986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Church Rock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5339114,
+          "longitude": -108.5998029,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catalpa Canyon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.486008,
+          "longitude": -108.7185184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brimhall Nizhoni",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.7697118,
+          "longitude": -108.6309752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Borrego Pass",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.572934,
+          "longitude": -108.0036183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Hat",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.6335662,
+          "longitude": -108.9650807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Rock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.0883657,
+          "longitude": -108.7911938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Becenti",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.8152117,
+          "longitude": -108.1666266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gallup",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "McKinley County",
+          "latitude": 35.5263073,
+          "longitude": -108.7420186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mora County",
+      "cities": [
+        {
+          "name": "Watrous",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Mora County",
+          "latitude": 35.79065,
+          "longitude": -104.9818483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mora",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Mora County",
+          "latitude": 35.9742227,
+          "longitude": -105.3300057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wagon Mound",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Mora County",
+          "latitude": 36.0089252,
+          "longitude": -104.7066582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Otero County",
+      "cities": [
+        {
+          "name": "Weed",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.8021809,
+          "longitude": -105.517031,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twin Forks",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.946583,
+          "longitude": -105.6313919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Timberon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.6209314,
+          "longitude": -105.6941444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sacramento",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.786599,
+          "longitude": -105.5650239,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.6179759,
+          "longitude": -105.3943498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orogrande",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.3767862,
+          "longitude": -106.0920105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mescalero",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 33.15758539999999,
+          "longitude": -105.7741541,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayhill",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.8895419,
+          "longitude": -105.4780381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Luz",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.9780468,
+          "longitude": -105.9427753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holloman AFB",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.8440404,
+          "longitude": -106.099291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "High Rolls",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.950923,
+          "longitude": -105.8355422,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boles Acres",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.8058229,
+          "longitude": -105.9821339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bent",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 33.1586953,
+          "longitude": -105.8569333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cloudcroft",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 32.9573133,
+          "longitude": -105.7424855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tularosa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Otero County",
+          "latitude": 33.073973,
+          "longitude": -106.0186025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Quay County",
+      "cities": [
+        {
+          "name": "Nara Visa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Quay County",
+          "latitude": 35.6065517,
+          "longitude": -103.1001067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logan",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Quay County",
+          "latitude": 35.3656477,
+          "longitude": -103.4109046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Jon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Quay County",
+          "latitude": 35.1075585,
+          "longitude": -103.328565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "House",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Quay County",
+          "latitude": 34.6467327,
+          "longitude": -103.904411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tucumcari",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Quay County",
+          "latitude": 35.171723,
+          "longitude": -103.7249662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rio Arriba County",
+      "cities": [
+        {
+          "name": "Youngsville",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1878577,
+          "longitude": -106.5576829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Velarde",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1672917,
+          "longitude": -105.9676136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Truchas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0441834,
+          "longitude": -105.8127561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tierra Amarilla",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.698669,
+          "longitude": -106.5518824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Clara Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 35.9745464,
+          "longitude": -106.0904721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0747448,
+          "longitude": -106.0772455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ojo Sarco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1225247,
+          "longitude": -105.7833504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ohkay Owingeh",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0528006,
+          "longitude": -106.0705788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Medanales",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.175576,
+          "longitude": -106.1833584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lybrook",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.2256145,
+          "longitude": -107.5564326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyden",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1461339,
+          "longitude": -106.0055774,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lumberton",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.9300106,
+          "longitude": -106.936982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Luceros",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1097448,
+          "longitude": -106.0469671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Ojos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.7290029,
+          "longitude": -106.570561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lindrith",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.304462,
+          "longitude": -107.0450424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Villita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1033558,
+          "longitude": -106.0480783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Madera",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.3865541,
+          "longitude": -106.0410372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Mesilla",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 35.947665,
+          "longitude": -106.0715255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hernandez",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0628,
+          "longitude": -106.1194685,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gallina",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.230271,
+          "longitude": -106.8057189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ensenada",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.7272363,
+          "longitude": -106.5333673,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Rito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.3434814,
+          "longitude": -106.1890455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Duende",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0741889,
+          "longitude": -106.120024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dulce",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.9336211,
+          "longitude": -106.9989265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1988885,
+          "longitude": -105.888532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coyote",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1675174,
+          "longitude": -106.6164252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cordova",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0072472,
+          "longitude": -105.8605749,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chimayo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0039131,
+          "longitude": -105.9469656,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chili",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1050216,
+          "longitude": -106.1497467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chamita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0753005,
+          "longitude": -106.1040675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canova",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.1591896,
+          "longitude": -105.9850213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canjilon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.4798143,
+          "longitude": -106.4370893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brazos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.7514028,
+          "longitude": -106.5614236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcalde",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.0889116,
+          "longitude": -106.053634,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abiquiu",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.207241,
+          "longitude": -106.3186397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chama",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 36.9027911,
+          "longitude": -106.5792166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Espa�ola",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Rio Arriba County",
+          "latitude": 35.9910383,
+          "longitude": -106.0818233,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Roosevelt County",
+      "cities": [
+        {
+          "name": "Causey",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Roosevelt County",
+          "latitude": 33.8792573,
+          "longitude": -103.1266126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dora",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Roosevelt County",
+          "latitude": 33.9386985,
+          "longitude": -103.3366192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elida",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Roosevelt County",
+          "latitude": 33.9467526,
+          "longitude": -103.6566262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Floyd",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Roosevelt County",
+          "latitude": 34.2142463,
+          "longitude": -103.5805147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portales",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Roosevelt County",
+          "latitude": 34.1861922,
+          "longitude": -103.3343978,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "San Juan County",
+      "cities": [
+        {
+          "name": "West Hammond",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.6732006,
+          "longitude": -108.0539382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterflow",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.760157,
+          "longitude": -108.4942722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upper Fruitland",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.71551669999999,
+          "longitude": -108.3195618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7525053,
+          "longitude": -107.76506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Totah Vista",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7094743,
+          "longitude": -108.205132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spencerville",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.82,
+          "longitude": -108.0575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South River",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7897931,
+          "longitude": -108.042083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheep Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.1530518,
+          "longitude": -108.6947617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shiprock",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7855543,
+          "longitude": -108.6870322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanostee",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.4247253,
+          "longitude": -108.8742586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ojo Amarillo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.6933355,
+          "longitude": -108.3692454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Light Plant",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.8667126,
+          "longitude": -108.0331918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Navajo Dam",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.8002832,
+          "longitude": -107.6125543,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nenahnezad",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7361125,
+          "longitude": -108.4181359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newcomb",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.2847285,
+          "longitude": -108.7059207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Naschitti",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.06501069999999,
+          "longitude": -108.6820295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Napi Headquarters",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.6471534,
+          "longitude": -108.2199588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nageezi",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.2666791,
+          "longitude": -107.7420022,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middle Mesa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.9864422,
+          "longitude": -107.5090974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Plata",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.928612,
+          "longitude": -108.1903539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.0916798,
+          "longitude": -108.1572917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Boca",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.9916093,
+          "longitude": -107.6044538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruitland",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7419158,
+          "longitude": -108.3949661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flora Vista",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7944478,
+          "longitude": -108.0803484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crystal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.0458424,
+          "longitude": -108.9662046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crouch Mesa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7572422,
+          "longitude": -108.0835783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Center Point",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.8756607,
+          "longitude": -107.9591094,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Hill",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.94,
+          "longitude": -107.886667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7241723,
+          "longitude": -107.8253397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beclabito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.8413878,
+          "longitude": -109.0195438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Angustura",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7125242,
+          "longitude": -107.9354068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kirtland",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7518497,
+          "longitude": -108.3652973,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aztec",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.8222261,
+          "longitude": -107.9928455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomfield",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Juan County",
+          "latitude": 36.7111165,
+          "longitude": -107.9845116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "San Miguel County",
+      "cities": [
+        {
+          "name": "Villanueva",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.26675300000001,
+          "longitude": -105.3613399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tecolote",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.46028,
+          "longitude": -105.28,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tecolotito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.233162,
+          "longitude": -105.160484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Soham",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.4155984,
+          "longitude": -105.4941797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sena",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.2983798,
+          "longitude": -105.3927876,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Miguel",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.5117793,
+          "longitude": -104.8454619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Jose",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.3972656,
+          "longitude": -105.4750124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rowe",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.4917053,
+          "longitude": -105.6752935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ribera",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.3736553,
+          "longitude": -105.4486228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.331001,
+          "longitude": -105.43164,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North San Ysidro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.46920740000001,
+          "longitude": -105.5536252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Pecos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.5736477,
+          "longitude": -105.6639049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conchas Dam",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.4028261,
+          "longitude": -104.1899762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pecos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "San Miguel County",
+          "latitude": 35.5742031,
+          "longitude": -105.675016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sandoval County",
+      "cities": [
+        {
+          "name": "Zia Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.5066518,
+          "longitude": -106.7213308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santo Domingo Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.5147562,
+          "longitude": -106.3658588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Ysidro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.563363,
+          "longitude": -106.7705907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Ana Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.3399846,
+          "longitude": -106.5225295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Luis",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.681816,
+          "longitude": -107.050629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Felipe Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.4314082,
+          "longitude": -106.4468039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rio Rancho Estates",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.3005544,
+          "longitude": -106.776741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Regina",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 36.1841855,
+          "longitude": -106.9567082,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblo of Sandia Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.2550415,
+          "longitude": -106.573081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponderosa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.6600275,
+          "longitude": -106.6675339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Placitas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.3069845,
+          "longitude": -106.4247468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Jara",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 36.0877963,
+          "longitude": -106.9747623,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jemez Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.6113233,
+          "longitude": -106.7247962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cochiti",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.60892,
+          "longitude": -106.3503042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cochiti Lake",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.6480855,
+          "longitude": -106.3375267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Algodones",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.3805931,
+          "longitude": -106.4791925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bernalillo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.30004,
+          "longitude": -106.5511369,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cuba",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 36.0222403,
+          "longitude": -106.9583721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jemez Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.7686356,
+          "longitude": -106.692258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corrales",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sandoval County",
+          "latitude": 35.2378197,
+          "longitude": -106.6066926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Fe County",
+      "cities": [
+        {
+          "name": "Valle Vista",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5840433,
+          "longitude": -106.0596092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tres Arroyos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.6849071,
+          "longitude": -106.0522616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thunder Mountain",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.0901772,
+          "longitude": -106.2227968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tesuque",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7616955,
+          "longitude": -105.9325214,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tesuque Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8025277,
+          "longitude": -105.9755777,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tano Road",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7341464,
+          "longitude": -105.9641124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunlit Hills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5913723,
+          "longitude": -105.9171161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.1485724,
+          "longitude": -105.98027,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sombrillo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.9800238,
+          "longitude": -106.0400228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seton Village",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5991999,
+          "longitude": -105.9325205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Cruz",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.9922457,
+          "longitude": -106.0472452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Fe Foothills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.6265232,
+          "longitude": -105.8936224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Pedro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.2397286,
+          "longitude": -106.2110857,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Ildefonso Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8919694,
+          "longitude": -106.1183576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rio Chiquito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.9956017,
+          "longitude": -105.9068373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rio en Medio",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.82502789999999,
+          "longitude": -105.9036318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pojoaque",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8928034,
+          "longitude": -106.0230784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peak Place",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7927868,
+          "longitude": -105.9435501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nambe",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8933592,
+          "longitude": -105.9825221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madrid",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.4067047,
+          "longitude": -106.1525226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Cerrillos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.4375198,
+          "longitude": -106.1245907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Tierra",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7519602,
+          "longitude": -106.0287512,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Puebla",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.9891906,
+          "longitude": -105.996411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Las Campanas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7107148,
+          "longitude": -106.0581397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lamy",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.4814259,
+          "longitude": -105.8797413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Cienega",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.56281130000001,
+          "longitude": -106.1308561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Cueva",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.59114630000001,
+          "longitude": -105.7330725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Bajada",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5551807,
+          "longitude": -106.2404493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacona",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8905811,
+          "longitude": -106.0422454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jaconita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8933976,
+          "longitude": -106.0282603,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hyde Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7102747,
+          "longitude": -105.884813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glorieta",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5830404,
+          "longitude": -105.7702739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.2669859,
+          "longitude": -106.2139126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Galisteo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.3955945,
+          "longitude": -105.9464093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Valle de Arroyo Seco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.962802,
+          "longitude": -106.0294672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Encantado",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.7937073,
+          "longitude": -105.9171161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Rancho",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8949451,
+          "longitude": -106.0824425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eldorado at Santa Fe",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.5264241,
+          "longitude": -105.9347424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cundiyo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.9591921,
+          "longitude": -105.8964091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cuyamungue",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.870164,
+          "longitude": -106.0096511,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cuyamungue Grant",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8463317,
+          "longitude": -105.9993672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cuartelez",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.991363,
+          "longitude": -106.0156822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conejo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.6277743,
+          "longitude": -105.9435501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chupadero",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.8225278,
+          "longitude": -105.9166877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Grove",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.17087740000001,
+          "longitude": -106.1900242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Agua Fria",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.6544754,
+          "longitude": -106.0222447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgewood",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.0614358,
+          "longitude": -106.1914141,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Fe",
+          "state": "New Mexico",
+          "stateCode": "NM",
+          "county": "Santa Fe County",
+          "latitude": 35.6894307,
+          "longitude": -105.9381944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sierra County",
+      "cities": [
+        {
+          "name": "Winston",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 33.34638,
+          "longitude": -107.6478894,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oasis",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 32.9245167,
+          "longitude": -107.3172468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Las Palomas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 33.062571,
+          "longitude": -107.2983605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingston",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 32.917018,
+          "longitude": -107.7061436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hot Springs Landing",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 33.20208,
+          "longitude": -107.207802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsboro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 32.9209072,
+          "longitude": -107.566974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caballo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 32.975612,
+          "longitude": -107.3078306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arrey",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 32.848685,
+          "longitude": -107.3191906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elephant Butte",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 33.1770471,
+          "longitude": -107.2252675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamsburg",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Sierra County",
+          "latitude": 33.1161825,
+          "longitude": -107.2933624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Socorro County",
+      "cities": [
+        {
+          "name": "Veguita",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.516174,
+          "longitude": -106.7672484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Acacia",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.2553446,
+          "longitude": -106.8994726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Antonio",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 33.9178438,
+          "longitude": -106.8658586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Polvadera",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.2047888,
+          "longitude": -106.9216958,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luis Lopez",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 33.9889548,
+          "longitude": -106.8853041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lemitar",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.1596096,
+          "longitude": -106.9100192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Las Nutrias",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.4767305,
+          "longitude": -106.7705812,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Joya",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.3456394,
+          "longitude": -106.8456918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escondida",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.1008259,
+          "longitude": -106.8982341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chamizal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.2175667,
+          "longitude": -106.9136399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alamillo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.2547889,
+          "longitude": -106.9161402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alamo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.4208918,
+          "longitude": -107.5108753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abeytas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.4626406,
+          "longitude": -106.8148879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Magdalena",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.1167305,
+          "longitude": -107.2439251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Socorro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Socorro County",
+          "latitude": 34.0583995,
+          "longitude": -106.8914159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Taos County",
+      "cities": [
+        {
+          "name": "Vadito",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.1911366,
+          "longitude": -105.6708481,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taos Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.438638,
+          "longitude": -105.5444545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Talpa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.3414148,
+          "longitude": -105.5969565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "San Cristobal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.596413,
+          "longitude": -105.6394538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rio Lucio",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.19558019999999,
+          "longitude": -105.725571,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ranchos de Taos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.3586367,
+          "longitude": -105.6094566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Picuris Pueblo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.2018955,
+          "longitude": -105.7131132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ojo Caliente",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.3021225,
+          "longitude": -106.0452736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Costilla",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.9758552,
+          "longitude": -105.5311205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chamisal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.165858,
+          "longitude": -105.7377936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arroyo Hondo",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.534134,
+          "longitude": -105.6668298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arroyo Seco",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.5166928,
+          "longitude": -105.5691763,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.4072134,
+          "longitude": -105.5733788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taos Ski Valley",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.5959999,
+          "longitude": -105.4545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Questa",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.7041783,
+          "longitude": -105.59577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red River",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Taos County",
+          "latitude": 36.7080849,
+          "longitude": -105.4061159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Torrance County",
+      "cities": [
+        {
+          "name": "Torreon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.7222803,
+          "longitude": -106.2986314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tajique",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.751724,
+          "longitude": -106.2877984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Punta de Agua",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.6000612,
+          "longitude": -106.2839068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manzano",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.64672669999999,
+          "longitude": -106.3450191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manzano Springs",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.9614705,
+          "longitude": -106.2390421,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McIntosh",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.8630243,
+          "longitude": -106.053104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Hills",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.9804355,
+          "longitude": -106.1394897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duran",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.46941,
+          "longitude": -105.398804,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deer Canyon",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.4260118,
+          "longitude": -106.2816361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Willard",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.5958972,
+          "longitude": -106.0336253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estancia",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.7583934,
+          "longitude": -106.0558506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Encino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.651178,
+          "longitude": -105.4616722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moriarty",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.9900503,
+          "longitude": -106.0491893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountainair",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Torrance County",
+          "latitude": 34.5203411,
+          "longitude": -106.241127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Capulin",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Union County",
+          "latitude": 36.7412867,
+          "longitude": -103.9941775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grenville",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Union County",
+          "latitude": 36.592803,
+          "longitude": -103.6163447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Folsom",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Union County",
+          "latitude": 36.8450241,
+          "longitude": -103.9177446,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Des Moines",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Union County",
+          "latitude": 36.7611356,
+          "longitude": -103.8341298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Valencia County",
+      "cities": [
+        {
+          "name": "Valencia",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7994996,
+          "longitude": -106.7003035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tome",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7482495,
+          "longitude": -106.7259305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sausal",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.6807687,
+          "longitude": -106.7559004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblitos",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.6236907,
+          "longitude": -106.7794935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monterey Park",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7508511,
+          "longitude": -106.6586052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow Lake",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.8042963,
+          "longitude": -106.5501388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madrone",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.5796483,
+          "longitude": -106.7293611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Chaves",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.736851,
+          "longitude": -106.7554819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Las Maravillas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7335157,
+          "longitude": -106.6684896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jarales",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.6131158,
+          "longitude": -106.7636377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highland Meadows",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.9474772,
+          "longitude": -107.1611337,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Cerro",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7781078,
+          "longitude": -106.6939803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Cerro Mission",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7739857,
+          "longitude": -106.6468148,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chical",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.86833,
+          "longitude": -106.6677799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Casa Colorada",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.5739503,
+          "longitude": -106.7491927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adelino",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.7086843,
+          "longitude": -106.7293611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peralta",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.8369984,
+          "longitude": -106.690581,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belen",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.6627652,
+          "longitude": -106.7761546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bosque Farms",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.8542638,
+          "longitude": -106.7060628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Los Lunas",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.80751840000001,
+          "longitude": -106.7357525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rio Communities",
+          "state": "NM",
+          "stateCode": "NM",
+          "county": "Valencia County",
+          "latitude": 34.6458473,
+          "longitude": -106.7175669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

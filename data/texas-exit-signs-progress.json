@@ -1,0 +1,172 @@
+{
+  "I610_EXITS": {
+    "processed": 0,
+    "scraped": 34,
+    "completed": true
+  },
+  "I635_EXITS": {
+    "processed": 0,
+    "scraped": 22,
+    "completed": true
+  },
+  "I820_EXITS": {
+    "processed": 0,
+    "scraped": 48,
+    "completed": true
+  },
+  "I10_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 103,
+    "completed": true
+  },
+  "I10_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 103,
+    "completed": true
+  },
+  "I20_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 68,
+    "completed": true
+  },
+  "I20_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 68,
+    "completed": true
+  },
+  "I27_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 50,
+    "completed": true
+  },
+  "I27_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 50,
+    "completed": true
+  },
+  "I27_NORTH_EXITS": {
+    "processed": 0,
+    "scraped": 50,
+    "completed": true
+  },
+  "I27_SOUTH_EXITS": {
+    "processed": 0,
+    "scraped": 50,
+    "completed": true
+  },
+  "I30_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 62,
+    "completed": true
+  },
+  "I30_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 62,
+    "completed": true
+  },
+  "I35_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 64,
+    "completed": true
+  },
+  "I35_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 64,
+    "completed": true
+  },
+  "I35_NORTH_EXITS": {
+    "processed": 0,
+    "scraped": 64,
+    "completed": true
+  },
+  "I35_SOUTH_EXITS": {
+    "processed": 0,
+    "scraped": 64,
+    "completed": true
+  },
+  "I37_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 53,
+    "completed": true
+  },
+  "I37_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 53,
+    "completed": true
+  },
+  "I37_NORTH_EXITS": {
+    "processed": 0,
+    "scraped": 53,
+    "completed": true
+  },
+  "I37_SOUTH_EXITS": {
+    "processed": 0,
+    "scraped": 53,
+    "completed": true
+  },
+  "I40_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I40_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I45_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 72,
+    "completed": true
+  },
+  "I45_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 72,
+    "completed": true
+  },
+  "I45_NORTH_EXITS": {
+    "processed": 0,
+    "scraped": 72,
+    "completed": true
+  },
+  "I45_SOUTH_EXITS": {
+    "processed": 0,
+    "scraped": 72,
+    "completed": true
+  },
+  "I69_EAST_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I69_WEST_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I69_NORTH_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I69_SOUTH_EXITS": {
+    "processed": 0,
+    "scraped": 59,
+    "completed": true
+  },
+  "I110_EXITS": {
+    "processed": 0,
+    "scraped": 0,
+    "completed": true
+  },
+  "I345_EXITS": {
+    "processed": 0,
+    "scraped": 0,
+    "completed": true
+  },
+  "I410_EXITS": {
+    "processed": 0,
+    "scraped": 0,
+    "completed": true
+  }
+}

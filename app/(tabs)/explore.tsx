@@ -29,6 +29,7 @@ import type {
     ExplorerLandmark,
     ExplorerState
 } from '../../types/explorer';
+import { formatExitListLine } from '../../utils/exit-labels';
 
 type ExpandedSections = string[];
 
@@ -241,7 +242,7 @@ const Explorer = React.memo(() => {
                     </Text>
                     <View style={styles.exitInfo}>
                       <Text style={styles.exitNumber}>
-                        Exit {exit.exitNumber} - {exit.description}
+                        {formatExitListLine(exit.exitNumber, exit.description)}
                       </Text>
                       {exit.visited && exit.lastVisited && (
                         <Text style={styles.exitMeta}>
@@ -376,7 +377,7 @@ const Explorer = React.memo(() => {
                     </Text>
                     <View style={styles.exitInfo}>
                       <Text style={styles.exitNumber}>
-                        Exit {exit.exitNumber} - {exit.description}
+                        {formatExitListLine(exit.exitNumber, exit.description)}
                       </Text>
                       {exit.visited && exit.lastVisited && (
                         <Text style={styles.exitMeta}>
@@ -475,6 +476,19 @@ const Explorer = React.memo(() => {
 
         {isExpanded && (
           <View style={styles.nestedContainer}>
+            {city.wikiExtract && (
+              <View style={styles.wikiSection}>
+                <Text style={styles.sectionHeader}>📖 About</Text>
+                <Text style={styles.wikiExtract} numberOfLines={6}>
+                  {city.wikiExtract}
+                </Text>
+                {city.wikiPageUrl && (
+                  <Text style={styles.wikiAttribution}>
+                    From Wikipedia: {city.wikiTitle ?? city.name}
+                  </Text>
+                )}
+              </View>
+            )}
             {/* Landmarks Section */}
             {hasLandmarks && (
               <>
@@ -807,7 +821,10 @@ const Explorer = React.memo(() => {
         <View>
           <Text style={[styles.title, { color: theme.text }]}>Checklist</Text>
           <Text style={[styles.subtitle, { color: theme.secondaryText }]}>
-            {stats.visitedLocations.toLocaleString()} locations explored
+            {stats.visitedLocations.toLocaleString()} discovered
+            {stats.completionPercentKnown
+              ? ` • ${stats.completionPercent}% of tracked locations`
+              : ''}
           </Text>
         </View>
         <TouchableOpacity onPress={handleClearAll} style={styles.clearButton}>
@@ -1214,6 +1231,23 @@ const styles = StyleSheet.create({
     color: '#888',
     textAlign: 'center',
     marginBottom: 8,
+  },
+  wikiSection: {
+    marginBottom: 12,
+    paddingBottom: 8,
+    borderBottomWidth: 1,
+    borderBottomColor: '#eee',
+  },
+  wikiExtract: {
+    fontSize: 13,
+    color: '#444',
+    lineHeight: 18,
+    marginBottom: 4,
+  },
+  wikiAttribution: {
+    fontSize: 11,
+    color: '#888',
+    fontStyle: 'italic',
   },
   emptySubtext: {
     fontSize: 13,

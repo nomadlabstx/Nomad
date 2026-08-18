@@ -1,0 +1,654 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Smarr",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 32.9854111,
+          "longitude": -83.8821292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Juliette",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 33.1073521,
+          "longitude": -83.8001802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Bolingbroke",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 32.9471846,
+          "longitude": -83.80277439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Culloden",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 32.86319050000001,
+          "longitude": -84.0938017,
+          "population": 219,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Forsyth",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 33.0342974,
+          "longitude": -83.938242,
+          "population": 4901,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Monroe",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 32.9746846,
+          "longitude": -83.8897057,
+          "population": 15929,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Montgomery County",
+      "cities": [
+        {
+          "name": "Ailey",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Montgomery County",
+          "latitude": 32.1874042,
+          "longitude": -82.5656886,
+          "population": 528,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Alston",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Montgomery County",
+          "latitude": 32.080743,
+          "longitude": -82.4776303,
+          "population": 177,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Higgston",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Montgomery County",
+          "latitude": 32.2165732,
+          "longitude": -82.4670747,
+          "population": 316,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tarrytown",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Montgomery County",
+          "latitude": 32.3187886,
+          "longitude": -82.5592992,
+          "population": 65,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Uvalda",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Montgomery County",
+          "latitude": 32.0357429,
+          "longitude": -82.50818679999999,
+          "population": 448,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Godfrey",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Morgan County",
+          "latitude": 33.4534619,
+          "longitude": -83.5048912,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Bostwick",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Morgan County",
+          "latitude": 33.7373442,
+          "longitude": -83.5143312,
+          "population": 394,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Buckhead",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Morgan County",
+          "latitude": 33.5684599,
+          "longitude": -83.3623853,
+          "population": 206,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Murray County",
+      "cities": []
+    },
+    {
+      "name": "Murray County",
+      "cities": [
+        {
+          "name": "Eton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Murray County",
+          "latitude": 34.82508,
+          "longitude": -84.763272,
+          "population": 846,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Muscogee County",
+      "cities": []
+    },
+    {
+      "name": "Newton County",
+      "cities": [
+        {
+          "name": "Mansfield",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Newton County",
+          "latitude": 33.5178968,
+          "longitude": -83.73434429999999,
+          "population": 469,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Newborn",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Newton County",
+          "latitude": 33.5170648,
+          "longitude": -83.6960096,
+          "population": 731,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oxford",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Newton County",
+          "latitude": 33.6190031,
+          "longitude": -83.8674051,
+          "population": 2294,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Porterdale",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Newton County",
+          "latitude": 33.5751146,
+          "longitude": -83.8937954,
+          "population": 1884,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Oconee County",
+      "cities": []
+    },
+    {
+      "name": "Oconee County",
+      "cities": [
+        {
+          "name": "Bishop",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oconee County",
+          "latitude": 33.8192864,
+          "longitude": -83.4387722,
+          "population": 344,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bogart",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oconee County",
+          "latitude": 33.949281,
+          "longitude": -83.53460799999999,
+          "population": 1350,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "North High Shoals",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oconee County",
+          "latitude": 33.8201194,
+          "longitude": -83.5059966,
+          "population": 546,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Seneca",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.6856555,
+          "longitude": -82.9532036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oglethorpe County",
+      "cities": []
+    },
+    {
+      "name": "Oglethorpe County",
+      "cities": [
+        {
+          "name": "Arnoldsville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oglethorpe County",
+          "latitude": 33.9051167,
+          "longitude": -83.21681989999999,
+          "population": 458,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lexington",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oglethorpe County",
+          "latitude": 33.8698404,
+          "longitude": -83.111817,
+          "population": 213,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Maxeys",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Oglethorpe County",
+          "latitude": 33.7542889,
+          "longitude": -83.1734874,
+          "population": 216,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Paulding County",
+      "cities": [
+        {
+          "name": "Hiram",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Paulding County",
+          "latitude": 33.8756601,
+          "longitude": -84.7621592,
+          "population": 5353,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Peach County",
+      "cities": []
+    },
+    {
+      "name": "Peach County",
+      "cities": [
+        {
+          "name": "Byron",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Peach County",
+          "latitude": 32.6537561,
+          "longitude": -83.7596295,
+          "population": 6132,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pickens County",
+      "cities": [
+        {
+          "name": "Nelson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pickens County",
+          "latitude": 34.3820371,
+          "longitude": -84.37103479999999,
+          "population": 1168,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Talking Rock",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pickens County",
+          "latitude": 34.5092562,
+          "longitude": -84.5049279,
+          "population": 92,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pierce County",
+      "cities": [
+        {
+          "name": "Mershon",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Pierce County",
+          "latitude": 31.4641009,
+          "longitude": -82.25734609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pierce County",
+      "cities": [
+        {
+          "name": "Bristol",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Pierce County",
+          "latitude": 31.4485465,
+          "longitude": -82.21456649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pierce County",
+      "cities": []
+    },
+    {
+      "name": "Pierce County",
+      "cities": [
+        {
+          "name": "Offerman",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pierce County",
+          "latitude": 31.40966,
+          "longitude": -82.111785,
+          "population": 460,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Patterson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pierce County",
+          "latitude": 31.3874383,
+          "longitude": -82.1401193,
+          "population": 773,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "River Falls",
+          "state": "Wisconsin",
+          "stateCode": "WI",
+          "county": "Pierce County",
+          "latitude": 44.8596311,
+          "longitude": -92.62549659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tacoma",
+          "state": "Washington",
+          "stateCode": "WA",
+          "county": "Pierce County",
+          "latitude": 47.2551307,
+          "longitude": -122.4419643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pike County",
+      "cities": [
+        {
+          "name": "Hilltop",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Pike County",
+          "latitude": 33.1040132,
+          "longitude": -84.43603449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pike County",
+      "cities": [
+        {
+          "name": "Concord",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pike County",
+          "latitude": 33.0912359,
+          "longitude": -84.4374232,
+          "population": 407,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Meansville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pike County",
+          "latitude": 33.0492923,
+          "longitude": -84.3068648,
+          "population": 284,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Molena",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pike County",
+          "latitude": 33.0120724,
+          "longitude": -84.5002013,
+          "population": 421,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Williamson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Pike County",
+          "latitude": 33.1823419,
+          "longitude": -84.3615902,
+          "population": 741,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Polk County",
+      "cities": [
+        {
+          "name": "Antioch",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Polk County",
+          "latitude": 33.953435,
+          "longitude": -85.1613381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Polk County",
+      "cities": [
+        {
+          "name": "Aragon",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Polk County",
+          "latitude": 34.0456549,
+          "longitude": -85.0560579,
+          "population": 1502,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Braswell",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Polk County",
+          "latitude": 33.9892676,
+          "longitude": -84.9629999,
+          "population": 369,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rockmart",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Polk County",
+          "latitude": 34.0026005,
+          "longitude": -85.0416133,
+          "population": 5231,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pulaski County",
+      "cities": []
+    },
+    {
+      "name": "Putnam County",
+      "cities": [
+        {
+          "name": "Crooked Creek",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Putnam County",
+          "latitude": 33.2618409,
+          "longitude": -83.266657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Putnam County",
+      "cities": []
+    }
+  ]
+}

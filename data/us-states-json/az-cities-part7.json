@@ -1,0 +1,584 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Pinetop Country Club",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.1127483,
+          "longitude": -109.8960968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Pinedale",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.3075397,
+          "longitude": -110.2515054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Oljato-Monument Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.9913715,
+          "longitude": -110.1938672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "North Fork",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.0001561,
+          "longitude": -109.9615952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Low Mountain",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.94028,
+          "longitude": -110.11278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Linden",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.2668073,
+          "longitude": -110.1521719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Lake of the Woods",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.1501059,
+          "longitude": -109.9913694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Kykotsmovi Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.8741701,
+          "longitude": -110.6234701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Kayenta",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.72777689999999,
+          "longitude": -110.2545767,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keams Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.812506,
+          "longitude": -110.1951253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Jeddito",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.7744513,
+          "longitude": -110.1367899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joseph City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.955996,
+          "longitude": -110.3313027,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Indian Wells",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.3923284,
+          "longitude": -110.0952711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Hard Rock",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.0345794,
+          "longitude": -110.5036695,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heber-Overgaard",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.41387400000001,
+          "longitude": -110.5632588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hondah",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.0873681,
+          "longitude": -109.9199137,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hotevilla-Bacavi",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.9277802,
+          "longitude": -110.6729158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Greasewood",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.5225125,
+          "longitude": -109.857338,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Fort Apache",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.79062,
+          "longitude": -109.9887125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "First Mesa",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.8366716,
+          "longitude": -110.3815198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "East Fork",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.8048666,
+          "longitude": -109.9288452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Dilkon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.3852904,
+          "longitude": -110.3206843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Clay Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.3617875,
+          "longitude": -110.2957743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Cibecue",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.0447693,
+          "longitude": -110.4853908,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Chilchinbito",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.527222,
+          "longitude": -110.0823452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": []
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Holbrook",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.9022482,
+          "longitude": -110.1581768,
+          "population": 4833,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pinetop-Lakeside",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.1425438,
+          "longitude": -109.9603843,
+          "population": 4191,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Snowflake",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.5133698,
+          "longitude": -110.0784491,
+          "population": 6670,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Taylor",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.4650374,
+          "longitude": -110.0912265,
+          "population": 4272,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Winslow",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.0241873,
+          "longitude": -110.6973571,
+          "population": 8517,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Willow Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3878709,
+          "longitude": -110.700783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Why",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.26553550000001,
+          "longitude": -112.7397195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Wahak Hotrontk",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.182259,
+          "longitude": -112.359993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Ventana",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.467495,
+          "longitude": -112.242859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Valencia West",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.1281687,
+          "longitude": -111.1116153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Vail",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.0005283,
+          "longitude": -110.7009206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Tucson Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.1875769,
+          "longitude": -111.0909295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tucson Mountains",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.2796244,
+          "longitude": -111.0818084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Topawa",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.8139326,
+          "longitude": -111.8260138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

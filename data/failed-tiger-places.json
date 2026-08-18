@@ -1,0 +1,6869 @@
+[
+  {
+    "name": "Jacksons' Gap",
+    "stateCode": "AL",
+    "type": "incorporated",
+    "originalName": "Jacksons' Gap",
+    "nameLsad": "Jacksons' Gap town"
+  },
+  {
+    "name": "UtqiagÌ‡vik",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "UtqiagÌ‡vik",
+    "nameLsad": "UtqiagÌ‡vik city"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "St. Mary's",
+    "nameLsad": "St. Mary's city"
+  },
+  {
+    "name": "Clark's Point",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "Clark's Point",
+    "nameLsad": "Clark's Point city"
+  },
+  {
+    "name": "O'Kean",
+    "stateCode": "AR",
+    "type": "incorporated",
+    "originalName": "O'Kean",
+    "nameLsad": "O'Kean town"
+  },
+  {
+    "name": "Kep'el",
+    "stateCode": "CA",
+    "type": "CDP",
+    "originalName": "Kep'el",
+    "nameLsad": "Kep'el CDP"
+  },
+  {
+    "name": "CaÃ±on City",
+    "stateCode": "CO",
+    "type": "incorporated",
+    "originalName": "CaÃ±on City",
+    "nameLsad": "CaÃ±on City city"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "CO",
+    "type": "CDP",
+    "originalName": "St. Mary's",
+    "nameLsad": "St. Mary's CDP"
+  },
+  {
+    "name": "Sewall's Point",
+    "stateCode": "FL",
+    "type": "incorporated",
+    "originalName": "Sewall's Point",
+    "nameLsad": "Sewall's Point town"
+  },
+  {
+    "name": "Hill 'n Dale",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Hill 'n Dale",
+    "nameLsad": "Hill 'n Dale CDP"
+  },
+  {
+    "name": "Land O' Lakes",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Land O' Lakes",
+    "nameLsad": "Land O' Lakes CDP"
+  },
+  {
+    "name": "Town 'n' Country",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Town 'n' Country",
+    "nameLsad": "Town 'n' Country CDP"
+  },
+  {
+    "name": "Coeur d'Alene",
+    "stateCode": "ID",
+    "type": "incorporated",
+    "originalName": "Coeur d'Alene",
+    "nameLsad": "Coeur d'Alene city"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "IL",
+    "type": "incorporated",
+    "originalName": "O'Fallon",
+    "nameLsad": "O'Fallon city"
+  },
+  {
+    "name": "Campbell's Island",
+    "stateCode": "IL",
+    "type": "CDP",
+    "originalName": "Campbell's Island",
+    "nameLsad": "Campbell's Island CDP"
+  },
+  {
+    "name": "North Salem",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "North Salem",
+    "nameLsad": "North Salem town"
+  },
+  {
+    "name": "Kennard",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kennard",
+    "nameLsad": "Kennard town"
+  },
+  {
+    "name": "Knightstown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Knightstown",
+    "nameLsad": "Knightstown town"
+  },
+  {
+    "name": "Mount Summit",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mount Summit",
+    "nameLsad": "Mount Summit town"
+  },
+  {
+    "name": "Spiceland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Spiceland",
+    "nameLsad": "Spiceland town"
+  },
+  {
+    "name": "Avon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Avon",
+    "nameLsad": "Avon town"
+  },
+  {
+    "name": "Brownsburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brownsburg",
+    "nameLsad": "Brownsburg town"
+  },
+  {
+    "name": "Mackey",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mackey",
+    "nameLsad": "Mackey town"
+  },
+  {
+    "name": "Oakland City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Oakland City",
+    "nameLsad": "Oakland City city"
+  },
+  {
+    "name": "Fairmount",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fairmount",
+    "nameLsad": "Fairmount town"
+  },
+  {
+    "name": "Fowlerton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fowlerton",
+    "nameLsad": "Fowlerton town"
+  },
+  {
+    "name": "West Harrison",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West Harrison",
+    "nameLsad": "West Harrison town"
+  },
+  {
+    "name": "Battle Ground",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Battle Ground",
+    "nameLsad": "Battle Ground town"
+  },
+  {
+    "name": "Gas City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Gas City",
+    "nameLsad": "Gas City city"
+  },
+  {
+    "name": "Swayzee",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Swayzee",
+    "nameLsad": "Swayzee town"
+  },
+  {
+    "name": "Sweetser",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sweetser",
+    "nameLsad": "Sweetser town"
+  },
+  {
+    "name": "Van Buren",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Van Buren",
+    "nameLsad": "Van Buren town"
+  },
+  {
+    "name": "Leavenworth",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Leavenworth",
+    "nameLsad": "Leavenworth town"
+  },
+  {
+    "name": "Chandler",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Chandler",
+    "nameLsad": "Chandler town"
+  },
+  {
+    "name": "Elberfeld",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Elberfeld",
+    "nameLsad": "Elberfeld town"
+  },
+  {
+    "name": "Cynthiana",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cynthiana",
+    "nameLsad": "Cynthiana town"
+  },
+  {
+    "name": "New Harmony",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Harmony",
+    "nameLsad": "New Harmony town"
+  },
+  {
+    "name": "Poseyville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Poseyville",
+    "nameLsad": "Poseyville town"
+  },
+  {
+    "name": "Huntertown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Huntertown",
+    "nameLsad": "Huntertown town"
+  },
+  {
+    "name": "Leo-Cedarville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Leo-Cedarville",
+    "nameLsad": "Leo-Cedarville town"
+  },
+  {
+    "name": "Austin",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Austin",
+    "nameLsad": "Austin city"
+  },
+  {
+    "name": "Brooklyn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brooklyn",
+    "nameLsad": "Brooklyn town"
+  },
+  {
+    "name": "Paragon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Paragon",
+    "nameLsad": "Paragon town"
+  },
+  {
+    "name": "Ferdinand",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ferdinand",
+    "nameLsad": "Ferdinand town"
+  },
+  {
+    "name": "Holland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Holland",
+    "nameLsad": "Holland town"
+  },
+  {
+    "name": "Huntingburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Huntingburg",
+    "nameLsad": "Huntingburg city"
+  },
+  {
+    "name": "Monrovia",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monrovia",
+    "nameLsad": "Monrovia town"
+  },
+  {
+    "name": "Holton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Holton",
+    "nameLsad": "Holton town"
+  },
+  {
+    "name": "Sunman",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sunman",
+    "nameLsad": "Sunman town"
+  },
+  {
+    "name": "Ulen",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ulen",
+    "nameLsad": "Ulen town"
+  },
+  {
+    "name": "Wolcott",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wolcott",
+    "nameLsad": "Wolcott town"
+  },
+  {
+    "name": "Woodburn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Woodburn",
+    "nameLsad": "Woodburn city"
+  },
+  {
+    "name": "Zanesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Zanesville",
+    "nameLsad": "Zanesville town"
+  },
+  {
+    "name": "Ladoga",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ladoga",
+    "nameLsad": "Ladoga town"
+  },
+  {
+    "name": "Linden",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Linden",
+    "nameLsad": "Linden town"
+  },
+  {
+    "name": "New Market",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Market",
+    "nameLsad": "New Market town"
+  },
+  {
+    "name": "Tennyson",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Tennyson",
+    "nameLsad": "Tennyson town"
+  },
+  {
+    "name": "Wingate",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wingate",
+    "nameLsad": "Wingate town"
+  },
+  {
+    "name": "Wolcottville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wolcottville",
+    "nameLsad": "Wolcottville town"
+  },
+  {
+    "name": "Milan",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Milan",
+    "nameLsad": "Milan town"
+  },
+  {
+    "name": "Osgood",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Osgood",
+    "nameLsad": "Osgood town"
+  },
+  {
+    "name": "Lynnville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lynnville",
+    "nameLsad": "Lynnville town"
+  },
+  {
+    "name": "Dillsboro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dillsboro",
+    "nameLsad": "Dillsboro town"
+  },
+  {
+    "name": "Greendale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Greendale",
+    "nameLsad": "Greendale city"
+  },
+  {
+    "name": "Moores Hill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Moores Hill",
+    "nameLsad": "Moores Hill town"
+  },
+  {
+    "name": "Bloomingdale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bloomingdale",
+    "nameLsad": "Bloomingdale town"
+  },
+  {
+    "name": "Marshall",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Marshall",
+    "nameLsad": "Marshall town"
+  },
+  {
+    "name": "Mecca",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mecca",
+    "nameLsad": "Mecca town"
+  },
+  {
+    "name": "North Manchester",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "North Manchester",
+    "nameLsad": "North Manchester town"
+  },
+  {
+    "name": "Roann",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Roann",
+    "nameLsad": "Roann town"
+  },
+  {
+    "name": "Medora",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Medora",
+    "nameLsad": "Medora town"
+  },
+  {
+    "name": "Brownstown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brownstown",
+    "nameLsad": "Brownstown town"
+  },
+  {
+    "name": "Crothersville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Crothersville",
+    "nameLsad": "Crothersville town"
+  },
+  {
+    "name": "McCordsville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "McCordsville",
+    "nameLsad": "McCordsville town"
+  },
+  {
+    "name": "New Palestine",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Palestine",
+    "nameLsad": "New Palestine town"
+  },
+  {
+    "name": "Shirley",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Shirley",
+    "nameLsad": "Shirley town"
+  },
+  {
+    "name": "Lakeville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lakeville",
+    "nameLsad": "Lakeville town"
+  },
+  {
+    "name": "Carmel",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Carmel",
+    "nameLsad": "Carmel city"
+  },
+  {
+    "name": "Cicero",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cicero",
+    "nameLsad": "Cicero town"
+  },
+  {
+    "name": "Westfield",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Westfield",
+    "nameLsad": "Westfield city"
+  },
+  {
+    "name": "Larwill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Larwill",
+    "nameLsad": "Larwill town"
+  },
+  {
+    "name": "Upland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Upland",
+    "nameLsad": "Upland town"
+  },
+  {
+    "name": "Elwood",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Elwood",
+    "nameLsad": "Elwood city"
+  },
+  {
+    "name": "Fairland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fairland",
+    "nameLsad": "Fairland town"
+  },
+  {
+    "name": "Elizabethtown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Elizabethtown",
+    "nameLsad": "Elizabethtown town"
+  },
+  {
+    "name": "Lyons",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lyons",
+    "nameLsad": "Lyons town"
+  },
+  {
+    "name": "Macy",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Macy",
+    "nameLsad": "Macy town"
+  },
+  {
+    "name": "Birdseye",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Birdseye",
+    "nameLsad": "Birdseye town"
+  },
+  {
+    "name": "Roachdale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Roachdale",
+    "nameLsad": "Roachdale town"
+  },
+  {
+    "name": "Clayton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clayton",
+    "nameLsad": "Clayton town"
+  },
+  {
+    "name": "Jamestown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Jamestown",
+    "nameLsad": "Jamestown town"
+  },
+  {
+    "name": "Remington",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Remington",
+    "nameLsad": "Remington town"
+  },
+  {
+    "name": "Bruceville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bruceville",
+    "nameLsad": "Bruceville town"
+  },
+  {
+    "name": "Decker",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Decker",
+    "nameLsad": "Decker town"
+  },
+  {
+    "name": "Oaktown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Oaktown",
+    "nameLsad": "Oaktown town"
+  },
+  {
+    "name": "Wheatland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wheatland",
+    "nameLsad": "Wheatland town"
+  },
+  {
+    "name": "Westville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Westville",
+    "nameLsad": "Westville town"
+  },
+  {
+    "name": "Patriot",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Patriot",
+    "nameLsad": "Patriot town"
+  },
+  {
+    "name": "Amboy",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Amboy",
+    "nameLsad": "Amboy town"
+  },
+  {
+    "name": "Bunker Hill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bunker Hill",
+    "nameLsad": "Bunker Hill town"
+  },
+  {
+    "name": "Denver",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Denver",
+    "nameLsad": "Denver town"
+  },
+  {
+    "name": "Clarks Hill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clarks Hill",
+    "nameLsad": "Clarks Hill town"
+  },
+  {
+    "name": "West Lafayette",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West Lafayette",
+    "nameLsad": "West Lafayette city"
+  },
+  {
+    "name": "Cambridge City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cambridge City",
+    "nameLsad": "Cambridge City town"
+  },
+  {
+    "name": "Centerville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Centerville",
+    "nameLsad": "Centerville town"
+  },
+  {
+    "name": "Crows Nest",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Crows Nest",
+    "nameLsad": "Crows Nest town"
+  },
+  {
+    "name": "Meridian Hills",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Meridian Hills",
+    "nameLsad": "Meridian Hills town"
+  },
+  {
+    "name": "North Crows Nest",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "North Crows Nest",
+    "nameLsad": "North Crows Nest town"
+  },
+  {
+    "name": "Rocky Ripple",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Rocky Ripple",
+    "nameLsad": "Rocky Ripple town"
+  },
+  {
+    "name": "Southport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Southport",
+    "nameLsad": "Southport city"
+  },
+  {
+    "name": "Speedway",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Speedway",
+    "nameLsad": "Speedway town"
+  },
+  {
+    "name": "Warren Park",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Warren Park",
+    "nameLsad": "Warren Park town"
+  },
+  {
+    "name": "Williams Creek",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Williams Creek",
+    "nameLsad": "Williams Creek town"
+  },
+  {
+    "name": "Hillsboro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hillsboro",
+    "nameLsad": "Hillsboro town"
+  },
+  {
+    "name": "Dublin",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dublin",
+    "nameLsad": "Dublin town"
+  },
+  {
+    "name": "Economy",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Economy",
+    "nameLsad": "Economy town"
+  },
+  {
+    "name": "Fountain City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fountain City",
+    "nameLsad": "Fountain City town"
+  },
+  {
+    "name": "Greens Fork",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Greens Fork",
+    "nameLsad": "Greens Fork town"
+  },
+  {
+    "name": "Hagerstown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hagerstown",
+    "nameLsad": "Hagerstown town"
+  },
+  {
+    "name": "Milton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Milton",
+    "nameLsad": "Milton town"
+  },
+  {
+    "name": "Spring Grove",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Spring Grove",
+    "nameLsad": "Spring Grove town"
+  },
+  {
+    "name": "Amo",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Amo",
+    "nameLsad": "Amo town"
+  },
+  {
+    "name": "Coatesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Coatesville",
+    "nameLsad": "Coatesville town"
+  },
+  {
+    "name": "Lizton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lizton",
+    "nameLsad": "Lizton town"
+  },
+  {
+    "name": "Chalmers",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Chalmers",
+    "nameLsad": "Chalmers town"
+  },
+  {
+    "name": "Clermont",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clermont",
+    "nameLsad": "Clermont town"
+  },
+  {
+    "name": "Campbellsburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Campbellsburg",
+    "nameLsad": "Campbellsburg town"
+  },
+  {
+    "name": "Livonia",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Livonia",
+    "nameLsad": "Livonia town"
+  },
+  {
+    "name": "New Pekin",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Pekin",
+    "nameLsad": "New Pekin town"
+  },
+  {
+    "name": "Sulphur Springs",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sulphur Springs",
+    "nameLsad": "Sulphur Springs town"
+  },
+  {
+    "name": "Mooreland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mooreland",
+    "nameLsad": "Mooreland town"
+  },
+  {
+    "name": "Brookville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brookville",
+    "nameLsad": "Brookville town"
+  },
+  {
+    "name": "Pittsboro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pittsboro",
+    "nameLsad": "Pittsboro town"
+  },
+  {
+    "name": "Stilesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Stilesville",
+    "nameLsad": "Stilesville town"
+  },
+  {
+    "name": "Fort Branch",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fort Branch",
+    "nameLsad": "Fort Branch town"
+  },
+  {
+    "name": "Haubstadt",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Haubstadt",
+    "nameLsad": "Haubstadt town"
+  },
+  {
+    "name": "Hazleton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hazleton",
+    "nameLsad": "Hazleton town"
+  },
+  {
+    "name": "Mount Etna",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mount Etna",
+    "nameLsad": "Mount Etna town"
+  },
+  {
+    "name": "Warren",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Warren",
+    "nameLsad": "Warren town"
+  },
+  {
+    "name": "New Amsterdam",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Amsterdam",
+    "nameLsad": "New Amsterdam town"
+  },
+  {
+    "name": "Lebanon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lebanon",
+    "nameLsad": "Lebanon city"
+  },
+  {
+    "name": "Thorntown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Thorntown",
+    "nameLsad": "Thorntown town"
+  },
+  {
+    "name": "Whitestown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Whitestown",
+    "nameLsad": "Whitestown town"
+  },
+  {
+    "name": "Griffin",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Griffin",
+    "nameLsad": "Griffin town"
+  },
+  {
+    "name": "Pottawattamie Park",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pottawattamie Park",
+    "nameLsad": "Pottawattamie Park town"
+  },
+  {
+    "name": "Bicknell",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bicknell",
+    "nameLsad": "Bicknell city"
+  },
+  {
+    "name": "Mount Auburn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mount Auburn",
+    "nameLsad": "Mount Auburn town"
+  },
+  {
+    "name": "DeMotte",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "DeMotte",
+    "nameLsad": "DeMotte town"
+  },
+  {
+    "name": "Somerville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Somerville",
+    "nameLsad": "Somerville town"
+  },
+  {
+    "name": "Farmland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Farmland",
+    "nameLsad": "Farmland town"
+  },
+  {
+    "name": "Dayton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dayton",
+    "nameLsad": "Dayton town"
+  },
+  {
+    "name": "Yorktown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Yorktown",
+    "nameLsad": "Yorktown town"
+  },
+  {
+    "name": "West Terre Haute",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West Terre Haute",
+    "nameLsad": "West Terre Haute town"
+  },
+  {
+    "name": "Riley",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Riley",
+    "nameLsad": "Riley town"
+  },
+  {
+    "name": "Edinburgh",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Edinburgh",
+    "nameLsad": "Edinburgh town"
+  },
+  {
+    "name": "Bargersville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bargersville",
+    "nameLsad": "Bargersville town"
+  },
+  {
+    "name": "Rosedale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Rosedale",
+    "nameLsad": "Rosedale town"
+  },
+  {
+    "name": "Kempton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kempton",
+    "nameLsad": "Kempton town"
+  },
+  {
+    "name": "Windfall City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Windfall City",
+    "nameLsad": "Windfall City town"
+  },
+  {
+    "name": "New Ross",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Ross",
+    "nameLsad": "New Ross town"
+  },
+  {
+    "name": "Rome City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Rome City",
+    "nameLsad": "Rome City town"
+  },
+  {
+    "name": "Cannelton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cannelton",
+    "nameLsad": "Cannelton city"
+  },
+  {
+    "name": "Rossville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Rossville",
+    "nameLsad": "Rossville town"
+  },
+  {
+    "name": "Winona Lake",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Winona Lake",
+    "nameLsad": "Winona Lake town"
+  },
+  {
+    "name": "Silver Lake",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Silver Lake",
+    "nameLsad": "Silver Lake town"
+  },
+  {
+    "name": "Clifford",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clifford",
+    "nameLsad": "Clifford town"
+  },
+  {
+    "name": "Kingsbury",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kingsbury",
+    "nameLsad": "Kingsbury town"
+  },
+  {
+    "name": "La Crosse",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "La Crosse",
+    "nameLsad": "La Crosse town"
+  },
+  {
+    "name": "Michiana Shores",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Michiana Shores",
+    "nameLsad": "Michiana Shores town"
+  },
+  {
+    "name": "Montpelier",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Montpelier",
+    "nameLsad": "Montpelier city"
+  },
+  {
+    "name": "Shamrock Lakes",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Shamrock Lakes",
+    "nameLsad": "Shamrock Lakes town"
+  },
+  {
+    "name": "Gosport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Gosport",
+    "nameLsad": "Gosport town"
+  },
+  {
+    "name": "Gentryville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Gentryville",
+    "nameLsad": "Gentryville town"
+  },
+  {
+    "name": "North Webster",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "North Webster",
+    "nameLsad": "North Webster town"
+  },
+  {
+    "name": "Darmstadt",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Darmstadt",
+    "nameLsad": "Darmstadt town"
+  },
+  {
+    "name": "Flora",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Flora",
+    "nameLsad": "Flora town"
+  },
+  {
+    "name": "Albion",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Albion",
+    "nameLsad": "Albion town"
+  },
+  {
+    "name": "Salem",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Salem",
+    "nameLsad": "Salem city"
+  },
+  {
+    "name": "Saltillo",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Saltillo",
+    "nameLsad": "Saltillo town"
+  },
+  {
+    "name": "Avilla",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Avilla",
+    "nameLsad": "Avilla town"
+  },
+  {
+    "name": "Cromwell",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cromwell",
+    "nameLsad": "Cromwell town"
+  },
+  {
+    "name": "Boston",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Boston",
+    "nameLsad": "Boston town"
+  },
+  {
+    "name": "East Germantown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "East Germantown",
+    "nameLsad": "East Germantown town"
+  },
+  {
+    "name": "Whitewater",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Whitewater",
+    "nameLsad": "Whitewater town"
+  },
+  {
+    "name": "West Baden Springs",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West Baden Springs",
+    "nameLsad": "West Baden Springs town"
+  },
+  {
+    "name": "Gaston",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Gaston",
+    "nameLsad": "Gaston town"
+  },
+  {
+    "name": "Carlisle",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Carlisle",
+    "nameLsad": "Carlisle town"
+  },
+  {
+    "name": "Dugger",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dugger",
+    "nameLsad": "Dugger town"
+  },
+  {
+    "name": "Vera Cruz",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Vera Cruz",
+    "nameLsad": "Vera Cruz town"
+  },
+  {
+    "name": "Markle",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Markle",
+    "nameLsad": "Markle town"
+  },
+  {
+    "name": "Shipshewana",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Shipshewana",
+    "nameLsad": "Shipshewana town"
+  },
+  {
+    "name": "Topeka",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Topeka",
+    "nameLsad": "Topeka town"
+  },
+  {
+    "name": "Churubusco",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Churubusco",
+    "nameLsad": "Churubusco town"
+  },
+  {
+    "name": "Laurel",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Laurel",
+    "nameLsad": "Laurel town"
+  },
+  {
+    "name": "Oldenburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Oldenburg",
+    "nameLsad": "Oldenburg town"
+  },
+  {
+    "name": "Ossian",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ossian",
+    "nameLsad": "Ossian town"
+  },
+  {
+    "name": "Uniondale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Uniondale",
+    "nameLsad": "Uniondale town"
+  },
+  {
+    "name": "Country Club Heights",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Country Club Heights",
+    "nameLsad": "Country Club Heights town"
+  },
+  {
+    "name": "Geneva",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Geneva",
+    "nameLsad": "Geneva town"
+  },
+  {
+    "name": "Monroe",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monroe",
+    "nameLsad": "Monroe town"
+  },
+  {
+    "name": "Summitville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Summitville",
+    "nameLsad": "Summitville town"
+  },
+  {
+    "name": "West College Corner",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West College Corner",
+    "nameLsad": "West College Corner town"
+  },
+  {
+    "name": "Covington",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Covington",
+    "nameLsad": "Covington city"
+  },
+  {
+    "name": "Mellott",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mellott",
+    "nameLsad": "Mellott town"
+  },
+  {
+    "name": "Veedersburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Veedersburg",
+    "nameLsad": "Veedersburg town"
+  },
+  {
+    "name": "South Whitley",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "South Whitley",
+    "nameLsad": "South Whitley town"
+  },
+  {
+    "name": "Montezuma",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Montezuma",
+    "nameLsad": "Montezuma town"
+  },
+  {
+    "name": "Bloomfield",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bloomfield",
+    "nameLsad": "Bloomfield town"
+  },
+  {
+    "name": "Winslow",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Winslow",
+    "nameLsad": "Winslow town"
+  },
+  {
+    "name": "Switz City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Switz City",
+    "nameLsad": "Switz City town"
+  },
+  {
+    "name": "Worthington",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Worthington",
+    "nameLsad": "Worthington town"
+  },
+  {
+    "name": "Beech Grove",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Beech Grove",
+    "nameLsad": "Beech Grove city"
+  },
+  {
+    "name": "Cumberland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cumberland",
+    "nameLsad": "Cumberland town"
+  },
+  {
+    "name": "Homecroft",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Homecroft",
+    "nameLsad": "Homecroft town"
+  },
+  {
+    "name": "Spring Hill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Spring Hill",
+    "nameLsad": "Spring Hill town"
+  },
+  {
+    "name": "Berne",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Berne",
+    "nameLsad": "Berne city"
+  },
+  {
+    "name": "Newburgh",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Newburgh",
+    "nameLsad": "Newburgh town"
+  },
+  {
+    "name": "Francisco",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Francisco",
+    "nameLsad": "Francisco town"
+  },
+  {
+    "name": "Richland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Richland",
+    "nameLsad": "Richland town"
+  },
+  {
+    "name": "New Carlisle",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Carlisle",
+    "nameLsad": "New Carlisle town"
+  },
+  {
+    "name": "North Liberty",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "North Liberty",
+    "nameLsad": "North Liberty town"
+  },
+  {
+    "name": "Osceola",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Osceola",
+    "nameLsad": "Osceola town"
+  },
+  {
+    "name": "Walkerton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Walkerton",
+    "nameLsad": "Walkerton town"
+  },
+  {
+    "name": "Indian Village",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Indian Village",
+    "nameLsad": "Indian Village town"
+  },
+  {
+    "name": "Lynn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lynn",
+    "nameLsad": "Lynn town"
+  },
+  {
+    "name": "Modoc",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Modoc",
+    "nameLsad": "Modoc town"
+  },
+  {
+    "name": "Parker City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Parker City",
+    "nameLsad": "Parker City town"
+  },
+  {
+    "name": "Ridgeville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ridgeville",
+    "nameLsad": "Ridgeville town"
+  },
+  {
+    "name": "Union City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Union City",
+    "nameLsad": "Union City city"
+  },
+  {
+    "name": "Rockport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Rockport",
+    "nameLsad": "Rockport city"
+  },
+  {
+    "name": "Brookston",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brookston",
+    "nameLsad": "Brookston town"
+  },
+  {
+    "name": "Monon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monon",
+    "nameLsad": "Monon town"
+  },
+  {
+    "name": "Reynolds",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Reynolds",
+    "nameLsad": "Reynolds town"
+  },
+  {
+    "name": "New Whiteland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Whiteland",
+    "nameLsad": "New Whiteland town"
+  },
+  {
+    "name": "Trafalgar",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Trafalgar",
+    "nameLsad": "Trafalgar town"
+  },
+  {
+    "name": "Whiteland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Whiteland",
+    "nameLsad": "Whiteland town"
+  },
+  {
+    "name": "Edwardsport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Edwardsport",
+    "nameLsad": "Edwardsport town"
+  },
+  {
+    "name": "Monroe City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monroe City",
+    "nameLsad": "Monroe City town"
+  },
+  {
+    "name": "Kirklin",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kirklin",
+    "nameLsad": "Kirklin town"
+  },
+  {
+    "name": "Mulberry",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mulberry",
+    "nameLsad": "Mulberry town"
+  },
+  {
+    "name": "Morristown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Morristown",
+    "nameLsad": "Morristown town"
+  },
+  {
+    "name": "Troy",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Troy",
+    "nameLsad": "Troy town"
+  },
+  {
+    "name": "Atlanta",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Atlanta",
+    "nameLsad": "Atlanta town"
+  },
+  {
+    "name": "Noblesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Noblesville",
+    "nameLsad": "Noblesville city"
+  },
+  {
+    "name": "Sheridan",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sheridan",
+    "nameLsad": "Sheridan town"
+  },
+  {
+    "name": "Claypool",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Claypool",
+    "nameLsad": "Claypool town"
+  },
+  {
+    "name": "Hartsville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hartsville",
+    "nameLsad": "Hartsville town"
+  },
+  {
+    "name": "Clear Lake",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clear Lake",
+    "nameLsad": "Clear Lake town"
+  },
+  {
+    "name": "Fremont",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fremont",
+    "nameLsad": "Fremont town"
+  },
+  {
+    "name": "Leesburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Leesburg",
+    "nameLsad": "Leesburg town"
+  },
+  {
+    "name": "Mentone",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mentone",
+    "nameLsad": "Mentone town"
+  },
+  {
+    "name": "Milford",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Milford",
+    "nameLsad": "Milford town"
+  },
+  {
+    "name": "Sidney",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sidney",
+    "nameLsad": "Sidney town"
+  },
+  {
+    "name": "Syracuse",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Syracuse",
+    "nameLsad": "Syracuse town"
+  },
+  {
+    "name": "La Porte",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "La Porte",
+    "nameLsad": "La Porte city"
+  },
+  {
+    "name": "Long Beach",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Long Beach",
+    "nameLsad": "Long Beach town"
+  },
+  {
+    "name": "Elizabeth",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Elizabeth",
+    "nameLsad": "Elizabeth town"
+  },
+  {
+    "name": "Lanesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lanesville",
+    "nameLsad": "Lanesville town"
+  },
+  {
+    "name": "New Middletown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Middletown",
+    "nameLsad": "New Middletown town"
+  },
+  {
+    "name": "Alamo",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Alamo",
+    "nameLsad": "Alamo town"
+  },
+  {
+    "name": "New Richmond",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Richmond",
+    "nameLsad": "New Richmond town"
+  },
+  {
+    "name": "Cadiz",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cadiz",
+    "nameLsad": "Cadiz town"
+  },
+  {
+    "name": "Greensboro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Greensboro",
+    "nameLsad": "Greensboro town"
+  },
+  {
+    "name": "Lewisville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lewisville",
+    "nameLsad": "Lewisville town"
+  },
+  {
+    "name": "Springport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Springport",
+    "nameLsad": "Springport town"
+  },
+  {
+    "name": "Straughn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Straughn",
+    "nameLsad": "Straughn town"
+  },
+  {
+    "name": "Brooksburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brooksburg",
+    "nameLsad": "Brooksburg town"
+  },
+  {
+    "name": "Dupont",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dupont",
+    "nameLsad": "Dupont town"
+  },
+  {
+    "name": "Dunkirk",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dunkirk",
+    "nameLsad": "Dunkirk city"
+  },
+  {
+    "name": "English",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "English",
+    "nameLsad": "English town"
+  },
+  {
+    "name": "Chrisney",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Chrisney",
+    "nameLsad": "Chrisney town"
+  },
+  {
+    "name": "Dale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dale",
+    "nameLsad": "Dale town"
+  },
+  {
+    "name": "Grandview",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Grandview",
+    "nameLsad": "Grandview town"
+  },
+  {
+    "name": "Lagro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lagro",
+    "nameLsad": "Lagro town"
+  },
+  {
+    "name": "Charlestown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Charlestown",
+    "nameLsad": "Charlestown city"
+  },
+  {
+    "name": "Georgetown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Georgetown",
+    "nameLsad": "Georgetown town"
+  },
+  {
+    "name": "Matthews",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Matthews",
+    "nameLsad": "Matthews town"
+  },
+  {
+    "name": "Stinesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Stinesville",
+    "nameLsad": "Stinesville town"
+  },
+  {
+    "name": "Grabill",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Grabill",
+    "nameLsad": "Grabill town"
+  },
+  {
+    "name": "Crane",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Crane",
+    "nameLsad": "Crane town"
+  },
+  {
+    "name": "Shoals",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Shoals",
+    "nameLsad": "Shoals town"
+  },
+  {
+    "name": "Napoleon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Napoleon",
+    "nameLsad": "Napoleon town"
+  },
+  {
+    "name": "Brook",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Brook",
+    "nameLsad": "Brook town"
+  },
+  {
+    "name": "Arcadia",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Arcadia",
+    "nameLsad": "Arcadia town"
+  },
+  {
+    "name": "Mount Ayr",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mount Ayr",
+    "nameLsad": "Mount Ayr town"
+  },
+  {
+    "name": "Andrews",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Andrews",
+    "nameLsad": "Andrews town"
+  },
+  {
+    "name": "Roanoke",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Roanoke",
+    "nameLsad": "Roanoke town"
+  },
+  {
+    "name": "Burlington",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Burlington",
+    "nameLsad": "Burlington town"
+  },
+  {
+    "name": "Camden",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Camden",
+    "nameLsad": "Camden town"
+  },
+  {
+    "name": "Colfax",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Colfax",
+    "nameLsad": "Colfax town"
+  },
+  {
+    "name": "French Lick",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "French Lick",
+    "nameLsad": "French Lick town"
+  },
+  {
+    "name": "Orleans",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Orleans",
+    "nameLsad": "Orleans town"
+  },
+  {
+    "name": "Sandborn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sandborn",
+    "nameLsad": "Sandborn town"
+  },
+  {
+    "name": "Greenville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Greenville",
+    "nameLsad": "Greenville town"
+  },
+  {
+    "name": "Middletown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Middletown",
+    "nameLsad": "Middletown town"
+  },
+  {
+    "name": "Dunreith",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dunreith",
+    "nameLsad": "Dunreith town"
+  },
+  {
+    "name": "Hymera",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hymera",
+    "nameLsad": "Hymera town"
+  },
+  {
+    "name": "Aurora",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Aurora",
+    "nameLsad": "Aurora city"
+  },
+  {
+    "name": "Poneto",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Poneto",
+    "nameLsad": "Poneto town"
+  },
+  {
+    "name": "Center Point",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Center Point",
+    "nameLsad": "Center Point town"
+  },
+  {
+    "name": "Vernon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Vernon",
+    "nameLsad": "Vernon town"
+  },
+  {
+    "name": "St. John",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "St. John",
+    "nameLsad": "St. John town"
+  },
+  {
+    "name": "Lawrence",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lawrence",
+    "nameLsad": "Lawrence city"
+  },
+  {
+    "name": "Wynnedale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wynnedale",
+    "nameLsad": "Wynnedale town"
+  },
+  {
+    "name": "Dyer",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dyer",
+    "nameLsad": "Dyer town"
+  },
+  {
+    "name": "East Chicago",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "East Chicago",
+    "nameLsad": "East Chicago city"
+  },
+  {
+    "name": "Highland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Highland",
+    "nameLsad": "Highland town"
+  },
+  {
+    "name": "Hobart",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hobart",
+    "nameLsad": "Hobart city"
+  },
+  {
+    "name": "Lake Station",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lake Station",
+    "nameLsad": "Lake Station city"
+  },
+  {
+    "name": "Orestes",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Orestes",
+    "nameLsad": "Orestes town"
+  },
+  {
+    "name": "Pendleton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pendleton",
+    "nameLsad": "Pendleton town"
+  },
+  {
+    "name": "River Forest",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "River Forest",
+    "nameLsad": "River Forest town"
+  },
+  {
+    "name": "Lowell",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lowell",
+    "nameLsad": "Lowell town"
+  },
+  {
+    "name": "Merrillville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Merrillville",
+    "nameLsad": "Merrillville town"
+  },
+  {
+    "name": "Munster",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Munster",
+    "nameLsad": "Munster town"
+  },
+  {
+    "name": "Schneider",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Schneider",
+    "nameLsad": "Schneider town"
+  },
+  {
+    "name": "Whiting",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Whiting",
+    "nameLsad": "Whiting city"
+  },
+  {
+    "name": "Monroeville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monroeville",
+    "nameLsad": "Monroeville town"
+  },
+  {
+    "name": "Royal Center",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Royal Center",
+    "nameLsad": "Royal Center town"
+  },
+  {
+    "name": "Walton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Walton",
+    "nameLsad": "Walton town"
+  },
+  {
+    "name": "New Chicago",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Chicago",
+    "nameLsad": "New Chicago town"
+  },
+  {
+    "name": "Schererville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Schererville",
+    "nameLsad": "Schererville town"
+  },
+  {
+    "name": "Griffith",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Griffith",
+    "nameLsad": "Griffith town"
+  },
+  {
+    "name": "Culver",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Culver",
+    "nameLsad": "Culver town"
+  },
+  {
+    "name": "Kouts",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kouts",
+    "nameLsad": "Kouts town"
+  },
+  {
+    "name": "Bremen",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bremen",
+    "nameLsad": "Bremen town"
+  },
+  {
+    "name": "Wanatah",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wanatah",
+    "nameLsad": "Wanatah town"
+  },
+  {
+    "name": "Jonesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Jonesville",
+    "nameLsad": "Jonesville town"
+  },
+  {
+    "name": "Hope",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hope",
+    "nameLsad": "Hope town"
+  },
+  {
+    "name": "Altona",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Altona",
+    "nameLsad": "Altona town"
+  },
+  {
+    "name": "Advance",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Advance",
+    "nameLsad": "Advance town"
+  },
+  {
+    "name": "Alton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Alton",
+    "nameLsad": "Alton town"
+  },
+  {
+    "name": "Pine Village",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pine Village",
+    "nameLsad": "Pine Village town"
+  },
+  {
+    "name": "Merom",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Merom",
+    "nameLsad": "Merom town"
+  },
+  {
+    "name": "Mount Carmel",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mount Carmel",
+    "nameLsad": "Mount Carmel town"
+  },
+  {
+    "name": "Town of Pines",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Town of Pines",
+    "nameLsad": "Town of Pines town"
+  },
+  {
+    "name": "Mitchell",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Mitchell",
+    "nameLsad": "Mitchell city"
+  },
+  {
+    "name": "Elnora",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Elnora",
+    "nameLsad": "Elnora town"
+  },
+  {
+    "name": "Francesville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Francesville",
+    "nameLsad": "Francesville town"
+  },
+  {
+    "name": "Pierceton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pierceton",
+    "nameLsad": "Pierceton town"
+  },
+  {
+    "name": "Universal",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Universal",
+    "nameLsad": "Universal town"
+  },
+  {
+    "name": "Etna Green",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Etna Green",
+    "nameLsad": "Etna Green town"
+  },
+  {
+    "name": "Nappanee",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Nappanee",
+    "nameLsad": "Nappanee city"
+  },
+  {
+    "name": "Valparaiso",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Valparaiso",
+    "nameLsad": "Valparaiso city"
+  },
+  {
+    "name": "Cedar Lake",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cedar Lake",
+    "nameLsad": "Cedar Lake town"
+  },
+  {
+    "name": "Russiaville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Russiaville",
+    "nameLsad": "Russiaville town"
+  },
+  {
+    "name": "Fortville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fortville",
+    "nameLsad": "Fortville town"
+  },
+  {
+    "name": "Ambia",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ambia",
+    "nameLsad": "Ambia town"
+  },
+  {
+    "name": "Wakarusa",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wakarusa",
+    "nameLsad": "Wakarusa town"
+  },
+  {
+    "name": "Galveston",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Galveston",
+    "nameLsad": "Galveston town"
+  },
+  {
+    "name": "Onward",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Onward",
+    "nameLsad": "Onward town"
+  },
+  {
+    "name": "Morocco",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Morocco",
+    "nameLsad": "Morocco town"
+  },
+  {
+    "name": "Michigantown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Michigantown",
+    "nameLsad": "Michigantown town"
+  },
+  {
+    "name": "Owensville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Owensville",
+    "nameLsad": "Owensville town"
+  },
+  {
+    "name": "Patoka",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Patoka",
+    "nameLsad": "Patoka town"
+  },
+  {
+    "name": "Prince's Lakes",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Prince's Lakes",
+    "nameLsad": "Prince's Lakes town"
+  },
+  {
+    "name": "Boswell",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Boswell",
+    "nameLsad": "Boswell town"
+  },
+  {
+    "name": "Earl Park",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Earl Park",
+    "nameLsad": "Earl Park town"
+  },
+  {
+    "name": "Jonesboro",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Jonesboro",
+    "nameLsad": "Jonesboro city"
+  },
+  {
+    "name": "Jasonville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Jasonville",
+    "nameLsad": "Jasonville city"
+  },
+  {
+    "name": "Newberry",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Newberry",
+    "nameLsad": "Newberry town"
+  },
+  {
+    "name": "Hudson",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hudson",
+    "nameLsad": "Hudson town"
+  },
+  {
+    "name": "Orland",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Orland",
+    "nameLsad": "Orland town"
+  },
+  {
+    "name": "Argos",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Argos",
+    "nameLsad": "Argos town"
+  },
+  {
+    "name": "Bourbon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bourbon",
+    "nameLsad": "Bourbon town"
+  },
+  {
+    "name": "La Paz",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "La Paz",
+    "nameLsad": "La Paz town"
+  },
+  {
+    "name": "Palmyra",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Palmyra",
+    "nameLsad": "Palmyra town"
+  },
+  {
+    "name": "Winfield",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Winfield",
+    "nameLsad": "Winfield town"
+  },
+  {
+    "name": "Crown Point",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Crown Point",
+    "nameLsad": "Crown Point city"
+  },
+  {
+    "name": "Trail Creek",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Trail Creek",
+    "nameLsad": "Trail Creek town"
+  },
+  {
+    "name": "West Lebanon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "West Lebanon",
+    "nameLsad": "West Lebanon town"
+  },
+  {
+    "name": "Seelyville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Seelyville",
+    "nameLsad": "Seelyville town"
+  },
+  {
+    "name": "Pennville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Pennville",
+    "nameLsad": "Pennville town"
+  },
+  {
+    "name": "Redkey",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Redkey",
+    "nameLsad": "Redkey town"
+  },
+  {
+    "name": "Ashley",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ashley",
+    "nameLsad": "Ashley town"
+  },
+  {
+    "name": "Butler",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Butler",
+    "nameLsad": "Butler city"
+  },
+  {
+    "name": "Corunna",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Corunna",
+    "nameLsad": "Corunna town"
+  },
+  {
+    "name": "Garrett",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Garrett",
+    "nameLsad": "Garrett city"
+  },
+  {
+    "name": "Hamilton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hamilton",
+    "nameLsad": "Hamilton town"
+  },
+  {
+    "name": "Waterloo",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Waterloo",
+    "nameLsad": "Waterloo town"
+  },
+  {
+    "name": "St. Joe",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "St. Joe",
+    "nameLsad": "St. Joe town"
+  },
+  {
+    "name": "Chesterton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Chesterton",
+    "nameLsad": "Chesterton town"
+  },
+  {
+    "name": "Losantville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Losantville",
+    "nameLsad": "Losantville town"
+  },
+  {
+    "name": "Saratoga",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Saratoga",
+    "nameLsad": "Saratoga town"
+  },
+  {
+    "name": "Yeoman",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Yeoman",
+    "nameLsad": "Yeoman town"
+  },
+  {
+    "name": "Perrysville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Perrysville",
+    "nameLsad": "Perrysville town"
+  },
+  {
+    "name": "Carbon",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Carbon",
+    "nameLsad": "Carbon town"
+  },
+  {
+    "name": "Clay City",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clay City",
+    "nameLsad": "Clay City town"
+  },
+  {
+    "name": "Harmony",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Harmony",
+    "nameLsad": "Harmony town"
+  },
+  {
+    "name": "Knightsville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Knightsville",
+    "nameLsad": "Knightsville town"
+  },
+  {
+    "name": "Staunton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Staunton",
+    "nameLsad": "Staunton town"
+  },
+  {
+    "name": "Farmersburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Farmersburg",
+    "nameLsad": "Farmersburg town"
+  },
+  {
+    "name": "Shelburn",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Shelburn",
+    "nameLsad": "Shelburn town"
+  },
+  {
+    "name": "Beverly Shores",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Beverly Shores",
+    "nameLsad": "Beverly Shores town"
+  },
+  {
+    "name": "Burns Harbor",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Burns Harbor",
+    "nameLsad": "Burns Harbor town"
+  },
+  {
+    "name": "Salamonia",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Salamonia",
+    "nameLsad": "Salamonia town"
+  },
+  {
+    "name": "Hebron",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Hebron",
+    "nameLsad": "Hebron town"
+  },
+  {
+    "name": "Ogden Dunes",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ogden Dunes",
+    "nameLsad": "Ogden Dunes town"
+  },
+  {
+    "name": "Porter",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Porter",
+    "nameLsad": "Porter town"
+  },
+  {
+    "name": "Bryant",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bryant",
+    "nameLsad": "Bryant town"
+  },
+  {
+    "name": "Cayuga",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cayuga",
+    "nameLsad": "Cayuga town"
+  },
+  {
+    "name": "Clinton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clinton",
+    "nameLsad": "Clinton city"
+  },
+  {
+    "name": "Newport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Newport",
+    "nameLsad": "Newport town"
+  },
+  {
+    "name": "Kingman",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Kingman",
+    "nameLsad": "Kingman town"
+  },
+  {
+    "name": "Wallace",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Wallace",
+    "nameLsad": "Wallace town"
+  },
+  {
+    "name": "Medaryville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Medaryville",
+    "nameLsad": "Medaryville town"
+  },
+  {
+    "name": "Monterey",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Monterey",
+    "nameLsad": "Monterey town"
+  },
+  {
+    "name": "Madison",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Madison",
+    "nameLsad": "Madison city"
+  },
+  {
+    "name": "Dune Acres",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Dune Acres",
+    "nameLsad": "Dune Acres town"
+  },
+  {
+    "name": "Cannelburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cannelburg",
+    "nameLsad": "Cannelburg town"
+  },
+  {
+    "name": "Montgomery",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Montgomery",
+    "nameLsad": "Montgomery town"
+  },
+  {
+    "name": "Plainville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Plainville",
+    "nameLsad": "Plainville town"
+  },
+  {
+    "name": "Burket",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Burket",
+    "nameLsad": "Burket town"
+  },
+  {
+    "name": "Borden",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Borden",
+    "nameLsad": "Borden town"
+  },
+  {
+    "name": "Sellersburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Sellersburg",
+    "nameLsad": "Sellersburg town"
+  },
+  {
+    "name": "Utica",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Utica",
+    "nameLsad": "Utica town"
+  },
+  {
+    "name": "Clarksville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Clarksville",
+    "nameLsad": "Clarksville town"
+  },
+  {
+    "name": "Oolitic",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Oolitic",
+    "nameLsad": "Oolitic town"
+  },
+  {
+    "name": "Greentown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Greentown",
+    "nameLsad": "Greentown town"
+  },
+  {
+    "name": "Milltown",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Milltown",
+    "nameLsad": "Milltown town"
+  },
+  {
+    "name": "Russellville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Russellville",
+    "nameLsad": "Russellville town"
+  },
+  {
+    "name": "Bainbridge",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bainbridge",
+    "nameLsad": "Bainbridge town"
+  },
+  {
+    "name": "Cloverdale",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Cloverdale",
+    "nameLsad": "Cloverdale town"
+  },
+  {
+    "name": "Fillmore",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Fillmore",
+    "nameLsad": "Fillmore town"
+  },
+  {
+    "name": "Alexandria",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Alexandria",
+    "nameLsad": "Alexandria city"
+  },
+  {
+    "name": "Edgewood",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Edgewood",
+    "nameLsad": "Edgewood town"
+  },
+  {
+    "name": "Frankton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Frankton",
+    "nameLsad": "Frankton town"
+  },
+  {
+    "name": "Ingalls",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Ingalls",
+    "nameLsad": "Ingalls town"
+  },
+  {
+    "name": "Lapel",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Lapel",
+    "nameLsad": "Lapel town"
+  },
+  {
+    "name": "Markleville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Markleville",
+    "nameLsad": "Markleville town"
+  },
+  {
+    "name": "Albany",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Albany",
+    "nameLsad": "Albany town"
+  },
+  {
+    "name": "Chesterfield",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Chesterfield",
+    "nameLsad": "Chesterfield town"
+  },
+  {
+    "name": "Daleville",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Daleville",
+    "nameLsad": "Daleville town"
+  },
+  {
+    "name": "Eaton",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Eaton",
+    "nameLsad": "Eaton town"
+  },
+  {
+    "name": "Selma",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Selma",
+    "nameLsad": "Selma town"
+  },
+  {
+    "name": "New Point",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "New Point",
+    "nameLsad": "New Point town"
+  },
+  {
+    "name": "Westport",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Westport",
+    "nameLsad": "Westport town"
+  },
+  {
+    "name": "Oxford",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Oxford",
+    "nameLsad": "Oxford town"
+  },
+  {
+    "name": "Carthage",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Carthage",
+    "nameLsad": "Carthage town"
+  },
+  {
+    "name": "Bristol",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Bristol",
+    "nameLsad": "Bristol town"
+  },
+  {
+    "name": "Middlebury",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Middlebury",
+    "nameLsad": "Middlebury town"
+  },
+  {
+    "name": "Millersburg",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Millersburg",
+    "nameLsad": "Millersburg town"
+  },
+  {
+    "name": "Aberdeen",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Aberdeen",
+    "nameLsad": "Aberdeen CDP"
+  },
+  {
+    "name": "Americus",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Americus",
+    "nameLsad": "Americus CDP"
+  },
+  {
+    "name": "Arlington",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Arlington",
+    "nameLsad": "Arlington CDP"
+  },
+  {
+    "name": "Avoca",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Avoca",
+    "nameLsad": "Avoca CDP"
+  },
+  {
+    "name": "Bass Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bass Lake",
+    "nameLsad": "Bass Lake CDP"
+  },
+  {
+    "name": "Blooming Grove",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Blooming Grove",
+    "nameLsad": "Blooming Grove CDP"
+  },
+  {
+    "name": "Bowling Green",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bowling Green",
+    "nameLsad": "Bowling Green CDP"
+  },
+  {
+    "name": "Abington",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Abington",
+    "nameLsad": "Abington CDP"
+  },
+  {
+    "name": "Adams",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Adams",
+    "nameLsad": "Adams CDP"
+  },
+  {
+    "name": "Adams Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Adams Lake",
+    "nameLsad": "Adams Lake CDP"
+  },
+  {
+    "name": "Alford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Alford",
+    "nameLsad": "Alford CDP"
+  },
+  {
+    "name": "Arthur",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Arthur",
+    "nameLsad": "Arthur CDP"
+  },
+  {
+    "name": "Amity",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Amity",
+    "nameLsad": "Amity CDP"
+  },
+  {
+    "name": "Andersonville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Andersonville",
+    "nameLsad": "Andersonville CDP"
+  },
+  {
+    "name": "Anoka",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Anoka",
+    "nameLsad": "Anoka CDP"
+  },
+  {
+    "name": "Antioch",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Antioch",
+    "nameLsad": "Antioch CDP"
+  },
+  {
+    "name": "Arcola",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Arcola",
+    "nameLsad": "Arcola CDP"
+  },
+  {
+    "name": "Ardmore",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ardmore",
+    "nameLsad": "Ardmore CDP"
+  },
+  {
+    "name": "Azalia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Azalia",
+    "nameLsad": "Azalia CDP"
+  },
+  {
+    "name": "Barbee",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Barbee",
+    "nameLsad": "Barbee CDP"
+  },
+  {
+    "name": "Beaver Dam",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Beaver Dam",
+    "nameLsad": "Beaver Dam CDP"
+  },
+  {
+    "name": "Bear Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bear Lake",
+    "nameLsad": "Bear Lake CDP"
+  },
+  {
+    "name": "Belleville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Belleville",
+    "nameLsad": "Belleville CDP"
+  },
+  {
+    "name": "Bennetts Switch",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bennetts Switch",
+    "nameLsad": "Bennetts Switch CDP"
+  },
+  {
+    "name": "Benton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Benton",
+    "nameLsad": "Benton CDP"
+  },
+  {
+    "name": "Bethel Village",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bethel Village",
+    "nameLsad": "Bethel Village CDP"
+  },
+  {
+    "name": "Big Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Big Lake",
+    "nameLsad": "Big Lake CDP"
+  },
+  {
+    "name": "Billtown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Billtown",
+    "nameLsad": "Billtown CDP"
+  },
+  {
+    "name": "Bippus",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bippus",
+    "nameLsad": "Bippus CDP"
+  },
+  {
+    "name": "Blairsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Blairsville",
+    "nameLsad": "Blairsville CDP"
+  },
+  {
+    "name": "Blanford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Blanford",
+    "nameLsad": "Blanford CDP"
+  },
+  {
+    "name": "Blocher",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Blocher",
+    "nameLsad": "Blocher CDP"
+  },
+  {
+    "name": "Blue Ridge",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Blue Ridge",
+    "nameLsad": "Blue Ridge CDP"
+  },
+  {
+    "name": "Boggstown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Boggstown",
+    "nameLsad": "Boggstown CDP"
+  },
+  {
+    "name": "Boone Grove",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Boone Grove",
+    "nameLsad": "Boone Grove CDP"
+  },
+  {
+    "name": "Bright",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bright",
+    "nameLsad": "Bright CDP"
+  },
+  {
+    "name": "Brimfield",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Brimfield",
+    "nameLsad": "Brimfield CDP"
+  },
+  {
+    "name": "Cartersburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cartersburg",
+    "nameLsad": "Cartersburg CDP"
+  },
+  {
+    "name": "Clarksburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Clarksburg",
+    "nameLsad": "Clarksburg CDP"
+  },
+  {
+    "name": "Cloverland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cloverland",
+    "nameLsad": "Cloverland CDP"
+  },
+  {
+    "name": "Cordry Sweetwater Lakes",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cordry Sweetwater Lakes",
+    "nameLsad": "Cordry Sweetwater Lakes CDP"
+  },
+  {
+    "name": "Cory",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cory",
+    "nameLsad": "Cory CDP"
+  },
+  {
+    "name": "Country Squire Lakes",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Country Squire Lakes",
+    "nameLsad": "Country Squire Lakes CDP"
+  },
+  {
+    "name": "Cree Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cree Lake",
+    "nameLsad": "Cree Lake CDP"
+  },
+  {
+    "name": "Dunlap",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Dunlap",
+    "nameLsad": "Dunlap CDP"
+  },
+  {
+    "name": "Fairview",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fairview",
+    "nameLsad": "Fairview CDP"
+  },
+  {
+    "name": "Fredericksburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fredericksburg",
+    "nameLsad": "Fredericksburg CDP"
+  },
+  {
+    "name": "Glezen",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Glezen",
+    "nameLsad": "Glezen CDP"
+  },
+  {
+    "name": "Grammer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Grammer",
+    "nameLsad": "Grammer CDP"
+  },
+  {
+    "name": "Granger",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Granger",
+    "nameLsad": "Granger CDP"
+  },
+  {
+    "name": "Gwynneville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Gwynneville",
+    "nameLsad": "Gwynneville CDP"
+  },
+  {
+    "name": "Hamburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hamburg",
+    "nameLsad": "Hamburg CDP"
+  },
+  {
+    "name": "Harlan",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Harlan",
+    "nameLsad": "Harlan CDP"
+  },
+  {
+    "name": "Helmsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Helmsburg",
+    "nameLsad": "Helmsburg CDP"
+  },
+  {
+    "name": "Heritage Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Heritage Lake",
+    "nameLsad": "Heritage Lake CDP"
+  },
+  {
+    "name": "Hessen Cassel",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hessen Cassel",
+    "nameLsad": "Hessen Cassel CDP"
+  },
+  {
+    "name": "Hidden Valley",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hidden Valley",
+    "nameLsad": "Hidden Valley CDP"
+  },
+  {
+    "name": "Highland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Highland",
+    "nameLsad": "Highland CDP"
+  },
+  {
+    "name": "Hoagland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hoagland",
+    "nameLsad": "Hoagland CDP"
+  },
+  {
+    "name": "Homer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Homer",
+    "nameLsad": "Homer CDP"
+  },
+  {
+    "name": "Koontz Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Koontz Lake",
+    "nameLsad": "Koontz Lake CDP"
+  },
+  {
+    "name": "Lake Cicott",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Cicott",
+    "nameLsad": "Lake Cicott CDP"
+  },
+  {
+    "name": "Lake Dalecarlia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Dalecarlia",
+    "nameLsad": "Lake Dalecarlia CDP"
+  },
+  {
+    "name": "Lake Everett",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Everett",
+    "nameLsad": "Lake Everett CDP"
+  },
+  {
+    "name": "Lake Holiday",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Holiday",
+    "nameLsad": "Lake Holiday CDP"
+  },
+  {
+    "name": "Lake Santee",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Santee",
+    "nameLsad": "Lake Santee CDP"
+  },
+  {
+    "name": "Lakeshore Resort",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lakeshore Resort",
+    "nameLsad": "Lakeshore Resort CDP"
+  },
+  {
+    "name": "Laketon",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Laketon",
+    "nameLsad": "Laketon CDP"
+  },
+  {
+    "name": "Lake View",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake View",
+    "nameLsad": "Lake View CDP"
+  },
+  {
+    "name": "Laotto",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Laotto",
+    "nameLsad": "Laotto CDP"
+  },
+  {
+    "name": "Leroy",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Leroy",
+    "nameLsad": "Leroy CDP"
+  },
+  {
+    "name": "Lincoln",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lincoln",
+    "nameLsad": "Lincoln CDP"
+  },
+  {
+    "name": "Linn Grove",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Linn Grove",
+    "nameLsad": "Linn Grove CDP"
+  },
+  {
+    "name": "Manilla",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Manilla",
+    "nameLsad": "Manilla CDP"
+  },
+  {
+    "name": "Maples",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Maples",
+    "nameLsad": "Maples CDP"
+  },
+  {
+    "name": "Mariah Hill",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mariah Hill",
+    "nameLsad": "Mariah Hill CDP"
+  },
+  {
+    "name": "Mays",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mays",
+    "nameLsad": "Mays CDP"
+  },
+  {
+    "name": "Melody Hill",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Melody Hill",
+    "nameLsad": "Melody Hill CDP"
+  },
+  {
+    "name": "Merriam",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Merriam",
+    "nameLsad": "Merriam CDP"
+  },
+  {
+    "name": "Metz",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Metz",
+    "nameLsad": "Metz CDP"
+  },
+  {
+    "name": "Boxley",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Boxley",
+    "nameLsad": "Boxley CDP"
+  },
+  {
+    "name": "Flat Rock",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Flat Rock",
+    "nameLsad": "Flat Rock CDP"
+  },
+  {
+    "name": "Bretzville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bretzville",
+    "nameLsad": "Bretzville CDP"
+  },
+  {
+    "name": "Ireland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ireland",
+    "nameLsad": "Ireland CDP"
+  },
+  {
+    "name": "Bridgeton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bridgeton",
+    "nameLsad": "Bridgeton CDP"
+  },
+  {
+    "name": "Judson",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Judson",
+    "nameLsad": "Judson CDP"
+  },
+  {
+    "name": "Lyford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lyford",
+    "nameLsad": "Lyford CDP"
+  },
+  {
+    "name": "Bringhurst",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Bringhurst",
+    "nameLsad": "Bringhurst CDP"
+  },
+  {
+    "name": "Burrows",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Burrows",
+    "nameLsad": "Burrows CDP"
+  },
+  {
+    "name": "Deer Creek",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Deer Creek",
+    "nameLsad": "Deer Creek CDP"
+  },
+  {
+    "name": "Browns Crossing",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Browns Crossing",
+    "nameLsad": "Browns Crossing CDP"
+  },
+  {
+    "name": "Foxcliff Estates",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Foxcliff Estates",
+    "nameLsad": "Foxcliff Estates CDP"
+  },
+  {
+    "name": "Lamb",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lamb",
+    "nameLsad": "Lamb CDP"
+  },
+  {
+    "name": "Brownsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Brownsville",
+    "nameLsad": "Brownsville CDP"
+  },
+  {
+    "name": "Duneland Beach",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Duneland Beach",
+    "nameLsad": "Duneland Beach CDP"
+  },
+  {
+    "name": "Eminence",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Eminence",
+    "nameLsad": "Eminence CDP"
+  },
+  {
+    "name": "Buck Creek",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Buck Creek",
+    "nameLsad": "Buck Creek CDP"
+  },
+  {
+    "name": "Buckskin",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Buckskin",
+    "nameLsad": "Buckskin CDP"
+  },
+  {
+    "name": "Buffalo",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Buffalo",
+    "nameLsad": "Buffalo CDP"
+  },
+  {
+    "name": "Burnett",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Burnett",
+    "nameLsad": "Burnett CDP"
+  },
+  {
+    "name": "Lakewood",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lakewood",
+    "nameLsad": "Lakewood CDP"
+  },
+  {
+    "name": "Burney",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Burney",
+    "nameLsad": "Burney CDP"
+  },
+  {
+    "name": "Burns City",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Burns City",
+    "nameLsad": "Burns City CDP"
+  },
+  {
+    "name": "Colburn",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Colburn",
+    "nameLsad": "Colburn CDP"
+  },
+  {
+    "name": "Butlerville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Butlerville",
+    "nameLsad": "Butlerville CDP"
+  },
+  {
+    "name": "Hayden",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hayden",
+    "nameLsad": "Hayden CDP"
+  },
+  {
+    "name": "Canaan",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Canaan",
+    "nameLsad": "Canaan CDP"
+  },
+  {
+    "name": "Deputy",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Deputy",
+    "nameLsad": "Deputy CDP"
+  },
+  {
+    "name": "East Enterprise",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "East Enterprise",
+    "nameLsad": "East Enterprise CDP"
+  },
+  {
+    "name": "Kent",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Kent",
+    "nameLsad": "Kent CDP"
+  },
+  {
+    "name": "Canton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Canton",
+    "nameLsad": "Canton CDP"
+  },
+  {
+    "name": "Martinsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Martinsburg",
+    "nameLsad": "Martinsburg CDP"
+  },
+  {
+    "name": "Carrollton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Carrollton",
+    "nameLsad": "Carrollton CDP"
+  },
+  {
+    "name": "Maxwell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Maxwell",
+    "nameLsad": "Maxwell CDP"
+  },
+  {
+    "name": "Cass",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cass",
+    "nameLsad": "Cass CDP"
+  },
+  {
+    "name": "Fairbanks",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fairbanks",
+    "nameLsad": "Fairbanks CDP"
+  },
+  {
+    "name": "Graysville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Graysville",
+    "nameLsad": "Graysville CDP"
+  },
+  {
+    "name": "Cassville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cassville",
+    "nameLsad": "Cassville CDP"
+  },
+  {
+    "name": "Jerome",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Jerome",
+    "nameLsad": "Jerome CDP"
+  },
+  {
+    "name": "Cates",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cates",
+    "nameLsad": "Cates CDP"
+  },
+  {
+    "name": "Lake Holiday Hideaway",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Holiday Hideaway",
+    "nameLsad": "Lake Holiday Hideaway CDP"
+  },
+  {
+    "name": "Celestine",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Celestine",
+    "nameLsad": "Celestine CDP"
+  },
+  {
+    "name": "Haysville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Haysville",
+    "nameLsad": "Haysville CDP"
+  },
+  {
+    "name": "Centenary",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Centenary",
+    "nameLsad": "Centenary CDP"
+  },
+  {
+    "name": "Center",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Center",
+    "nameLsad": "Center CDP"
+  },
+  {
+    "name": "Hemlock",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hemlock",
+    "nameLsad": "Hemlock CDP"
+  },
+  {
+    "name": "Centerton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Centerton",
+    "nameLsad": "Centerton CDP"
+  },
+  {
+    "name": "Folsomville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Folsomville",
+    "nameLsad": "Folsomville CDP"
+  },
+  {
+    "name": "Chain-O-Lakes",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Chain-O-Lakes",
+    "nameLsad": "Chain-O-Lakes CDP"
+  },
+  {
+    "name": "Gilmer Park",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Gilmer Park",
+    "nameLsad": "Gilmer Park CDP"
+  },
+  {
+    "name": "Charlottesville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Charlottesville",
+    "nameLsad": "Charlottesville CDP"
+  },
+  {
+    "name": "Eden",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Eden",
+    "nameLsad": "Eden CDP"
+  },
+  {
+    "name": "Chili",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Chili",
+    "nameLsad": "Chili CDP"
+  },
+  {
+    "name": "Liberty Mills",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Liberty Mills",
+    "nameLsad": "Liberty Mills CDP"
+  },
+  {
+    "name": "Coal City",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Coal City",
+    "nameLsad": "Coal City CDP"
+  },
+  {
+    "name": "Coalmont",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Coalmont",
+    "nameLsad": "Coalmont CDP"
+  },
+  {
+    "name": "Freetown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Freetown",
+    "nameLsad": "Freetown CDP"
+  },
+  {
+    "name": "Coesse",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Coesse",
+    "nameLsad": "Coesse CDP"
+  },
+  {
+    "name": "Laud",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Laud",
+    "nameLsad": "Laud CDP"
+  },
+  {
+    "name": "Commiskey",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Commiskey",
+    "nameLsad": "Commiskey CDP"
+  },
+  {
+    "name": "Grayford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Grayford",
+    "nameLsad": "Grayford CDP"
+  },
+  {
+    "name": "Cortland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cortland",
+    "nameLsad": "Cortland CDP"
+  },
+  {
+    "name": "Cowan",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cowan",
+    "nameLsad": "Cowan CDP"
+  },
+  {
+    "name": "Craigville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Craigville",
+    "nameLsad": "Craigville CDP"
+  },
+  {
+    "name": "Liberty Center",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Liberty Center",
+    "nameLsad": "Liberty Center CDP"
+  },
+  {
+    "name": "Cross Plains",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cross Plains",
+    "nameLsad": "Cross Plains CDP"
+  },
+  {
+    "name": "Cutler",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Cutler",
+    "nameLsad": "Cutler CDP"
+  },
+  {
+    "name": "Elizaville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Elizaville",
+    "nameLsad": "Elizaville CDP"
+  },
+  {
+    "name": "Delaware",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Delaware",
+    "nameLsad": "Delaware CDP"
+  },
+  {
+    "name": "Elrod",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Elrod",
+    "nameLsad": "Elrod CDP"
+  },
+  {
+    "name": "Depauw",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Depauw",
+    "nameLsad": "Depauw CDP"
+  },
+  {
+    "name": "Donaldson",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Donaldson",
+    "nameLsad": "Donaldson CDP"
+  },
+  {
+    "name": "Dover Hill",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Dover Hill",
+    "nameLsad": "Dover Hill CDP"
+  },
+  {
+    "name": "Dresser",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Dresser",
+    "nameLsad": "Dresser CDP"
+  },
+  {
+    "name": "Dubois",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Dubois",
+    "nameLsad": "Dubois CDP"
+  },
+  {
+    "name": "East Oolitic",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "East Oolitic",
+    "nameLsad": "East Oolitic CDP"
+  },
+  {
+    "name": "Eckerty",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Eckerty",
+    "nameLsad": "Eckerty CDP"
+  },
+  {
+    "name": "Emison",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Emison",
+    "nameLsad": "Emison CDP"
+  },
+  {
+    "name": "Fontanet",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fontanet",
+    "nameLsad": "Fontanet CDP"
+  },
+  {
+    "name": "Freelandville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Freelandville",
+    "nameLsad": "Freelandville CDP"
+  },
+  {
+    "name": "Harrodsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Harrodsburg",
+    "nameLsad": "Harrodsburg CDP"
+  },
+  {
+    "name": "Enchanted Hills",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Enchanted Hills",
+    "nameLsad": "Enchanted Hills CDP"
+  },
+  {
+    "name": "Hoffman Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hoffman Lake",
+    "nameLsad": "Hoffman Lake CDP"
+  },
+  {
+    "name": "Eugene",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Eugene",
+    "nameLsad": "Eugene CDP"
+  },
+  {
+    "name": "Everton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Everton",
+    "nameLsad": "Everton CDP"
+  },
+  {
+    "name": "Fair Oaks",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fair Oaks",
+    "nameLsad": "Fair Oaks CDP"
+  },
+  {
+    "name": "Fishersburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fishersburg",
+    "nameLsad": "Fishersburg CDP"
+  },
+  {
+    "name": "Fish Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fish Lake",
+    "nameLsad": "Fish Lake CDP"
+  },
+  {
+    "name": "Florence",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Florence",
+    "nameLsad": "Florence CDP"
+  },
+  {
+    "name": "Metamora",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Metamora",
+    "nameLsad": "Metamora CDP"
+  },
+  {
+    "name": "Floyds Knobs",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Floyds Knobs",
+    "nameLsad": "Floyds Knobs CDP"
+  },
+  {
+    "name": "Forest",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Forest",
+    "nameLsad": "Forest CDP"
+  },
+  {
+    "name": "Hillisburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hillisburg",
+    "nameLsad": "Hillisburg CDP"
+  },
+  {
+    "name": "Jefferson",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Jefferson",
+    "nameLsad": "Jefferson CDP"
+  },
+  {
+    "name": "Foster",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Foster",
+    "nameLsad": "Foster CDP"
+  },
+  {
+    "name": "Fountaintown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Fountaintown",
+    "nameLsad": "Fountaintown CDP"
+  },
+  {
+    "name": "Geneva",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Geneva",
+    "nameLsad": "Geneva CDP"
+  },
+  {
+    "name": "Galena",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Galena",
+    "nameLsad": "Galena CDP"
+  },
+  {
+    "name": "Goldsmith",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Goldsmith",
+    "nameLsad": "Goldsmith CDP"
+  },
+  {
+    "name": "Hobbs",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hobbs",
+    "nameLsad": "Hobbs CDP"
+  },
+  {
+    "name": "Leopold",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Leopold",
+    "nameLsad": "Leopold CDP"
+  },
+  {
+    "name": "Grandview Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Grandview Lake",
+    "nameLsad": "Grandview Lake CDP"
+  },
+  {
+    "name": "Harrison Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Harrison Lake",
+    "nameLsad": "Harrison Lake CDP"
+  },
+  {
+    "name": "Grantsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Grantsburg",
+    "nameLsad": "Grantsburg CDP"
+  },
+  {
+    "name": "Green Hill",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Green Hill",
+    "nameLsad": "Green Hill CDP"
+  },
+  {
+    "name": "Independence",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Independence",
+    "nameLsad": "Independence CDP"
+  },
+  {
+    "name": "Judyville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Judyville",
+    "nameLsad": "Judyville CDP"
+  },
+  {
+    "name": "Grissom AFB",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Grissom AFB",
+    "nameLsad": "Grissom AFB CDP"
+  },
+  {
+    "name": "Groveland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Groveland",
+    "nameLsad": "Groveland CDP"
+  },
+  {
+    "name": "Groverton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Groverton",
+    "nameLsad": "Groverton CDP"
+  },
+  {
+    "name": "Hartz Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hartz Lake",
+    "nameLsad": "Hartz Lake CDP"
+  },
+  {
+    "name": "Malden",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Malden",
+    "nameLsad": "Malden CDP"
+  },
+  {
+    "name": "Hanna",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hanna",
+    "nameLsad": "Hanna CDP"
+  },
+  {
+    "name": "Hudson Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hudson Lake",
+    "nameLsad": "Hudson Lake CDP"
+  },
+  {
+    "name": "Hardinsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hardinsburg",
+    "nameLsad": "Hardinsburg CDP"
+  },
+  {
+    "name": "Hashtown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hashtown",
+    "nameLsad": "Hashtown CDP"
+  },
+  {
+    "name": "Leiters Ford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Leiters Ford",
+    "nameLsad": "Leiters Ford CDP"
+  },
+  {
+    "name": "Hatfield",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hatfield",
+    "nameLsad": "Hatfield CDP"
+  },
+  {
+    "name": "Hedrick",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hedrick",
+    "nameLsad": "Hedrick CDP"
+  },
+  {
+    "name": "Kramer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Kramer",
+    "nameLsad": "Kramer CDP"
+  },
+  {
+    "name": "Marshfield",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Marshfield",
+    "nameLsad": "Marshfield CDP"
+  },
+  {
+    "name": "Helmer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Helmer",
+    "nameLsad": "Helmer CDP"
+  },
+  {
+    "name": "Heltonville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Heltonville",
+    "nameLsad": "Heltonville CDP"
+  },
+  {
+    "name": "Henryville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Henryville",
+    "nameLsad": "Henryville CDP"
+  },
+  {
+    "name": "Memphis",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Memphis",
+    "nameLsad": "Memphis CDP"
+  },
+  {
+    "name": "Herbst",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Herbst",
+    "nameLsad": "Herbst CDP"
+  },
+  {
+    "name": "Hillsdale",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hillsdale",
+    "nameLsad": "Hillsdale CDP"
+  },
+  {
+    "name": "Holiday Woods",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Holiday Woods",
+    "nameLsad": "Holiday Woods CDP"
+  },
+  {
+    "name": "Jimmerson Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Jimmerson Lake",
+    "nameLsad": "Jimmerson Lake CDP"
+  },
+  {
+    "name": "Hortonville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Hortonville",
+    "nameLsad": "Hortonville CDP"
+  },
+  {
+    "name": "Howe",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Howe",
+    "nameLsad": "Howe CDP"
+  },
+  {
+    "name": "Huron",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Huron",
+    "nameLsad": "Huron CDP"
+  },
+  {
+    "name": "Judah",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Judah",
+    "nameLsad": "Judah CDP"
+  },
+  {
+    "name": "Idaville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Idaville",
+    "nameLsad": "Idaville CDP"
+  },
+  {
+    "name": "Landess",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Landess",
+    "nameLsad": "Landess CDP"
+  },
+  {
+    "name": "Jalapa",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Jalapa",
+    "nameLsad": "Jalapa CDP"
+  },
+  {
+    "name": "Johnson",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Johnson",
+    "nameLsad": "Johnson CDP"
+  },
+  {
+    "name": "Keystone",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Keystone",
+    "nameLsad": "Keystone CDP"
+  },
+  {
+    "name": "Kimmell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Kimmell",
+    "nameLsad": "Kimmell CDP"
+  },
+  {
+    "name": "Lake Bruce",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Bruce",
+    "nameLsad": "Lake Bruce CDP"
+  },
+  {
+    "name": "Lake Eliza",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Eliza",
+    "nameLsad": "Lake Eliza CDP"
+  },
+  {
+    "name": "Lake of the Woods",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake of the Woods",
+    "nameLsad": "Lake of the Woods CDP"
+  },
+  {
+    "name": "Linnsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Linnsburg",
+    "nameLsad": "Linnsburg CDP"
+  },
+  {
+    "name": "Mace",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mace",
+    "nameLsad": "Mace CDP"
+  },
+  {
+    "name": "Lakes of the Four Seasons",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lakes of the Four Seasons",
+    "nameLsad": "Lakes of the Four Seasons CDP"
+  },
+  {
+    "name": "Lake Village",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lake Village",
+    "nameLsad": "Lake Village CDP"
+  },
+  {
+    "name": "Lawrenceport",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lawrenceport",
+    "nameLsad": "Lawrenceport CDP"
+  },
+  {
+    "name": "Letts",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Letts",
+    "nameLsad": "Letts CDP"
+  },
+  {
+    "name": "Lewis",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lewis",
+    "nameLsad": "Lewis CDP"
+  },
+  {
+    "name": "Libertyville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Libertyville",
+    "nameLsad": "Libertyville CDP"
+  },
+  {
+    "name": "London",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "London",
+    "nameLsad": "London CDP"
+  },
+  {
+    "name": "Lucerne",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Lucerne",
+    "nameLsad": "Lucerne CDP"
+  },
+  {
+    "name": "Manchester",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Manchester",
+    "nameLsad": "Manchester CDP"
+  },
+  {
+    "name": "Marietta",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Marietta",
+    "nameLsad": "Marietta CDP"
+  },
+  {
+    "name": "Mexico",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mexico",
+    "nameLsad": "Mexico CDP"
+  },
+  {
+    "name": "Miami",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Miami",
+    "nameLsad": "Miami CDP"
+  },
+  {
+    "name": "Middlebury",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Middlebury",
+    "nameLsad": "Middlebury CDP"
+  },
+  {
+    "name": "Midland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Midland",
+    "nameLsad": "Midland CDP"
+  },
+  {
+    "name": "Mier",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mier",
+    "nameLsad": "Mier CDP"
+  },
+  {
+    "name": "Milford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Milford",
+    "nameLsad": "Milford CDP"
+  },
+  {
+    "name": "Milroy",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Milroy",
+    "nameLsad": "Milroy CDP"
+  },
+  {
+    "name": "Mineral Springs",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mineral Springs",
+    "nameLsad": "Mineral Springs CDP"
+  },
+  {
+    "name": "Morris",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Morris",
+    "nameLsad": "Morris CDP"
+  },
+  {
+    "name": "Needham",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Needham",
+    "nameLsad": "Needham CDP"
+  },
+  {
+    "name": "Needmore",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Needmore",
+    "nameLsad": "Needmore CDP"
+  },
+  {
+    "name": "Newbern",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Newbern",
+    "nameLsad": "Newbern CDP"
+  },
+  {
+    "name": "New Goshen",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Goshen",
+    "nameLsad": "New Goshen CDP"
+  },
+  {
+    "name": "New Lebanon",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Lebanon",
+    "nameLsad": "New Lebanon CDP"
+  },
+  {
+    "name": "New London",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New London",
+    "nameLsad": "New London CDP"
+  },
+  {
+    "name": "New Marion",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Marion",
+    "nameLsad": "New Marion CDP"
+  },
+  {
+    "name": "New Paris",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Paris",
+    "nameLsad": "New Paris CDP"
+  },
+  {
+    "name": "New Trenton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Trenton",
+    "nameLsad": "New Trenton CDP"
+  },
+  {
+    "name": "New Washington",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Washington",
+    "nameLsad": "New Washington CDP"
+  },
+  {
+    "name": "Nineveh",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Nineveh",
+    "nameLsad": "Nineveh CDP"
+  },
+  {
+    "name": "North Grove",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "North Grove",
+    "nameLsad": "North Grove CDP"
+  },
+  {
+    "name": "Norway",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Norway",
+    "nameLsad": "Norway CDP"
+  },
+  {
+    "name": "Nyona Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Nyona Lake",
+    "nameLsad": "Nyona Lake CDP"
+  },
+  {
+    "name": "Oakville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Oakville",
+    "nameLsad": "Oakville CDP"
+  },
+  {
+    "name": "Otisco",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Otisco",
+    "nameLsad": "Otisco CDP"
+  },
+  {
+    "name": "Otwell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Otwell",
+    "nameLsad": "Otwell CDP"
+  },
+  {
+    "name": "Painted Hills",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Painted Hills",
+    "nameLsad": "Painted Hills CDP"
+  },
+  {
+    "name": "Palestine",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Palestine",
+    "nameLsad": "Palestine CDP"
+  },
+  {
+    "name": "Paris Crossing",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Paris Crossing",
+    "nameLsad": "Paris Crossing CDP"
+  },
+  {
+    "name": "Patricksburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Patricksburg",
+    "nameLsad": "Patricksburg CDP"
+  },
+  {
+    "name": "Paxton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Paxton",
+    "nameLsad": "Paxton CDP"
+  },
+  {
+    "name": "Penntown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Penntown",
+    "nameLsad": "Penntown CDP"
+  },
+  {
+    "name": "Peppertown",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Peppertown",
+    "nameLsad": "Peppertown CDP"
+  },
+  {
+    "name": "Perkinsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Perkinsville",
+    "nameLsad": "Perkinsville CDP"
+  },
+  {
+    "name": "Petersville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Petersville",
+    "nameLsad": "Petersville CDP"
+  },
+  {
+    "name": "Petroleum",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Petroleum",
+    "nameLsad": "Petroleum CDP"
+  },
+  {
+    "name": "Philadelphia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Philadelphia",
+    "nameLsad": "Philadelphia CDP"
+  },
+  {
+    "name": "Pierceville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pierceville",
+    "nameLsad": "Pierceville CDP"
+  },
+  {
+    "name": "Pittsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pittsburg",
+    "nameLsad": "Pittsburg CDP"
+  },
+  {
+    "name": "Pleasant View Village",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pleasant View Village",
+    "nameLsad": "Pleasant View Village CDP"
+  },
+  {
+    "name": "Poland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Poland",
+    "nameLsad": "Poland CDP"
+  },
+  {
+    "name": "Prairie Creek",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Prairie Creek",
+    "nameLsad": "Prairie Creek CDP"
+  },
+  {
+    "name": "Prairieton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Prairieton",
+    "nameLsad": "Prairieton CDP"
+  },
+  {
+    "name": "Prospect",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Prospect",
+    "nameLsad": "Prospect CDP"
+  },
+  {
+    "name": "Rainsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Rainsville",
+    "nameLsad": "Rainsville CDP"
+  },
+  {
+    "name": "Reddington",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Reddington",
+    "nameLsad": "Reddington CDP"
+  },
+  {
+    "name": "Riverwood",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Riverwood",
+    "nameLsad": "Riverwood CDP"
+  },
+  {
+    "name": "Rockfield",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Rockfield",
+    "nameLsad": "Rockfield CDP"
+  },
+  {
+    "name": "Royerton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Royerton",
+    "nameLsad": "Royerton CDP"
+  },
+  {
+    "name": "St. Bernice",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Bernice",
+    "nameLsad": "St. Bernice CDP"
+  },
+  {
+    "name": "St. Omer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Omer",
+    "nameLsad": "St. Omer CDP"
+  },
+  {
+    "name": "St. Wendel",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Wendel",
+    "nameLsad": "St. Wendel CDP"
+  },
+  {
+    "name": "Salt Creek Commons",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Salt Creek Commons",
+    "nameLsad": "Salt Creek Commons CDP"
+  },
+  {
+    "name": "Sandusky",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Sandusky",
+    "nameLsad": "Sandusky CDP"
+  },
+  {
+    "name": "San Pierre",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "San Pierre",
+    "nameLsad": "San Pierre CDP"
+  },
+  {
+    "name": "Sardinia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Sardinia",
+    "nameLsad": "Sardinia CDP"
+  },
+  {
+    "name": "Schaefer Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Schaefer Lake",
+    "nameLsad": "Schaefer Lake CDP"
+  },
+  {
+    "name": "Scircleville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Scircleville",
+    "nameLsad": "Scircleville CDP"
+  },
+  {
+    "name": "Servia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Servia",
+    "nameLsad": "Servia CDP"
+  },
+  {
+    "name": "Shelby",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Shelby",
+    "nameLsad": "Shelby CDP"
+  },
+  {
+    "name": "Shepardsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Shepardsville",
+    "nameLsad": "Shepardsville CDP"
+  },
+  {
+    "name": "Shorewood Forest",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Shorewood Forest",
+    "nameLsad": "Shorewood Forest CDP"
+  },
+  {
+    "name": "Simonton Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Simonton Lake",
+    "nameLsad": "Simonton Lake CDP"
+  },
+  {
+    "name": "Sims",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Sims",
+    "nameLsad": "Sims CDP"
+  },
+  {
+    "name": "Solsberry",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Solsberry",
+    "nameLsad": "Solsberry CDP"
+  },
+  {
+    "name": "Somerset",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Somerset",
+    "nameLsad": "Somerset CDP"
+  },
+  {
+    "name": "Spartanburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Spartanburg",
+    "nameLsad": "Spartanburg CDP"
+  },
+  {
+    "name": "Stanford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stanford",
+    "nameLsad": "Stanford CDP"
+  },
+  {
+    "name": "Star City",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Star City",
+    "nameLsad": "Star City CDP"
+  },
+  {
+    "name": "Stendal",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stendal",
+    "nameLsad": "Stendal CDP"
+  },
+  {
+    "name": "Stewartsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stewartsville",
+    "nameLsad": "Stewartsville CDP"
+  },
+  {
+    "name": "Stone Bluff",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stone Bluff",
+    "nameLsad": "Stone Bluff CDP"
+  },
+  {
+    "name": "Tab",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tab",
+    "nameLsad": "Tab CDP"
+  },
+  {
+    "name": "Talma",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Talma",
+    "nameLsad": "Talma CDP"
+  },
+  {
+    "name": "Taswell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Taswell",
+    "nameLsad": "Taswell CDP"
+  },
+  {
+    "name": "Templeton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Templeton",
+    "nameLsad": "Templeton CDP"
+  },
+  {
+    "name": "Toad Hop",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Toad Hop",
+    "nameLsad": "Toad Hop CDP"
+  },
+  {
+    "name": "Tocsin",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tocsin",
+    "nameLsad": "Tocsin CDP"
+  },
+  {
+    "name": "Tri-Lakes",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tri-Lakes",
+    "nameLsad": "Tri-Lakes CDP"
+  },
+  {
+    "name": "Tunnelton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tunnelton",
+    "nameLsad": "Tunnelton CDP"
+  },
+  {
+    "name": "Twelve Mile",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Twelve Mile",
+    "nameLsad": "Twelve Mile CDP"
+  },
+  {
+    "name": "Tyner",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tyner",
+    "nameLsad": "Tyner CDP"
+  },
+  {
+    "name": "Urbana",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Urbana",
+    "nameLsad": "Urbana CDP"
+  },
+  {
+    "name": "Vallonia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Vallonia",
+    "nameLsad": "Vallonia CDP"
+  },
+  {
+    "name": "Van Bibber Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Van Bibber Lake",
+    "nameLsad": "Van Bibber Lake CDP"
+  },
+  {
+    "name": "Velpen",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Velpen",
+    "nameLsad": "Velpen CDP"
+  },
+  {
+    "name": "Vicksburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Vicksburg",
+    "nameLsad": "Vicksburg CDP"
+  },
+  {
+    "name": "Vistula",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Vistula",
+    "nameLsad": "Vistula CDP"
+  },
+  {
+    "name": "Wadesville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wadesville",
+    "nameLsad": "Wadesville CDP"
+  },
+  {
+    "name": "Waldron",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Waldron",
+    "nameLsad": "Waldron CDP"
+  },
+  {
+    "name": "Wall Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wall Lake",
+    "nameLsad": "Wall Lake CDP"
+  },
+  {
+    "name": "Warrington",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Warrington",
+    "nameLsad": "Warrington CDP"
+  },
+  {
+    "name": "Wawaka",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wawaka",
+    "nameLsad": "Wawaka CDP"
+  },
+  {
+    "name": "Waynesville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Waynesville",
+    "nameLsad": "Waynesville CDP"
+  },
+  {
+    "name": "Westphalia",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Westphalia",
+    "nameLsad": "Westphalia CDP"
+  },
+  {
+    "name": "West Point",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "West Point",
+    "nameLsad": "West Point CDP"
+  },
+  {
+    "name": "Wheeler",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wheeler",
+    "nameLsad": "Wheeler CDP"
+  },
+  {
+    "name": "Wildwood",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wildwood",
+    "nameLsad": "Wildwood CDP"
+  },
+  {
+    "name": "Williamsburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Williamsburg",
+    "nameLsad": "Williamsburg CDP"
+  },
+  {
+    "name": "Willow Branch",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Willow Branch",
+    "nameLsad": "Willow Branch CDP"
+  },
+  {
+    "name": "Windsor",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Windsor",
+    "nameLsad": "Windsor CDP"
+  },
+  {
+    "name": "Wolflake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wolflake",
+    "nameLsad": "Wolflake CDP"
+  },
+  {
+    "name": "Wooster",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wooster",
+    "nameLsad": "Wooster CDP"
+  },
+  {
+    "name": "Young America",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Young America",
+    "nameLsad": "Young America CDP"
+  },
+  {
+    "name": "Wyatt",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wyatt",
+    "nameLsad": "Wyatt CDP"
+  },
+  {
+    "name": "Millgrove",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Millgrove",
+    "nameLsad": "Millgrove CDP"
+  },
+  {
+    "name": "Millville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Millville",
+    "nameLsad": "Millville CDP"
+  },
+  {
+    "name": "New Lisbon",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Lisbon",
+    "nameLsad": "New Lisbon CDP"
+  },
+  {
+    "name": "Westwood",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Westwood",
+    "nameLsad": "Westwood CDP"
+  },
+  {
+    "name": "Mongo",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Mongo",
+    "nameLsad": "Mongo CDP"
+  },
+  {
+    "name": "Montmorenci",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Montmorenci",
+    "nameLsad": "Montmorenci CDP"
+  },
+  {
+    "name": "Owensburg",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Owensburg",
+    "nameLsad": "Owensburg CDP"
+  },
+  {
+    "name": "Point Isabel",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Point Isabel",
+    "nameLsad": "Point Isabel CDP"
+  },
+  {
+    "name": "Tecumseh",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tecumseh",
+    "nameLsad": "Tecumseh CDP"
+  },
+  {
+    "name": "New Salisbury",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "New Salisbury",
+    "nameLsad": "New Salisbury CDP"
+  },
+  {
+    "name": "Newtonville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Newtonville",
+    "nameLsad": "Newtonville CDP"
+  },
+  {
+    "name": "Reo",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Reo",
+    "nameLsad": "Reo CDP"
+  },
+  {
+    "name": "North Terre Haute",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "North Terre Haute",
+    "nameLsad": "North Terre Haute CDP"
+  },
+  {
+    "name": "Notre Dame",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Notre Dame",
+    "nameLsad": "Notre Dame CDP"
+  },
+  {
+    "name": "Ontario",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ontario",
+    "nameLsad": "Ontario CDP"
+  },
+  {
+    "name": "South Milford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "South Milford",
+    "nameLsad": "South Milford CDP"
+  },
+  {
+    "name": "Ora",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ora",
+    "nameLsad": "Ora CDP"
+  },
+  {
+    "name": "Oswego",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Oswego",
+    "nameLsad": "Oswego CDP"
+  },
+  {
+    "name": "Otter Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Otter Lake",
+    "nameLsad": "Otter Lake CDP"
+  },
+  {
+    "name": "Pleasant Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pleasant Lake",
+    "nameLsad": "Pleasant Lake CDP"
+  },
+  {
+    "name": "Pleasantville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pleasantville",
+    "nameLsad": "Pleasantville CDP"
+  },
+  {
+    "name": "Snow Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Snow Lake",
+    "nameLsad": "Snow Lake CDP"
+  },
+  {
+    "name": "Parkers Settlement",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Parkers Settlement",
+    "nameLsad": "Parkers Settlement CDP"
+  },
+  {
+    "name": "Pence",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pence",
+    "nameLsad": "Pence CDP"
+  },
+  {
+    "name": "Pleasant Mills",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pleasant Mills",
+    "nameLsad": "Pleasant Mills CDP"
+  },
+  {
+    "name": "Preble",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Preble",
+    "nameLsad": "Preble CDP"
+  },
+  {
+    "name": "Pleasant View",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pleasant View",
+    "nameLsad": "Pleasant View CDP"
+  },
+  {
+    "name": "Pulaski",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Pulaski",
+    "nameLsad": "Pulaski CDP"
+  },
+  {
+    "name": "Putnamville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Putnamville",
+    "nameLsad": "Putnamville CDP"
+  },
+  {
+    "name": "Raglesville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Raglesville",
+    "nameLsad": "Raglesville CDP"
+  },
+  {
+    "name": "Ragsdale",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ragsdale",
+    "nameLsad": "Ragsdale CDP"
+  },
+  {
+    "name": "St. Mary of the Woods",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Mary of the Woods",
+    "nameLsad": "St. Mary of the Woods CDP"
+  },
+  {
+    "name": "Scotland",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Scotland",
+    "nameLsad": "Scotland CDP"
+  },
+  {
+    "name": "Smithville-Sanders",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Smithville-Sanders",
+    "nameLsad": "Smithville-Sanders CDP"
+  },
+  {
+    "name": "Stockwell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stockwell",
+    "nameLsad": "Stockwell CDP"
+  },
+  {
+    "name": "Ramsey",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ramsey",
+    "nameLsad": "Ramsey CDP"
+  },
+  {
+    "name": "Raub",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Raub",
+    "nameLsad": "Raub CDP"
+  },
+  {
+    "name": "Rob Roy",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Rob Roy",
+    "nameLsad": "Rob Roy CDP"
+  },
+  {
+    "name": "Rockford",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Rockford",
+    "nameLsad": "Rockford CDP"
+  },
+  {
+    "name": "Roll",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Roll",
+    "nameLsad": "Roll CDP"
+  },
+  {
+    "name": "Rolling Prairie",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Rolling Prairie",
+    "nameLsad": "Rolling Prairie CDP"
+  },
+  {
+    "name": "Romney",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Romney",
+    "nameLsad": "Romney CDP"
+  },
+  {
+    "name": "Roselawn",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Roselawn",
+    "nameLsad": "Roselawn CDP"
+  },
+  {
+    "name": "Ross",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Ross",
+    "nameLsad": "Ross CDP"
+  },
+  {
+    "name": "St. Anthony",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Anthony",
+    "nameLsad": "St. Anthony CDP"
+  },
+  {
+    "name": "Schnellville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Schnellville",
+    "nameLsad": "Schnellville CDP"
+  },
+  {
+    "name": "St. Meinrad",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "St. Meinrad",
+    "nameLsad": "St. Meinrad CDP"
+  },
+  {
+    "name": "Saline City",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Saline City",
+    "nameLsad": "Saline City CDP"
+  },
+  {
+    "name": "Saugany Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Saugany Lake",
+    "nameLsad": "Saugany Lake CDP"
+  },
+  {
+    "name": "Union Mills",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Union Mills",
+    "nameLsad": "Union Mills CDP"
+  },
+  {
+    "name": "Scipio",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Scipio",
+    "nameLsad": "Scipio CDP"
+  },
+  {
+    "name": "Scott",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Scott",
+    "nameLsad": "Scott CDP"
+  },
+  {
+    "name": "Shipshewana Lake",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Shipshewana Lake",
+    "nameLsad": "Shipshewana Lake CDP"
+  },
+  {
+    "name": "Stroh",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stroh",
+    "nameLsad": "Stroh CDP"
+  },
+  {
+    "name": "South Center",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "South Center",
+    "nameLsad": "South Center CDP"
+  },
+  {
+    "name": "Stillwell",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Stillwell",
+    "nameLsad": "Stillwell CDP"
+  },
+  {
+    "name": "Wellsboro",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Wellsboro",
+    "nameLsad": "Wellsboro CDP"
+  },
+  {
+    "name": "South Haven",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "South Haven",
+    "nameLsad": "South Haven CDP"
+  },
+  {
+    "name": "Spencerville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Spencerville",
+    "nameLsad": "Spencerville CDP"
+  },
+  {
+    "name": "Sumava Resorts",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Sumava Resorts",
+    "nameLsad": "Sumava Resorts CDP"
+  },
+  {
+    "name": "Thayer",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Thayer",
+    "nameLsad": "Thayer CDP"
+  },
+  {
+    "name": "Taylorsville",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Taylorsville",
+    "nameLsad": "Taylorsville CDP"
+  },
+  {
+    "name": "Teegarden",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Teegarden",
+    "nameLsad": "Teegarden CDP"
+  },
+  {
+    "name": "Tippecanoe",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Tippecanoe",
+    "nameLsad": "Tippecanoe CDP"
+  },
+  {
+    "name": "Underwood",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Underwood",
+    "nameLsad": "Underwood CDP"
+  },
+  {
+    "name": "Walesboro",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Walesboro",
+    "nameLsad": "Walesboro CDP"
+  },
+  {
+    "name": "Waverly",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Waverly",
+    "nameLsad": "Waverly CDP"
+  },
+  {
+    "name": "Webster",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Webster",
+    "nameLsad": "Webster CDP"
+  },
+  {
+    "name": "West Middleton",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "West Middleton",
+    "nameLsad": "West Middleton CDP"
+  },
+  {
+    "name": "Williams",
+    "stateCode": "IN",
+    "type": "CDP",
+    "originalName": "Williams",
+    "nameLsad": "Williams CDP"
+  },
+  {
+    "name": "Ferguson",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Ferguson",
+    "nameLsad": "Ferguson city"
+  },
+  {
+    "name": "Gilman",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Gilman",
+    "nameLsad": "Gilman city"
+  },
+  {
+    "name": "Laurel",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Laurel",
+    "nameLsad": "Laurel city"
+  },
+  {
+    "name": "Liscomb",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Liscomb",
+    "nameLsad": "Liscomb city"
+  },
+  {
+    "name": "Rhodes",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Rhodes",
+    "nameLsad": "Rhodes city"
+  },
+  {
+    "name": "St. Anthony",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "St. Anthony",
+    "nameLsad": "St. Anthony city"
+  },
+  {
+    "name": "State Center",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "State Center",
+    "nameLsad": "State Center city"
+  },
+  {
+    "name": "Breda",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Breda",
+    "nameLsad": "Breda city"
+  },
+  {
+    "name": "Halbur",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Halbur",
+    "nameLsad": "Halbur city"
+  },
+  {
+    "name": "Lidderdale",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Lidderdale",
+    "nameLsad": "Lidderdale city"
+  },
+  {
+    "name": "Templeton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Templeton",
+    "nameLsad": "Templeton city"
+  },
+  {
+    "name": "Glidden",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Glidden",
+    "nameLsad": "Glidden city"
+  },
+  {
+    "name": "Rodman",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Rodman",
+    "nameLsad": "Rodman city"
+  },
+  {
+    "name": "Lakeside",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Lakeside",
+    "nameLsad": "Lakeside city"
+  },
+  {
+    "name": "Sioux Rapids",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Sioux Rapids",
+    "nameLsad": "Sioux Rapids city"
+  },
+  {
+    "name": "Garrison",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Garrison",
+    "nameLsad": "Garrison city"
+  },
+  {
+    "name": "Luzerne",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Luzerne",
+    "nameLsad": "Luzerne city"
+  },
+  {
+    "name": "Van Horne",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Van Horne",
+    "nameLsad": "Van Horne city"
+  },
+  {
+    "name": "Brayton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Brayton",
+    "nameLsad": "Brayton city"
+  },
+  {
+    "name": "Fredericksburg",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Fredericksburg",
+    "nameLsad": "Fredericksburg city"
+  },
+  {
+    "name": "Ionia",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Ionia",
+    "nameLsad": "Ionia city"
+  },
+  {
+    "name": "Meservey",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Meservey",
+    "nameLsad": "Meservey city"
+  },
+  {
+    "name": "Nora Springs",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Nora Springs",
+    "nameLsad": "Nora Springs city"
+  },
+  {
+    "name": "Thornton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Thornton",
+    "nameLsad": "Thornton city"
+  },
+  {
+    "name": "Milford",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Milford",
+    "nameLsad": "Milford city"
+  },
+  {
+    "name": "Klemme",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Klemme",
+    "nameLsad": "Klemme city"
+  },
+  {
+    "name": "Hanlontown",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Hanlontown",
+    "nameLsad": "Hanlontown city"
+  },
+  {
+    "name": "Joice",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Joice",
+    "nameLsad": "Joice city"
+  },
+  {
+    "name": "Kensett",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Kensett",
+    "nameLsad": "Kensett city"
+  },
+  {
+    "name": "Lawler",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Lawler",
+    "nameLsad": "Lawler city"
+  },
+  {
+    "name": "Protivin",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Protivin",
+    "nameLsad": "Protivin city"
+  },
+  {
+    "name": "Grafton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Grafton",
+    "nameLsad": "Grafton city"
+  },
+  {
+    "name": "Ladora",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Ladora",
+    "nameLsad": "Ladora city"
+  },
+  {
+    "name": "Rockford",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Rockford",
+    "nameLsad": "Rockford city"
+  },
+  {
+    "name": "Bradgate",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Bradgate",
+    "nameLsad": "Bradgate city"
+  },
+  {
+    "name": "Livermore",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Livermore",
+    "nameLsad": "Livermore city"
+  },
+  {
+    "name": "Thor",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Thor",
+    "nameLsad": "Thor city"
+  },
+  {
+    "name": "Clayton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Clayton",
+    "nameLsad": "Clayton city"
+  },
+  {
+    "name": "Burt",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Burt",
+    "nameLsad": "Burt city"
+  },
+  {
+    "name": "Gruver",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Gruver",
+    "nameLsad": "Gruver city"
+  },
+  {
+    "name": "Ringsted",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Ringsted",
+    "nameLsad": "Ringsted city"
+  },
+  {
+    "name": "Elkport",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Elkport",
+    "nameLsad": "Elkport city"
+  },
+  {
+    "name": "Garber",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Garber",
+    "nameLsad": "Garber city"
+  },
+  {
+    "name": "Luana",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Luana",
+    "nameLsad": "Luana city"
+  },
+  {
+    "name": "Williamson",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Williamson",
+    "nameLsad": "Williamson city"
+  },
+  {
+    "name": "Cantril",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Cantril",
+    "nameLsad": "Cantril city"
+  },
+  {
+    "name": "Kirkman",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Kirkman",
+    "nameLsad": "Kirkman city"
+  },
+  {
+    "name": "Portsmouth",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Portsmouth",
+    "nameLsad": "Portsmouth city"
+  },
+  {
+    "name": "Stanhope",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Stanhope",
+    "nameLsad": "Stanhope city"
+  },
+  {
+    "name": "Terril",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Terril",
+    "nameLsad": "Terril city"
+  },
+  {
+    "name": "McGregor",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "McGregor",
+    "nameLsad": "McGregor city"
+  },
+  {
+    "name": "Marquette",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Marquette",
+    "nameLsad": "Marquette city"
+  },
+  {
+    "name": "Monona",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Monona",
+    "nameLsad": "Monona city"
+  },
+  {
+    "name": "St. Olaf",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "St. Olaf",
+    "nameLsad": "St. Olaf city"
+  },
+  {
+    "name": "Badger",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Badger",
+    "nameLsad": "Badger city"
+  },
+  {
+    "name": "Duncombe",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Duncombe",
+    "nameLsad": "Duncombe city"
+  },
+  {
+    "name": "Strawberry Point",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Strawberry Point",
+    "nameLsad": "Strawberry Point city"
+  },
+  {
+    "name": "Volga",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Volga",
+    "nameLsad": "Volga city"
+  },
+  {
+    "name": "Bevington",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Bevington",
+    "nameLsad": "Bevington city"
+  },
+  {
+    "name": "Cumming",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Cumming",
+    "nameLsad": "Cumming city"
+  },
+  {
+    "name": "Hartford",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Hartford",
+    "nameLsad": "Hartford city"
+  },
+  {
+    "name": "Martensdale",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Martensdale",
+    "nameLsad": "Martensdale city"
+  },
+  {
+    "name": "New Virginia",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "New Virginia",
+    "nameLsad": "New Virginia city"
+  },
+  {
+    "name": "Sandyville",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Sandyville",
+    "nameLsad": "Sandyville city"
+  },
+  {
+    "name": "Spring Hill",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Spring Hill",
+    "nameLsad": "Spring Hill city"
+  },
+  {
+    "name": "McCallsburg",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "McCallsburg",
+    "nameLsad": "McCallsburg city"
+  },
+  {
+    "name": "Sheldahl",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Sheldahl",
+    "nameLsad": "Sheldahl city"
+  },
+  {
+    "name": "Beacon",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Beacon",
+    "nameLsad": "Beacon city"
+  },
+  {
+    "name": "St. Marys",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "St. Marys",
+    "nameLsad": "St. Marys city"
+  },
+  {
+    "name": "Irwin",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Irwin",
+    "nameLsad": "Irwin city"
+  },
+  {
+    "name": "Cromwell",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Cromwell",
+    "nameLsad": "Cromwell city"
+  },
+  {
+    "name": "Kalona",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Kalona",
+    "nameLsad": "Kalona city"
+  },
+  {
+    "name": "Farmersburg",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Farmersburg",
+    "nameLsad": "Farmersburg city"
+  },
+  {
+    "name": "Garnavillo",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Garnavillo",
+    "nameLsad": "Garnavillo city"
+  },
+  {
+    "name": "Osterdock",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Osterdock",
+    "nameLsad": "Osterdock city"
+  },
+  {
+    "name": "Crystal Lake",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Crystal Lake",
+    "nameLsad": "Crystal Lake city"
+  },
+  {
+    "name": "Kanawha",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Kanawha",
+    "nameLsad": "Kanawha city"
+  },
+  {
+    "name": "Woden",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Woden",
+    "nameLsad": "Woden city"
+  },
+  {
+    "name": "Barnes City",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Barnes City",
+    "nameLsad": "Barnes City city"
+  },
+  {
+    "name": "Vincent",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Vincent",
+    "nameLsad": "Vincent city"
+  },
+  {
+    "name": "Moorland",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Moorland",
+    "nameLsad": "Moorland city"
+  },
+  {
+    "name": "Moorhead",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Moorhead",
+    "nameLsad": "Moorhead city"
+  },
+  {
+    "name": "Bayard",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Bayard",
+    "nameLsad": "Bayard city"
+  },
+  {
+    "name": "Menlo",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Menlo",
+    "nameLsad": "Menlo city"
+  },
+  {
+    "name": "Panora",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Panora",
+    "nameLsad": "Panora city"
+  },
+  {
+    "name": "Nemaha",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Nemaha",
+    "nameLsad": "Nemaha city"
+  },
+  {
+    "name": "Shenandoah",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Shenandoah",
+    "nameLsad": "Shenandoah city"
+  },
+  {
+    "name": "Derby",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Derby",
+    "nameLsad": "Derby city"
+  },
+  {
+    "name": "Middletown",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Middletown",
+    "nameLsad": "Middletown city"
+  },
+  {
+    "name": "Farragut",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Farragut",
+    "nameLsad": "Farragut city"
+  },
+  {
+    "name": "Hamburg",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Hamburg",
+    "nameLsad": "Hamburg city"
+  },
+  {
+    "name": "Randolph",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Randolph",
+    "nameLsad": "Randolph city"
+  },
+  {
+    "name": "Lytton",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Lytton",
+    "nameLsad": "Lytton city"
+  },
+  {
+    "name": "Auburn",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Auburn",
+    "nameLsad": "Auburn city"
+  },
+  {
+    "name": "Early",
+    "stateCode": "IA",
+    "type": "incorporated",
+    "originalName": "Early",
+    "nameLsad": "Early city"
+  },
+  {
+    "name": "Bayou L'Ourse",
+    "stateCode": "LA",
+    "type": "CDP",
+    "originalName": "Bayou L'Ourse",
+    "nameLsad": "Bayou L'Ourse CDP"
+  },
+  {
+    "name": "Martin's Additions",
+    "stateCode": "MD",
+    "type": "incorporated",
+    "originalName": "Martin's Additions",
+    "nameLsad": "Martin's Additions village"
+  },
+  {
+    "name": "L'Anse",
+    "stateCode": "MI",
+    "type": "incorporated",
+    "originalName": "L'Anse",
+    "nameLsad": "L'Anse village"
+  },
+  {
+    "name": "St. John's University",
+    "stateCode": "MN",
+    "type": "CDP",
+    "originalName": "St. John's University",
+    "nameLsad": "St. John's University CDP"
+  },
+  {
+    "name": "D'Iberville",
+    "stateCode": "MS",
+    "type": "incorporated",
+    "originalName": "D'Iberville",
+    "nameLsad": "D'Iberville city"
+  },
+  {
+    "name": "D'Lo",
+    "stateCode": "MS",
+    "type": "incorporated",
+    "originalName": "D'Lo",
+    "nameLsad": "D'Lo town"
+  },
+  {
+    "name": "Lee's Summit",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "Lee's Summit",
+    "nameLsad": "Lee's Summit city"
+  },
+  {
+    "name": "Fountain N' Lakes",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "Fountain N' Lakes",
+    "nameLsad": "Fountain N' Lakes village"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "O'Fallon",
+    "nameLsad": "O'Fallon city"
+  },
+  {
+    "name": "Rocky Boy's Agency",
+    "stateCode": "MT",
+    "type": "CDP",
+    "originalName": "Rocky Boy's Agency",
+    "nameLsad": "Rocky Boy's Agency CDP"
+  },
+  {
+    "name": "O'Neill",
+    "stateCode": "NE",
+    "type": "incorporated",
+    "originalName": "O'Neill",
+    "nameLsad": "O'Neill city"
+  },
+  {
+    "name": "Golden's Bridge",
+    "stateCode": "NY",
+    "type": "CDP",
+    "originalName": "Golden's Bridge",
+    "nameLsad": "Golden's Bridge CDP"
+  },
+  {
+    "name": "Cajah's Mountain",
+    "stateCode": "NC",
+    "type": "incorporated",
+    "originalName": "Cajah's Mountain",
+    "nameLsad": "Cajah's Mountain town"
+  },
+  {
+    "name": "Wilson's Mills",
+    "stateCode": "NC",
+    "type": "incorporated",
+    "originalName": "Wilson's Mills",
+    "nameLsad": "Wilson's Mills town"
+  },
+  {
+    "name": "Spivey's Corner",
+    "stateCode": "NC",
+    "type": "CDP",
+    "originalName": "Spivey's Corner",
+    "nameLsad": "Spivey's Corner CDP"
+  },
+  {
+    "name": "Reile's Acres",
+    "stateCode": "ND",
+    "type": "incorporated",
+    "originalName": "Reile's Acres",
+    "nameLsad": "Reile's Acres city"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "OR",
+    "type": "CDP",
+    "originalName": "O'Brien",
+    "nameLsad": "O'Brien CDP"
+  },
+  {
+    "name": "Sullivan's Island",
+    "stateCode": "SC",
+    "type": "incorporated",
+    "originalName": "Sullivan's Island",
+    "nameLsad": "Sullivan's Island town"
+  },
+  {
+    "name": "Thompson's Station",
+    "stateCode": "TN",
+    "type": "incorporated",
+    "originalName": "Thompson's Station",
+    "nameLsad": "Thompson's Station town"
+  },
+  {
+    "name": "Parker's Crossroads",
+    "stateCode": "TN",
+    "type": "incorporated",
+    "originalName": "Parker's Crossroads",
+    "nameLsad": "Parker's Crossroads city"
+  },
+  {
+    "name": "Bailey's Prairie",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Bailey's Prairie",
+    "nameLsad": "Bailey's Prairie village"
+  },
+  {
+    "name": "O'Donnell",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "O'Donnell",
+    "nameLsad": "O'Donnell city"
+  },
+  {
+    "name": "Morgan's Point Resort",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Morgan's Point Resort",
+    "nameLsad": "Morgan's Point Resort city"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "O'Brien",
+    "nameLsad": "O'Brien city"
+  },
+  {
+    "name": "Miller's Cove",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Miller's Cove",
+    "nameLsad": "Miller's Cove town"
+  },
+  {
+    "name": "Morgan's Point",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Morgan's Point",
+    "nameLsad": "Morgan's Point city"
+  },
+  {
+    "name": "Carl's Corner",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Carl's Corner",
+    "nameLsad": "Carl's Corner town"
+  },
+  {
+    "name": "D'Hanis",
+    "stateCode": "TX",
+    "type": "CDP",
+    "originalName": "D'Hanis",
+    "nameLsad": "D'Hanis CDP"
+  },
+  {
+    "name": "Port O'Connor",
+    "stateCode": "TX",
+    "type": "CDP",
+    "originalName": "Port O'Connor",
+    "nameLsad": "Port O'Connor CDP"
+  },
+  {
+    "name": "Bailey's Crossroads",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Bailey's Crossroads",
+    "nameLsad": "Bailey's Crossroads CDP"
+  },
+  {
+    "name": "Boswell's Corner",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Boswell's Corner",
+    "nameLsad": "Boswell's Corner CDP"
+  },
+  {
+    "name": "Lake Land'Or",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Lake Land'Or",
+    "nameLsad": "Lake Land'Or CDP"
+  },
+  {
+    "name": "The University of Virginia's College at Wise",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "The University of Virginia's College at Wise",
+    "nameLsad": "The University of Virginia's College at Wise CDP"
+  },
+  {
+    "name": "Barney's Junction",
+    "stateCode": "WA",
+    "type": "CDP",
+    "originalName": "Barney's Junction",
+    "nameLsad": "Barney's Junction CDP"
+  },
+  {
+    "name": "Chain O' Lakes",
+    "stateCode": "WI",
+    "type": "CDP",
+    "originalName": "Chain O' Lakes",
+    "nameLsad": "Chain O' Lakes CDP"
+  }
+]

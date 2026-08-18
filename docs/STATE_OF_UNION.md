@@ -1,6 +1,6 @@
 # Nomad State of the Union
 
-Last updated: 2026-03-25
+Last updated: 2026-06-20 (Run #2 desktop/web evidence applied)
 Owner: Majim
 Mode: Consolidation (no net-new features)
 
@@ -35,8 +35,12 @@ Verified means there is recent repeatable evidence (manual or automated) that be
 
 Current verified status is partial and should be treated as provisional:
 
-- App launches and key screens render: partially verified through smoke checklist usage.
-- AI assistant and booking card rendering: partially verified via manual checklist docs.
+- App launches and key screens render: partially verified — web launch OK (2026-06-20); primary device pending.
+- Automated static smoke test: verified (`npm run test:smoke`, 2026-06-20).
+- Home to Travel Log golden path: verified after route fix in `app/(tabs)/index.tsx`.
+- Location permission denied flow: verified with explicit recovery UX (settings + retry) and no silent recording failure.
+- Trip persistence after restart: verified (saved trip remains accessible in Travel Log after reload).
+- AI assistant and booking card rendering: partially verified via manual checklist docs (not re-run 2026-06-20).
 - General code presence checks: verified by static smoke script (`scripts/automated-smoke-test.js`).
 
 Confidence level: Low to Medium.
@@ -46,9 +50,10 @@ Confidence level: Low to Medium.
 These are implemented but not yet proven reliable for release:
 
 - End-to-end core loop reliability across repeated runs on real device
-- Permission edge cases (deny/revoke/restore location)
 - Route failure handling and navigation interruption recovery
 - Trip save/read resilience under network transitions
+- Weak/offline state and recovery behavior during active routing
+- Background/foreground stability during active navigation
 - Cross-platform parity (especially web vs mobile map behavior)
 - Non-core features used as secondary pathways (AI, Explorer, Bookings, Achievements)
 
@@ -83,7 +88,7 @@ Confidence level: Low.
 ## Next 7 Days (Execution Targets)
 
 - Build a strict pass/fail baseline using `docs/MVP_RELEASE_GATE.md`
-- Run 5 complete core-loop passes and log each in `docs/MVP_TEST_RUN_LOG.md`
+- Run 5 complete core-loop passes and log each in `docs/MVP_TEST_RUN_LOG.md` (1 of 5 complete; Run #2 web-only partial)
 - Resolve top 5 blockers only (no feature work)
 - Update this doc daily with evidence, not assumptions
 

@@ -1,0 +1,1134 @@
+{
+  "name": "New Hampshire",
+  "code": "NH",
+  "counties": [
+    {
+      "name": "Belknap County",
+      "cities": [
+        {
+          "name": "Tilton Northfield",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.444456,
+          "longitude": -71.5901986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Hampton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.6236211,
+          "longitude": -71.6304407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meredith",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.6582365,
+          "longitude": -71.4999617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belmont",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.4445327,
+          "longitude": -71.4776054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.4543228,
+          "longitude": -71.2189721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laconia",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Belknap County",
+          "latitude": 43.5292687,
+          "longitude": -71.4709749,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Wolfeboro",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.5844975,
+          "longitude": -71.2105499,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Union",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.4922083,
+          "longitude": -71.023921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Suissevale",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.7248616,
+          "longitude": -71.3634725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanbornville",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.5528215,
+          "longitude": -71.0309286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Conway",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 44.0536805,
+          "longitude": -71.1284041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melvin Village",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.6880145,
+          "longitude": -71.29941749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conway",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.9787728,
+          "longitude": -71.1184579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Center Ossipee",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.7551052,
+          "longitude": -71.1529758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Center Sandwich",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 43.8074221,
+          "longitude": -71.4397352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bartlett",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Carroll County",
+          "latitude": 44.0738899,
+          "longitude": -71.2342866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cheshire County",
+      "cities": [
+        {
+          "name": "Winchester",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.7734022,
+          "longitude": -72.38312359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Swanzey",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.8700819,
+          "longitude": -72.3217525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walpole",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 43.0794944,
+          "longitude": -72.4258229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Troy",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.8270422,
+          "longitude": -72.1830038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Walpole",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 43.1390125,
+          "longitude": -72.44760099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marlborough",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.9042471,
+          "longitude": -72.2078343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jaffrey",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.8142268,
+          "longitude": -72.02229129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hinsdale",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.7864809,
+          "longitude": -72.4866775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keene",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Cheshire County",
+          "latitude": 42.933692,
+          "longitude": -72.2781409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coos County",
+      "cities": [
+        {
+          "name": "Whitefield",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.3730082,
+          "longitude": -71.61179489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Stewartstown",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.9954358,
+          "longitude": -71.5313768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lancaster",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.487237,
+          "longitude": -71.56961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Groveton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.5986652,
+          "longitude": -71.511195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gorham",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.3879504,
+          "longitude": -71.17278809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colebrook",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.894313,
+          "longitude": -71.496296,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berlin",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Coos County",
+          "latitude": 44.4686696,
+          "longitude": -71.18507679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grafton County",
+      "cities": [
+        {
+          "name": "Woodsville",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.1512867,
+          "longitude": -72.0367187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plymouth",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.7570415,
+          "longitude": -71.6878162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Woodstock",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.0302045,
+          "longitude": -71.6864932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Haverhill",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.0839848,
+          "longitude": -72.0201877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain Lakes",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.1214533,
+          "longitude": -71.9553663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.0444001,
+          "longitude": -71.66844789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lisbon",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.2133222,
+          "longitude": -71.9109059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Littleton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.3060969,
+          "longitude": -71.7703013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanover",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.7022451,
+          "longitude": -72.2895526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enfield",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.64064399999999,
+          "longitude": -72.14398299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethlehem",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 44.2803843,
+          "longitude": -71.6875364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bristol",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.5911499,
+          "longitude": -71.7367162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canaan",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.6809381,
+          "longitude": -72.0518883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.6953754,
+          "longitude": -71.631185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebanon",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Grafton County",
+          "latitude": 43.6422934,
+          "longitude": -72.2517569,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hillsborough County",
+      "cities": [
+        {
+          "name": "Wilton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.8446097,
+          "longitude": -71.7384885,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peterborough",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.8706048,
+          "longitude": -71.95167459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinardville",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.9942506,
+          "longitude": -71.5072902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Boston",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.9761945,
+          "longitude": -71.69396259999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milford",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.83543,
+          "longitude": -71.64915289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Klondike Corner",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.9652328,
+          "longitude": -71.6376694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hudson",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.7647763,
+          "longitude": -71.43980739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsborough",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 43.1148529,
+          "longitude": -71.8948994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hancock",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.9731616,
+          "longitude": -71.9800289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenville",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.7673195,
+          "longitude": -71.81229139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Francestown",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.98758249999999,
+          "longitude": -71.8125769,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goffstown",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 43.0204052,
+          "longitude": -71.6002223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Merrimack",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.8666559,
+          "longitude": -71.49349339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennington",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 43.003137,
+          "longitude": -71.92452399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amherst",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.8633344,
+          "longitude": -71.6271948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antrim",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 43.0308557,
+          "longitude": -71.9389194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nashua",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Hillsborough County",
+          "latitude": 42.7581256,
+          "longitude": -71.46517469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Merrimack County",
+      "cities": [
+        {
+          "name": "Concord",
+          "state": "New Hampshire",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.20622059999999,
+          "longitude": -71.5398156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Franklin",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.4442432,
+          "longitude": -71.6472988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blodgett Landing",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.3729587,
+          "longitude": -72.0418741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradford",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.26870479999999,
+          "longitude": -71.9576292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Contoocook",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.2220234,
+          "longitude": -71.7139655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henniker",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.1796573,
+          "longitude": -71.82234389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hooksett",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.0463073,
+          "longitude": -71.4365043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loudon",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.2856337,
+          "longitude": -71.46726509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New London",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.4284925,
+          "longitude": -71.97569899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pittsfield",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.3058983,
+          "longitude": -71.3242331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Hooksett",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.0463169,
+          "longitude": -71.436521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Suncook",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.1315762,
+          "longitude": -71.45262989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warner",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Merrimack County",
+          "latitude": 43.2556568,
+          "longitude": -71.8334145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rockingham County",
+      "cities": [
+        {
+          "name": "Seabrook Beach",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.8841004,
+          "longitude": -70.8152588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raymond",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 43.0362094,
+          "longitude": -71.1833857,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newmarket",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 43.07760529999999,
+          "longitude": -70.9373328,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newfields",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 43.0348625,
+          "longitude": -70.9428006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Londonderry",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.8464852,
+          "longitude": -71.3616057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.93759319999999,
+          "longitude": -70.83892190000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampton Beach",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.9113098,
+          "longitude": -70.81348179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Epping",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 43.0534843,
+          "longitude": -71.0735476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Exeter",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.9813698,
+          "longitude": -70.9461778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Derry",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 42.8819702,
+          "longitude": -71.3241656,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portsmouth",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Rockingham County",
+          "latitude": 43.0702046,
+          "longitude": -70.7546771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Strafford County",
+      "cities": [
+        {
+          "name": "Milton",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.4084124,
+          "longitude": -70.9880646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milton Mills",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.5006042,
+          "longitude": -70.9629686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.3877365,
+          "longitude": -71.0626606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Durham",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.1339545,
+          "longitude": -70.9264393,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dover",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.1978624,
+          "longitude": -70.8736698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Somersworth",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Strafford County",
+          "latitude": 43.26257409999999,
+          "longitude": -70.864769,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sullivan County",
+      "cities": [
+        {
+          "name": "Plainfield",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Sullivan County",
+          "latitude": 43.5489556,
+          "longitude": -72.2600655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Sullivan County",
+          "latitude": 43.3649339,
+          "longitude": -72.1735972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlestown",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Sullivan County",
+          "latitude": 43.23041389999999,
+          "longitude": -72.4232399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Claremont",
+          "state": "NH",
+          "stateCode": "NH",
+          "county": "Sullivan County",
+          "latitude": 43.3728635,
+          "longitude": -72.33787439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

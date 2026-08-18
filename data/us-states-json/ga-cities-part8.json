@@ -1,0 +1,607 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Hart County",
+      "cities": [
+        {
+          "name": "Bowersville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Hart County",
+          "latitude": 34.3728819,
+          "longitude": -83.0826491,
+          "population": 467,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Heard County",
+      "cities": [
+        {
+          "name": "Glenn",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Heard County",
+          "latitude": 33.1542875,
+          "longitude": -85.2029991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Heard County",
+      "cities": []
+    },
+    {
+      "name": "Heard County",
+      "cities": [
+        {
+          "name": "Centralhatchee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Heard County",
+          "latitude": 33.3690045,
+          "longitude": -85.103554,
+          "population": 365,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Henry County",
+      "cities": [
+        {
+          "name": "Heron Bay",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Henry County",
+          "latitude": 33.3391381,
+          "longitude": -84.1922196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Henry County",
+      "cities": [
+        {
+          "name": "Hampton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Henry County",
+          "latitude": 33.3851098,
+          "longitude": -84.2829063,
+          "population": 9162,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Locust Grove",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Henry County",
+          "latitude": 33.3459495,
+          "longitude": -84.109083,
+          "population": 11199,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "McDonough",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Henry County",
+          "latitude": 33.4471669,
+          "longitude": -84.1423703,
+          "population": 32138,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Houston County",
+      "cities": [
+        {
+          "name": "Robins AFB",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Houston County",
+          "latitude": 32.6400014,
+          "longitude": -83.591719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Houston County",
+      "cities": [
+        {
+          "name": "Henderson",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Houston County",
+          "latitude": 32.3412677,
+          "longitude": -83.78934699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Houston County",
+      "cities": [
+        {
+          "name": "Perry",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Houston County",
+          "latitude": 32.4582065,
+          "longitude": -83.7315723,
+          "population": 24029,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Irwin County",
+      "cities": []
+    },
+    {
+      "name": "Irwin County",
+      "cities": []
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Arcade",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.0778881,
+          "longitude": -83.5615536,
+          "population": 1980,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Commerce",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.203997,
+          "longitude": -83.4571057,
+          "population": 8287,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hoschton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.096496,
+          "longitude": -83.7612839,
+          "population": 5388,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jackson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.1174511,
+          "longitude": -83.54965659999999,
+          "population": 5854,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Maysville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.2528839,
+          "longitude": -83.5615548,
+          "population": 2167,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nicholson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.1139993,
+          "longitude": -83.4315488,
+          "population": 1878,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pendergrass",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.16232919999999,
+          "longitude": -83.6779473,
+          "population": 1805,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Talmo",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.185106,
+          "longitude": -83.7207267,
+          "population": 290,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jasper County",
+      "cities": []
+    },
+    {
+      "name": "Jasper County",
+      "cities": [
+        {
+          "name": "Hardeeville",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Jasper County",
+          "latitude": 32.2871413,
+          "longitude": -81.08066649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jasper",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Jasper County",
+          "latitude": 30.920823,
+          "longitude": -93.99688119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joplin",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Jasper County",
+          "latitude": 37.0854844,
+          "longitude": -94.5134312,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newton",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Jasper County",
+          "latitude": 41.7033177,
+          "longitude": -93.05735330000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rensselaer",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Jasper County",
+          "latitude": 40.9367045,
+          "longitude": -87.15085619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shady Dale",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jasper County",
+          "latitude": 33.4006823,
+          "longitude": -83.5901713,
+          "population": 286,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Davis County",
+      "cities": [
+        {
+          "name": "Satilla",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Jeff Davis County",
+          "latitude": 31.78722,
+          "longitude": -82.56806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Davis County",
+      "cities": []
+    },
+    {
+      "name": "Jeff Davis County",
+      "cities": [
+        {
+          "name": "Denton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jeff Davis County",
+          "latitude": 31.7226881,
+          "longitude": -82.6937513,
+          "population": 188,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Matthews",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.2109785,
+          "longitude": -82.3076238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Avera",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.1940354,
+          "longitude": -82.5270728,
+          "population": 215,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bartow",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 32.8787666,
+          "longitude": -82.4737399,
+          "population": 179,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jefferson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.0740753,
+          "longitude": -82.4319405,
+          "population": 15756,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Louisville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.0015407,
+          "longitude": -82.4112377,
+          "population": 2289,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Stapleton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.21570120000001,
+          "longitude": -82.4681823,
+          "population": 399,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wadley",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 32.8663713,
+          "longitude": -82.4045977,
+          "population": 1569,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wrens",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.2076456,
+          "longitude": -82.391792,
+          "population": 2127,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins County",
+      "cities": [
+        {
+          "name": "Perkins",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Jenkins County",
+          "latitude": 32.9092808,
+          "longitude": -81.9532346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins County",
+      "cities": []
+    },
+    {
+      "name": "Jenkins County",
+      "cities": []
+    },
+    {
+      "name": "Johnson County",
+      "cities": [
+        {
+          "name": "Adrian",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Johnson County",
+          "latitude": 32.5307224,
+          "longitude": -82.5892995,
+          "population": 565,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kite",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Johnson County",
+          "latitude": 32.6923836,
+          "longitude": -82.5145752,
+          "population": 158,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jones County",
+      "cities": []
+    },
+    {
+      "name": "Jones County",
+      "cities": [
+        {
+          "name": "Anamosa",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Jones County",
+          "latitude": 42.1083371,
+          "longitude": -91.28515940000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laurel",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.6940509,
+          "longitude": -89.1306124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lamar County",
+      "cities": [
+        {
+          "name": "Aldora",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Lamar County",
+          "latitude": 33.0520707,
+          "longitude": -84.17575029999999,
+          "population": 185,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Milner",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Lamar County",
+          "latitude": 33.1167891,
+          "longitude": -84.1965855,
+          "population": 814,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Lanier County",
+      "cities": [
+        {
+          "name": "Stockton",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Lanier County",
+          "latitude": 30.9393746,
+          "longitude": -82.99958699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lanier County",
+      "cities": []
+    },
+    {
+      "name": "Lanier County",
+      "cities": []
+    },
+    {
+      "name": "Laurens County",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "plugins": {
+    "antimetal": {
+      "enabled": true
+    },
+    "appwrite-plugin": {
+      "enabled": true
+    },
+    "asana": {
+      "enabled": true
+    }
+  }
+}

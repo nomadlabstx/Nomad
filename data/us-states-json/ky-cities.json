@@ -1,0 +1,6110 @@
+{
+  "name": "Kentucky",
+  "code": "KY",
+  "counties": [
+    {
+      "name": "Adair County",
+      "cities": [
+        {
+          "name": "Columbia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Adair County",
+          "latitude": 37.102841,
+          "longitude": -85.3063504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Allen County",
+      "cities": []
+    },
+    {
+      "name": "Anderson County",
+      "cities": [
+        {
+          "name": "Lawrenceburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Anderson County",
+          "latitude": 38.03717779999999,
+          "longitude": -84.896275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ballard County",
+      "cities": [
+        {
+          "name": "Lovelaceville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 36.9694417,
+          "longitude": -88.82881429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bandana",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 37.1453729,
+          "longitude": -88.9460938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blandville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 36.9436656,
+          "longitude": -88.9639521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kevil",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 37.0850537,
+          "longitude": -88.88672749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Center",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 37.0767199,
+          "longitude": -88.9736762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wickliffe",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 36.9647754,
+          "longitude": -89.0892348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barlow",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ballard County",
+          "latitude": 37.0517194,
+          "longitude": -89.0467345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Barren County",
+      "cities": [
+        {
+          "name": "Hiseville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Barren County",
+          "latitude": 37.1008864,
+          "longitude": -85.8124723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glasgow",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Barren County",
+          "latitude": 36.9963236,
+          "longitude": -85.9128353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cave City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Barren County",
+          "latitude": 37.1367171,
+          "longitude": -85.9569195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Barren County",
+          "latitude": 37.0936111,
+          "longitude": -86.0487464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bath County",
+      "cities": [
+        {
+          "name": "Salt Lick",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bath County",
+          "latitude": 38.1200809,
+          "longitude": -83.6146346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sharpsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bath County",
+          "latitude": 38.2020214,
+          "longitude": -83.92936809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Owingsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bath County",
+          "latitude": 38.1448015,
+          "longitude": -83.7640847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bell County",
+      "cities": [
+        {
+          "name": "Arjay",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bell County",
+          "latitude": 36.80480840000001,
+          "longitude": -83.64574979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middlesborough",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bell County",
+          "latitude": 36.6072567,
+          "longitude": -83.7142848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pineville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bell County",
+          "latitude": 36.76203,
+          "longitude": -83.6949176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boone County",
+      "cities": [
+        {
+          "name": "Verona",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.8180932,
+          "longitude": -84.6606092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rabbit Hash",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.9414494,
+          "longitude": -84.8471711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Petersburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 39.0687387,
+          "longitude": -84.8673956,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakbrook",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.9979541,
+          "longitude": -84.68541060000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebron",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 39.0661472,
+          "longitude": -84.70318879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Francisville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 39.0901282,
+          "longitude": -84.7128214,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burlington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 39.02756,
+          "longitude": -84.7241133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belleview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.986171,
+          "longitude": -84.82550429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.87561940000001,
+          "longitude": -84.61022129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bourbon County",
+      "cities": [
+        {
+          "name": "Millersburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bourbon County",
+          "latitude": 38.30202,
+          "longitude": -84.14742969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Middletown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bourbon County",
+          "latitude": 38.1450772,
+          "longitude": -84.1113165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paris",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bourbon County",
+          "latitude": 38.2097987,
+          "longitude": -84.2529869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boyd County",
+      "cities": [
+        {
+          "name": "Westwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyd County",
+          "latitude": 38.4831366,
+          "longitude": -82.66988409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ironville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyd County",
+          "latitude": 38.4564702,
+          "longitude": -82.69238450000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cannonsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyd County",
+          "latitude": 38.3886931,
+          "longitude": -82.70266199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyd County",
+          "latitude": 38.4790397,
+          "longitude": -82.6376391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catlettsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyd County",
+          "latitude": 38.4047675,
+          "longitude": -82.6008669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boyle County",
+      "cities": [
+        {
+          "name": "Danville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyle County",
+          "latitude": 37.6458551,
+          "longitude": -84.7725154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perryville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyle County",
+          "latitude": 37.650351,
+          "longitude": -84.9516234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Junction City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Boyle County",
+          "latitude": 37.5829569,
+          "longitude": -84.7864924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bracken County",
+      "cities": [
+        {
+          "name": "Augusta",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bracken County",
+          "latitude": 38.7717376,
+          "longitude": -84.0057628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brooksville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bracken County",
+          "latitude": 38.6825719,
+          "longitude": -84.06576319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Germantown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bracken County",
+          "latitude": 38.65479500000001,
+          "longitude": -83.9646491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Breathitt County",
+      "cities": [
+        {
+          "name": "Jackson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Breathitt County",
+          "latitude": 37.5531457,
+          "longitude": -83.38351349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Breckinridge County",
+      "cities": [
+        {
+          "name": "Hardinsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Breckinridge County",
+          "latitude": 37.780009,
+          "longitude": -86.460847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irvington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Breckinridge County",
+          "latitude": 37.879158,
+          "longitude": -86.2839023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cloverport",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Breckinridge County",
+          "latitude": 37.8355441,
+          "longitude": -86.6361064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bullitt County",
+      "cities": [
+        {
+          "name": "Brooks",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0638317,
+          "longitude": -85.722742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebron Estates",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.052059,
+          "longitude": -85.6707248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fox Chase",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0494633,
+          "longitude": -85.6912643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hunters Hollow",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0772892,
+          "longitude": -85.69218149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebanon Junction",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 37.8340256,
+          "longitude": -85.7292906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pioneer Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0670052,
+          "longitude": -85.6772276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0787754,
+          "longitude": -85.6787263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shepherdsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 37.9909115,
+          "longitude": -85.7158315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Washington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Bullitt County",
+          "latitude": 38.0481573,
+          "longitude": -85.5416656,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Butler County",
+      "cities": [
+        {
+          "name": "Rochester",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Butler County",
+          "latitude": 37.2125441,
+          "longitude": -86.8930493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodbury",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Butler County",
+          "latitude": 37.1833792,
+          "longitude": -86.6338773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Caldwell County",
+      "cities": [
+        {
+          "name": "Fredonia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Caldwell County",
+          "latitude": 37.2081074,
+          "longitude": -88.0566877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Princeton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Caldwell County",
+          "latitude": 37.1092162,
+          "longitude": -87.8819594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Calloway County",
+      "cities": [
+        {
+          "name": "Dexter",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Calloway County",
+          "latitude": 36.74168239999999,
+          "longitude": -88.2955145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hazel",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Calloway County",
+          "latitude": 36.5022783,
+          "longitude": -88.3258742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murray",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Calloway County",
+          "latitude": 36.6103334,
+          "longitude": -88.31476099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Campbell County",
+      "cities": [
+        {
+          "name": "Claryville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 38.9192311,
+          "longitude": -84.39549439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mentor",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 38.8872886,
+          "longitude": -84.2463245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cold Spring",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0217283,
+          "longitude": -84.4399406,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Thomas",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.07506070000001,
+          "longitude": -84.4471633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highland Heights",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0331169,
+          "longitude": -84.4518854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.091449,
+          "longitude": -84.4957757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Grove",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0345062,
+          "longitude": -84.3902174,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Southgate",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.072005,
+          "longitude": -84.4727195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilder",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0236772,
+          "longitude": -84.4807399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melbourne",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0297843,
+          "longitude": -84.3663279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodlawn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0905861,
+          "longitude": -84.4730459,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellevue",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.1064488,
+          "longitude": -84.478831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "California",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 38.9186766,
+          "longitude": -84.26354719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crestview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.0253395,
+          "longitude": -84.41744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 39.1128377,
+          "longitude": -84.4727197,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexandria",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Campbell County",
+          "latitude": 38.9595078,
+          "longitude": -84.3879946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carlisle County",
+      "cities": [
+        {
+          "name": "Cunningham",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carlisle County",
+          "latitude": 36.9075553,
+          "longitude": -88.8897817,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carlisle County",
+          "latitude": 36.7903347,
+          "longitude": -89.01284199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bardwell",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carlisle County",
+          "latitude": 36.8706111,
+          "longitude": -89.0097869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Worthville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carroll County",
+          "latitude": 38.6097865,
+          "longitude": -85.0674516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ghent",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carroll County",
+          "latitude": 38.7375625,
+          "longitude": -85.0582835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanders",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carroll County",
+          "latitude": 38.65534239999999,
+          "longitude": -84.9471712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prestonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carroll County",
+          "latitude": 38.6797846,
+          "longitude": -85.19023159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carter County",
+      "cities": [
+        {
+          "name": "Olive Hill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carter County",
+          "latitude": 38.3000809,
+          "longitude": -83.17406539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grayson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Carter County",
+          "latitude": 38.3325812,
+          "longitude": -82.9485023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Casey County",
+      "cities": [
+        {
+          "name": "Liberty",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Casey County",
+          "latitude": 37.3184064,
+          "longitude": -84.9393979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Christian County",
+      "cities": [
+        {
+          "name": "Gracey",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.8780519,
+          "longitude": -87.66209669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Campbell North",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.6526796,
+          "longitude": -87.46535019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.8433771,
+          "longitude": -87.3038926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crofton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 37.0478218,
+          "longitude": -87.4850022,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pembroke",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.7783807,
+          "longitude": -87.3538324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "LaFayette",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.6593025,
+          "longitude": -87.65838509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Christian County",
+          "latitude": 36.6650471,
+          "longitude": -87.44278779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": []
+    },
+    {
+      "name": "Clay County",
+      "cities": [
+        {
+          "name": "Oneida",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Clay County",
+          "latitude": 37.2689163,
+          "longitude": -83.6534621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clinton County",
+      "cities": []
+    },
+    {
+      "name": "Crittenden County",
+      "cities": [
+        {
+          "name": "Tolu",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Crittenden County",
+          "latitude": 37.4331071,
+          "longitude": -88.24531069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crayne",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Crittenden County",
+          "latitude": 37.2706072,
+          "longitude": -88.0825224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Crittenden County",
+          "latitude": 37.3328286,
+          "longitude": -88.0811349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland County",
+      "cities": [
+        {
+          "name": "Marrowbone",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Cumberland County",
+          "latitude": 36.8278373,
+          "longitude": -85.5066329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cumberland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Cumberland County",
+          "latitude": 36.7776446,
+          "longitude": -85.35496499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Daviess County",
+      "cities": [
+        {
+          "name": "Yelvington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.853554,
+          "longitude": -86.967049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Louisville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.698661,
+          "longitude": -87.28732099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Utica",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.6022699,
+          "longitude": -87.11305209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thruston",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.8011609,
+          "longitude": -87.0280508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.8233799,
+          "longitude": -87.2438899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sorgho",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.7531022,
+          "longitude": -87.2472222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Joseph",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.6944901,
+          "longitude": -87.3252794,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Philpot",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.7331055,
+          "longitude": -86.9888828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Panther",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.6354037,
+          "longitude": -87.22450800000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moseleyville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.6625972,
+          "longitude": -87.19328039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Masonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.675049,
+          "longitude": -87.0347173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maceo",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.8639492,
+          "longitude": -86.9947062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Knottsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.7717182,
+          "longitude": -86.9041585,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Curdsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.7350456,
+          "longitude": -87.33166899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Owensboro",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.767366,
+          "longitude": -87.11287209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitesville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Daviess County",
+          "latitude": 37.6831068,
+          "longitude": -86.87138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Edmonson County",
+      "cities": [
+        {
+          "name": "Brownsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Edmonson County",
+          "latitude": 37.1925472,
+          "longitude": -86.2677545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Elliott County",
+      "cities": [
+        {
+          "name": "Sandy Hook",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Elliott County",
+          "latitude": 38.0864739,
+          "longitude": -83.1262839,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Estill County",
+      "cities": [
+        {
+          "name": "Irvine",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Estill County",
+          "latitude": 37.700638,
+          "longitude": -83.97381299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ravenna",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Estill County",
+          "latitude": 37.6845272,
+          "longitude": -83.952979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fayette County",
+      "cities": [
+        {
+          "name": "Lexington-Fayette",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fayette County",
+          "latitude": 38.0389091,
+          "longitude": -84.5152662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fleming County",
+      "cities": [
+        {
+          "name": "Elizaville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fleming County",
+          "latitude": 38.419521,
+          "longitude": -83.82547699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ewing",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fleming County",
+          "latitude": 38.4272984,
+          "longitude": -83.8632557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flemingsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fleming County",
+          "latitude": 38.4222995,
+          "longitude": -83.73380759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Floyd County",
+      "cities": [
+        {
+          "name": "McDowell",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.4559336,
+          "longitude": -82.73626929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dwale",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.62315359999999,
+          "longitude": -82.7237691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Betsy Layne",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.5530371,
+          "longitude": -82.6312119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auxier",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.7341201,
+          "longitude": -82.7565946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.5728764,
+          "longitude": -82.752659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Allen",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.6100457,
+          "longitude": -82.7279705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wayland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.4450997,
+          "longitude": -82.8051601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheelwright",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Floyd County",
+          "latitude": 37.3326024,
+          "longitude": -82.72099039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": []
+    },
+    {
+      "name": "Fulton County",
+      "cities": [
+        {
+          "name": "Cayce",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fulton County",
+          "latitude": 36.5553389,
+          "longitude": -89.03589760000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fulton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Fulton County",
+          "latitude": 36.5042277,
+          "longitude": -88.8742259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gallatin County",
+      "cities": [
+        {
+          "name": "Glencoe",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Gallatin County",
+          "latitude": 38.7145093,
+          "longitude": -84.82272549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warsaw",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Gallatin County",
+          "latitude": 38.7833963,
+          "longitude": -84.90161510000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sparta",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Gallatin County",
+          "latitude": 38.677009,
+          "longitude": -84.9068929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Garrard County",
+      "cities": [
+        {
+          "name": "Lancaster",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Garrard County",
+          "latitude": 37.6195246,
+          "longitude": -84.5779957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "Dry Ridge",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grant County",
+          "latitude": 38.6820122,
+          "longitude": -84.5899426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamstown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grant County",
+          "latitude": 38.6381245,
+          "longitude": -84.5604977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corinth",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grant County",
+          "latitude": 38.4967376,
+          "longitude": -84.56410989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graves County",
+      "cities": [
+        {
+          "name": "Water Valley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.5656153,
+          "longitude": -88.8111679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Symsonia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.9203256,
+          "longitude": -88.5200479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sedalia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.641274,
+          "longitude": -88.60524099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pryorsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.6914947,
+          "longitude": -88.7133039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowes",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.8856115,
+          "longitude": -88.7739429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.8225566,
+          "longitude": -88.6475492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.6696494,
+          "longitude": -88.5280511,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fancy Farm",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.7994279,
+          "longitude": -88.7913607,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wingo",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.6422806,
+          "longitude": -88.7389424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Graves County",
+          "latitude": 36.7417235,
+          "longitude": -88.6367154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grayson County",
+      "cities": [
+        {
+          "name": "Big Clifty",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grayson County",
+          "latitude": 37.5456132,
+          "longitude": -86.1535813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caneyville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grayson County",
+          "latitude": 37.4242004,
+          "longitude": -86.4886393,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leitchfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grayson County",
+          "latitude": 37.4801538,
+          "longitude": -86.29407049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarkson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Grayson County",
+          "latitude": 37.4953595,
+          "longitude": -86.2230007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Green County",
+      "cities": [
+        {
+          "name": "Summersville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Green County",
+          "latitude": 37.326121,
+          "longitude": -85.5443579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greensburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Green County",
+          "latitude": 37.2608936,
+          "longitude": -85.49885479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenup County",
+      "cities": [
+        {
+          "name": "Wurtland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5503577,
+          "longitude": -82.7779437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellefonte",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.4925809,
+          "longitude": -82.6901625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenup",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5731349,
+          "longitude": -82.83016769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raceland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5400803,
+          "longitude": -82.72849760000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Shore",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.72091,
+          "longitude": -82.9582284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Worthington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5484135,
+          "longitude": -82.72433079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flatwoods",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5225804,
+          "longitude": -82.71710809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Russell",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Greenup County",
+          "latitude": 38.5173028,
+          "longitude": -82.6976631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": [
+        {
+          "name": "Hawesville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hancock County",
+          "latitude": 37.9000554,
+          "longitude": -86.754988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hardin County",
+      "cities": [
+        {
+          "name": "Rineyville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.7495098,
+          "longitude": -85.9699631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Knox",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.8836637,
+          "longitude": -85.9652686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cecilia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.6658962,
+          "longitude": -85.9566304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elizabethtown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.7043065,
+          "longitude": -85.87123849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vine Grove",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.8101889,
+          "longitude": -85.9811727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Radcliff",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.8368402,
+          "longitude": -85.94760099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Point",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.9995567,
+          "longitude": -85.9481072,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sonora",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hardin County",
+          "latitude": 37.5240368,
+          "longitude": -85.89320459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harlan County",
+      "cities": [
+        {
+          "name": "Wallins Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8311984,
+          "longitude": -83.416853,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Wallins",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8150872,
+          "longitude": -83.4107418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pathfork",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.7559193,
+          "longitude": -83.4646343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenvir",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8537007,
+          "longitude": -83.157117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coxton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8573115,
+          "longitude": -83.2701785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coldiron",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8267536,
+          "longitude": -83.4535217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cawood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.7839771,
+          "longitude": -83.2282326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ages",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.85699150000001,
+          "longitude": -83.2445786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benham",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.9648148,
+          "longitude": -82.9484954,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harlan",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8431441,
+          "longitude": -83.321848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evarts",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8629065,
+          "longitude": -83.1957118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loyall",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8520327,
+          "longitude": -83.3540718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynch",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.9662044,
+          "longitude": -82.9223839,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harlan",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8890304,
+          "longitude": -83.2077645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harrison County",
+      "cities": [
+        {
+          "name": "Berry",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harrison County",
+          "latitude": 38.5206283,
+          "longitude": -84.38438289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cynthiana",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harrison County",
+          "latitude": 38.3903526,
+          "longitude": -84.2941013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hart County",
+      "cities": [
+        {
+          "name": "Hardyville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hart County",
+          "latitude": 37.2542216,
+          "longitude": -85.78608129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Munfordville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hart County",
+          "latitude": 37.2722751,
+          "longitude": -85.8910819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonnieville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hart County",
+          "latitude": 37.3786665,
+          "longitude": -85.9030233,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Henderson County",
+      "cities": [
+        {
+          "name": "Spottsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henderson County",
+          "latitude": 37.8571734,
+          "longitude": -87.4141267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anthoston",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henderson County",
+          "latitude": 37.7594876,
+          "longitude": -87.53834289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Robards",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henderson County",
+          "latitude": 37.6739325,
+          "longitude": -87.5466747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corydon",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henderson County",
+          "latitude": 37.7433757,
+          "longitude": -87.7039056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henderson County",
+          "latitude": 37.839495,
+          "longitude": -87.5884701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Henry County",
+      "cities": [
+        {
+          "name": "Campbellsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henry County",
+          "latitude": 38.5236762,
+          "longitude": -85.2027327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Castle",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henry County",
+          "latitude": 38.4334003,
+          "longitude": -85.16967679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasureville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henry County",
+          "latitude": 38.3459022,
+          "longitude": -85.11523179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Henry County",
+          "latitude": 38.3867344,
+          "longitude": -85.2569005,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hickman County",
+      "cities": [
+        {
+          "name": "Clinton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hickman County",
+          "latitude": 36.6672813,
+          "longitude": -88.9933965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hopkins County",
+      "cities": [
+        {
+          "name": "Manitou",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.3716933,
+          "longitude": -87.5805381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madisonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.32810050000001,
+          "longitude": -87.4988882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nebo",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.38365599999999,
+          "longitude": -87.6427843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Charles",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.18660029999999,
+          "longitude": -87.5554765,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Plains",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.183655,
+          "longitude": -87.38360949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dawson Springs",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.1672684,
+          "longitude": -87.6925074,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Earlington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.2742117,
+          "longitude": -87.5119435,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.417274,
+          "longitude": -87.4811726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mortons Gap",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.2367115,
+          "longitude": -87.4752761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nortonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Hopkins County",
+          "latitude": 37.1875568,
+          "longitude": -87.45418699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Annville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jackson County",
+          "latitude": 37.31925469999999,
+          "longitude": -83.97048319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McKee",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jackson County",
+          "latitude": 37.430364,
+          "longitude": -83.9979834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Graymoor-Devondale",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.273126,
+          "longitude": -85.6230166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norbourne Estates",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2464599,
+          "longitude": -85.647739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murray Hill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2903475,
+          "longitude": -85.5882941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellewood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2608983,
+          "longitude": -85.659542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bancroft",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2831257,
+          "longitude": -85.6116277,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Park View",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1184018,
+          "longitude": -85.7216273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollow Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.152568,
+          "longitude": -85.62440339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadowview Estates",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2229234,
+          "longitude": -85.6350621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincolnshire",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2231259,
+          "longitude": -85.62134929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeffersontown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1942356,
+          "longitude": -85.5644033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Houston Acres",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2142366,
+          "longitude": -85.613849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cambridge",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2217369,
+          "longitude": -85.616627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Worthington Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.3089581,
+          "longitude": -85.52690439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Windy Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2739593,
+          "longitude": -85.6344057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hills and Dales",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.3011806,
+          "longitude": -85.62468349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingsley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2209037,
+          "longitude": -85.6719054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wildwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2495155,
+          "longitude": -85.57301609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Strathmoor Manor",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.218126,
+          "longitude": -85.6835723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seneca Gardens",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.22895949999999,
+          "longitude": -85.6774612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mockingbird Valley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2725704,
+          "longitude": -85.68218399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2520155,
+          "longitude": -85.6113498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Spring",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.31618,
+          "longitude": -85.61385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenview Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.29479190000001,
+          "longitude": -85.6385725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Creekside",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2914587,
+          "longitude": -85.569405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolling Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2822008,
+          "longitude": -85.57793269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory Hill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2875699,
+          "longitude": -85.56829379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyndon",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2567376,
+          "longitude": -85.60162749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heritage Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.0950122,
+          "longitude": -85.6100773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sycamore",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2470154,
+          "longitude": -85.5607936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodlawn Park",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2614597,
+          "longitude": -85.62912779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Strathmoor Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2231261,
+          "longitude": -85.677739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ten Broeck",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.297014,
+          "longitude": -85.58107179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thornhill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2884032,
+          "longitude": -85.6257945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watterson Park",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1922919,
+          "longitude": -85.6832941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellington",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2164592,
+          "longitude": -85.6691276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Buechel",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.197014,
+          "longitude": -85.66329379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollyvilla",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.0936796,
+          "longitude": -85.7455164,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beechwood Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2547932,
+          "longitude": -85.63135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Mill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1434011,
+          "longitude": -85.6307922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Valley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.297014,
+          "longitude": -85.61135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurstbourne Acres",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2211811,
+          "longitude": -85.5891266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Langdon Place",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2851218,
+          "longitude": -85.5856492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maryhill Estates",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2659253,
+          "longitude": -85.6531206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadowbrook Farm",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2784035,
+          "longitude": -85.57523839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow Vale",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2831257,
+          "longitude": -85.57190500000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middletown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2453487,
+          "longitude": -85.53884889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2845599,
+          "longitude": -85.6375311,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Brownsboro Place",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2892366,
+          "longitude": -85.6121833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Douglass Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2378484,
+          "longitude": -85.5527377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2725704,
+          "longitude": -85.66273939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynnview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1784029,
+          "longitude": -85.7096832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manor Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2976906,
+          "longitude": -85.5875781,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prospect",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.345068,
+          "longitude": -85.615517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Matthews",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2435659,
+          "longitude": -85.63577889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodland Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2382406,
+          "longitude": -85.5290361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plantation",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2834033,
+          "longitude": -85.5910719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richlawn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2547932,
+          "longitude": -85.63940559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2831257,
+          "longitude": -85.66162829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolling Fields",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2678484,
+          "longitude": -85.6716283,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Regis Park",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2283673,
+          "longitude": -85.61650379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shively",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1920619,
+          "longitude": -85.80810199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenview Manor",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2902104,
+          "longitude": -85.6338517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goose Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2938411,
+          "longitude": -85.5901499,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurstbourne",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2378189,
+          "longitude": -85.58768119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parkway Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2125705,
+          "longitude": -85.74023969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moorland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.273146,
+          "longitude": -85.5800797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Briarwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2781258,
+          "longitude": -85.5930164,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broeck Pointe",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2956252,
+          "longitude": -85.5860718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownsboro Farm",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.3028472,
+          "longitude": -85.59607199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownsboro Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2631263,
+          "longitude": -85.6657948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coldstream",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.3147912,
+          "longitude": -85.52384889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crossgate",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2792369,
+          "longitude": -85.6299612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Druid Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2636818,
+          "longitude": -85.6616282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fincastle",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.307847,
+          "longitude": -85.5421824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anchorage",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2667373,
+          "longitude": -85.53301569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Audubon Park",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2039592,
+          "longitude": -85.72523939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barbourmeade",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2972918,
+          "longitude": -85.60329430000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2153476,
+          "longitude": -85.58579309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellemeade",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.25229330000001,
+          "longitude": -85.5921829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Ridge Manor",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.2431264,
+          "longitude": -85.5630158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenview",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.30593289999999,
+          "longitude": -85.65782089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poplar Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jefferson County",
+          "latitude": 38.1775695,
+          "longitude": -85.6930163,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jessamine County",
+      "cities": [
+        {
+          "name": "High Bridge",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jessamine County",
+          "latitude": 37.823689,
+          "longitude": -84.720489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilmore",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jessamine County",
+          "latitude": 37.860966,
+          "longitude": -84.662514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keene",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Jessamine County",
+          "latitude": 37.943411,
+          "longitude": -84.6418875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Johnson County",
+      "cities": [
+        {
+          "name": "West Van Lear",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Johnson County",
+          "latitude": 37.7862425,
+          "longitude": -82.7806875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van Lear",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Johnson County",
+          "latitude": 37.7712067,
+          "longitude": -82.75793709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenton County",
+      "cities": [
+        {
+          "name": "Covington",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0836712,
+          "longitude": -84.5085536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenton Vale",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0508939,
+          "longitude": -84.51910930000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bromley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0820043,
+          "longitude": -84.5602215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crestview Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0224036,
+          "longitude": -84.57246649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elsmere",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0125608,
+          "longitude": -84.60466629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0714491,
+          "longitude": -84.5321652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylor Mill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 38.9975616,
+          "longitude": -84.4963305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Wright",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0511558,
+          "longitude": -84.5350292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Villa Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0633933,
+          "longitude": -84.5929998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Mitchell",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0472046,
+          "longitude": -84.55991689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgewood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0186719,
+          "longitude": -84.58188799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Independence",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 38.94311829999999,
+          "longitude": -84.54410899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ryland Heights",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 38.9575629,
+          "longitude": -84.46299619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crescent Springs",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0514685,
+          "longitude": -84.5768123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erlanger",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0167275,
+          "longitude": -84.60077729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeside Park",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.03561620000001,
+          "longitude": -84.5691102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ludlow",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Kenton County",
+          "latitude": 39.0925597,
+          "longitude": -84.5474435,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Knott County",
+      "cities": [
+        {
+          "name": "Pippa Passes",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Knott County",
+          "latitude": 37.334822,
+          "longitude": -82.8740498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hindman",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Knott County",
+          "latitude": 37.3359313,
+          "longitude": -82.98044139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Knox County",
+      "cities": [
+        {
+          "name": "Flat Lick",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Knox County",
+          "latitude": 36.8299842,
+          "longitude": -83.77003130000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Artemus",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Knox County",
+          "latitude": 36.8332822,
+          "longitude": -83.8407783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Larue County",
+      "cities": [
+        {
+          "name": "Magnolia",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Larue County",
+          "latitude": 37.4439477,
+          "longitude": -85.7435739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Larue County",
+          "latitude": 37.5120048,
+          "longitude": -85.6985727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hodgenville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Larue County",
+          "latitude": 37.57483089999999,
+          "longitude": -85.74040049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Larue County",
+          "latitude": 37.46454749999999,
+          "longitude": -85.89356049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Laurel County",
+      "cities": [
+        {
+          "name": "North Corbin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Laurel County",
+          "latitude": 36.9606434,
+          "longitude": -84.0932649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Bernstadt",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Laurel County",
+          "latitude": 37.1895318,
+          "longitude": -84.1177098,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "London",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Laurel County",
+          "latitude": 37.1289771,
+          "longitude": -84.08326459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence County",
+      "cities": [
+        {
+          "name": "Blaine",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lawrence County",
+          "latitude": 38.0275889,
+          "longitude": -82.8432177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lee County",
+      "cities": []
+    },
+    {
+      "name": "Leslie County",
+      "cities": [
+        {
+          "name": "Hyden",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Leslie County",
+          "latitude": 37.1609254,
+          "longitude": -83.3732373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Letcher County",
+      "cities": [
+        {
+          "name": "Payne Gap",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.15538069999999,
+          "longitude": -82.6593232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millstone",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1673234,
+          "longitude": -82.7515471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayking",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1334334,
+          "longitude": -82.76599209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McRoberts",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.2076038,
+          "longitude": -82.67182299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blackey",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1400957,
+          "longitude": -82.979051,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitesburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1184318,
+          "longitude": -82.8268265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fleming-Neon",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1923249,
+          "longitude": -82.7057126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jenkins",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Letcher County",
+          "latitude": 37.1734372,
+          "longitude": -82.6309892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lewis County",
+      "cities": [
+        {
+          "name": "Garrison",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lewis County",
+          "latitude": 38.6058757,
+          "longitude": -83.1741035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Concord",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lewis County",
+          "latitude": 38.6861851,
+          "longitude": -83.491024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Pleasant View",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lincoln County",
+          "latitude": 38.2495338,
+          "longitude": -82.1904193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McKinney",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lincoln County",
+          "latitude": 37.4563549,
+          "longitude": -84.75676229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crab Orchard",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lincoln County",
+          "latitude": 37.46452670000001,
+          "longitude": -84.5066044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hustonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lincoln County",
+          "latitude": 37.4731315,
+          "longitude": -84.8157827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Livingston County",
+      "cities": [
+        {
+          "name": "Ledbetter",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Livingston County",
+          "latitude": 37.0473101,
+          "longitude": -88.4748743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burna",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Livingston County",
+          "latitude": 37.2456099,
+          "longitude": -88.360591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Rivers",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Livingston County",
+          "latitude": 37.0031109,
+          "longitude": -88.2344746,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carrsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Livingston County",
+          "latitude": 37.3975518,
+          "longitude": -88.37476029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Livingston County",
+          "latitude": 37.13894450000001,
+          "longitude": -88.4033716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Logan County",
+      "cities": [
+        {
+          "name": "Adairville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Logan County",
+          "latitude": 36.6675425,
+          "longitude": -86.8519417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Logan County",
+          "latitude": 36.8642088,
+          "longitude": -86.7102735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewisburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Logan County",
+          "latitude": 36.9864336,
+          "longitude": -86.9472194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lyon County",
+      "cities": [
+        {
+          "name": "Kuttawa",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Lyon County",
+          "latitude": 37.0586652,
+          "longitude": -88.1294715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Berea",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Madison County",
+          "latitude": 37.568694,
+          "longitude": -84.2963223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Magoffin County",
+      "cities": [
+        {
+          "name": "Salyersville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Magoffin County",
+          "latitude": 37.7525922,
+          "longitude": -83.0687816,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Bradfordsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marion County",
+          "latitude": 37.4941391,
+          "longitude": -85.1496751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loretto",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marion County",
+          "latitude": 37.6348674,
+          "longitude": -85.39839909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raywick",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marion County",
+          "latitude": 37.5604993,
+          "longitude": -85.43089839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Mary",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marion County",
+          "latitude": 37.5806192,
+          "longitude": -85.3463507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marshall County",
+      "cities": [
+        {
+          "name": "Gilbertsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marshall County",
+          "latitude": 37.0244948,
+          "longitude": -88.3024934,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calvert City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marshall County",
+          "latitude": 37.0333896,
+          "longitude": -88.3500362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hardin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Marshall County",
+          "latitude": 36.7647773,
+          "longitude": -88.2953134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Martin County",
+      "cities": [
+        {
+          "name": "Warfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Martin County",
+          "latitude": 37.8442628,
+          "longitude": -82.4173694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mason County",
+      "cities": [
+        {
+          "name": "Mays Lick",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mason County",
+          "latitude": 38.51757569999999,
+          "longitude": -83.84186650000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dover",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mason County",
+          "latitude": 38.7581273,
+          "longitude": -83.8829813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sardis",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mason County",
+          "latitude": 38.5317412,
+          "longitude": -83.9557586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maysville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mason County",
+          "latitude": 38.6411854,
+          "longitude": -83.744365,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McCracken County",
+      "cities": [
+        {
+          "name": "Reidland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCracken County",
+          "latitude": 37.0175574,
+          "longitude": -88.53143449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Massac",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCracken County",
+          "latitude": 37.0381644,
+          "longitude": -88.68681389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hendron",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCracken County",
+          "latitude": 37.0395005,
+          "longitude": -88.62921569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCracken County",
+          "latitude": 37.0421686,
+          "longitude": -88.5703802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paducah",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "McCracken County",
+          "latitude": 37.0841709,
+          "longitude": -88.5980283,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McCreary County",
+      "cities": [
+        {
+          "name": "Whitley City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCreary County",
+          "latitude": 36.7234118,
+          "longitude": -84.47049419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stearns",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCreary County",
+          "latitude": 36.6989673,
+          "longitude": -84.4774386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Knot",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McCreary County",
+          "latitude": 36.6509124,
+          "longitude": -84.4385489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McLean County",
+      "cities": [
+        {
+          "name": "Beech Grove",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McLean County",
+          "latitude": 37.6161562,
+          "longitude": -87.3963911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Island",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McLean County",
+          "latitude": 37.445046,
+          "longitude": -87.1438852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calhoun",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McLean County",
+          "latitude": 37.5389351,
+          "longitude": -87.25833159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sacramento",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "McLean County",
+          "latitude": 37.4158783,
+          "longitude": -87.26555309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Meade County",
+      "cities": [
+        {
+          "name": "Doe Valley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Meade County",
+          "latitude": 37.955422,
+          "longitude": -86.1165497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ekron",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Meade County",
+          "latitude": 37.9319642,
+          "longitude": -86.1780867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Muldraugh",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Meade County",
+          "latitude": 37.9352414,
+          "longitude": -85.99024109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandenburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Meade County",
+          "latitude": 38.0010277,
+          "longitude": -86.1721474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Menifee County",
+      "cities": [
+        {
+          "name": "Frenchburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Menifee County",
+          "latitude": 37.950916,
+          "longitude": -83.62574520000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mercer County",
+      "cities": [
+        {
+          "name": "Salvisa",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mercer County",
+          "latitude": 37.9173878,
+          "longitude": -84.8583355,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrodsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mercer County",
+          "latitude": 37.7623374,
+          "longitude": -84.84330059999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burgin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Mercer County",
+          "latitude": 37.7523235,
+          "longitude": -84.7614049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Metcalfe County",
+      "cities": [
+        {
+          "name": "Summer Shade",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Metcalfe County",
+          "latitude": 36.8840099,
+          "longitude": -85.7024557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edmonton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Metcalfe County",
+          "latitude": 36.9800563,
+          "longitude": -85.61219059999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Fountain Run",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Monroe County",
+          "latitude": 36.7216359,
+          "longitude": -85.9585544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gamaliel",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Monroe County",
+          "latitude": 36.6397783,
+          "longitude": -85.7966436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Montgomery County",
+      "cities": [
+        {
+          "name": "Camargo",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Montgomery County",
+          "latitude": 37.9942469,
+          "longitude": -83.8876978,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeffersonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Montgomery County",
+          "latitude": 37.9736917,
+          "longitude": -83.8418631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Maytown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Morgan County",
+          "latitude": 37.8489744,
+          "longitude": -83.4718511,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ezel",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Morgan County",
+          "latitude": 37.8921485,
+          "longitude": -83.4450667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Muhlenberg County",
+      "cities": [
+        {
+          "name": "Dunmor",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.0736556,
+          "longitude": -86.9961081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cleaton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.2544868,
+          "longitude": -87.08888449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beechmont",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.1722839,
+          "longitude": -87.03359499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.2939322,
+          "longitude": -87.1233292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.2011539,
+          "longitude": -87.1788854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powderly",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.2369871,
+          "longitude": -87.1591627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Carrollton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.3375441,
+          "longitude": -87.14194049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bremen",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.3614333,
+          "longitude": -87.2186078,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drakesboro",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Muhlenberg County",
+          "latitude": 37.2175425,
+          "longitude": -87.0488847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nelson County",
+      "cities": [
+        {
+          "name": "New Hope",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.6319355,
+          "longitude": -85.50759049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chaplin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.8978421,
+          "longitude": -85.2213448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boston",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.787563,
+          "longitude": -85.6727374,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bardstown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.8104984,
+          "longitude": -85.466402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Haven",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.6585458,
+          "longitude": -85.5934322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.9336983,
+          "longitude": -85.3837324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nelson County",
+          "latitude": 37.9120788,
+          "longitude": -85.3178246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas County",
+      "cities": [
+        {
+          "name": "Carlisle",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Nicholas County",
+          "latitude": 38.3120197,
+          "longitude": -84.027427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ohio County",
+      "cities": [
+        {
+          "name": "Rosine",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.4497702,
+          "longitude": -86.7407578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fordsville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.6361638,
+          "longitude": -86.7174873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centertown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.4172684,
+          "longitude": -86.99610609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartford",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.4511591,
+          "longitude": -86.9091596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockport",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.333933,
+          "longitude": -86.9961062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver Dam",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.4019918,
+          "longitude": -86.8758256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McHenry",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Ohio County",
+          "latitude": 37.3819907,
+          "longitude": -86.9224933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oldham County",
+      "cities": [
+        {
+          "name": "Westport",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.4786073,
+          "longitude": -85.475454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buckner",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.3836782,
+          "longitude": -85.4399588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Grange",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.4075666,
+          "longitude": -85.37884679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orchard Grass Hills",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.32367989999999,
+          "longitude": -85.52134889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "River Bluff",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.3725653,
+          "longitude": -85.60364990000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crestwood",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.3242355,
+          "longitude": -85.4724593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goshen",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.403318,
+          "longitude": -85.58307719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pewee Valley",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Oldham County",
+          "latitude": 38.3106248,
+          "longitude": -85.4874595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Owen County",
+      "cities": [
+        {
+          "name": "Monterey",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Owen County",
+          "latitude": 38.422013,
+          "longitude": -84.8724493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gratz",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Owen County",
+          "latitude": 38.47367819999999,
+          "longitude": -84.9527284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Owsley County",
+      "cities": [
+        {
+          "name": "Booneville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Owsley County",
+          "latitude": 37.4761991,
+          "longitude": -83.6749145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pendleton County",
+      "cities": [
+        {
+          "name": "Butler",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pendleton County",
+          "latitude": 38.7864569,
+          "longitude": -84.36965939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falmouth",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pendleton County",
+          "latitude": 38.6767372,
+          "longitude": -84.3302142,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Perry County",
+      "cities": [
+        {
+          "name": "Jeff",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Perry County",
+          "latitude": 37.2050956,
+          "longitude": -83.136281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Diablock",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Perry County",
+          "latitude": 37.2284289,
+          "longitude": -83.17211619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Combs",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Perry County",
+          "latitude": 37.2662969,
+          "longitude": -83.21253519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buckhorn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Perry County",
+          "latitude": 37.3487019,
+          "longitude": -83.47629610000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vicco",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Perry County",
+          "latitude": 37.2156521,
+          "longitude": -83.0615548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pike County",
+      "cities": [
+        {
+          "name": "Virgie",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.3351043,
+          "longitude": -82.5795988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Williamson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.6735896,
+          "longitude": -82.28305759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Phelps",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.5144292,
+          "longitude": -82.15319540000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCarr",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.6166396,
+          "longitude": -82.17000349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Freeburn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.5651294,
+          "longitude": -82.14465249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belfry",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.62038039999999,
+          "longitude": -82.2690293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkhorn City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.303997,
+          "longitude": -82.3509794,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coal Run Village",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pike County",
+          "latitude": 37.5131553,
+          "longitude": -82.5584861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Powell County",
+      "cities": [
+        {
+          "name": "Clay City",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Powell County",
+          "latitude": 37.8592479,
+          "longitude": -83.9185323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Powell County",
+          "latitude": 37.8456373,
+          "longitude": -83.85825249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pulaski County",
+      "cities": [
+        {
+          "name": "Science Hill",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pulaski County",
+          "latitude": 37.1770222,
+          "longitude": -84.6357766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burnside",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pulaski County",
+          "latitude": 36.9889661,
+          "longitude": -84.5999405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ferguson",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pulaski County",
+          "latitude": 37.0667444,
+          "longitude": -84.5999413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eubank",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Pulaski County",
+          "latitude": 37.2784114,
+          "longitude": -84.65855549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Robertson County",
+      "cities": [
+        {
+          "name": "Mount Olivet",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Robertson County",
+          "latitude": 38.531463,
+          "longitude": -84.036872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rockcastle County",
+      "cities": [
+        {
+          "name": "Brodhead",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rockcastle County",
+          "latitude": 37.4042496,
+          "longitude": -84.41382589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Vernon",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rockcastle County",
+          "latitude": 37.3528615,
+          "longitude": -84.3404919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livingston",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rockcastle County",
+          "latitude": 37.2978634,
+          "longitude": -84.2149339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rowan County",
+      "cities": [
+        {
+          "name": "Farmers",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rowan County",
+          "latitude": 38.1428591,
+          "longitude": -83.54602109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview Heights",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rowan County",
+          "latitude": 38.15147049999999,
+          "longitude": -83.5043529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morehead",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Rowan County",
+          "latitude": 38.1768636,
+          "longitude": -83.4357151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Russell County",
+      "cities": [
+        {
+          "name": "Jamestown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Russell County",
+          "latitude": 36.9847899,
+          "longitude": -85.06300999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Scott County",
+      "cities": [
+        {
+          "name": "Sadieville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Scott County",
+          "latitude": 38.3892392,
+          "longitude": -84.53744239999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stamping Ground",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Scott County",
+          "latitude": 38.2717389,
+          "longitude": -84.686335,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Shelby County",
+      "cities": [
+        {
+          "name": "Simpsonville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Shelby County",
+          "latitude": 38.2218324,
+          "longitude": -85.3448152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Simpson County",
+      "cities": [
+        {
+          "name": "Franklin",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Simpson County",
+          "latitude": 36.7187855,
+          "longitude": -86.5785573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spencer County",
+      "cities": [
+        {
+          "name": "Elk Creek",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Spencer County",
+          "latitude": 38.10230310000001,
+          "longitude": -85.3716348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Taylor County",
+      "cities": []
+    },
+    {
+      "name": "Todd County",
+      "cities": [
+        {
+          "name": "Allensville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Todd County",
+          "latitude": 36.7167081,
+          "longitude": -87.0661104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Todd County",
+          "latitude": 36.8100425,
+          "longitude": -87.1541675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guthrie",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Todd County",
+          "latitude": 36.6483777,
+          "longitude": -87.16639169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trenton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Todd County",
+          "latitude": 36.7239332,
+          "longitude": -87.2627826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Trigg County",
+      "cities": [
+        {
+          "name": "Cerulean",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Trigg County",
+          "latitude": 36.9606552,
+          "longitude": -87.7109535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cadiz",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Trigg County",
+          "latitude": 36.8650496,
+          "longitude": -87.835295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Trimble County",
+      "cities": [
+        {
+          "name": "Milton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Trimble County",
+          "latitude": 38.7236714,
+          "longitude": -85.36940179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bedford",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Trimble County",
+          "latitude": 38.592563,
+          "longitude": -85.31773439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Breckinridge Center",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Union County",
+          "latitude": 37.6818816,
+          "longitude": -87.8658509,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waverly",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Union County",
+          "latitude": 37.70976520000001,
+          "longitude": -87.8127985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morganfield",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Union County",
+          "latitude": 37.6833776,
+          "longitude": -87.9166915,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sturgis",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Union County",
+          "latitude": 37.5467135,
+          "longitude": -87.983914,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Uniontown",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Union County",
+          "latitude": 37.7753214,
+          "longitude": -87.93058270000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Warren County",
+      "cities": [
+        {
+          "name": "Plano",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 36.8760694,
+          "longitude": -86.4161998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakland",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 37.0419887,
+          "longitude": -86.2483177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plum Springs",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 37.0183763,
+          "longitude": -86.38137739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smiths Grove",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 37.0525453,
+          "longitude": -86.2077608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodburn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 36.8425406,
+          "longitude": -86.52749399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Willisburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Washington County",
+          "latitude": 37.8075996,
+          "longitude": -85.1237362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mackville",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Washington County",
+          "latitude": 37.7368026,
+          "longitude": -85.0664575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": []
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Poole",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.6403212,
+          "longitude": -87.6441782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Onton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.555,
+          "longitude": -87.43693999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheatcroft",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.4900457,
+          "longitude": -87.862796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixon",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.5178218,
+          "longitude": -87.69028860000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sebree",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.6065578,
+          "longitude": -87.5289232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clay",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.4767119,
+          "longitude": -87.8200159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slaughters",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.4889336,
+          "longitude": -87.50222389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Whitley County",
+      "cities": [
+        {
+          "name": "Rockholds",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Whitley County",
+          "latitude": 36.8286964,
+          "longitude": -84.1163215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emlyn",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Whitley County",
+          "latitude": 36.7045276,
+          "longitude": -84.143266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamsburg",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Whitley County",
+          "latitude": 36.7434169,
+          "longitude": -84.15965609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wolfe County",
+      "cities": [
+        {
+          "name": "Hazel Green",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Wolfe County",
+          "latitude": 37.797587,
+          "longitude": -83.41657149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Campton",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Wolfe County",
+          "latitude": 37.7342526,
+          "longitude": -83.547409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Woodford County",
+      "cities": [
+        {
+          "name": "Midway",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Woodford County",
+          "latitude": 38.1511341,
+          "longitude": -84.6839184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Versailles",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Woodford County",
+          "latitude": 38.0514897,
+          "longitude": -84.7305058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

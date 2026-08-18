@@ -84,7 +84,7 @@ const HomeScreen = memo(() => {
     router.push('/(tabs)/ai-assistant');
   }, [router]);
 
-  const handleOpenRecorder = useCallback(() => {
+  const handleOpenGPS = useCallback(() => {
     router.push('/(tabs)/recorder');
   }, [router]);
 
@@ -115,10 +115,10 @@ const HomeScreen = memo(() => {
           tint={tint}
         />
         <QuickActionButton
-          icon="paperplane.fill"
-          title="Start Recording"
-          description="Track your journey"
-          onPress={handleOpenRecorder}
+          icon="location.fill"
+          title="GPS"
+          description="Navigate and track your route"
+          onPress={handleOpenGPS}
           tint={tint}
         />
         <QuickActionButton

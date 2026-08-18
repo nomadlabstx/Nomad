@@ -1,0 +1,531 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": [
+        {
+          "name": "Pitkas Point",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area County",
+          "latitude": 62.03230180000001,
+          "longitude": -163.2871565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Ugashik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 57.5112418,
+          "longitude": -157.3987946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Port Alsworth",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 60.1981603,
+          "longitude": -154.3240808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Pope-Vannoy Landing",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.5471826,
+          "longitude": -154.4752426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Pedro Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.7890464,
+          "longitude": -154.1034854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perryville",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 55.9121988,
+          "longitude": -159.1453343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Levelock",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.1105585,
+          "longitude": -156.8605871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Kokhanok",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.43668479999999,
+          "longitude": -154.7772006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Igiugig",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.32729190000001,
+          "longitude": -155.8917833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iliamna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.7550859,
+          "longitude": -154.8711331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ivanof Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 55.9023226,
+          "longitude": -159.4855359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Chignik Lagoon",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 56.30987159999999,
+          "longitude": -158.5346484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chignik Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 56.2549101,
+          "longitude": -158.7660877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": []
+    },
+    {
+      "name": "Lake and Peninsula Borough",
+      "cities": [
+        {
+          "name": "Chignik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 56.29530279999999,
+          "longitude": -158.4044923,
+          "population": 86,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Egegik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 58.21373699999999,
+          "longitude": -157.3742534,
+          "population": 34,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nondalton",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 59.9730954,
+          "longitude": -154.8494455,
+          "population": 118,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pilot Point",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 57.5638883,
+          "longitude": -157.5777704,
+          "population": 61,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Port Heiden",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 56.9506252,
+          "longitude": -158.6273599,
+          "population": 91,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Willow",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.75836359999999,
+          "longitude": -150.0621951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Trapper Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.31632070000001,
+          "longitude": -150.233729,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Tanaina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.6506629,
+          "longitude": -149.4224408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Talkeetna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.32090460000001,
+          "longitude": -150.1066221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Susitna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.55735180000001,
+          "longitude": -150.5761842,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Susitna North",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.13801909999999,
+          "longitude": -150.044947,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sutton-Alpine",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.70944770000001,
+          "longitude": -148.8774926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "South Lakes",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.5797536,
+          "longitude": -149.3195658,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Skwentna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.9659183,
+          "longitude": -151.1872325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Point MacKenzie",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.375885,
+          "longitude": -150.0292034,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Petersville",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.37277539999999,
+          "longitude": -150.732677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "North Lakes",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.62083310000001,
+          "longitude": -149.3019654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Meadow Lakes",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.5827402,
+          "longitude": -149.6319207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Lazy Mountain",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.61386470000001,
+          "longitude": -149.061252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Lake Louise",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.2718497,
+          "longitude": -146.5350625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Knik River",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.4822883,
+          "longitude": -149.1301659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Knik-Fairview",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.51714929999999,
+          "longitude": -149.6227463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

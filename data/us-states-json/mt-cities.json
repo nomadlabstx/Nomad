@@ -1,0 +1,5510 @@
+{
+  "name": "Montana",
+  "code": "MT",
+  "counties": [
+    {
+      "name": "Beaverhead County",
+      "cities": [
+        {
+          "name": "Wisdom",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.6179788,
+          "longitude": -113.4508925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wise River",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.7923159,
+          "longitude": -112.9558646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maverick Mountain",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.4178712,
+          "longitude": -113.114064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 44.5993607,
+          "longitude": -111.8105246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackson",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.3685929,
+          "longitude": -113.4095162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grant",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.00853439999999,
+          "longitude": -113.0669782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.4765929,
+          "longitude": -112.6905781,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dell",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 44.7229703,
+          "longitude": -112.6972342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dewey",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.77729660000001,
+          "longitude": -112.8563574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Argenta",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.2796455,
+          "longitude": -112.861976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lima",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 44.6368563,
+          "longitude": -112.5919506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dillon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Beaverhead County",
+          "latitude": 45.21663239999999,
+          "longitude": -112.6389244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Big Horn County",
+      "cities": [
+        {
+          "name": "Wyola",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.1295814,
+          "longitude": -107.3933243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Xavier",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.4610741,
+          "longitude": -107.7217693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pryor",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.4296745,
+          "longitude": -108.5331862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Muddy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.621934,
+          "longitude": -106.7603147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Smith",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.3157036,
+          "longitude": -107.9281701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forty Mile Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.2699663,
+          "longitude": -107.3506474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crow Agency",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.6041414,
+          "longitude": -107.4645278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Busby",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.5372052,
+          "longitude": -106.9556075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hardin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.7324778,
+          "longitude": -107.6120314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lodge Grass",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Big Horn County",
+          "latitude": 45.3144117,
+          "longitude": -107.3631461,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Blaine County",
+      "cities": [
+        {
+          "name": "Zurich",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.5843652,
+          "longitude": -109.0304683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turner",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.845063,
+          "longitude": -108.4052104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turner Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.7583365,
+          "longitude": -108.4348595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Harlem Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.5828503,
+          "longitude": -108.7567997,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lodge Pole",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.0347178,
+          "longitude": -108.5332039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hogeland",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.8549121,
+          "longitude": -108.657224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hays",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 47.9891595,
+          "longitude": -108.6943234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartland Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.9519973,
+          "longitude": -109.4476188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Belknap Agency",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.4824967,
+          "longitude": -108.7654351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harlem",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Blaine County",
+          "latitude": 48.5333309,
+          "longitude": -108.7840463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Broadwater County",
+      "cities": [
+        {
+          "name": "Winston",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.4765996,
+          "longitude": -111.6588646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Silos",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.3889516,
+          "longitude": -111.5839563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toston",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.1720562,
+          "longitude": -111.441076,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spokane Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.5446383,
+          "longitude": -111.747548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Radersburg",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.1957622,
+          "longitude": -111.6319188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Townsend",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Broadwater County",
+          "latitude": 46.3190976,
+          "longitude": -111.5208023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carbon County",
+      "cities": [
+        {
+          "name": "Silesia",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.5566148,
+          "longitude": -108.8415338,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roscoe",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.34966550000001,
+          "longitude": -109.4965551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockvale",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.5224479,
+          "longitude": -108.8618118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roberts",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.3596673,
+          "longitude": -109.1676544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montaqua",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.5091141,
+          "longitude": -108.9012577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luther",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.2843882,
+          "longitude": -109.4287741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fox",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.2768892,
+          "longitude": -109.2170994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgar",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.4653597,
+          "longitude": -108.8537788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridger",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.29578069999999,
+          "longitude": -108.9137544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boyd",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.4577664,
+          "longitude": -109.0659642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belfry",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.1418915,
+          "longitude": -109.0054219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joliet",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.4852243,
+          "longitude": -108.9704266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Lodge",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.1857782,
+          "longitude": -109.2468211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fromberg",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.3924414,
+          "longitude": -108.9066939,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bearcreek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carbon County",
+          "latitude": 45.1607791,
+          "longitude": -109.1570949,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carter County",
+      "cities": [
+        {
+          "name": "Alzada",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Carter County",
+          "latitude": 45.024937,
+          "longitude": -104.4123588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cascade County",
+      "cities": [
+        {
+          "name": "Vaughn",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5605132,
+          "longitude": -111.5458075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ulm",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.43188319999999,
+          "longitude": -111.5069897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tracy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.4130161,
+          "longitude": -111.1541345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sun Prairie",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5475441,
+          "longitude": -111.5014028,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sun River",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5332871,
+          "longitude": -111.7213719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stockett",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.3574829,
+          "longitude": -111.1629984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simms",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.4916167,
+          "longitude": -111.9280495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sand Coulee",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.39896,
+          "longitude": -111.1676241,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riceville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.2146842,
+          "longitude": -110.9335612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Valley Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.3569065,
+          "longitude": -111.0841294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monarch",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.0982951,
+          "longitude": -110.8385547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malmstrom AFB",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5042584,
+          "longitude": -111.1790622,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hardy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.1806511,
+          "longitude": -111.8164945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gibson Flats",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.46972,
+          "longitude": -111.24611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Shaw",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5055075,
+          "longitude": -111.8102651,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fair Haven Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.4035644,
+          "longitude": -111.6283109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascade Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.4399509,
+          "longitude": -111.8199882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centerville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.3896828,
+          "longitude": -111.1427437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Eagle",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5246802,
+          "longitude": -111.2783075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Stone Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.3999578,
+          "longitude": -111.2174679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belt",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.387186,
+          "longitude": -110.9276606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neihart",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 46.93329550000001,
+          "longitude": -110.7357707,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascade",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.2709011,
+          "longitude": -111.7008948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Great Falls",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Cascade County",
+          "latitude": 47.5052849,
+          "longitude": -111.3007715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chouteau County",
+      "cities": [
+        {
+          "name": "Twin Hills Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 48.01758969999999,
+          "longitude": -111.0699657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunnybrook Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 48.1565245,
+          "longitude": -110.7270766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Square Butte",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.5149739,
+          "longitude": -110.1982577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loma",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.9369164,
+          "longitude": -110.5035455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highwood",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.5846775,
+          "longitude": -110.7921641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Floweree",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.7296877,
+          "longitude": -111.0274531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carter",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.781868,
+          "longitude": -110.9575527,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boneau",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 48.2905436,
+          "longitude": -109.8613151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Benton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.8344143,
+          "longitude": -110.6582699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Sandy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 48.1788692,
+          "longitude": -110.1135412,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Geraldine",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Chouteau County",
+          "latitude": 47.6025673,
+          "longitude": -110.2658502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Custer County",
+      "cities": [
+        {
+          "name": "Custer",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Custer County",
+          "latitude": 46.2160876,
+          "longitude": -105.6225,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ismay",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Custer County",
+          "latitude": 46.4986166,
+          "longitude": -104.7935725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Daniels County",
+      "cities": [
+        {
+          "name": "Whitetail",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Daniels County",
+          "latitude": 48.8962155,
+          "longitude": -105.1626389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peerless",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Daniels County",
+          "latitude": 48.7820111,
+          "longitude": -105.8314999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flaxville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Daniels County",
+          "latitude": 48.8039142,
+          "longitude": -105.1727604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scobey",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Daniels County",
+          "latitude": 48.7925242,
+          "longitude": -105.4208268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dawson County",
+      "cities": [
+        {
+          "name": "West Glendive",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Dawson County",
+          "latitude": 47.1023124,
+          "longitude": -104.7483849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lindsay",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Dawson County",
+          "latitude": 47.2207797,
+          "longitude": -105.1527318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomfield",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Dawson County",
+          "latitude": 47.4120864,
+          "longitude": -104.9177122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richey",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Dawson County",
+          "latitude": 47.6438767,
+          "longitude": -105.0682572,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Deer Lodge County",
+      "cities": [
+        {
+          "name": "Anaconda-Deer Lodge County",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Deer Lodge County",
+          "latitude": 46.1262998,
+          "longitude": -112.9478359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fallon County",
+      "cities": [
+        {
+          "name": "Baker",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fallon County",
+          "latitude": 46.36945009999999,
+          "longitude": -104.2774404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plevna",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fallon County",
+          "latitude": 46.4152828,
+          "longitude": -104.5177274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fergus County",
+      "cities": [
+        {
+          "name": "Warm Spring Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.1840532,
+          "longitude": -109.281166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.153433,
+          "longitude": -109.6203745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.3333305,
+          "longitude": -108.9586457,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewistown Heights",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.0758069,
+          "longitude": -109.4529614,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "King Ranch Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.0557294,
+          "longitude": -109.6374203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hilger",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.2538595,
+          "longitude": -109.359843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fords Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.1307125,
+          "longitude": -108.9168713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deerfield Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.2596988,
+          "longitude": -109.6774117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danvers",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.2252533,
+          "longitude": -109.7171343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coffee Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.3489916,
+          "longitude": -110.0819054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brooks",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.2052716,
+          "longitude": -109.4214322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ayers Ranch Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.0513618,
+          "longitude": -108.9495998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grass Range",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.0260843,
+          "longitude": -108.8045896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewistown",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.0624732,
+          "longitude": -109.428238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winifred",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.557759,
+          "longitude": -109.374902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Denton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 47.3196952,
+          "longitude": -109.9474185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moore",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Fergus County",
+          "latitude": 46.975523,
+          "longitude": -109.6968536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Flathead County",
+      "cities": [
+        {
+          "name": "West Glacier",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.4949755,
+          "longitude": -113.9810756,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snowslip",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.2594058,
+          "longitude": -113.4553761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Somers",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.0804858,
+          "longitude": -114.2247965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhodes",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.2791291,
+          "longitude": -114.4743059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Polebridge",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.7649382,
+          "longitude": -114.2853813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinnacle",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.3560752,
+          "longitude": -113.6531616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olney",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.5507286,
+          "longitude": -114.5769211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.1056968,
+          "longitude": -114.6634454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.39163139999999,
+          "longitude": -114.0381741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Bitterroot Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.136788,
+          "longitude": -114.7375382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeside",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.019969,
+          "longitude": -114.2279084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kila",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.1199436,
+          "longitude": -114.4570722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hungry Horse",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.3857979,
+          "longitude": -114.060953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena Flats",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.28002730000001,
+          "longitude": -114.2405249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Hill Village",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.1180108,
+          "longitude": -114.257904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evergreen",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.22579409999999,
+          "longitude": -114.2762407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Essex",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.2780178,
+          "longitude": -113.6126035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coram",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.4190152,
+          "longitude": -114.0459364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bigfork",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.0632864,
+          "longitude": -114.0726134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Batavia",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.18194,
+          "longitude": -114.41222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitefish",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.4106373,
+          "longitude": -114.3352652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia Falls",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.3799643,
+          "longitude": -114.1804038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kalispell",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Flathead County",
+          "latitude": 48.1919889,
+          "longitude": -114.3168131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gallatin County",
+      "cities": [
+        {
+          "name": "Willow Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.825206,
+          "longitude": -111.6446966,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springhill",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.8393743,
+          "longitude": -111.0346697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sedan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.958805,
+          "longitude": -110.850838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponderosa Pines",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 46.0241986,
+          "longitude": -111.3754139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.88444399999999,
+          "longitude": -111.426667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "King Arthur Park",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.6678598,
+          "longitude": -111.1334741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebgen Lake Estates",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 44.7687926,
+          "longitude": -111.1896144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gallatin Gateway",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.5915958,
+          "longitude": -111.1977304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gallatin River Ranch",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.9039249,
+          "longitude": -111.3306983,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Four Corners",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.6750915,
+          "longitude": -111.1808618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Churchill",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.7507619,
+          "longitude": -111.3044025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Sky",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.26178059999999,
+          "longitude": -111.3080244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amsterdam",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.7582599,
+          "longitude": -111.3207661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Yellowstone",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 44.6621493,
+          "longitude": -111.1041092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belgrade",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.7762463,
+          "longitude": -111.1770945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manhattan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.85777050000001,
+          "longitude": -111.3310568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Three Forks",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.892428,
+          "longitude": -111.5521925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bozeman",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Gallatin County",
+          "latitude": 45.67931189999999,
+          "longitude": -111.037259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Garfield County",
+      "cities": []
+    },
+    {
+      "name": "Glacier County",
+      "cities": [
+        {
+          "name": "Zenith Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.8690603,
+          "longitude": -112.3446945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Starr School",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.58913949999999,
+          "longitude": -113.1406473,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Browning",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.5487158,
+          "longitude": -113.0134771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seville Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.7071505,
+          "longitude": -112.5929321,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Rita",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.700541,
+          "longitude": -112.3200524,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Mary",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.7438663,
+          "longitude": -113.4295461,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Browning",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.5702512,
+          "longitude": -113.0095288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Browning",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.6254849,
+          "longitude": -112.3497619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Horizon Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.7161217,
+          "longitude": -112.2263596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hidden Lake Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.59081339999999,
+          "longitude": -112.5925635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.8444312,
+          "longitude": -112.545345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glacier Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.83276799999999,
+          "longitude": -112.2189401,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Glacier Park Village",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.4415005,
+          "longitude": -113.2184044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Browning",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.5569174,
+          "longitude": -113.0134175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blackfoot",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.5752534,
+          "longitude": -112.8767441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Sky Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.8480402,
+          "longitude": -112.7842462,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Babb",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.860261,
+          "longitude": -113.4367629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cut Bank",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Glacier County",
+          "latitude": 48.6330395,
+          "longitude": -112.3261618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Golden Valley County",
+      "cities": [
+        {
+          "name": "Golden Valley Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Golden Valley County",
+          "latitude": 46.2574564,
+          "longitude": -109.274342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ryegate",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Golden Valley County",
+          "latitude": 46.2971794,
+          "longitude": -109.2587859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lavina",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Golden Valley County",
+          "latitude": 46.2946805,
+          "longitude": -108.9379352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Granite County",
+      "cities": [
+        {
+          "name": "Maxville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Granite County",
+          "latitude": 46.464081,
+          "longitude": -113.231598,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hall",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Granite County",
+          "latitude": 46.5852065,
+          "longitude": -113.1967315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drummond",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Granite County",
+          "latitude": 46.66743049999999,
+          "longitude": -113.1472857,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Philipsburg",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Granite County",
+          "latitude": 46.332506,
+          "longitude": -113.2944165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hill County",
+      "cities": [
+        {
+          "name": "Rocky Boy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2708165,
+          "longitude": -109.77144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Havre",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5449986,
+          "longitude": -109.7329803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sangrey",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.284294,
+          "longitude": -109.8118922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Pierre",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2427804,
+          "longitude": -109.8124735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rudyard",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5611961,
+          "longitude": -110.5544442,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saddle Butte",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5227762,
+          "longitude": -109.6454759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parker School",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2499887,
+          "longitude": -109.7368669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laredo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.4313817,
+          "longitude": -109.8832617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kremlin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5697169,
+          "longitude": -110.0865991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inverness",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5573771,
+          "longitude": -110.6905834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hilldale Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.800004,
+          "longitude": -109.7801997,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Herron",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.5249977,
+          "longitude": -109.7790933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Havre North",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.56133310000001,
+          "longitude": -109.6697245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gildford",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.56935259999999,
+          "longitude": -110.2997548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gildford Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.7875013,
+          "longitude": -110.2716018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East End Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.7494488,
+          "longitude": -109.5701912,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Box Elder",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.323406,
+          "longitude": -110.0193184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.55444259999999,
+          "longitude": -109.7921487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Azure",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.3050631,
+          "longitude": -109.8115992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hingham",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.554991,
+          "longitude": -110.4221659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Havre",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.549999,
+          "longitude": -109.6840887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "South Hills",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.5584678,
+          "longitude": -111.9992171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rader Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 45.8436776,
+          "longitude": -112.3272292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montana City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.5377111,
+          "longitude": -111.9327688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.38826359999999,
+          "longitude": -112.0274957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkhorn",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.27478800000001,
+          "longitude": -111.946213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clancy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.4652096,
+          "longitude": -111.9863826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cardwell",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 45.8599267,
+          "longitude": -111.9524875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Basin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 46.2713177,
+          "longitude": -112.2636205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitehall",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Jefferson County",
+          "latitude": 45.8693709,
+          "longitude": -112.0986053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Judith Basin County",
+      "cities": [
+        {
+          "name": "Windham",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.0785776,
+          "longitude": -110.1404809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Utica",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 46.9677892,
+          "longitude": -110.0921623,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Surprise Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.1702448,
+          "longitude": -110.3402094,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sapphire Ridge",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 46.8891254,
+          "longitude": -110.2513125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raynesford",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.2699643,
+          "longitude": -110.7299417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moccasin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.0527741,
+          "longitude": -109.9100286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Geyser",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.2591326,
+          "longitude": -110.4932688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanford",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.1535215,
+          "longitude": -110.2185162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hobson",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Judith Basin County",
+          "latitude": 47.0008145,
+          "longitude": -109.8724643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "cities": [
+        {
+          "name": "Woods Bay",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 48.0016171,
+          "longitude": -114.050388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turtle Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.6693828,
+          "longitude": -114.0742775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Swan Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.9291146,
+          "longitude": -113.844821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rocky Point",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.7349397,
+          "longitude": -114.1795618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rollins",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.9060569,
+          "longitude": -114.1984527,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ravalli",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.2726443,
+          "longitude": -114.1730085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pablo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.6013252,
+          "longitude": -114.122336,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lindisfarne",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.80889,
+          "longitude": -114.2275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Mary Ronan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.9430023,
+          "longitude": -114.3945714,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kings Point",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.7682742,
+          "longitude": -114.1515047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kerr",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.6796604,
+          "longitude": -114.191507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kicking Horse",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.4604884,
+          "longitude": -114.0751101,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jette",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.7174391,
+          "longitude": -114.191507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Finley Point",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.737996,
+          "longitude": -114.0634437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elmo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.830498,
+          "longitude": -114.3495693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.8657773,
+          "longitude": -114.2790121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.43854349999999,
+          "longitude": -114.1723378,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Arm",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.7979969,
+          "longitude": -114.2948454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bear Dance",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.91667,
+          "longitude": -114.02778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlee",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.1625441,
+          "longitude": -114.0847398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ronan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.5288233,
+          "longitude": -114.1015013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Ignatius",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lake County",
+          "latitude": 47.3199306,
+          "longitude": -114.0939979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lewis and Clark County",
+      "cities": [
+        {
+          "name": "York",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.7175611,
+          "longitude": -111.752571,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wolf Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 47.006054,
+          "longitude": -112.0691697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unionville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.5413221,
+          "longitude": -112.0850005,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rimini",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.487511,
+          "longitude": -112.247963,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milford Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 47.3296688,
+          "longitude": -112.2097343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marysville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.7505198,
+          "longitude": -112.3012261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.9549402,
+          "longitude": -112.6817071,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena Valley Northeast",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.7133025,
+          "longitude": -111.9573536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena Valley Northwest",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.7208453,
+          "longitude": -112.0707455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena Valley Southeast",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.6095274,
+          "longitude": -111.9194649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena Valley West Central",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.6632695,
+          "longitude": -112.0546522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena West Side",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.59813949999999,
+          "longitude": -112.1012427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilman",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 47.50911439999999,
+          "longitude": -112.3653002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Craig",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 47.0743888,
+          "longitude": -111.9633303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canyon Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.8057247,
+          "longitude": -112.262171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Augusta",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 47.4927251,
+          "longitude": -112.3922458,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Helena",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.5896567,
+          "longitude": -111.9155461,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Lewis and Clark County",
+          "latitude": 46.5891452,
+          "longitude": -112.0391057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Liberty County",
+      "cities": [
+        {
+          "name": "Whitlash",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Liberty County",
+          "latitude": 48.9089727,
+          "longitude": -111.2521255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sage Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Liberty County",
+          "latitude": 48.9294508,
+          "longitude": -110.974409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverview Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Liberty County",
+          "latitude": 48.17719880000001,
+          "longitude": -111.0313542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joplin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Liberty County",
+          "latitude": 48.5609247,
+          "longitude": -110.7724955,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Liberty County",
+          "latitude": 48.6980489,
+          "longitude": -111.2105401,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Yaak",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.833005,
+          "longitude": -115.7086591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Haven",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.3449547,
+          "longitude": -115.5173863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Kootenai",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.96223320000001,
+          "longitude": -115.210426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trego",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.70528239999999,
+          "longitude": -114.8693471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sylvanite",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.7163356,
+          "longitude": -115.8743507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stryker",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.674132,
+          "longitude": -114.770152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pioneer Junction",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.336066,
+          "longitude": -115.5184972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Springs",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.9415882,
+          "longitude": -115.0448471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Happys Inn",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.08630400000001,
+          "longitude": -115.134476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fortine",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.7649647,
+          "longitude": -114.9018261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bull Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.23672,
+          "longitude": -115.8450987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rexford",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.899408,
+          "longitude": -115.1721154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Troy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.46410969999999,
+          "longitude": -115.8898946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eureka",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Lincoln County",
+          "latitude": 48.8799647,
+          "longitude": -115.0535001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Silver Star",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.6920672,
+          "longitude": -112.2835995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.65835070000001,
+          "longitude": -111.8933013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norris",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.5704366,
+          "longitude": -111.6904522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mammoth",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.6696484,
+          "longitude": -112.0166544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McAllister",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.444367,
+          "longitude": -111.7314823,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeffers",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.3488166,
+          "longitude": -111.7055291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrison",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.70281749999999,
+          "longitude": -111.7847288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.4682588,
+          "longitude": -112.1397127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alder",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.3238131,
+          "longitude": -112.1072095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheridan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.4554809,
+          "longitude": -112.1969372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Virginia City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.2938143,
+          "longitude": -111.9460911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twin Bridges",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Madison County",
+          "latitude": 45.54426,
+          "longitude": -112.3310399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McCone County",
+      "cities": [
+        {
+          "name": "Vida",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "McCone County",
+          "latitude": 47.8319584,
+          "longitude": -105.49305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prairie Elk Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "McCone County",
+          "latitude": 48.0164079,
+          "longitude": -105.7971641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brockway",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "McCone County",
+          "latitude": 47.2977834,
+          "longitude": -105.7625087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Circle",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "McCone County",
+          "latitude": 47.416417,
+          "longitude": -105.588264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Meagher County",
+      "cities": [
+        {
+          "name": "Springdale Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Meagher County",
+          "latitude": 46.46188189999999,
+          "longitude": -111.0163284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martinsdale",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Meagher County",
+          "latitude": 46.457695,
+          "longitude": -110.3140327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Sulphur Springs",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Meagher County",
+          "latitude": 46.548277,
+          "longitude": -110.9021561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mineral County",
+      "cities": [
+        {
+          "name": "Saltese",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.41020750000001,
+          "longitude": -115.5095972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Regis",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.3023629,
+          "longitude": -115.0990702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverbend",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.15187,
+          "longitude": -114.8331848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haugan",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.38326319999999,
+          "longitude": -115.3995938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "De Borgia",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.3757636,
+          "longitude": -115.3459811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cyr",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.0101984,
+          "longitude": -114.5848455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alberton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Mineral County",
+          "latitude": 47.0015869,
+          "longitude": -114.4734549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Missoula County",
+      "cities": [
+        {
+          "name": "Wye",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.9529785,
+          "longitude": -114.1215023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twin Creeks",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.9127062,
+          "longitude": -113.7139849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turah",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.837193,
+          "longitude": -113.8286013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seeley Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 47.1793799,
+          "longitude": -113.4845229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Potomac",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.8815967,
+          "longitude": -113.5795332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piltzville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.8613147,
+          "longitude": -113.8626033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orchard Homes",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.8632567,
+          "longitude": -114.0484441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lolo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.7573817,
+          "longitude": -114.0813175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huson",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 47.0322714,
+          "longitude": -114.3309825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frenchtown",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 47.0149221,
+          "longitude": -114.2298394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evaro",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 47.0362303,
+          "longitude": -114.0873727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Missoula",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.8707578,
+          "longitude": -113.9445514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Condon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 47.5275186,
+          "longitude": -113.7109849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.770233,
+          "longitude": -113.7125687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.6695179,
+          "longitude": -114.079193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonner-West Riverside",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Missoula County",
+          "latitude": 46.8780975,
+          "longitude": -113.8939154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Musselshell County",
+      "cities": [
+        {
+          "name": "Musselshell",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.5185867,
+          "longitude": -108.0912238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Klein",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.4041303,
+          "longitude": -108.5493007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kilby Butte Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.54580350000001,
+          "longitude": -108.3492902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flat Willow Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.724415,
+          "longitude": -108.4895761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camp Three",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.4407972,
+          "longitude": -108.5648569,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melstone",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.5985922,
+          "longitude": -107.8720495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roundup",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Musselshell County",
+          "latitude": 46.445242,
+          "longitude": -108.5417999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Park County",
+      "cities": [
+        {
+          "name": "Wineglass",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.6270445,
+          "longitude": -110.624282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilsall",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.9938227,
+          "longitude": -110.660209,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springdale",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.7380288,
+          "longitude": -110.2236582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Glastonbury",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.32592289999999,
+          "longitude": -110.8085374,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Gate",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.007118,
+          "longitude": -109.9894941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pray",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.4022903,
+          "longitude": -110.6987621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.5074367,
+          "longitude": -110.5640942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jardine",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.0699365,
+          "longitude": -110.6343747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardiner",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.0318802,
+          "longitude": -110.7057663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emigrant",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.368614,
+          "longitude": -110.7349943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corwin Springs",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.112991,
+          "longitude": -110.7899367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cooke City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.0194686,
+          "longitude": -109.9345643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clyde Park",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Park County",
+          "latitude": 45.8868789,
+          "longitude": -110.6038188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Petroleum County",
+      "cities": [
+        {
+          "name": "Winnett",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Petroleum County",
+          "latitude": 47.002759,
+          "longitude": -108.3520716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Phillips County",
+      "cities": [
+        {
+          "name": "Zortman",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 47.9174361,
+          "longitude": -108.5253185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitewater",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.7594509,
+          "longitude": -107.6275913,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sleeping Buffalo",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.4838853,
+          "longitude": -107.5287073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loring Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.78667369999999,
+          "longitude": -107.9734441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Landusky",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 47.8977716,
+          "longitude": -108.6223746,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Malta Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.3516628,
+          "longitude": -107.6092719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dodson",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.3955535,
+          "longitude": -108.2442994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saco",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Phillips County",
+          "latitude": 48.4571957,
+          "longitude": -107.3420829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pondera County",
+      "cities": [
+        {
+          "name": "Pondera Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.2409743,
+          "longitude": -112.4182711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Miami Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.19191439999999,
+          "longitude": -112.2822579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Midway Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.066569,
+          "longitude": -111.9916146,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingsbury Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.3027527,
+          "longitude": -112.4875483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heart Butte",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.2833011,
+          "longitude": -112.8367307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dupuyer",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.1916399,
+          "longitude": -112.4995702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brady",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.03549839999999,
+          "longitude": -111.8404752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Birch Creek Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.2477513,
+          "longitude": -112.4703233,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conrad",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.1683058,
+          "longitude": -111.9447411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valier",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Pondera County",
+          "latitude": 48.307754,
+          "longitude": -112.2497602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Powder River County",
+      "cities": [
+        {
+          "name": "Biddle",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powder River County",
+          "latitude": 45.0994344,
+          "longitude": -105.3382021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broadus",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powder River County",
+          "latitude": 45.4438809,
+          "longitude": -105.4074903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Powell County",
+      "cities": [
+        {
+          "name": "Racetrack",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.2788148,
+          "longitude": -112.7486495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ovando",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 47.0202162,
+          "longitude": -113.1331154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helmville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.8666032,
+          "longitude": -112.9611639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goldcreek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.5865968,
+          "longitude": -112.928661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garrison",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.5232622,
+          "longitude": -112.81171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elliston",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.5621665,
+          "longitude": -112.4308235,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Powell County",
+          "latitude": 46.5985184,
+          "longitude": -112.5963047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prairie County",
+      "cities": [
+        {
+          "name": "Fallon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Prairie County",
+          "latitude": 46.8349461,
+          "longitude": -105.1213956,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ravalli County",
+      "cities": [
+        {
+          "name": "Victor",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.4165889,
+          "longitude": -114.1501005,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sula",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 45.8365869,
+          "longitude": -113.9817463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.6316893,
+          "longitude": -114.0788985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corvallis",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.3140884,
+          "longitude": -114.1128734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conner",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 45.9307534,
+          "longitude": -114.1245288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlos Heights",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.125835,
+          "longitude": -114.183846,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stevensville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.50992249999999,
+          "longitude": -114.0931588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Darby",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.0245451,
+          "longitude": -114.1783168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinesdale",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.3293662,
+          "longitude": -114.2167649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamilton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Ravalli County",
+          "latitude": 46.2471437,
+          "longitude": -114.1548161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Richland County",
+      "cities": [
+        {
+          "name": "Savage",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Richland County",
+          "latitude": 47.4535457,
+          "longitude": -104.3428382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fox Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Richland County",
+          "latitude": 47.6830716,
+          "longitude": -104.6224568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crane",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Richland County",
+          "latitude": 47.5759201,
+          "longitude": -104.2624216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Richland County",
+          "latitude": 47.8563365,
+          "longitude": -104.0446701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Roosevelt County",
+      "cities": [
+        {
+          "name": "Brockton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.1506883,
+          "longitude": -104.9152744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poplar",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.1130741,
+          "longitude": -105.1983149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wolf Point",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.0905736,
+          "longitude": -105.6405566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bainville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.142243,
+          "longitude": -104.22022,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Culbertson",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.1444646,
+          "longitude": -104.5168996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Froid",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Roosevelt County",
+          "latitude": 48.335143,
+          "longitude": -104.4916266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rosebud County",
+      "cities": [
+        {
+          "name": "Rosebud",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 46.3904836,
+          "longitude": -106.5944313,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lame Deer",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 45.6230476,
+          "longitude": -106.6666984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Birney",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 45.3218521,
+          "longitude": -106.5151637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 45.6067568,
+          "longitude": -106.2849802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forsyth",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 46.2630502,
+          "longitude": -106.6819793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colstrip",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Rosebud County",
+          "latitude": 45.8841618,
+          "longitude": -106.6236368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sanders County",
+      "cities": [
+        {
+          "name": "Weeksville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.52306,
+          "longitude": -114.99306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trout Creek",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.8368781,
+          "longitude": -115.5982263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradise",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.3891911,
+          "longitude": -114.8026398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Agency",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.3288188,
+          "longitude": -114.2959517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Noxon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.9949267,
+          "longitude": -115.7782979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Niarada",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.814108,
+          "longitude": -114.6045741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lonepine",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.7029939,
+          "longitude": -114.6367966,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heron",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 48.0579438,
+          "longitude": -115.9690177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixon",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.31638820000001,
+          "longitude": -114.3145961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camas",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.618172,
+          "longitude": -114.657547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belknap",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.662222,
+          "longitude": -115.407778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plains",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.45863079999999,
+          "longitude": -114.8832463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hot Springs",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.6091041,
+          "longitude": -114.6687414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thompson Falls",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sanders County",
+          "latitude": 47.5955023,
+          "longitude": -115.3373865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sheridan County",
+      "cities": [
+        {
+          "name": "Reserve",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.6055818,
+          "longitude": -104.4596753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redstone",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.8216926,
+          "longitude": -104.9441394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homestead",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.4211347,
+          "longitude": -104.5388451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antelope",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.6897493,
+          "longitude": -104.4582863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westby",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.869618,
+          "longitude": -104.0510628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Medicine Lake",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.5014544,
+          "longitude": -104.5048575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plentywood",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.773639,
+          "longitude": -104.5602351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Outlook",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sheridan County",
+          "latitude": 48.8886573,
+          "longitude": -104.7791175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Silver Bow County",
+      "cities": [
+        {
+          "name": "Walkerville",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Silver Bow County",
+          "latitude": 46.03409329999999,
+          "longitude": -112.5358563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butte-Silver Bow (balance)",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Silver Bow County",
+          "latitude": 46.0038232,
+          "longitude": -112.5347776,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stillwater County",
+      "cities": [
+        {
+          "name": "Reed Point",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.70938350000001,
+          "longitude": -109.5421187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rapelje",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.9720322,
+          "longitude": -109.2550389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park City",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.6297222,
+          "longitude": -108.9162361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nye",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.4335682,
+          "longitude": -109.8089939,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fishtail",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.4483622,
+          "longitude": -109.507173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Absarokee",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Stillwater County",
+          "latitude": 45.5204982,
+          "longitude": -109.4429444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Grass County",
+      "cities": [
+        {
+          "name": "Greycliff",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sweet Grass County",
+          "latitude": 45.7632707,
+          "longitude": -109.7846289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Timber",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Sweet Grass County",
+          "latitude": 45.8343543,
+          "longitude": -109.9540644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Teton County",
+      "cities": [
+        {
+          "name": "Rockport Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 48.0669032,
+          "longitude": -112.475872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Power",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.715723,
+          "longitude": -111.6864697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pendroy",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 48.0735718,
+          "longitude": -112.2989206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Rockport Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.8635672,
+          "longitude": -112.0236233,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Miller Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.9263428,
+          "longitude": -112.2900268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bynum",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.9777136,
+          "longitude": -112.3119869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.6146733,
+          "longitude": -111.9802785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dutton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Teton County",
+          "latitude": 47.8476807,
+          "longitude": -111.7152981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Toole County",
+      "cities": [
+        {
+          "name": "Sweet Grass",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.9961099,
+          "longitude": -111.9675752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rimrock Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.8958265,
+          "longitude": -112.0953253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillside Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.9791624,
+          "longitude": -112.0683814,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camrose Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.3111808,
+          "longitude": -111.6133553,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelby",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.5066603,
+          "longitude": -111.8561447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kevin",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.7452692,
+          "longitude": -111.9653168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunburst",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Toole County",
+          "latitude": 48.8832031,
+          "longitude": -111.9105181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Treasure County",
+      "cities": [
+        {
+          "name": "Hysham",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Treasure County",
+          "latitude": 46.29276549999999,
+          "longitude": -107.2342299,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Valley County",
+      "cities": [
+        {
+          "name": "St. Marie",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.4022458,
+          "longitude": -106.5328157,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hinsdale",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.39492329999999,
+          "longitude": -107.0846354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frazer",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.0614068,
+          "longitude": -106.0419626,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Peck",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.0088889,
+          "longitude": -106.448611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nashua",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.1322422,
+          "longitude": -106.3564204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Opheim",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Valley County",
+          "latitude": 48.8566918,
+          "longitude": -106.4072535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wheatland County",
+      "cities": [
+        {
+          "name": "Wheatland",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.4922893,
+          "longitude": -109.8418592,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twodot",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.42376369999999,
+          "longitude": -110.0715627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springwater Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.45940179999999,
+          "longitude": -109.7562935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shawmut",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.3439777,
+          "longitude": -109.5252874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martinsdale Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.48939310000001,
+          "longitude": -110.2674107,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duncan Ranch Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.444398,
+          "longitude": -110.0237972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harlowton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.435512,
+          "longitude": -109.8343499,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Judith Gap",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wheatland County",
+          "latitude": 46.6771784,
+          "longitude": -109.7518501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wibaux County",
+      "cities": [
+        {
+          "name": "Wibaux",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Wibaux County",
+          "latitude": 46.99045539999999,
+          "longitude": -104.1864623,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yellowstone County",
+      "cities": [
+        {
+          "name": "Billings",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.78277689999999,
+          "longitude": -108.5045938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laurel",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.6691159,
+          "longitude": -108.7715328,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broadview",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 46.0977314,
+          "longitude": -108.8770972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Acton",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.9305083,
+          "longitude": -108.6806978,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ballantine",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.9488511,
+          "longitude": -108.1451196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntley",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.899401,
+          "longitude": -108.3015173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lockwood",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.81912029999999,
+          "longitude": -108.414855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain View Colony",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 46.0682531,
+          "longitude": -108.72138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nibbe",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.9838566,
+          "longitude": -108.0273341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pompeys Pillar",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.9913611,
+          "longitude": -107.9520501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shepherd",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.943568,
+          "longitude": -108.3423516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Worden",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Yellowstone County",
+          "latitude": 45.959962,
+          "longitude": -108.1609536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import { usePathname, useRouter } from 'expo-router';
 import { createContext, memo, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import {
   Animated,
+  GestureResponderHandlers,
   PanResponder,
   Pressable,
   StyleSheet,
@@ -56,10 +57,11 @@ const DrawerItem = memo(({ label, icon, href, isActive, onNavigate }: {
 
 DrawerItem.displayName = 'DrawerItem';
 
-const AppDrawerOverlay = memo(({ translateX, isOpen, onClose }: {
+const AppDrawerOverlay = memo(({ translateX, isOpen, onClose, panHandlers }: {
   translateX: Animated.Value;
   isOpen: boolean;
   onClose: () => void;
+  panHandlers?: GestureResponderHandlers;
 }) => {
   const insets = useSafeAreaInsets();
   const theme = useThemeColors();
@@ -72,18 +74,23 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose }: {
   }, [router, onClose]);
 
   const isActive = useCallback((href: string) => {
-    if (href === '/(tabs)/index') return pathname === '/';
+    if (href === '/') return pathname === '/';
     return pathname.includes(href.replace('/(tabs)', ''));
   }, [pathname]);
 
   return (
-    <View style={StyleSheet.absoluteFill} pointerEvents="box-none">
+    <View
+      style={StyleSheet.absoluteFill}
+      pointerEvents={isOpen ? 'box-none' : 'none'}
+    >
       <Pressable
         style={styles.backdrop}
         onPress={onClose}
         pointerEvents={isOpen ? 'auto' : 'none'}
       />
       <Animated.View
+        {...panHandlers}
+        pointerEvents={isOpen ? 'auto' : 'none'}
         style={[
           styles.drawer,
           {
@@ -96,7 +103,7 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose }: {
       >
         <Text style={[styles.drawerTitle, { color: theme.text }]}>Menu</Text>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
-          <DrawerItem label="Home" icon="house.fill" href="/(tabs)/index" isActive={isActive('/(tabs)/index')} onNavigate={onNavigate} />
+          <DrawerItem label="Home" icon="house.fill" href="/" isActive={isActive('/')} onNavigate={onNavigate} />
           <DrawerItem label="Pathfinder" icon="brain.head.profile" href="/(tabs)/ai-assistant" isActive={isActive('/(tabs)/ai-assistant')} onNavigate={onNavigate} />
           <DrawerItem label="GPS" icon="paperplane.fill" href="/(tabs)/recorder" isActive={isActive('/(tabs)/recorder')} onNavigate={onNavigate} />
           <DrawerItem label="Travel Log" icon="map.fill" href="/(tabs)/travel-log" isActive={isActive('/(tabs)/travel-log')} onNavigate={onNavigate} />
@@ -118,9 +125,20 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose }: {
 AppDrawerOverlay.displayName = 'AppDrawerOverlay';
 
 export const AppDrawerProvider = memo(({ children }: { children: React.ReactNode }) => {
+  const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
   const translateX = useRef(new Animated.Value(-DRAWER_WIDTH)).current;
   const translateXValue = useRef(-DRAWER_WIDTH);
+  const isOpenRef = useRef(false);
+
+  // Native maps own their gestures. A parent PanResponder wrapping the whole
+  // app (or an off-screen drawer that still occupies its layout hit box)
+  // swallows pans/zooms on the GPS screen.
+  const isMapScreen = pathname.includes('/recorder') || pathname.includes('/trip/');
+
+  useEffect(() => {
+    isOpenRef.current = isOpen;
+  }, [isOpen]);
 
   useEffect(() => {
     const listenerId = translateX.addListener(({ value }) => {
@@ -168,45 +186,59 @@ export const AppDrawerProvider = memo(({ children }: { children: React.ReactNode
     toggleDrawer,
   }), [isOpen, openDrawer, closeDrawer, toggleDrawer]);
 
-  const panResponder = useRef(
-    PanResponder.create({
-      onMoveShouldSetPanResponder: (evt, gesture) => {
-        const { dx, dy } = gesture;
-        const isHorizontal = Math.abs(dx) > Math.abs(dy);
-        if (!isHorizontal || Math.abs(dx) < 8) return false;
+  const panResponder = useMemo(
+    () =>
+      PanResponder.create({
+        onStartShouldSetPanResponder: () => false,
+        onMoveShouldSetPanResponder: (evt, gesture) => {
+          const { dx, dy } = gesture;
+          const isHorizontal = Math.abs(dx) > Math.abs(dy);
+          if (!isHorizontal || Math.abs(dx) < 8) return false;
 
-        if (isOpen) {
-          return true;
-        }
+          if (isOpenRef.current) {
+            return dx < 0;
+          }
 
-        const startX = evt.nativeEvent.pageX;
-        return startX <= 24 && dx > 0;
-      },
-      onPanResponderMove: (_evt, gesture) => {
-        let nextX = -DRAWER_WIDTH;
-        if (isOpen) {
-          nextX = Math.min(0, Math.max(-DRAWER_WIDTH, translateXValue.current + gesture.dx));
-        } else {
-          nextX = Math.min(0, Math.max(-DRAWER_WIDTH, -DRAWER_WIDTH + gesture.dx));
-        }
-        translateX.setValue(nextX);
-      },
-      onPanResponderRelease: (_evt, gesture) => {
-        const shouldOpen = gesture.vx > 0.3 || translateXValue.current > -DRAWER_WIDTH / 2;
-        if (shouldOpen) {
-          openDrawer();
-        } else {
-          closeDrawer();
-        }
-      },
-    })
-  ).current;
+          return evt.nativeEvent.pageX <= 24 && dx > 0;
+        },
+        onPanResponderMove: (_evt, gesture) => {
+          let nextX = -DRAWER_WIDTH;
+          if (isOpenRef.current) {
+            nextX = Math.min(0, Math.max(-DRAWER_WIDTH, translateXValue.current + gesture.dx));
+          } else {
+            nextX = Math.min(0, Math.max(-DRAWER_WIDTH, -DRAWER_WIDTH + gesture.dx));
+          }
+          translateX.setValue(nextX);
+        },
+        onPanResponderRelease: (_evt, gesture) => {
+          const shouldOpen = gesture.vx > 0.3 || translateXValue.current > -DRAWER_WIDTH / 2;
+          if (shouldOpen) {
+            openDrawer();
+          } else {
+            closeDrawer();
+          }
+        },
+      }),
+    [translateX, openDrawer, closeDrawer]
+  );
 
   return (
     <AppDrawerContext.Provider value={value}>
-      <View style={styles.container} {...panResponder.panHandlers}>
+      <View style={styles.container}>
         {children}
-        <AppDrawerOverlay translateX={translateX} isOpen={isOpen} onClose={closeDrawer} />
+        {!isOpen && !isMapScreen && (
+          <View
+            style={styles.edgeSwipe}
+            {...panResponder.panHandlers}
+            collapsable={false}
+          />
+        )}
+        <AppDrawerOverlay
+          translateX={translateX}
+          isOpen={isOpen}
+          onClose={closeDrawer}
+          panHandlers={isOpen ? panResponder.panHandlers : undefined}
+        />
       </View>
     </AppDrawerContext.Provider>
   );
@@ -241,6 +273,14 @@ DrawerToggleButton.displayName = 'DrawerToggleButton';
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  edgeSwipe: {
+    position: 'absolute',
+    left: 0,
+    top: 0,
+    bottom: 0,
+    width: 24,
+    zIndex: 20,
   },
   backdrop: {
     ...StyleSheet.absoluteFillObject,
@@ -291,6 +331,7 @@ const styles = StyleSheet.create({
     shadowRadius: 6,
     shadowOffset: { width: 0, height: 3 },
     elevation: 3,
+    zIndex: 40,
   },
 });
 

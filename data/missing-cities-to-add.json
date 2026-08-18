@@ -1,0 +1,125 @@
+{
+  "missingCities": [
+    {
+      "name": "Marydel",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "county": "Caroline County",
+      "lat": 39.1128904,
+      "lng": -75.7457651
+    },
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 36.8516437,
+      "lng": -75.97921939999999
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 37.0870821,
+      "lng": -76.4730122
+    },
+    {
+      "name": "Suffolk",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 36.7282054,
+      "lng": -76.5835621
+    },
+    {
+      "name": "Charlottesville",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 38.0301826,
+      "lng": -78.4769353
+    },
+    {
+      "name": "Colonial Heights",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 37.244039,
+      "lng": -77.4102607
+    },
+    {
+      "name": "Radford",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 37.13179239999999,
+      "lng": -80.5764477
+    },
+    {
+      "name": "Manassas Park",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 38.7840035,
+      "lng": -77.4697111
+    },
+    {
+      "name": "Falls Church",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 38.88233400000001,
+      "lng": -77.1710914
+    },
+    {
+      "name": "Poquoson",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 37.1223664,
+      "lng": -76.3457773
+    },
+    {
+      "name": "Galax",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "county": "Independent City",
+      "lat": 36.6612387,
+      "lng": -80.9239671
+    },
+    {
+      "name": "Los Ranchos de Albuquerque",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "county": "Sandoval County",
+      "lat": 35.1619885,
+      "lng": -106.6428038
+    },
+    {
+      "name": "Utqiaġvik",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "county": "North Slope Borough",
+      "lat": 63.588753,
+      "lng": -154.4930619
+    },
+    {
+      "name": "Drew",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "county": "Drew County",
+      "lat": 33.809558,
+      "lng": -90.5264813
+    },
+    {
+      "name": "Oceana",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "county": "Wyoming County",
+      "lat": 37.6920553,
+      "lng": -81.6239985
+    }
+  ],
+  "instructions": "These cities need to be added to the us-cities-with-counties.ts file in their respective state/county sections"
+}

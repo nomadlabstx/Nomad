@@ -1,0 +1,2012 @@
+{
+  "name": "Vermont",
+  "code": "VT",
+  "counties": [
+    {
+      "name": "Addison County",
+      "cities": [
+        {
+          "name": "South Lincoln",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.07144940000001,
+          "longitude": -72.9726155,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Haven",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.12432769999999,
+          "longitude": -73.1535713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middlebury",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.0151433,
+          "longitude": -73.16695539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.10589280000001,
+          "longitude": -72.99706119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Middlebury",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 43.97291939999999,
+          "longitude": -73.10317359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bristol",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.1331991,
+          "longitude": -73.0786955,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vergennes",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Addison County",
+          "latitude": 44.1672771,
+          "longitude": -73.2540111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bennington County",
+      "cities": [
+        {
+          "name": "Stamford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.7561535,
+          "longitude": -73.0679253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Shaftsbury",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.9450186,
+          "longitude": -73.2111515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Readsboro",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.7718758,
+          "longitude": -72.9470426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pownal",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.792313,
+          "longitude": -73.22694609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pownal Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.7964682,
+          "longitude": -73.22316339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Pownal",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.8053482,
+          "longitude": -73.2691646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manchester Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 43.17702060000001,
+          "longitude": -73.05704879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Dorset",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 43.2410444,
+          "longitude": -73.0021534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dorset",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 43.2548074,
+          "longitude": -73.0987801,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.8783486,
+          "longitude": -73.19712299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 43.0747858,
+          "longitude": -73.1539734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manchester",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 43.1635393,
+          "longitude": -73.0720817,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Bennington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.88341200000001,
+          "longitude": -73.2134413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Bennington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Bennington County",
+          "latitude": 42.930356,
+          "longitude": -73.242609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Caledonia County",
+      "cities": [
+        {
+          "name": "Sutton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.6331085,
+          "longitude": -72.02565249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Johnsbury",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.4192627,
+          "longitude": -72.0151183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheffield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.6019975,
+          "longitude": -72.1139881,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peacham",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.3286166,
+          "longitude": -72.1704048,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyndon",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.5453088,
+          "longitude": -72.0000723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyndon Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.5416086,
+          "longitude": -72.0153219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyndonville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.5336665,
+          "longitude": -72.0031513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Groton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.2104705,
+          "longitude": -72.1952697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hardwick",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.5416243,
+          "longitude": -72.3486803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Burke",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.589071,
+          "longitude": -71.94045539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.4114862,
+          "longitude": -72.1400902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barnet",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.2968323,
+          "longitude": -72.0493779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Burke",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Caledonia County",
+          "latitude": 44.64144170000001,
+          "longitude": -71.978707,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chittenden County",
+      "cities": [
+        {
+          "name": "Burlington",
+          "state": "Vermont",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4758825,
+          "longitude": -73.21207199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winooski",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.491438,
+          "longitude": -73.1856832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jericho",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.5041705,
+          "longitude": -72.9978292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Burlington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4654257,
+          "longitude": -73.17718719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Essex Junction",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4904763,
+          "longitude": -73.1111871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3726476,
+          "longitude": -72.87876250000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolton Valley",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4181555,
+          "longitude": -72.85583679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Charlotte",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3178038,
+          "longitude": -73.1895965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanksville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.2541133,
+          "longitude": -72.96085219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hinesburg",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3289664,
+          "longitude": -73.11024909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3250315,
+          "longitude": -72.9868813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntington Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.29699979999999,
+          "longitude": -72.9676207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jericho Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4694544,
+          "longitude": -72.9721024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.630323,
+          "longitude": -73.1158342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richmond",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.4053135,
+          "longitude": -72.9924128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. George",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3775898,
+          "longitude": -73.1253641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelburne",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3806787,
+          "longitude": -73.2275593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Underhill Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.50765029999999,
+          "longitude": -72.9021667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Underhill Flats",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.5217624,
+          "longitude": -72.9438484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Charlotte",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.3099292,
+          "longitude": -73.2547627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Chittenden County",
+          "latitude": 44.5983349,
+          "longitude": -72.99770029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Essex County",
+      "cities": [
+        {
+          "name": "Lunenburg",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 44.4631136,
+          "longitude": -71.6820321,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Island Pond",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 44.8147712,
+          "longitude": -71.8803728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilman",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 44.4123384,
+          "longitude": -71.7198185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Concord",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 44.42881029999999,
+          "longitude": -71.8887045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canaan",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 44.9964934,
+          "longitude": -71.5383736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beecher Falls",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Essex County",
+          "latitude": 45.0106799,
+          "longitude": -71.50654709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Richford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.9969955,
+          "longitude": -72.6713018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highgate Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.9385149,
+          "longitude": -73.0454456,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highgate Springs",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.97400649999999,
+          "longitude": -73.105042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfax",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.6654963,
+          "longitude": -73.01032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bakersfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.7819927,
+          "longitude": -72.8029085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enosburg Falls",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.9069907,
+          "longitude": -72.80652309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Swanton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Franklin County",
+          "latitude": 44.9182342,
+          "longitude": -73.1244792,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grand Isle County",
+      "cities": [
+        {
+          "name": "South Hero",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Grand Isle County",
+          "latitude": 44.6458286,
+          "longitude": -73.30256229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alburgh",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Grand Isle County",
+          "latitude": 44.9748974,
+          "longitude": -73.3010678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lamoille County",
+      "cities": [
+        {
+          "name": "Wolcott",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.5464417,
+          "longitude": -72.4584429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stowe",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.4654332,
+          "longitude": -72.6874023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Hyde Park",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.6707084,
+          "longitude": -72.5988471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeffersonville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.6439391,
+          "longitude": -72.8292945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.6400507,
+          "longitude": -72.66150809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morrisville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.5617189,
+          "longitude": -72.5984486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cambridge",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.6447724,
+          "longitude": -72.87627719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hyde Park",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Lamoille County",
+          "latitude": 44.5972849,
+          "longitude": -72.61627419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Orange County",
+      "cities": [
+        {
+          "name": "Williamstown",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 44.1217292,
+          "longitude": -72.5414937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Randolph",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 43.9247446,
+          "longitude": -72.6656948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairlee",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 43.9053567,
+          "longitude": -72.1518675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chelsea",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 43.989788,
+          "longitude": -72.4475994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 43.99350889999999,
+          "longitude": -72.1282226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wells River",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orange County",
+          "latitude": 44.1542302,
+          "longitude": -72.0470357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Orleans County",
+      "cities": [
+        {
+          "name": "Troy",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.9042338,
+          "longitude": -72.4058438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.950663,
+          "longitude": -72.30668399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowell",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.7992084,
+          "longitude": -72.4476024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irasburg",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.80338159999999,
+          "longitude": -72.2795489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greensboro",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.6107836,
+          "longitude": -72.3046033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greensboro Bend",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.5489591,
+          "longitude": -72.26042199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glover",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.7069038,
+          "longitude": -72.1869766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coventry",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.867617,
+          "longitude": -72.2616067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Troy",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.9944896,
+          "longitude": -72.3998314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orleans",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.8905506,
+          "longitude": -72.2603468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.7480805,
+          "longitude": -72.17625799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albany",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.7309405,
+          "longitude": -72.37980759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Derby Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 44.949101,
+          "longitude": -72.1325081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Derby Line",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Orleans County",
+          "latitude": 45.002228,
+          "longitude": -72.10116599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rutland County",
+      "cities": [
+        {
+          "name": "West Pawlet",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.3465552,
+          "longitude": -73.177286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Rutland",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.5930919,
+          "longitude": -73.0451081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wells",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.41729369999999,
+          "longitude": -73.2042744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallingford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.4717467,
+          "longitude": -72.9773692,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Proctor",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.6606225,
+          "longitude": -73.03566409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pittsford",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.7067329,
+          "longitude": -73.02816469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pawlet",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.3465552,
+          "longitude": -73.177286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Clarendon",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.5655235,
+          "longitude": -72.9661208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middletown Springs",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.4856255,
+          "longitude": -73.1181624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Killington Village",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.6400681,
+          "longitude": -72.7934356,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fair Haven",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.594801,
+          "longitude": -73.2657155,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Poultney",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.5264576,
+          "longitude": -73.20455299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danby",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.3548341,
+          "longitude": -73.0475498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chittenden",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.7271064,
+          "longitude": -72.9428417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castleton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.608439,
+          "longitude": -73.2084496,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castleton Four Corners",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.610748,
+          "longitude": -73.2146078,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandon",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.7996825,
+          "longitude": -73.08926679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benson",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.7066513,
+          "longitude": -73.3105386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rutland",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.6106237,
+          "longitude": -72.9726065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poultney",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Rutland County",
+          "latitude": 43.5170325,
+          "longitude": -73.2362261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Worcester",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.37331,
+          "longitude": -72.5496503,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterbury",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.3416596,
+          "longitude": -72.75931369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterbury Center",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.376896,
+          "longitude": -72.7189485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Websterville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.1609383,
+          "longitude": -72.4699134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waitsfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.1926386,
+          "longitude": -72.7798479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Barre",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.1770059,
+          "longitude": -72.5056602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plainfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.2781151,
+          "longitude": -72.4264926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.148452,
+          "longitude": -72.6562758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Graniteville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.1508443,
+          "longitude": -72.4922953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Montpelier",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.2711706,
+          "longitude": -72.48705029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Barre",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.1587843,
+          "longitude": -72.4505411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cabot",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.4013947,
+          "longitude": -72.3123023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marshfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.3508405,
+          "longitude": -72.3539905,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montpelier",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Washington County",
+          "latitude": 44.26005929999999,
+          "longitude": -72.5753869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Windham County",
+      "cities": [
+        {
+          "name": "Wilmington",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.8683889,
+          "longitude": -72.8714468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitingham",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.7893317,
+          "longitude": -72.8846045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Brattleboro",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.8559151,
+          "longitude": -72.6031466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Dummerston",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.9281487,
+          "longitude": -72.6128993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wardsboro",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.04095119999999,
+          "longitude": -72.78979749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Townshend",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.0472267,
+          "longitude": -72.6678428,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stratton Mountain",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.1138414,
+          "longitude": -72.905452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Londonderry",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.1927116,
+          "longitude": -72.81471839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Putney",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.975268,
+          "longitude": -72.5217237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Westminster",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.118967,
+          "longitude": -72.4550885,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Londonderry",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.2264643,
+          "longitude": -72.8064866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamaica",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.1001116,
+          "longitude": -72.7781251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harmonyville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.03841269999999,
+          "longitude": -72.662593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grafton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.1716817,
+          "longitude": -72.6064633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chimney Hill",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.8934958,
+          "longitude": -72.9047136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brattleboro",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.8509152,
+          "longitude": -72.5578678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Algiers",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.8213754,
+          "longitude": -72.5766759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellows Falls",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.133411,
+          "longitude": -72.44397719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newfane",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.9856736,
+          "longitude": -72.65593129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saxtons River",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.13785559999999,
+          "longitude": -72.5098115,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westminster",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 43.06783069999999,
+          "longitude": -72.4587404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacksonville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windham County",
+          "latitude": 42.7970266,
+          "longitude": -72.8217628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Windsor County",
+      "cities": [
+        {
+          "name": "Windsor",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.4799996,
+          "longitude": -72.3865679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilder",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.6728484,
+          "longitude": -72.3087022,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Woodstock",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.6170139,
+          "longitude": -72.5420391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White River Junction",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.6489596,
+          "longitude": -72.3192579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weston",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.29130079999999,
+          "longitude": -72.7929085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Woodstock",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.5645774,
+          "longitude": -72.5278773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.2987009,
+          "longitude": -72.4819818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Royalton",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.8205295,
+          "longitude": -72.5213419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rochester",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.8745646,
+          "longitude": -72.80801799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quechee",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.646227,
+          "longitude": -72.4186105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Proctorsville",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.3816397,
+          "longitude": -72.63581340000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norwich",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.7153482,
+          "longitude": -72.307869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Springfield",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.3327842,
+          "longitude": -72.5251981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Hartland",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.5923889,
+          "longitude": -72.3524489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartford Village",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.6604879,
+          "longitude": -72.3384398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartland",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.540636,
+          "longitude": -72.3989314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chester",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.2628476,
+          "longitude": -72.5951082,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cavendish",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.4145061,
+          "longitude": -72.5914616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethel",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.8332779,
+          "longitude": -72.633995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ascutney",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.4012001,
+          "longitude": -72.40627719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ludlow",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.3960723,
+          "longitude": -72.7010471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodstock",
+          "state": "VT",
+          "stateCode": "VT",
+          "county": "Windsor County",
+          "latitude": 43.6242442,
+          "longitude": -72.51851119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "raw": [
+    {
+      "highway": "35",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35/North/680"
+    },
+    {
+      "highway": "35",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35/South/680"
+    },
+    {
+      "highway": "10",
+      "direction": "East",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-10/East/645"
+    },
+    {
+      "highway": "10",
+      "direction": "West",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-10/West/645"
+    },
+    {
+      "highway": "45",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-45/North/670"
+    },
+    {
+      "highway": "45",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-45/South/670"
+    },
+    {
+      "highway": "20",
+      "direction": "East",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-20/East/650"
+    },
+    {
+      "highway": "20",
+      "direction": "West",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-20/West/650"
+    },
+    {
+      "highway": "30",
+      "direction": "East",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-30/East/655"
+    },
+    {
+      "highway": "30",
+      "direction": "West",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-30/West/655"
+    },
+    {
+      "highway": "37",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-37/North/660"
+    },
+    {
+      "highway": "37",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-37/South/660"
+    },
+    {
+      "highway": "27",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-27/North/652"
+    },
+    {
+      "highway": "27",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-27/South/652"
+    },
+    {
+      "highway": "35E",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35E/North/681"
+    },
+    {
+      "highway": "35E",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35E/South/681"
+    },
+    {
+      "highway": "35W",
+      "direction": "North",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35W/North/682"
+    },
+    {
+      "highway": "35W",
+      "direction": "South",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-35W/South/682"
+    },
+    {
+      "highway": "410",
+      "direction": "Loop",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-410/Loop/685"
+    },
+    {
+      "highway": "610",
+      "direction": "Loop",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-610/Loop/690"
+    },
+    {
+      "highway": "820",
+      "direction": "Loop",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-820/Loop/695"
+    },
+    {
+      "highway": "635",
+      "direction": "Loop",
+      "exits": [],
+      "error": "HTTP 403: https://www.iexitapp.com/exits/Texas/I-635/Loop/692"
+    }
+  ],
+  "merged": {
+    "I-35": {
+      "highway": "35",
+      "exits": []
+    },
+    "I-10": {
+      "highway": "10",
+      "exits": []
+    },
+    "I-45": {
+      "highway": "45",
+      "exits": []
+    },
+    "I-20": {
+      "highway": "20",
+      "exits": []
+    },
+    "I-30": {
+      "highway": "30",
+      "exits": []
+    },
+    "I-37": {
+      "highway": "37",
+      "exits": []
+    },
+    "I-27": {
+      "highway": "27",
+      "exits": []
+    },
+    "I-35E": {
+      "highway": "35E",
+      "exits": []
+    },
+    "I-35W": {
+      "highway": "35W",
+      "exits": []
+    },
+    "I-410": {
+      "highway": "410",
+      "exits": []
+    },
+    "I-610": {
+      "highway": "610",
+      "exits": []
+    },
+    "I-820": {
+      "highway": "820",
+      "exits": []
+    },
+    "I-635": {
+      "highway": "635",
+      "exits": []
+    }
+  }
+}

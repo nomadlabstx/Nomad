@@ -27,5 +27,14 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
   ],
+  "exclude": [
+    "node_modules",
+    "data/us-states/**",
+    "data/us-states-json/**",
+    "data/archive/**",
+    "data/us-states-index.json",
+    "data/us-cities-census.ts",
+    "data/us-cities-complete.ts"
+  ],
   "extends": "expo/tsconfig.base"
 }

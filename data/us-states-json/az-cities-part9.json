@@ -1,0 +1,550 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Marana",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.436381,
+          "longitude": -111.2224422,
+          "population": 58430,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Oro Valley",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3909071,
+          "longitude": -110.966488,
+          "population": 48311,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Sahuarita",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.9575818,
+          "longitude": -110.955646,
+          "population": 36356,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "South Tucson",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.1954998,
+          "longitude": -110.9684411,
+          "population": 4521,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Wet Camp Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.1425947,
+          "longitude": -111.9011121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Vaiva Vo",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.7178908,
+          "longitude": -111.9269112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Upper Santan Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.114769,
+          "longitude": -111.7435799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Top-of-the-World",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.3494997,
+          "longitude": -110.9926154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Tat Momoli",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.603447,
+          "longitude": -111.861351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Sweet Water Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.1219565,
+          "longitude": -111.8359916,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Stanfield",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.8825531,
+          "longitude": -111.9620805,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stotonic Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.1552182,
+          "longitude": -111.8151245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "San Tan Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.177294,
+          "longitude": -111.5468301,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "San Manuel",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.5997933,
+          "longitude": -110.6309289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Sacate Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.17527760000001,
+          "longitude": -112.0798414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sacaton",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0767225,
+          "longitude": -111.7392993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sacaton Flats Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0696431,
+          "longitude": -111.6687856,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saddlebrooke",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.5347688,
+          "longitude": -110.8805813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Red Rock",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.5730612,
+          "longitude": -111.3290006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Queen Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.29866560000001,
+          "longitude": -111.2895709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Pinal",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.8162061,
+          "longitude": -111.2845025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Picacho",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.7131363,
+          "longitude": -111.4986544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Oracle",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.6100983,
+          "longitude": -110.7656646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Lower Santan Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.1565696,
+          "longitude": -111.7978899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Kohatk",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.5783923,
+          "longitude": -112.0056912,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Goodyear Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.1964533,
+          "longitude": -111.8754516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Gold Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.3593407,
+          "longitude": -111.4500302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Dudleyville",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.9208126,
+          "longitude": -110.7331063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Chuichu",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.752002,
+          "longitude": -111.7831837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Casa Blanca",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.12028,
+          "longitude": -111.8875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Campo Bonito",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.5644621,
+          "longitude": -110.7034861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Cactus Forest",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.95796200000001,
+          "longitude": -111.320053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Blackwater",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0311702,
+          "longitude": -111.582627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Arizona City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.7558935,
+          "longitude": -111.6709584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Ak Chin",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0254918,
+          "longitude": -112.0834066,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ak-Chin Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0283838,
+          "longitude": -112.0876431,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pinal County",
+      "cities": []
+    },
+    {
+      "name": "Pinal County",
+      "cities": []
+    }
+  ]
+}

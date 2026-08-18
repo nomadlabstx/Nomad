@@ -1,0 +1,596 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Three Points",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.076745,
+          "longitude": -111.3137147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Tanque Verde",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.2517422,
+          "longitude": -110.7373056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Summerhaven",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.438687,
+          "longitude": -110.7598173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summit",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.0670238,
+          "longitude": -110.9514796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "South Komelik",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.7176442,
+          "longitude": -111.7793523,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Sells",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.9120215,
+          "longitude": -111.881234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Santa Rosa",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3236779,
+          "longitude": -112.0412468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "San Miguel",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.622881,
+          "longitude": -111.777802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Rillito",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.4153807,
+          "longitude": -111.1540631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rincon Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.1066665,
+          "longitude": -110.7003268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Pisinemo",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.0378487,
+          "longitude": -112.3209689,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Picture Rocks",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3459069,
+          "longitude": -111.2462146,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Nolic",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.0353511,
+          "longitude": -111.9526266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Nelson",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.42889,
+          "longitude": -111.26889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Maish Vaya",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.167233,
+          "longitude": -112.127586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Ko Vaya",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.07694,
+          "longitude": -111.89472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Kleindale",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.2679943,
+          "longitude": -110.9223495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "J-Six Ranchettes",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.9664668,
+          "longitude": -110.4679176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Haivana Nakya",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.0067425,
+          "longitude": -111.7137309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Green Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.8542511,
+          "longitude": -110.9937019,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gu Oidak",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.921667,
+          "longitude": -112.042778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Flowing Wells",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.2943528,
+          "longitude": -111.01206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Elephant Head",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.7686158,
+          "longitude": -110.9923904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Drexel Heights",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.1411888,
+          "longitude": -111.028427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Corona de Tucson",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.948952,
+          "longitude": -110.7807872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowlic",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.8069385,
+          "longitude": -111.9910008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Comobabi",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.058056,
+          "longitude": -111.799444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Charco",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.2452425,
+          "longitude": -112.5990066,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chiawuli Tak",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.93555599999999,
+          "longitude": -111.780278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Casas Adobes",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3234078,
+          "longitude": -110.9950966,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catalina",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.5000731,
+          "longitude": -110.9212146,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catalina Foothills",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.297853,
+          "longitude": -110.9187037,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Avra Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.4378484,
+          "longitude": -111.315385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Arivaca",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.5773351,
+          "longitude": -111.3314522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arivaca Junction",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.7273097,
+          "longitude": -111.0612026,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Anegam",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.373421,
+          "longitude": -112.0289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Ali Chuk",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.8150745,
+          "longitude": -112.5568109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ali Chukson",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.9109297,
+          "longitude": -111.8014988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ali Molina",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 31.9081932,
+          "longitude": -111.7761608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pima County",
+      "cities": [
+        {
+          "name": "Ajo",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Pima County",
+          "latitude": 32.3717248,
+          "longitude": -112.8607099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

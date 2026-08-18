@@ -1,0 +1,435 @@
+/**
+ * South Carolina Highway Database
+ * Programmatically generated highway data
+ * 
+ * Generated: 2025-10-30T18:25:10.704Z
+ */
+
+import type { ExplorerHighway } from '../types/explorer';
+
+type HighwayData = Omit<ExplorerHighway, 'visited' | 'firstVisited' | 'lastVisited' | 'visitCount' | 'exits' | 'visitedExits' | 'completionPercent'>;
+
+/**
+ * INTERSTATE HIGHWAYS IN SC
+ */
+
+const SC_INTERSTATES: HighwayData[] = [
+  {
+    id: 'interstate-20',
+    name: 'Interstate 20',
+    type: 'highway',
+    highwayType: 'interstate',
+    number: '20',
+    fullName: 'Interstate 20',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 10,
+  },
+  {
+    id: 'interstate-77',
+    name: 'Interstate 77',
+    type: 'highway',
+    highwayType: 'interstate',
+    number: '77',
+    fullName: 'Interstate 77',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 23,
+  },
+  {
+    id: 'interstate-85',
+    name: 'Interstate 85',
+    type: 'highway',
+    highwayType: 'interstate',
+    number: '85',
+    fullName: 'Interstate 85',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 36,
+  },
+  {
+    id: 'interstate-95',
+    name: 'Interstate 95',
+    type: 'highway',
+    highwayType: 'interstate',
+    number: '95',
+    fullName: 'Interstate 95',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 25,
+  },
+];
+
+/**
+ * US HIGHWAYS IN SC
+ */
+
+const SC_US_HIGHWAYS: HighwayData[] = [
+  {
+    id: 'us-233',
+    name: 'US Highway 233',
+    type: 'highway',
+    highwayType: 'us-highway',
+    number: '233',
+    fullName: 'US Highway 233',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 5,
+  },
+  {
+    id: 'us-62',
+    name: 'US Highway 62',
+    type: 'highway',
+    highwayType: 'us-highway',
+    number: '62',
+    fullName: 'US Highway 62',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+];
+
+/**
+ * STATE HIGHWAYS IN SC
+ */
+
+const SC_STATE_HIGHWAYS: HighwayData[] = [
+  {
+    id: 'state-1',
+    name: 'South Carolina State Route 1',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '1',
+    fullName: 'South Carolina State Route 1',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+  {
+    id: 'state-2',
+    name: 'South Carolina State Route 2',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '2',
+    fullName: 'South Carolina State Route 2',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 5,
+  },
+  {
+    id: 'state-3',
+    name: 'South Carolina State Route 3',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '3',
+    fullName: 'South Carolina State Route 3',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 6,
+  },
+  {
+    id: 'state-4',
+    name: 'South Carolina State Route 4',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '4',
+    fullName: 'South Carolina State Route 4',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 2,
+  },
+  {
+    id: 'state-5',
+    name: 'South Carolina State Route 5',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '5',
+    fullName: 'South Carolina State Route 5',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+  {
+    id: 'state-6',
+    name: 'South Carolina State Route 6',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '6',
+    fullName: 'South Carolina State Route 6',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 3,
+  },
+  {
+    id: 'state-7',
+    name: 'South Carolina State Route 7',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '7',
+    fullName: 'South Carolina State Route 7',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 5,
+  },
+  {
+    id: 'state-8',
+    name: 'South Carolina State Route 8',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '8',
+    fullName: 'South Carolina State Route 8',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+  {
+    id: 'state-9',
+    name: 'South Carolina State Route 9',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '9',
+    fullName: 'South Carolina State Route 9',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 9,
+  },
+  {
+    id: 'state-10',
+    name: 'South Carolina State Route 10',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '10',
+    fullName: 'South Carolina State Route 10',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+  {
+    id: 'state-11',
+    name: 'South Carolina State Route 11',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '11',
+    fullName: 'South Carolina State Route 11',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 3,
+  },
+  {
+    id: 'state-12',
+    name: 'South Carolina State Route 12',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '12',
+    fullName: 'South Carolina State Route 12',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 2,
+  },
+  {
+    id: 'state-13',
+    name: 'South Carolina State Route 13',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '13',
+    fullName: 'South Carolina State Route 13',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 2,
+  },
+  {
+    id: 'state-14',
+    name: 'South Carolina State Route 14',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '14',
+    fullName: 'South Carolina State Route 14',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 2,
+  },
+  {
+    id: 'state-15',
+    name: 'South Carolina State Route 15',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '15',
+    fullName: 'South Carolina State Route 15',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+  {
+    id: 'state-16',
+    name: 'South Carolina State Route 16',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '16',
+    fullName: 'South Carolina State Route 16',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 6,
+  },
+  {
+    id: 'state-17',
+    name: 'South Carolina State Route 17',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '17',
+    fullName: 'South Carolina State Route 17',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 5,
+  },
+  {
+    id: 'state-18',
+    name: 'South Carolina State Route 18',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '18',
+    fullName: 'South Carolina State Route 18',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 9,
+  },
+  {
+    id: 'state-19',
+    name: 'South Carolina State Route 19',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '19',
+    fullName: 'South Carolina State Route 19',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 2,
+  },
+  {
+    id: 'state-20',
+    name: 'South Carolina State Route 20',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '20',
+    fullName: 'South Carolina State Route 20',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+  {
+    id: 'state-21',
+    name: 'South Carolina State Route 21',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '21',
+    fullName: 'South Carolina State Route 21',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+  {
+    id: 'state-22',
+    name: 'South Carolina State Route 22',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '22',
+    fullName: 'South Carolina State Route 22',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+  {
+    id: 'state-23',
+    name: 'South Carolina State Route 23',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '23',
+    fullName: 'South Carolina State Route 23',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 4,
+  },
+  {
+    id: 'state-24',
+    name: 'South Carolina State Route 24',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '24',
+    fullName: 'South Carolina State Route 24',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+  {
+    id: 'state-25',
+    name: 'South Carolina State Route 25',
+    type: 'highway',
+    highwayType: 'state-highway',
+    number: '25',
+    fullName: 'South Carolina State Route 25',
+    states: ['SC'],
+    direction: undefined,
+    parentHighwayId: undefined,
+    totalExits: 7,
+  },
+];
+
+/**
+ * ALL SC HIGHWAYS
+ */
+
+export const ALL_SC_HIGHWAYS: HighwayData[] = [
+  ...SC_INTERSTATES,
+  ...SC_US_HIGHWAYS,
+  ...SC_STATE_HIGHWAYS,
+];
+
+/**
+ * STATISTICS
+ */
+export const SC_HIGHWAY_STATS = {
+  totalHighways: 31,
+  interstates: 4,
+  usHighways: 2,
+  stateHighways: 25,
+  totalExits: 226,
+};
+
+/**
+ * Helper Functions
+ */
+export function getSouthCarolinaHighwayById(id: string): HighwayData | undefined {
+  return ALL_SC_HIGHWAYS.find(hw => hw.id === id);
+}
+
+export function getSouthCarolinaHighwaysByType(type: ExplorerHighway['highwayType']): HighwayData[] {
+  return ALL_SC_HIGHWAYS.filter(hw => hw.highwayType === type);
+}

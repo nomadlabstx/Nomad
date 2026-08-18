@@ -1,0 +1,688 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Turner County",
+      "cities": [
+        {
+          "name": "Rebecca",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Turner County",
+          "latitude": 31.8065688,
+          "longitude": -83.4868295,
+          "population": 206,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sycamore",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Turner County",
+          "latitude": 31.6743474,
+          "longitude": -83.63739029999999,
+          "population": 731,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Twiggs County",
+      "cities": []
+    },
+    {
+      "name": "Twiggs County",
+      "cities": [
+        {
+          "name": "Danville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Twiggs County",
+          "latitude": 32.6057103,
+          "longitude": -83.24543609999999,
+          "population": 160,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": []
+    },
+    {
+      "name": "Unknown County",
+      "cities": [
+        {
+          "name": "Dixie",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Unknown County",
+          "latitude": 32.1574351,
+          "longitude": -82.90712300000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "The Rock",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.9638895,
+          "longitude": -84.241153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "Sunset Village",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.8979094,
+          "longitude": -84.40380929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "Salem",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.7587494,
+          "longitude": -84.1876924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "Lincoln Park",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.8679109,
+          "longitude": -84.33047429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "Hannahs Mill",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.9329084,
+          "longitude": -84.34936410000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upson County",
+      "cities": []
+    },
+    {
+      "name": "Upson County",
+      "cities": [
+        {
+          "name": "Yatesville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Upson County",
+          "latitude": 32.9137438,
+          "longitude": -84.1426922,
+          "population": 396,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Walker County",
+      "cities": [
+        {
+          "name": "Rock Spring",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.8242089,
+          "longitude": -85.24060879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walker County",
+      "cities": [
+        {
+          "name": "Fairview",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.9456314,
+          "longitude": -85.2844008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walker County",
+      "cities": [
+        {
+          "name": "Chattanooga Valley",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.93285420000001,
+          "longitude": -85.355514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walker County",
+      "cities": [
+        {
+          "name": "Chickamauga",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.8711879,
+          "longitude": -85.2907896,
+          "population": 3057,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lookout Mountain",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.8641144,
+          "longitude": -85.3925101,
+          "population": 1671,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rossville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walker County",
+          "latitude": 34.9831309,
+          "longitude": -85.2860676,
+          "population": 3991,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Walton County",
+      "cities": [
+        {
+          "name": "Between",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.8176113,
+          "longitude": -83.8074003,
+          "population": 453,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Good Hope",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.7848398,
+          "longitude": -83.60905749999999,
+          "population": 386,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jersey",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.7156693,
+          "longitude": -83.79879009999999,
+          "population": 151,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Social Circle",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.656228,
+          "longitude": -83.718231,
+          "population": 5330,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Walnut Grove",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.742612,
+          "longitude": -83.85240399999999,
+          "population": 1575,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": [
+        {
+          "name": "Waresboro",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Ware County",
+          "latitude": 31.2479915,
+          "longitude": -82.47374800000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": [
+        {
+          "name": "Millwood",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Ware County",
+          "latitude": 31.2657632,
+          "longitude": -82.66041899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": [
+        {
+          "name": "Manor",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Ware County",
+          "latitude": 31.1038242,
+          "longitude": -82.57319389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": [
+        {
+          "name": "Dixie Union",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Ware County",
+          "latitude": 31.3393777,
+          "longitude": -82.46319079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": [
+        {
+          "name": "Deenwood",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Ware County",
+          "latitude": 31.24788,
+          "longitude": -82.37231050000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ware County",
+      "cities": []
+    },
+    {
+      "name": "Ware County",
+      "cities": []
+    },
+    {
+      "name": "Warren County",
+      "cities": []
+    },
+    {
+      "name": "Warren County",
+      "cities": [
+        {
+          "name": "Bowling Green",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Warren County",
+          "latitude": 36.9685219,
+          "longitude": -86.4808043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camak",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Warren County",
+          "latitude": 33.4534709,
+          "longitude": -82.6459668,
+          "population": 128,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Front Royal",
+          "state": "Virginia",
+          "stateCode": "VA",
+          "county": "Warren County",
+          "latitude": 38.9181671,
+          "longitude": -78.1944446,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glens Falls",
+          "state": "New York",
+          "stateCode": "NY",
+          "county": "Warren County",
+          "latitude": 43.3095164,
+          "longitude": -73.6440058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indianola",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Warren County",
+          "latitude": 41.3582864,
+          "longitude": -93.5583276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mason",
+          "state": "Ohio",
+          "stateCode": "OH",
+          "county": "Warren County",
+          "latitude": 39.3600586,
+          "longitude": -84.309939,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McMinnville",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Warren County",
+          "latitude": 35.6865889,
+          "longitude": -85.7801453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monmouth",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Warren County",
+          "latitude": 40.9114271,
+          "longitude": -90.64735759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norwood",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Warren County",
+          "latitude": 33.4626371,
+          "longitude": -82.7051355,
+          "population": 190,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Phillipsburg",
+          "state": "New Jersey",
+          "stateCode": "NJ",
+          "county": "Warren County",
+          "latitude": 40.6959711,
+          "longitude": -75.1876017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vicksburg",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Warren County",
+          "latitude": 32.3526456,
+          "longitude": -90.877882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warren",
+          "state": "Pennsylvania",
+          "stateCode": "PA",
+          "county": "Warren County",
+          "latitude": 41.8439486,
+          "longitude": -79.1450445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warrenton",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Warren County",
+          "latitude": 38.8211845,
+          "longitude": -91.1391977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamsport",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Warren County",
+          "latitude": 40.2883704,
+          "longitude": -87.2938999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Warthen",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 33.1020949,
+          "longitude": -82.80374909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Davisboro",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.97904250000001,
+          "longitude": -82.60790949999999,
+          "population": 1939,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Deepstep",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 33.0182075,
+          "longitude": -82.96903329999999,
+          "population": 113,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Harrison",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.8262697,
+          "longitude": -82.7251364,
+          "population": 322,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oconee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.8554338,
+          "longitude": -82.949866,
+          "population": 184,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Riddleville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.9068227,
+          "longitude": -82.66568939999999,
+          "population": 77,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tennille",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.9359886,
+          "longitude": -82.8115273,
+          "population": 1825,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Washington",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Washington County",
+          "latitude": 32.962702,
+          "longitude": -82.82097399999999,
+          "population": 3634,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Gardi",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Wayne County",
+          "latitude": 31.5382736,
+          "longitude": -81.7981688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": []
+    }
+  ]
+}

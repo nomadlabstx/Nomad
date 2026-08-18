@@ -1,0 +1,50 @@
+# Nomad App - AI Assistant Rules
+
+## Project Context
+This is a React Native/Expo trip tracking app called "Nomad" with the following key features:
+- GPS location tracking with trip recording
+- Map visualization using react-native-maps
+- Trip history with export capabilities (GPX/KML)
+- Color theming system
+- Cross-platform support (iOS, Android, Web)
+
+## Code Standards
+- Use TypeScript with strict typing
+- Follow React Native best practices
+- Implement proper error handling
+- Use React.memo, useCallback, useMemo for performance
+- Prefer functional components with hooks
+- Use proper naming conventions (camelCase for variables, PascalCase for components)
+
+## Architecture Patterns
+- Separate utilities into utils/ directory
+- Use custom hooks for complex state logic
+- Implement proper error boundaries
+- Use context for global state management
+- Prefer composition over inheritance
+
+## Performance Guidelines
+- Memoize expensive calculations
+- Debounce location updates
+- Use proper cleanup in useEffect
+- Implement loading states for async operations
+- Optimize bundle size with tree-shaking
+
+## File Organization
+- types/ - TypeScript type definitions
+- utils/ - Utility functions
+- components/ - Reusable UI components
+- hooks/ - Custom React hooks
+- app/ - Expo Router pages
+
+## Testing Strategy
+- Write unit tests for utility functions
+- Test components with React Native Testing Library
+- Mock location services for testing
+- Test error scenarios
+
+## Deployment
+- Use EAS Build for production builds
+- Implement proper error reporting
+- Monitor performance metrics
+- Test on multiple devices and platforms

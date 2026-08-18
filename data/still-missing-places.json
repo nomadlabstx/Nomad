@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Jacksons' Gap",
+    "stateCode": "AL",
+    "type": "incorporated",
+    "originalName": "Jacksons' Gap",
+    "nameLsad": "Jacksons' Gap town"
+  },
+  {
+    "name": "UtqiagÌ‡vik",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "UtqiagÌ‡vik",
+    "nameLsad": "UtqiagÌ‡vik city"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "St. Mary's",
+    "nameLsad": "St. Mary's city"
+  },
+  {
+    "name": "Clark's Point",
+    "stateCode": "AK",
+    "type": "incorporated",
+    "originalName": "Clark's Point",
+    "nameLsad": "Clark's Point city"
+  },
+  {
+    "name": "O'Kean",
+    "stateCode": "AR",
+    "type": "incorporated",
+    "originalName": "O'Kean",
+    "nameLsad": "O'Kean town"
+  },
+  {
+    "name": "Kep'el",
+    "stateCode": "CA",
+    "type": "CDP",
+    "originalName": "Kep'el",
+    "nameLsad": "Kep'el CDP"
+  },
+  {
+    "name": "CaÃ±on City",
+    "stateCode": "CO",
+    "type": "incorporated",
+    "originalName": "CaÃ±on City",
+    "nameLsad": "CaÃ±on City city"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "CO",
+    "type": "CDP",
+    "originalName": "St. Mary's",
+    "nameLsad": "St. Mary's CDP"
+  },
+  {
+    "name": "Sewall's Point",
+    "stateCode": "FL",
+    "type": "incorporated",
+    "originalName": "Sewall's Point",
+    "nameLsad": "Sewall's Point town"
+  },
+  {
+    "name": "Hill 'n Dale",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Hill 'n Dale",
+    "nameLsad": "Hill 'n Dale CDP"
+  },
+  {
+    "name": "Land O' Lakes",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Land O' Lakes",
+    "nameLsad": "Land O' Lakes CDP"
+  },
+  {
+    "name": "Town 'n' Country",
+    "stateCode": "FL",
+    "type": "CDP",
+    "originalName": "Town 'n' Country",
+    "nameLsad": "Town 'n' Country CDP"
+  },
+  {
+    "name": "Coeur d'Alene",
+    "stateCode": "ID",
+    "type": "incorporated",
+    "originalName": "Coeur d'Alene",
+    "nameLsad": "Coeur d'Alene city"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "IL",
+    "type": "incorporated",
+    "originalName": "O'Fallon",
+    "nameLsad": "O'Fallon city"
+  },
+  {
+    "name": "Campbell's Island",
+    "stateCode": "IL",
+    "type": "CDP",
+    "originalName": "Campbell's Island",
+    "nameLsad": "Campbell's Island CDP"
+  },
+  {
+    "name": "Prince's Lakes",
+    "stateCode": "IN",
+    "type": "incorporated",
+    "originalName": "Prince's Lakes",
+    "nameLsad": "Prince's Lakes town"
+  },
+  {
+    "name": "Bayou L'Ourse",
+    "stateCode": "LA",
+    "type": "CDP",
+    "originalName": "Bayou L'Ourse",
+    "nameLsad": "Bayou L'Ourse CDP"
+  },
+  {
+    "name": "Martin's Additions",
+    "stateCode": "MD",
+    "type": "incorporated",
+    "originalName": "Martin's Additions",
+    "nameLsad": "Martin's Additions village"
+  },
+  {
+    "name": "L'Anse",
+    "stateCode": "MI",
+    "type": "incorporated",
+    "originalName": "L'Anse",
+    "nameLsad": "L'Anse village"
+  },
+  {
+    "name": "St. John's University",
+    "stateCode": "MN",
+    "type": "CDP",
+    "originalName": "St. John's University",
+    "nameLsad": "St. John's University CDP"
+  },
+  {
+    "name": "D'Iberville",
+    "stateCode": "MS",
+    "type": "incorporated",
+    "originalName": "D'Iberville",
+    "nameLsad": "D'Iberville city"
+  },
+  {
+    "name": "D'Lo",
+    "stateCode": "MS",
+    "type": "incorporated",
+    "originalName": "D'Lo",
+    "nameLsad": "D'Lo town"
+  },
+  {
+    "name": "Lee's Summit",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "Lee's Summit",
+    "nameLsad": "Lee's Summit city"
+  },
+  {
+    "name": "Fountain N' Lakes",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "Fountain N' Lakes",
+    "nameLsad": "Fountain N' Lakes village"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "MO",
+    "type": "incorporated",
+    "originalName": "O'Fallon",
+    "nameLsad": "O'Fallon city"
+  },
+  {
+    "name": "Rocky Boy's Agency",
+    "stateCode": "MT",
+    "type": "CDP",
+    "originalName": "Rocky Boy's Agency",
+    "nameLsad": "Rocky Boy's Agency CDP"
+  },
+  {
+    "name": "O'Neill",
+    "stateCode": "NE",
+    "type": "incorporated",
+    "originalName": "O'Neill",
+    "nameLsad": "O'Neill city"
+  },
+  {
+    "name": "Golden's Bridge",
+    "stateCode": "NY",
+    "type": "CDP",
+    "originalName": "Golden's Bridge",
+    "nameLsad": "Golden's Bridge CDP"
+  },
+  {
+    "name": "Cajah's Mountain",
+    "stateCode": "NC",
+    "type": "incorporated",
+    "originalName": "Cajah's Mountain",
+    "nameLsad": "Cajah's Mountain town"
+  },
+  {
+    "name": "Wilson's Mills",
+    "stateCode": "NC",
+    "type": "incorporated",
+    "originalName": "Wilson's Mills",
+    "nameLsad": "Wilson's Mills town"
+  },
+  {
+    "name": "Spivey's Corner",
+    "stateCode": "NC",
+    "type": "CDP",
+    "originalName": "Spivey's Corner",
+    "nameLsad": "Spivey's Corner CDP"
+  },
+  {
+    "name": "Reile's Acres",
+    "stateCode": "ND",
+    "type": "incorporated",
+    "originalName": "Reile's Acres",
+    "nameLsad": "Reile's Acres city"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "OR",
+    "type": "CDP",
+    "originalName": "O'Brien",
+    "nameLsad": "O'Brien CDP"
+  },
+  {
+    "name": "Sullivan's Island",
+    "stateCode": "SC",
+    "type": "incorporated",
+    "originalName": "Sullivan's Island",
+    "nameLsad": "Sullivan's Island town"
+  },
+  {
+    "name": "Thompson's Station",
+    "stateCode": "TN",
+    "type": "incorporated",
+    "originalName": "Thompson's Station",
+    "nameLsad": "Thompson's Station town"
+  },
+  {
+    "name": "Parker's Crossroads",
+    "stateCode": "TN",
+    "type": "incorporated",
+    "originalName": "Parker's Crossroads",
+    "nameLsad": "Parker's Crossroads city"
+  },
+  {
+    "name": "Bailey's Prairie",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Bailey's Prairie",
+    "nameLsad": "Bailey's Prairie village"
+  },
+  {
+    "name": "O'Donnell",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "O'Donnell",
+    "nameLsad": "O'Donnell city"
+  },
+  {
+    "name": "Morgan's Point Resort",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Morgan's Point Resort",
+    "nameLsad": "Morgan's Point Resort city"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "O'Brien",
+    "nameLsad": "O'Brien city"
+  },
+  {
+    "name": "Miller's Cove",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Miller's Cove",
+    "nameLsad": "Miller's Cove town"
+  },
+  {
+    "name": "Morgan's Point",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Morgan's Point",
+    "nameLsad": "Morgan's Point city"
+  },
+  {
+    "name": "Carl's Corner",
+    "stateCode": "TX",
+    "type": "incorporated",
+    "originalName": "Carl's Corner",
+    "nameLsad": "Carl's Corner town"
+  },
+  {
+    "name": "D'Hanis",
+    "stateCode": "TX",
+    "type": "CDP",
+    "originalName": "D'Hanis",
+    "nameLsad": "D'Hanis CDP"
+  },
+  {
+    "name": "Port O'Connor",
+    "stateCode": "TX",
+    "type": "CDP",
+    "originalName": "Port O'Connor",
+    "nameLsad": "Port O'Connor CDP"
+  },
+  {
+    "name": "Bailey's Crossroads",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Bailey's Crossroads",
+    "nameLsad": "Bailey's Crossroads CDP"
+  },
+  {
+    "name": "Boswell's Corner",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Boswell's Corner",
+    "nameLsad": "Boswell's Corner CDP"
+  },
+  {
+    "name": "Lake Land'Or",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "Lake Land'Or",
+    "nameLsad": "Lake Land'Or CDP"
+  },
+  {
+    "name": "The University of Virginia's College at Wise",
+    "stateCode": "VA",
+    "type": "CDP",
+    "originalName": "The University of Virginia's College at Wise",
+    "nameLsad": "The University of Virginia's College at Wise CDP"
+  },
+  {
+    "name": "Barney's Junction",
+    "stateCode": "WA",
+    "type": "CDP",
+    "originalName": "Barney's Junction",
+    "nameLsad": "Barney's Junction CDP"
+  },
+  {
+    "name": "Chain O' Lakes",
+    "stateCode": "WI",
+    "type": "CDP",
+    "originalName": "Chain O' Lakes",
+    "nameLsad": "Chain O' Lakes CDP"
+  }
+]

@@ -1,0 +1,5414 @@
+{
+  "name": "Tennessee",
+  "code": "TN",
+  "counties": [
+    {
+      "name": "Anderson County",
+      "cities": [
+        {
+          "name": "Briceville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.1784121,
+          "longitude": -84.1852012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Andersonville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.1986395,
+          "longitude": -84.0369153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norris",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.1956343,
+          "longitude": -84.06797399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.1034126,
+          "longitude": -84.1318632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Ridge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.0103561,
+          "longitude": -84.26964490000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rocky Top",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Anderson County",
+          "latitude": 36.2178566,
+          "longitude": -84.15464519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bedford County",
+      "cities": [
+        {
+          "name": "Unionville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bedford County",
+          "latitude": 35.6217359,
+          "longitude": -86.592495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bell Buckle",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bedford County",
+          "latitude": 35.5917382,
+          "longitude": -86.35415979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wartrace",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bedford County",
+          "latitude": 35.5272954,
+          "longitude": -86.33360429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelbyville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bedford County",
+          "latitude": 35.483406,
+          "longitude": -86.46027169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Normandy",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bedford County",
+          "latitude": 35.4520206,
+          "longitude": -86.2599922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Eva",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Benton County",
+          "latitude": 36.0643415,
+          "longitude": -88.00407159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Sandy",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Benton County",
+          "latitude": 36.2347791,
+          "longitude": -88.08531459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bledsoe County",
+      "cities": [
+        {
+          "name": "Pikeville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bledsoe County",
+          "latitude": 35.6056231,
+          "longitude": -85.1888498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Blount County",
+      "cities": [
+        {
+          "name": "Wildwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.8036958,
+          "longitude": -83.8712895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.7281419,
+          "longitude": -83.8132305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagleton Village",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.7950834,
+          "longitude": -83.9318473,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcoa",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.7895271,
+          "longitude": -83.9737935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Friendsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.7603575,
+          "longitude": -84.1357453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Louisville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.8217479,
+          "longitude": -84.0479643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Townsend",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.6753657,
+          "longitude": -83.7557281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Blount County",
+          "latitude": 35.834306,
+          "longitude": -83.9422379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bradley County",
+      "cities": [
+        {
+          "name": "Wildwood Lake",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.0920192,
+          "longitude": -84.8543878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Cleveland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.1134853,
+          "longitude": -84.9036859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McDonald",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.1134073,
+          "longitude": -84.9827262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hopewell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.2345595,
+          "longitude": -84.91410119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Cleveland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.1609071,
+          "longitude": -84.8577219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charleston",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.2872952,
+          "longitude": -84.7582743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Campbell County",
+      "cities": [
+        {
+          "name": "Fincastle",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Campbell County",
+          "latitude": 36.4098011,
+          "longitude": -84.0477006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caryville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Campbell County",
+          "latitude": 36.2994159,
+          "longitude": -84.2230369,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacksboro",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Campbell County",
+          "latitude": 36.3300793,
+          "longitude": -84.1838156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jellico",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Campbell County",
+          "latitude": 36.5878591,
+          "longitude": -84.1268741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cannon County",
+      "cities": [
+        {
+          "name": "Woodbury",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cannon County",
+          "latitude": 35.8275672,
+          "longitude": -86.0716565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburntown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cannon County",
+          "latitude": 35.9475631,
+          "longitude": -86.0972118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Yuma",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 35.8475645,
+          "longitude": -88.3367128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lavinia",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 35.849233,
+          "longitude": -88.6608897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 35.9731207,
+          "longitude": -88.6781141,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarksburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 35.8717309,
+          "longitude": -88.3931039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollow Rock",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 36.038116,
+          "longitude": -88.2736553,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntingdon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 36.0006178,
+          "longitude": -88.4281063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McLemoresville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 35.987286,
+          "longitude": -88.5745001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trezevant",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 36.011453,
+          "longitude": -88.6228349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruceton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carroll County",
+          "latitude": 36.0381158,
+          "longitude": -88.2444874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carter County",
+      "cities": [
+        {
+          "name": "Valley Forge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3064993,
+          "longitude": -82.1931864,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roan Mountain",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.199829,
+          "longitude": -82.07282440000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Crest",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3053691,
+          "longitude": -82.3099154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hunter",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3717771,
+          "longitude": -82.1587404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.2843983,
+          "longitude": -82.1725484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.32621779999999,
+          "longitude": -82.2895807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Biltmore",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3723294,
+          "longitude": -82.2256886,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watauga",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3706613,
+          "longitude": -82.2968034,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elizabethton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Carter County",
+          "latitude": 36.3487196,
+          "longitude": -82.21068760000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cheatham County",
+      "cities": [
+        {
+          "name": "Kingston Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cheatham County",
+          "latitude": 36.10200380000001,
+          "longitude": -87.1150054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pegram",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cheatham County",
+          "latitude": 36.100615,
+          "longitude": -87.05111509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant View",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cheatham County",
+          "latitude": 36.3942164,
+          "longitude": -87.03666849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cheatham County",
+          "latitude": 36.2742207,
+          "longitude": -87.0641699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chester County",
+      "cities": [
+        {
+          "name": "Jacks Creek",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Chester County",
+          "latitude": 35.4686868,
+          "longitude": -88.52088250000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Chester County",
+          "latitude": 35.38479969999999,
+          "longitude": -88.42754409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Claiborne County",
+      "cities": [
+        {
+          "name": "Cumberland Gap",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Claiborne County",
+          "latitude": 36.59952699999999,
+          "longitude": -83.66852519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrogate",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Claiborne County",
+          "latitude": 36.5823046,
+          "longitude": -83.65685789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Tazewell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Claiborne County",
+          "latitude": 36.4425827,
+          "longitude": -83.5996306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tazewell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Claiborne County",
+          "latitude": 36.45425,
+          "longitude": -83.569352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clay County",
+      "cities": []
+    },
+    {
+      "name": "Cocke County",
+      "cities": [
+        {
+          "name": "Cosby",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cocke County",
+          "latitude": 35.8154772,
+          "longitude": -83.2477597,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cocke County",
+          "latitude": 35.9677665,
+          "longitude": -83.1873541,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parrottsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cocke County",
+          "latitude": 36.0092653,
+          "longitude": -83.0923775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coffee County",
+      "cities": [
+        {
+          "name": "New Union",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Coffee County",
+          "latitude": 35.5325751,
+          "longitude": -86.0808218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakewood Park",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Coffee County",
+          "latitude": 35.6483583,
+          "longitude": -86.1397437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsboro",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Coffee County",
+          "latitude": 35.4123075,
+          "longitude": -85.97174869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manchester",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Coffee County",
+          "latitude": 35.4817431,
+          "longitude": -86.0885993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crockett County",
+      "cities": [
+        {
+          "name": "Gadsden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Crockett County",
+          "latitude": 35.7759043,
+          "longitude": -88.99006299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bells",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Crockett County",
+          "latitude": 35.7111846,
+          "longitude": -89.087565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Friendship",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Crockett County",
+          "latitude": 35.9089616,
+          "longitude": -89.2453474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maury City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Crockett County",
+          "latitude": 35.814796,
+          "longitude": -89.2256244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alamo",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Crockett County",
+          "latitude": 35.7847949,
+          "longitude": -89.1172883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland County",
+      "cities": [
+        {
+          "name": "Mayland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 36.0467324,
+          "longitude": -85.19996619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Tansi",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 35.8728456,
+          "longitude": -85.0544017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield Glade",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 36.006316,
+          "longitude": -84.8848649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowman",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 36.06111,
+          "longitude": -85.02833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crab Orchard",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 35.9092367,
+          "longitude": -84.8780048,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Cumberland County",
+          "latitude": 35.976455,
+          "longitude": -85.1938547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Davidson County",
+      "cities": [
+        {
+          "name": "Nashville-Davidson metropolitan government (balance)",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.1110343,
+          "longitude": -86.6921691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goodlettsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.3223135,
+          "longitude": -86.7132894,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berry Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.1166813,
+          "longitude": -86.7663074,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belle Meade",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.0958923,
+          "longitude": -86.8569447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Hills",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.0683932,
+          "longitude": -86.84416700000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Davidson County",
+          "latitude": 36.0878369,
+          "longitude": -86.7830548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Decatur County",
+      "cities": [
+        {
+          "name": "Holladay",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Decatur County",
+          "latitude": 35.8718246,
+          "longitude": -88.144109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Decaturville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Decatur County",
+          "latitude": 35.5841408,
+          "longitude": -88.1197742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Liberty",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "DeKalb County",
+          "latitude": 36.0067276,
+          "longitude": -85.96776589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexandria",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "DeKalb County",
+          "latitude": 36.0775587,
+          "longitude": -86.0333222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dowelltown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "DeKalb County",
+          "latitude": 36.0150608,
+          "longitude": -85.9435987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dickson County",
+      "cities": [
+        {
+          "name": "Burns",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.0533943,
+          "longitude": -87.3125103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlotte",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.1772797,
+          "longitude": -87.33973189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slayden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.294777,
+          "longitude": -87.47028940000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vanleer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.2350562,
+          "longitude": -87.4439002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Bluff",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.1075593,
+          "longitude": -87.2208409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dickson",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dickson County",
+          "latitude": 36.0770048,
+          "longitude": -87.3877899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dyer County",
+      "cities": [
+        {
+          "name": "Miston",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.16479169999999,
+          "longitude": -89.4903526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lenox",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.0892376,
+          "longitude": -89.498408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fowlkes",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 35.9706281,
+          "longitude": -89.3861835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Finley",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.03584560000001,
+          "longitude": -89.48092249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bogota",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.1638616,
+          "longitude": -89.4383256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dyersburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.0345159,
+          "longitude": -89.38562809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trimble",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.203124,
+          "longitude": -89.190902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newbern",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 36.1128479,
+          "longitude": -89.2617368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fayette County",
+      "cities": [
+        {
+          "name": "Gallaway",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.3259187,
+          "longitude": -89.6161898,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moscow",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.0620344,
+          "longitude": -89.4039631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piperton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.0450913,
+          "longitude": -89.62174759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Grange",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.0453673,
+          "longitude": -89.2436803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rossville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.0484242,
+          "longitude": -89.5425786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Somerville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.2436969,
+          "longitude": -89.35007139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williston",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.1575877,
+          "longitude": -89.36840579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Braden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fayette County",
+          "latitude": 35.3795285,
+          "longitude": -89.56813269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fentress County",
+      "cities": [
+        {
+          "name": "Grimsley",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fentress County",
+          "latitude": 36.2670133,
+          "longitude": -84.9843985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarkrange",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fentress County",
+          "latitude": 36.1834013,
+          "longitude": -85.0174564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Allardt",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fentress County",
+          "latitude": 36.3809044,
+          "longitude": -84.8843918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamestown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Fentress County",
+          "latitude": 36.4275699,
+          "longitude": -84.9318919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Sherwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.0761938,
+          "longitude": -85.92331209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sewanee",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.2031373,
+          "longitude": -85.9210899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belvidere",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.1269409,
+          "longitude": -86.1863206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowan",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.1645273,
+          "longitude": -86.01053759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.0511972,
+          "longitude": -86.2697099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winchester",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.1859163,
+          "longitude": -86.11220709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Decherd",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.2098048,
+          "longitude": -86.07942849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estill Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Franklin County",
+          "latitude": 35.2706372,
+          "longitude": -86.1280417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gibson County",
+      "cities": [
+        {
+          "name": "Medina",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 35.8028453,
+          "longitude": -88.7747808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rutherford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 36.1275673,
+          "longitude": -88.98589880000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trenton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 35.9806239,
+          "longitude": -88.94145379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yorkville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 36.0995134,
+          "longitude": -89.11895679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 36.0764546,
+          "longitude": -88.81006169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Humboldt",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 35.8197917,
+          "longitude": -88.9158953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dyer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 36.0667348,
+          "longitude": -88.99395489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gibson",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Gibson County",
+          "latitude": 35.8753458,
+          "longitude": -88.846728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Giles County",
+      "cities": [
+        {
+          "name": "Prospect",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.0298052,
+          "longitude": -87.0030632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frankewing",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.19258,
+          "longitude": -86.8511135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ardmore",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.0037911,
+          "longitude": -86.8571659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.0523054,
+          "longitude": -86.88861500000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynnville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.3767432,
+          "longitude": -87.0061171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minor Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.0553602,
+          "longitude": -87.15751329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pulaski",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Giles County",
+          "latitude": 35.1998023,
+          "longitude": -87.0308412,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grainger County",
+      "cities": [
+        {
+          "name": "Bean Station",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grainger County",
+          "latitude": 36.3437016,
+          "longitude": -83.28406199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rutledge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grainger County",
+          "latitude": 36.2809202,
+          "longitude": -83.5149023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blaine",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grainger County",
+          "latitude": 36.15425080000001,
+          "longitude": -83.70407039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greene County",
+      "cities": [
+        {
+          "name": "Baileyton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Greene County",
+          "latitude": 36.3342662,
+          "longitude": -82.8368253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tusculum",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Greene County",
+          "latitude": 36.1751031,
+          "longitude": -82.7587626,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mosheim",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Greene County",
+          "latitude": 36.1895438,
+          "longitude": -82.9584902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grundy County",
+      "cities": [
+        {
+          "name": "Pelham",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.3100567,
+          "longitude": -85.8811068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tracy City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.2603569,
+          "longitude": -85.73608329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palmer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.3511831,
+          "longitude": -85.5677479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Altamont",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.4295186,
+          "longitude": -85.7230316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beersheba Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.4667379,
+          "longitude": -85.6541419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coalmont",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Grundy County",
+          "latitude": 35.3375761,
+          "longitude": -85.70414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hamblen County",
+      "cities": [
+        {
+          "name": "Russellville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamblen County",
+          "latitude": 36.25870520000001,
+          "longitude": -83.19516759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton County",
+      "cities": [
+        {
+          "name": "Sale Creek",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.382329,
+          "longitude": -85.1089368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ooltewah",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.071635,
+          "longitude": -85.0532212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mowbray Mountain",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.2809303,
+          "longitude": -85.23849129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middle Valley",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.1959036,
+          "longitude": -85.18467849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrison",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.1136837,
+          "longitude": -85.1380092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flat Top Mountain",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.339834,
+          "longitude": -85.1808179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falling Water",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.205727,
+          "longitude": -85.252602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairmount",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.18146,
+          "longitude": -85.3235713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Apison",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.023964,
+          "longitude": -85.0238375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Ridge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 34.99474410000001,
+          "longitude": -85.2256635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakesite",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.2086819,
+          "longitude": -85.126899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Bank",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.1122945,
+          "longitude": -85.2941251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeside",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.0354496,
+          "longitude": -85.24766629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Signal Mountain",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.1225727,
+          "longitude": -85.34384879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.1647933,
+          "longitude": -85.3013483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collegedale",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.0531301,
+          "longitude": -85.0502276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Soddy-Daisy",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hamilton County",
+          "latitude": 35.2359025,
+          "longitude": -85.1907904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": []
+    },
+    {
+      "name": "Hardeman County",
+      "cities": [
+        {
+          "name": "Pocahontas",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.0525874,
+          "longitude": -88.8036666,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Essary Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.0120328,
+          "longitude": -88.79811099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolivar",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.2561937,
+          "longitude": -88.9878389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saulsbury",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.0470332,
+          "longitude": -89.0878424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silerton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.3403579,
+          "longitude": -88.80616739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hornsby",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.227583,
+          "longitude": -88.8295009,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middleton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.0645319,
+          "longitude": -88.89089179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whiteville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.3264714,
+          "longitude": -89.1495102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory Valley",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.1536974,
+          "longitude": -89.1278432,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Junction",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.0489781,
+          "longitude": -89.1870119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toone",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardeman County",
+          "latitude": 35.3523026,
+          "longitude": -88.95256069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hardin County",
+      "cities": [
+        {
+          "name": "Walnut Grove",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.040047,
+          "longitude": -88.051514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shiloh",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.1153617,
+          "longitude": -88.36170849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olivet",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.21225,
+          "longitude": -88.2013319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nixon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.1148059,
+          "longitude": -88.25670579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morris Chapel",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.3239678,
+          "longitude": -88.3522627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Counce",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.0422751,
+          "longitude": -88.27353990000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Childers Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.077072,
+          "longitude": -88.3277279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crump",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.2217482,
+          "longitude": -88.3180946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saltillo",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.3778545,
+          "longitude": -88.2094803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Savannah",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hardin County",
+          "latitude": 35.22426,
+          "longitude": -88.2441182,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hawkins County",
+      "cities": [
+        {
+          "name": "Mooresburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.3471184,
+          "longitude": -83.22778129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Carmel",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.54537699999999,
+          "longitude": -82.6609898,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rogersville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.407317,
+          "longitude": -83.0054423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bulls Gap",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.2570407,
+          "longitude": -83.0859967,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Surgoinsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.4709298,
+          "longitude": -82.851829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Church Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hawkins County",
+          "latitude": 36.5223207,
+          "longitude": -82.7134921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haywood County",
+      "cities": [
+        {
+          "name": "Dancyville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Haywood County",
+          "latitude": 35.4078599,
+          "longitude": -89.2939583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Haywood County",
+          "latitude": 35.4623038,
+          "longitude": -89.40201669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Henderson County",
+      "cities": [
+        {
+          "name": "Parker",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7789726,
+          "longitude": -88.39309279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wildersville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7814548,
+          "longitude": -88.3603243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luray",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.591461,
+          "longitude": -88.5758852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huron",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.5881278,
+          "longitude": -88.53227299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Darden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.6381249,
+          "longitude": -88.2169835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chesterfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.635525,
+          "longitude": -88.26602199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sardis",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.4422975,
+          "longitude": -88.2936505,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scotts Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.5152249,
+          "longitude": -88.2455332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lexington",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.6509029,
+          "longitude": -88.3933796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Henry County",
+      "cities": [
+        {
+          "name": "Whitlock",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henry County",
+          "latitude": 36.3708909,
+          "longitude": -88.3569883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buchanan",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henry County",
+          "latitude": 36.4369999,
+          "longitude": -88.2083713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henry",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henry County",
+          "latitude": 36.2039488,
+          "longitude": -88.4197705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Puryear",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henry County",
+          "latitude": 36.4442234,
+          "longitude": -88.3344865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottage Grove",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henry County",
+          "latitude": 36.3792254,
+          "longitude": -88.47921439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hickman County",
+      "cities": [
+        {
+          "name": "Wrigley",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hickman County",
+          "latitude": 35.9008982,
+          "longitude": -87.3475119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyles",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hickman County",
+          "latitude": 35.9206072,
+          "longitude": -87.34611699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickman",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hickman County",
+          "latitude": 35.80127969999999,
+          "longitude": -87.460397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bon Aqua Junction",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Hickman County",
+          "latitude": 35.927601,
+          "longitude": -87.311928,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Houston County",
+      "cities": [
+        {
+          "name": "Erin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Houston County",
+          "latitude": 36.3183879,
+          "longitude": -87.6947414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Humphreys County",
+      "cities": [
+        {
+          "name": "New Johnsonville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Humphreys County",
+          "latitude": 36.0265423,
+          "longitude": -87.98392299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McEwen",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Humphreys County",
+          "latitude": 36.1078375,
+          "longitude": -87.63307449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waverly",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Humphreys County",
+          "latitude": 36.0839489,
+          "longitude": -87.794747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Dodson Branch",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jackson County",
+          "latitude": 36.3125598,
+          "longitude": -85.5321968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gainesboro",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jackson County",
+          "latitude": 36.3556149,
+          "longitude": -85.6588665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Strawberry Plains",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jefferson County",
+          "latitude": 36.06314140000001,
+          "longitude": -83.6860109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dandridge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jefferson County",
+          "latitude": 36.0153693,
+          "longitude": -83.4148895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baneberry",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jefferson County",
+          "latitude": 36.0448301,
+          "longitude": -83.2746836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Market",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jefferson County",
+          "latitude": 36.1039766,
+          "longitude": -83.55267510000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Pine",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Jefferson County",
+          "latitude": 36.1049628,
+          "longitude": -83.28538429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Johnson County",
+      "cities": [
+        {
+          "name": "Butler",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Johnson County",
+          "latitude": 36.3537006,
+          "longitude": -82.0320682,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Knox County",
+      "cities": [
+        {
+          "name": "Powell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 36.0318578,
+          "longitude": -84.027655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mascot",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 36.0611959,
+          "longitude": -83.745735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Karns",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 35.9820633,
+          "longitude": -84.1142453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "John Sevier",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 36.0378575,
+          "longitude": -83.8247623,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Knoxville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 35.965266,
+          "longitude": -83.923304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farragut",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Knox County",
+          "latitude": 35.8778548,
+          "longitude": -84.17113450000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "cities": [
+        {
+          "name": "Wynnburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lake County",
+          "latitude": 36.3286773,
+          "longitude": -89.4734081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgely",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lake County",
+          "latitude": 36.2635676,
+          "longitude": -89.4874942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lauderdale County",
+      "cities": [
+        {
+          "name": "Halls",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lauderdale County",
+          "latitude": 35.8756298,
+          "longitude": -89.39618349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henning",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lauderdale County",
+          "latitude": 35.6728565,
+          "longitude": -89.57340959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gates",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lauderdale County",
+          "latitude": 35.8384082,
+          "longitude": -89.40618359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence County",
+      "cities": [
+        {
+          "name": "Westpoint",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.1331366,
+          "longitude": -87.53363279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summertown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.4348074,
+          "longitude": -87.3128887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leoma",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.1614699,
+          "longitude": -87.34807339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iron City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.0239715,
+          "longitude": -87.58141320000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loretto",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.0778595,
+          "longitude": -87.43974299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Joseph",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.0363032,
+          "longitude": -87.5064708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ethridge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lawrence County",
+          "latitude": 35.323812,
+          "longitude": -87.30375959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lewis County",
+      "cities": []
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Taft",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.0206839,
+          "longitude": -86.71848609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.0820288,
+          "longitude": -86.5711061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flintville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.0625857,
+          "longitude": -86.41971339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dellrose",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.1131376,
+          "longitude": -86.80139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanche",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.0431397,
+          "longitude": -86.7544441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Petersburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Lincoln County",
+          "latitude": 35.3197992,
+          "longitude": -86.6374969,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Loudon County",
+      "cities": [
+        {
+          "name": "Tellico Village",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Loudon County",
+          "latitude": 35.6931167,
+          "longitude": -84.2602429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loudon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Loudon County",
+          "latitude": 35.7328541,
+          "longitude": -84.3338112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lenoir City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Loudon County",
+          "latitude": 35.7972998,
+          "longitude": -84.2560299,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Philadelphia",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Loudon County",
+          "latitude": 35.6794164,
+          "longitude": -84.40401729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenback",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Loudon County",
+          "latitude": 35.6611904,
+          "longitude": -84.1721357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Macon County",
+      "cities": [
+        {
+          "name": "Red Boiling Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Macon County",
+          "latitude": 36.5325495,
+          "longitude": -85.85033659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Pinson",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Madison County",
+          "latitude": 35.4900756,
+          "longitude": -88.72061029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mercer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Madison County",
+          "latitude": 35.479245,
+          "longitude": -89.04228599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beech Bluff",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Madison County",
+          "latitude": 35.596461,
+          "longitude": -88.6314422,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Medon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Madison County",
+          "latitude": 35.4572996,
+          "longitude": -88.8686699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Whiteside",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 34.9872986,
+          "longitude": -85.4977399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sequatchie",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.1155452,
+          "longitude": -85.59435309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Griffith Creek",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.284218,
+          "longitude": -85.55133099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orme",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.0120262,
+          "longitude": -85.8046966,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powells Crossroads",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.189437,
+          "longitude": -85.4860546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Hope",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.0050794,
+          "longitude": -85.65830199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Pittsburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.0123024,
+          "longitude": -85.70441489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitwell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.2014631,
+          "longitude": -85.5191323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kimball",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.0456979,
+          "longitude": -85.6759823,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monteagle",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marion County",
+          "latitude": 35.2400807,
+          "longitude": -85.83969789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marshall County",
+      "cities": [
+        {
+          "name": "Chapel Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marshall County",
+          "latitude": 35.6264581,
+          "longitude": -86.6933305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornersville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Marshall County",
+          "latitude": 35.3614649,
+          "longitude": -86.8397236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maury County",
+      "cities": [
+        {
+          "name": "Spring Hill",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Maury County",
+          "latitude": 35.751179,
+          "longitude": -86.9300023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Maury County",
+          "latitude": 35.6150716,
+          "longitude": -87.0352831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Pleasant",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Maury County",
+          "latitude": 35.5342414,
+          "longitude": -87.20695409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McMinn County",
+      "cities": [
+        {
+          "name": "Riceville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.3847951,
+          "longitude": -84.6929945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Niota",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.5152308,
+          "longitude": -84.5494192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Athens",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.4428512,
+          "longitude": -84.5929898,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Englewood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.4251085,
+          "longitude": -84.4857492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Etowah",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.3234065,
+          "longitude": -84.5249307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calhoun",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McMinn County",
+          "latitude": 35.296462,
+          "longitude": -84.7479962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McNairy County",
+      "cities": [
+        {
+          "name": "Chewalla",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.0134206,
+          "longitude": -88.6464395,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eastview",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.0756408,
+          "longitude": -88.54532499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Finger",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.3584121,
+          "longitude": -88.5989385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guys",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.0348084,
+          "longitude": -88.5586591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Michie",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.0560982,
+          "longitude": -88.4352186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stantonville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.1584164,
+          "longitude": -88.42587619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethel Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.2344846,
+          "longitude": -88.6067137,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Selmer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.1700834,
+          "longitude": -88.59227039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adamsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.2359146,
+          "longitude": -88.3905965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ramer",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.0695302,
+          "longitude": -88.622272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milledgeville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "McNairy County",
+          "latitude": 35.3728554,
+          "longitude": -88.3675416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Meigs County",
+      "cities": []
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Kahite",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Monroe County",
+          "latitude": 35.5676587,
+          "longitude": -84.2357828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coker Creek",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Monroe County",
+          "latitude": 35.2656328,
+          "longitude": -84.2857542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madisonville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Monroe County",
+          "latitude": 35.5197984,
+          "longitude": -84.3635338,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vonore",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Monroe County",
+          "latitude": 35.590078,
+          "longitude": -84.2418612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tellico Plains",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Monroe County",
+          "latitude": 35.362855,
+          "longitude": -84.29408699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Montgomery County",
+      "cities": []
+    },
+    {
+      "name": "Moore County",
+      "cities": [
+        {
+          "name": "Lynchburg, Moore County",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Moore County",
+          "latitude": 35.2830242,
+          "longitude": -86.3740205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Petros",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Morgan County",
+          "latitude": 36.0958817,
+          "longitude": -84.44192319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coalfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Morgan County",
+          "latitude": 36.0335053,
+          "longitude": -84.4153876,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunbright",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Morgan County",
+          "latitude": 36.2431964,
+          "longitude": -84.6715407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakdale",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Morgan County",
+          "latitude": 35.9856308,
+          "longitude": -84.5532697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Obion County",
+      "cities": [
+        {
+          "name": "Union City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.4242303,
+          "longitude": -89.0570096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Obion",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.2601852,
+          "longitude": -89.19135209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rives",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.3556205,
+          "longitude": -89.048121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Samburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.3808986,
+          "longitude": -89.3547942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Fulton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.5008943,
+          "longitude": -88.8753371,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Troy",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.3386769,
+          "longitude": -89.1639567,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodland Mills",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.488396,
+          "longitude": -89.11506609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hornbeak",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.3311777,
+          "longitude": -89.2964595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Obion County",
+          "latitude": 36.2022983,
+          "longitude": -89.0120436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Overton County",
+      "cities": [
+        {
+          "name": "Hilham",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Overton County",
+          "latitude": 36.4142281,
+          "longitude": -85.4416363,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livingston",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Overton County",
+          "latitude": 36.3833961,
+          "longitude": -85.3230221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Perry County",
+      "cities": [
+        {
+          "name": "Lobelville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Perry County",
+          "latitude": 35.7721322,
+          "longitude": -87.7836073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pickett County",
+      "cities": [
+        {
+          "name": "Byrdstown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Pickett County",
+          "latitude": 36.5745104,
+          "longitude": -85.1288435,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Polk County",
+      "cities": [
+        {
+          "name": "Ocoee",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 35.1222972,
+          "longitude": -84.71882719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farner",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 35.1542448,
+          "longitude": -84.3151994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delano",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 35.265073,
+          "longitude": -84.5532652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conasauga",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 35.0045209,
+          "longitude": -84.7293827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ducktown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 35.0359126,
+          "longitude": -84.38270120000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Copperhill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Polk County",
+          "latitude": 34.9889692,
+          "longitude": -84.3707561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Putnam County",
+      "cities": [
+        {
+          "name": "Algood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Putnam County",
+          "latitude": 36.1958946,
+          "longitude": -85.44858490000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baxter",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Putnam County",
+          "latitude": 36.1536718,
+          "longitude": -85.64359089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monterey",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Putnam County",
+          "latitude": 36.1475642,
+          "longitude": -85.2683021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rhea County",
+      "cities": [
+        {
+          "name": "Spring City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rhea County",
+          "latitude": 35.692015,
+          "longitude": -84.8607801,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rhea County",
+          "latitude": 35.4939587,
+          "longitude": -85.01245349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Graysville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rhea County",
+          "latitude": 35.4470137,
+          "longitude": -85.0844001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Roane County",
+      "cities": [
+        {
+          "name": "Midtown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Roane County",
+          "latitude": 35.8795188,
+          "longitude": -84.5641023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Roane County",
+          "latitude": 35.8656284,
+          "longitude": -84.68494,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harriman",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Roane County",
+          "latitude": 35.9339638,
+          "longitude": -84.5524358,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oliver Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Roane County",
+          "latitude": 36.0445222,
+          "longitude": -84.34437179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingston",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Roane County",
+          "latitude": 35.8809084,
+          "longitude": -84.5085447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Robertson County",
+      "cities": [
+        {
+          "name": "Ridgetop",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.3950488,
+          "longitude": -86.7794419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.5514333,
+          "longitude": -86.99916619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenbrier",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.4275477,
+          "longitude": -86.8047199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orlinda",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.6008769,
+          "longitude": -86.716663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coopertown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.4387887,
+          "longitude": -86.96927050000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.5092118,
+          "longitude": -86.8849984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adams",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.5822667,
+          "longitude": -87.06555639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cross Plains",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Robertson County",
+          "latitude": 36.5486551,
+          "longitude": -86.69610709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rutherford County",
+      "cities": [
+        {
+          "name": "Walterhill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.95006360000001,
+          "longitude": -86.3777697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockvale",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.7574629,
+          "longitude": -86.5313906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Christiana",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.7100683,
+          "longitude": -86.39943699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagleville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.7417333,
+          "longitude": -86.6497179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smyrna",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.9828412,
+          "longitude": -86.5186045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Vergne",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 36.0156178,
+          "longitude": -86.5819394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murfreesboro",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Rutherford County",
+          "latitude": 35.8451777,
+          "longitude": -86.3951864,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Scott County",
+      "cities": [
+        {
+          "name": "Robbins",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Scott County",
+          "latitude": 36.3534105,
+          "longitude": -84.5893849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helenwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Scott County",
+          "latitude": 36.4298002,
+          "longitude": -84.5441058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elgin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Scott County",
+          "latitude": 36.3322992,
+          "longitude": -84.6063302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Scott County",
+          "latitude": 36.5559123,
+          "longitude": -84.4516041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Scott County",
+          "latitude": 36.409801,
+          "longitude": -84.49049389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sequatchie County",
+      "cities": [
+        {
+          "name": "Lone Oak",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sequatchie County",
+          "latitude": 35.203411,
+          "longitude": -85.366081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunlap",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sequatchie County",
+          "latitude": 35.3714575,
+          "longitude": -85.3905209,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sevier County",
+      "cities": [
+        {
+          "name": "Seymour",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sevier County",
+          "latitude": 35.8725599,
+          "longitude": -83.77401979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairgarden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sevier County",
+          "latitude": 35.8926194,
+          "longitude": -83.4207149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pigeon Forge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sevier County",
+          "latitude": 35.7903913,
+          "longitude": -83.5637482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gatlinburg",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sevier County",
+          "latitude": 35.714259,
+          "longitude": -83.5101638,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pittman Center",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sevier County",
+          "latitude": 35.7592606,
+          "longitude": -83.3959924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Shelby County",
+      "cities": [
+        {
+          "name": "Bartlett",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.2045328,
+          "longitude": -89.8739753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collierville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.0460537,
+          "longitude": -89.689208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Germantown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.0867577,
+          "longitude": -89.8100858,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.2306435,
+          "longitude": -89.7403606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millington",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.3414744,
+          "longitude": -89.8973084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Shelby County",
+          "latitude": 35.2961973,
+          "longitude": -89.661469,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Smith County",
+      "cities": [
+        {
+          "name": "Gordonsville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Smith County",
+          "latitude": 36.1726305,
+          "longitude": -85.9296488,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Carthage",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Smith County",
+          "latitude": 36.2419991,
+          "longitude": -85.9519317,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carthage",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Smith County",
+          "latitude": 36.2522766,
+          "longitude": -85.951654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stewart County",
+      "cities": [
+        {
+          "name": "Big Rock",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Stewart County",
+          "latitude": 36.5806054,
+          "longitude": -87.760019,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cumberland City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Stewart County",
+          "latitude": 36.3933859,
+          "longitude": -87.63640559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sullivan County",
+      "cities": [
+        {
+          "name": "Walnut Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.5698257,
+          "longitude": -82.2568028,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sullivan Gardens",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.4778788,
+          "longitude": -82.5932079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orebank",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.5556575,
+          "longitude": -82.46792529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colonial Heights",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.4893569,
+          "longitude": -82.4942263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomingdale",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.5845458,
+          "longitude": -82.489316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blountville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.5331586,
+          "longitude": -82.32680599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingsport",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.548434,
+          "longitude": -82.5618186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluff City",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.4742705,
+          "longitude": -82.2609685,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bristol",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sullivan County",
+          "latitude": 36.5951059,
+          "longitude": -82.18874439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sumner County",
+      "cities": [
+        {
+          "name": "Shackle Island",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.3706045,
+          "longitude": -86.6166621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.5705985,
+          "longitude": -86.3799916,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Deal",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.516354,
+          "longitude": -86.56494200000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Graball",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.4834469,
+          "longitude": -86.4364441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.618237,
+          "longitude": -86.3411859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottontown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.4508117,
+          "longitude": -86.5365329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castalian Springs",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.3936587,
+          "longitude": -86.3080463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bransford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.5138408,
+          "longitude": -86.2818753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethpage",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.4821318,
+          "longitude": -86.3122092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westmoreland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.5614009,
+          "longitude": -86.24770190000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gallatin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.3877756,
+          "longitude": -86.44849549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mitchellville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.6319861,
+          "longitude": -86.5408281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millersville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.37725,
+          "longitude": -86.70612589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White House",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.468536,
+          "longitude": -86.65352370000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hendersonville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.3030233,
+          "longitude": -86.6283133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Sumner County",
+          "latitude": 36.5800919,
+          "longitude": -86.5138667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tipton County",
+      "cities": [
+        {
+          "name": "Randolph",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.5164707,
+          "longitude": -89.8886962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brighton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.4836605,
+          "longitude": -89.73922069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atoka",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.4378882,
+          "longitude": -89.7786426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garland",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.5652771,
+          "longitude": -89.756147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burlison",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.5600909,
+          "longitude": -89.7707467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Covington",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.5699659,
+          "longitude": -89.6464641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilt Edge",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.5511982,
+          "longitude": -89.82425789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mason",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.4129985,
+          "longitude": -89.53477749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Munford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Tipton County",
+          "latitude": 35.4469021,
+          "longitude": -89.80714499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Trousdale County",
+      "cities": [
+        {
+          "name": "Hartsville/Trousdale County",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Trousdale County",
+          "latitude": 36.3911079,
+          "longitude": -86.16610240000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartsville/Trousdale County",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Trousdale County",
+          "latitude": 36.396385,
+          "longitude": -86.15482689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Unicoi County",
+      "cities": [
+        {
+          "name": "Banner Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Unicoi County",
+          "latitude": 36.12346950000001,
+          "longitude": -82.4183927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erwin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Unicoi County",
+          "latitude": 36.1451082,
+          "longitude": -82.41680550000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unicoi",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Unicoi County",
+          "latitude": 36.1953862,
+          "longitude": -82.3495818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Plainview",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Union County",
+          "latitude": 36.1783852,
+          "longitude": -83.7942551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luttrell",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Union County",
+          "latitude": 36.2030837,
+          "longitude": -83.7557946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Van Buren County",
+      "cities": []
+    },
+    {
+      "name": "Warren County",
+      "cities": [
+        {
+          "name": "Centertown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Warren County",
+          "latitude": 35.7250706,
+          "longitude": -85.92054200000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Viola",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Warren County",
+          "latitude": 35.5384072,
+          "longitude": -85.859149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morrison",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Warren County",
+          "latitude": 35.602851,
+          "longitude": -85.9197071,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Telford",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.2489943,
+          "longitude": -82.54514789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spurgeon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.4395478,
+          "longitude": -82.4557008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gray",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.4198258,
+          "longitude": -82.4765352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fall Branch",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.41815709999999,
+          "longitude": -82.6237641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Embreeville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.1789089,
+          "longitude": -82.45985809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonesborough",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Washington County",
+          "latitude": 36.2942722,
+          "longitude": -82.4734787,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Clifton",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wayne County",
+          "latitude": 35.3870197,
+          "longitude": -87.9953067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collinwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wayne County",
+          "latitude": 35.17433219999999,
+          "longitude": -87.73926329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Weakley County",
+      "cities": [
+        {
+          "name": "Palmersville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.4033929,
+          "longitude": -88.5872732,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dukedom",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.5022819,
+          "longitude": -88.715054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dresden",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.2914512,
+          "longitude": -88.7081122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gleason",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.2136731,
+          "longitude": -88.61255450000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenfield",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.1533982,
+          "longitude": -88.8006163,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.3433965,
+          "longitude": -88.8503379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sharon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Weakley County",
+          "latitude": 36.2333977,
+          "longitude": -88.824505,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "White County",
+      "cities": [
+        {
+          "name": "Bon Air",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "White County",
+          "latitude": 35.9414372,
+          "longitude": -85.36247209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Doyle",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "White County",
+          "latitude": 35.8531216,
+          "longitude": -85.5124766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Williamson County",
+      "cities": [
+        {
+          "name": "Thompson",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.7971371,
+          "longitude": -86.90546479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brentwood",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 36.0331164,
+          "longitude": -86.78277720000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.9820074,
+          "longitude": -87.12139529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nolensville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.9522852,
+          "longitude": -86.6694413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Franklin",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.9238901,
+          "longitude": -86.8676866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wilson County",
+      "cities": [
+        {
+          "name": "Tuckers Crossroads",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.197147,
+          "longitude": -86.17463699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Statesville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.019444,
+          "longitude": -86.125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rural Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.1258023,
+          "longitude": -86.5190222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norene",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.0567264,
+          "longitude": -86.2424904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Hill",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.2305173,
+          "longitude": -86.57540159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenvale",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.0018669,
+          "longitude": -86.19043239999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gladeville",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.1125583,
+          "longitude": -86.4163815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Juliet",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.200055,
+          "longitude": -86.5186054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebanon",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.2081098,
+          "longitude": -86.2911024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watertown",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Wilson County",
+          "latitude": 36.1003358,
+          "longitude": -86.1319341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

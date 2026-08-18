@@ -1,0 +1,782 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Glynn County",
+      "cities": [
+        {
+          "name": "Dock Junction",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Glynn County",
+          "latitude": 31.2024515,
+          "longitude": -81.5167688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Glynn County",
+      "cities": [
+        {
+          "name": "Country Club Estates",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Glynn County",
+          "latitude": 31.2127297,
+          "longitude": -81.4642671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Glynn County",
+      "cities": []
+    },
+    {
+      "name": "Glynn County",
+      "cities": []
+    },
+    {
+      "name": "Gordon County",
+      "cities": []
+    },
+    {
+      "name": "Gordon County",
+      "cities": [
+        {
+          "name": "Fairmount",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gordon County",
+          "latitude": 34.4362013,
+          "longitude": -84.69993459999999,
+          "population": 765,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Plainville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gordon County",
+          "latitude": 34.4050895,
+          "longitude": -85.03716829999999,
+          "population": 353,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ranger",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gordon County",
+          "latitude": 34.5011995,
+          "longitude": -84.7096571,
+          "population": 107,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Resaca",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gordon County",
+          "latitude": 34.5804222,
+          "longitude": -84.9435359,
+          "population": 1145,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Grady County",
+      "cities": [
+        {
+          "name": "Calvary",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Grady County",
+          "latitude": 30.7268608,
+          "longitude": -84.3496275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grady County",
+      "cities": []
+    },
+    {
+      "name": "Grady County",
+      "cities": [
+        {
+          "name": "Chickasha",
+          "state": "Oklahoma",
+          "stateCode": "OK",
+          "county": "Grady County",
+          "latitude": 35.052565,
+          "longitude": -97.93643259999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whigham",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Grady County",
+          "latitude": 30.8829681,
+          "longitude": -84.3237944,
+          "population": 380,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Greene County",
+      "cities": [
+        {
+          "name": "Siloam",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Greene County",
+          "latitude": 33.5367968,
+          "longitude": -83.0809864,
+          "population": 193,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Union Point",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Greene County",
+          "latitude": 33.6156831,
+          "longitude": -83.0745969,
+          "population": 1789,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "White Plains",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Greene County",
+          "latitude": 33.4720779,
+          "longitude": -83.03542890000001,
+          "population": 269,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Woodville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Greene County",
+          "latitude": 33.6715142,
+          "longitude": -83.1059865,
+          "population": 301,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Gwinnett County",
+      "cities": []
+    },
+    {
+      "name": "Gwinnett County",
+      "cities": [
+        {
+          "name": "Berkeley Lake",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.9856532,
+          "longitude": -84.1892658,
+          "population": 2029,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Buford",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 34.1206564,
+          "longitude": -84.0043513,
+          "population": 18273,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Dacula",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.9887165,
+          "longitude": -83.8979573,
+          "population": 7650,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Duluth",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 34.0028786,
+          "longitude": -84.1446376,
+          "population": 32350,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Grayson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.8942729,
+          "longitude": -83.95573999999999,
+          "population": 4975,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lawrenceville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.9507556,
+          "longitude": -83.98756159999999,
+          "population": 31015,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Lilburn",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.8901036,
+          "longitude": -84.14297189999999,
+          "population": 15862,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Norcross",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.9411081,
+          "longitude": -84.2137443,
+          "population": 18043,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Rest Haven",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 34.1369679,
+          "longitude": -83.9750876,
+          "population": 45,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Snellville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 33.857328,
+          "longitude": -84.0199108,
+          "population": 22067,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Sugar Hill",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 34.1064895,
+          "longitude": -84.0335197,
+          "population": 25889,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Suwanee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Gwinnett County",
+          "latitude": 34.0514898,
+          "longitude": -84.0712997,
+          "population": 22913,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Habersham County",
+      "cities": [
+        {
+          "name": "Raoul",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.4573867,
+          "longitude": -83.59758819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Habersham County",
+      "cities": []
+    },
+    {
+      "name": "Habersham County",
+      "cities": [
+        {
+          "name": "Alto",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.4673222,
+          "longitude": -83.5737843,
+          "population": 996,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Baldwin",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.4917665,
+          "longitude": -83.5373946,
+          "population": 4003,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Clarkesville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.6125971,
+          "longitude": -83.5248933,
+          "population": 2135,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Demorest",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.565098,
+          "longitude": -83.5451724,
+          "population": 2046,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mount Airy",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Habersham County",
+          "latitude": 34.5187106,
+          "longitude": -83.5007265,
+          "population": 1472,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Hall County",
+      "cities": []
+    },
+    {
+      "name": "Hall County",
+      "cities": []
+    },
+    {
+      "name": "Hall County",
+      "cities": [
+        {
+          "name": "Clermont",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Hall County",
+          "latitude": 34.4778752,
+          "longitude": -83.7735148,
+          "population": 1126,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Flowery Branch",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Hall County",
+          "latitude": 34.1851017,
+          "longitude": -83.9251809,
+          "population": 11607,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Grand Island",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Hall County",
+          "latitude": 40.9263957,
+          "longitude": -98.3420118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lula",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Hall County",
+          "latitude": 34.3876013,
+          "longitude": -83.66628539999999,
+          "population": 2993,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oakwood",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Hall County",
+          "latitude": 34.227602,
+          "longitude": -83.8843455,
+          "population": 6412,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": []
+    },
+    {
+      "name": "Hancock County",
+      "cities": [
+        {
+          "name": "Bay St. Louis",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Hancock County",
+          "latitude": 30.3088076,
+          "longitude": -89.33004609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carthage",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Hancock County",
+          "latitude": 40.416433,
+          "longitude": -91.1362537,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ellsworth",
+          "state": "Maine",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.541139,
+          "longitude": -68.42503479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Findlay",
+          "state": "Ohio",
+          "stateCode": "OH",
+          "county": "Hancock County",
+          "latitude": 41.0391283,
+          "longitude": -83.6502309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garner",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Hancock County",
+          "latitude": 43.1023343,
+          "longitude": -93.6020858,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenfield",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Hancock County",
+          "latitude": 39.7852363,
+          "longitude": -85.7693087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamilton",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Hancock County",
+          "latitude": 40.3964333,
+          "longitude": -91.3390389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewisport",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Hancock County",
+          "latitude": 37.9369974,
+          "longitude": -86.9022145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sneedville",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Hancock County",
+          "latitude": 36.5298107,
+          "longitude": -83.2173971,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weirton",
+          "state": "West Virginia",
+          "stateCode": "WV",
+          "county": "Hancock County",
+          "latitude": 40.41895660000001,
+          "longitude": -80.58951669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haralson County",
+      "cities": []
+    },
+    {
+      "name": "Haralson County",
+      "cities": [
+        {
+          "name": "Buchanan",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Haralson County",
+          "latitude": 33.8021734,
+          "longitude": -85.1900624,
+          "population": 958,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tallapoosa",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Haralson County",
+          "latitude": 33.7445499,
+          "longitude": -85.2880077,
+          "population": 3201,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Waco",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Haralson County",
+          "latitude": 33.7026735,
+          "longitude": -85.1832658,
+          "population": 575,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Harris County",
+      "cities": [
+        {
+          "name": "Piney Grove",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.6259359,
+          "longitude": -85.03679070000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harris County",
+      "cities": [
+        {
+          "name": "Ellerslie",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.6315258,
+          "longitude": -84.8013182,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harris County",
+      "cities": [
+        {
+          "name": "Cataula",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.655414,
+          "longitude": -84.8685418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harris County",
+      "cities": []
+    },
+    {
+      "name": "Harris County",
+      "cities": [
+        {
+          "name": "Houston",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Harris County",
+          "latitude": 29.7600771,
+          "longitude": -95.37011079999999,
+          "population": 2300000,
+          "size": "major",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Mountain",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.8648522,
+          "longitude": -84.8540982,
+          "population": 1281,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Shiloh",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.8101325,
+          "longitude": -84.6960378,
+          "population": 422,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Waverly Hall",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Harris County",
+          "latitude": 32.683469,
+          "longitude": -84.7382609,
+          "population": 667,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Hart County",
+      "cities": [
+        {
+          "name": "Reed Creek",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Hart County",
+          "latitude": 34.4433788,
+          "longitude": -82.916815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hart County",
+      "cities": [
+        {
+          "name": "Eagle Grove",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Hart County",
+          "latitude": 34.29611,
+          "longitude": -83.00694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hart County",
+      "cities": []
+    }
+  ]
+}

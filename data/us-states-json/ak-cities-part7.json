@@ -1,0 +1,669 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Gateway",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.5727778,
+          "longitude": -149.2408333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glacier View",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.7991663,
+          "longitude": -147.6097872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Fishhook",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.6717136,
+          "longitude": -149.2236734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Farm Loop",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.6389272,
+          "longitude": -149.139313,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Eureka Roadhouse",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.9375646,
+          "longitude": -147.1742636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Chickaloon",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.79732319999999,
+          "longitude": -148.4906308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Chase",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 62.45699450000001,
+          "longitude": -150.1169818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Buffalo Soapstone",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.6697528,
+          "longitude": -149.1184961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butte",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.5416067,
+          "longitude": -149.0353713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Big Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.5523094,
+          "longitude": -149.8189213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": []
+    },
+    {
+      "name": "Matanuska-Susitna Borough",
+      "cities": [
+        {
+          "name": "Houston",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.62086249999999,
+          "longitude": -149.7562659,
+          "population": 2146,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Palmer",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Matanuska-Susitna Borough",
+          "latitude": 61.599415,
+          "longitude": -149.1146333,
+          "population": 6378,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Nome Census Area",
+      "cities": [
+        {
+          "name": "Brevig Mission",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 65.33482839999999,
+          "longitude": -166.4888757,
+          "population": 415,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Diomede",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 65.7582608,
+          "longitude": -168.9520763,
+          "population": 80,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Elim",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 64.61796559999999,
+          "longitude": -162.2591096,
+          "population": 360,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gambell",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 63.77766500000001,
+          "longitude": -171.7326445,
+          "population": 620,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Golovin",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 64.54506669999999,
+          "longitude": -163.036256,
+          "population": 166,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Koyuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 64.93103900000001,
+          "longitude": -161.1636986,
+          "population": 297,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Savoonga",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 63.6938082,
+          "longitude": -170.4840806,
+          "population": 804,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Shaktoolik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 64.3577218,
+          "longitude": -161.2007313,
+          "population": 207,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Shishmaref",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 66.2568502,
+          "longitude": -166.0610999,
+          "population": 555,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Michael",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 63.4785588,
+          "longitude": -162.0347317,
+          "population": 440,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Stebbins",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 63.51850100000001,
+          "longitude": -162.283627,
+          "population": 612,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Teller",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 65.2634319,
+          "longitude": -166.362264,
+          "population": 238,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Unalakleet",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 63.8765975,
+          "longitude": -160.7925128,
+          "population": 741,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wales",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 65.610112,
+          "longitude": -168.0915866,
+          "population": 162,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "White Mountain",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Nome Census Area",
+          "latitude": 64.6809434,
+          "longitude": -163.4040253,
+          "population": 177,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Nome Census Area County",
+      "cities": [
+        {
+          "name": "Port Clarence",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Nome Census Area County",
+          "latitude": 65.2619771,
+          "longitude": -166.8471534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nome Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Nome Census Area County",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": [
+        {
+          "name": "Utqiagvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 71.29055559999999,
+          "longitude": -156.7886111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": [
+        {
+          "name": "Prudhoe Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 70.2268843,
+          "longitude": -148.400021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": [
+        {
+          "name": "Point Lay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 69.7431443,
+          "longitude": -163.0110229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": []
+    },
+    {
+      "name": "North Slope Borough",
+      "cities": [
+        {
+          "name": "Anaktuvuk Pass",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 68.1433076,
+          "longitude": -151.7328707,
+          "population": 403,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Atqasuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 70.4788962,
+          "longitude": -157.4165256,
+          "population": 255,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kaktovik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 70.12110799999999,
+          "longitude": -143.6249182,
+          "population": 272,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nuiqsut",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 70.2185831,
+          "longitude": -150.9989543,
+          "population": 490,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wainwright",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 70.6401247,
+          "longitude": -160.0256801,
+          "population": 591,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Northwest Arctic Borough",
+      "cities": [
+        {
+          "name": "Red Dog Mine",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 68.0681345,
+          "longitude": -162.8496236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Northwest Arctic Borough",
+      "cities": [
+        {
+          "name": "Noatak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 67.5692901,
+          "longitude": -162.9700057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Northwest Arctic Borough",
+      "cities": []
+    },
+    {
+      "name": "Northwest Arctic Borough",
+      "cities": [
+        {
+          "name": "Ambler",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 67.0867227,
+          "longitude": -157.8581339,
+          "population": 254,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Buckland",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 65.97880119999999,
+          "longitude": -161.1247539,
+          "population": 511,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Deering",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.07518739999999,
+          "longitude": -162.7207754,
+          "population": 170,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kiana",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.9725768,
+          "longitude": -160.4308608,
+          "population": 422,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kivalina",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 67.7272945,
+          "longitude": -164.5386627,
+          "population": 416,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kobuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.9080298,
+          "longitude": -156.8838857,
+          "population": 174,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Noorvik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.83569159999999,
+          "longitude": -161.041642,
+          "population": 645,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Selawik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.602598,
+          "longitude": -160.014671,
+          "population": 760,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Shungnak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Northwest Arctic Borough",
+          "latitude": 66.8878642,
+          "longitude": -157.1398537,
+          "population": 254,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Petersburg Borough",
+      "cities": [
+        {
+          "name": "Petersburg",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Petersburg Borough",
+          "latitude": 56.8124542,
+          "longitude": -132.9574182,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

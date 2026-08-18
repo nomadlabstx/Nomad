@@ -1,0 +1,621 @@
+{
+  "mainFile": {
+    "AL": {
+      "name": "Alabama",
+      "code": "AL",
+      "startLine": 36,
+      "endLine": 13891,
+      "lineCount": 13856,
+      "countyCount": 1694
+    },
+    "AK": {
+      "name": "Alaska",
+      "code": "AK",
+      "startLine": 13893,
+      "endLine": 15266,
+      "lineCount": 1374,
+      "countyCount": 13
+    },
+    "AZ": {
+      "name": "Arizona",
+      "code": "AZ",
+      "startLine": 15268,
+      "endLine": 17002,
+      "lineCount": 1735,
+      "countyCount": 15
+    },
+    "AR": {
+      "name": "Arkansas",
+      "code": "AR",
+      "startLine": 17004,
+      "endLine": 18679,
+      "lineCount": 1676,
+      "countyCount": 75
+    },
+    "CA": {
+      "name": "California",
+      "code": "CA",
+      "startLine": 18681,
+      "endLine": 24949,
+      "lineCount": 6269,
+      "countyCount": 61
+    },
+    "CO": {
+      "name": "Colorado",
+      "code": "CO",
+      "startLine": 24951,
+      "endLine": 26716,
+      "lineCount": 1766,
+      "countyCount": 65
+    },
+    "CT": {
+      "name": "Connecticut",
+      "code": "CT",
+      "startLine": 26718,
+      "endLine": 27656,
+      "lineCount": 939,
+      "countyCount": 14
+    },
+    "DE": {
+      "name": "Delaware",
+      "code": "DE",
+      "startLine": 27658,
+      "endLine": 27774,
+      "lineCount": 117,
+      "countyCount": 3
+    },
+    "FL": {
+      "name": "Florida",
+      "code": "FL",
+      "startLine": 27776,
+      "endLine": 31237,
+      "lineCount": 3462,
+      "countyCount": 67
+    },
+    "GA": {
+      "name": "Georgia",
+      "code": "GA",
+      "startLine": 31239,
+      "endLine": 33492,
+      "lineCount": 2254,
+      "countyCount": 160
+    },
+    "HI": {
+      "name": "Hawaii",
+      "code": "HI",
+      "startLine": 33494,
+      "endLine": 33906,
+      "lineCount": 413,
+      "countyCount": 4
+    },
+    "ID": {
+      "name": "Idaho",
+      "code": "ID",
+      "startLine": 33908,
+      "endLine": 34599,
+      "lineCount": 692,
+      "countyCount": 44
+    },
+    "IL": {
+      "name": "Illinois",
+      "code": "IL",
+      "startLine": 34601,
+      "endLine": 38690,
+      "lineCount": 4090,
+      "countyCount": 102
+    }
+  },
+  "individualFiles": {
+    "AK": {
+      "file": "ak-cities.ts",
+      "stateName": "Alaska",
+      "startLine": 116836,
+      "endLine": 118501,
+      "lineCount": 1666,
+      "totalCounties": 41,
+      "countiesWithStateCities": 38,
+      "occurrences": 1
+    },
+    "AL": {
+      "file": "al-cities.ts",
+      "stateName": "Alabama",
+      "startLine": 116836,
+      "endLine": 130982,
+      "lineCount": 14147,
+      "totalCounties": 67,
+      "countiesWithStateCities": 67,
+      "occurrences": 1
+    },
+    "AR": {
+      "file": "ar-cities.ts",
+      "stateName": "Arkansas",
+      "startLine": 116836,
+      "endLine": 118768,
+      "lineCount": 1933,
+      "totalCounties": 75,
+      "countiesWithStateCities": 75,
+      "occurrences": 1
+    },
+    "AZ": {
+      "file": "az-cities.ts",
+      "stateName": "Arizona",
+      "startLine": 116836,
+      "endLine": 118980,
+      "lineCount": 2145,
+      "totalCounties": 15,
+      "countiesWithStateCities": 15,
+      "occurrences": 1
+    },
+    "CA": {
+      "file": "ca-cities.ts",
+      "stateName": "California",
+      "startLine": 116836,
+      "endLine": 124349,
+      "lineCount": 7514,
+      "totalCounties": 61,
+      "countiesWithStateCities": 60,
+      "occurrences": 1
+    },
+    "CO": {
+      "file": "co-cities.ts",
+      "stateName": "Colorado",
+      "startLine": 116836,
+      "endLine": 118953,
+      "lineCount": 2118,
+      "totalCounties": 65,
+      "countiesWithStateCities": 60,
+      "occurrences": 1
+    },
+    "CT": {
+      "file": "ct-cities.ts",
+      "stateName": "Connecticut",
+      "startLine": 116836,
+      "endLine": 117994,
+      "lineCount": 1159,
+      "totalCounties": 23,
+      "countiesWithStateCities": 21,
+      "occurrences": 1
+    },
+    "DC": {
+      "file": "dc-cities.ts",
+      "stateName": "District of Columbia",
+      "startLine": 116836,
+      "endLine": 116847,
+      "lineCount": 12,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "DE": {
+      "file": "de-cities.ts",
+      "stateName": "Delaware",
+      "startLine": 116836,
+      "endLine": 116985,
+      "lineCount": 150,
+      "totalCounties": 3,
+      "countiesWithStateCities": 3,
+      "occurrences": 1
+    },
+    "FL": {
+      "file": "fl-cities.ts",
+      "stateName": "Florida",
+      "startLine": 116836,
+      "endLine": 120985,
+      "lineCount": 4150,
+      "totalCounties": 67,
+      "countiesWithStateCities": 67,
+      "occurrences": 1
+    },
+    "GA": {
+      "file": "ga-cities.ts",
+      "stateName": "Georgia",
+      "startLine": 116836,
+      "endLine": 119504,
+      "lineCount": 2669,
+      "totalCounties": 160,
+      "countiesWithStateCities": 143,
+      "occurrences": 1
+    },
+    "HI": {
+      "file": "hi-cities.ts",
+      "stateName": "Hawaii",
+      "startLine": 116836,
+      "endLine": 117412,
+      "lineCount": 577,
+      "totalCounties": 4,
+      "countiesWithStateCities": 4,
+      "occurrences": 1
+    },
+    "IA": {
+      "file": "ia-cities.ts",
+      "stateName": "Iowa",
+      "startLine": 116836,
+      "endLine": 121326,
+      "lineCount": 4491,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "ID": {
+      "file": "id-cities.ts",
+      "stateName": "Idaho",
+      "startLine": 116836,
+      "endLine": 117653,
+      "lineCount": 818,
+      "totalCounties": 44,
+      "countiesWithStateCities": 42,
+      "occurrences": 1
+    },
+    "IL": {
+      "file": "il-cities.ts",
+      "stateName": "Illinois",
+      "startLine": 116836,
+      "endLine": 122094,
+      "lineCount": 5259,
+      "totalCounties": 102,
+      "countiesWithStateCities": 102,
+      "occurrences": 1
+    },
+    "IN": {
+      "file": "in-cities.ts",
+      "stateName": "Indiana",
+      "startLine": 116836,
+      "endLine": 124713,
+      "lineCount": 7878,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "KS": {
+      "file": "ks-cities.ts",
+      "stateName": "Kansas",
+      "startLine": 116836,
+      "endLine": 120191,
+      "lineCount": 3356,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "KY": {
+      "file": "ky-cities.ts",
+      "stateName": "Kentucky",
+      "startLine": 116836,
+      "endLine": 119488,
+      "lineCount": 2653,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "LA": {
+      "file": "la-cities.ts",
+      "stateName": "Louisiana",
+      "startLine": 116836,
+      "endLine": 119360,
+      "lineCount": 2525,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MA": {
+      "file": "ma-cities.ts",
+      "stateName": "Massachusetts",
+      "startLine": 116836,
+      "endLine": 117909,
+      "lineCount": 1074,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MD": {
+      "file": "md-cities.ts",
+      "stateName": "Maryland",
+      "startLine": 116836,
+      "endLine": 119468,
+      "lineCount": 2633,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "ME": {
+      "file": "me-cities.ts",
+      "stateName": "Maine",
+      "startLine": 116836,
+      "endLine": 117666,
+      "lineCount": 831,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MI": {
+      "file": "mi-cities.ts",
+      "stateName": "Michigan",
+      "startLine": 116836,
+      "endLine": 120335,
+      "lineCount": 3500,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MN": {
+      "file": "mn-cities.ts",
+      "stateName": "Minnesota",
+      "startLine": 116836,
+      "endLine": 120701,
+      "lineCount": 3866,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MO": {
+      "file": "mo-cities.ts",
+      "stateName": "Missouri",
+      "startLine": 116836,
+      "endLine": 121406,
+      "lineCount": 4571,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MS": {
+      "file": "ms-cities.ts",
+      "stateName": "Mississippi",
+      "startLine": 116836,
+      "endLine": 119012,
+      "lineCount": 2177,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "MT": {
+      "file": "mt-cities.ts",
+      "stateName": "Montana",
+      "startLine": 116836,
+      "endLine": 119678,
+      "lineCount": 2843,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NC": {
+      "file": "nc-cities.ts",
+      "stateName": "North Carolina",
+      "startLine": 116836,
+      "endLine": 120715,
+      "lineCount": 3880,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "ND": {
+      "file": "nd-cities.ts",
+      "stateName": "North Dakota",
+      "startLine": 116836,
+      "endLine": 118537,
+      "lineCount": 1702,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NE": {
+      "file": "ne-cities.ts",
+      "stateName": "Nebraska",
+      "startLine": 116836,
+      "endLine": 119244,
+      "lineCount": 2409,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NH": {
+      "file": "nh-cities.ts",
+      "stateName": "New Hampshire",
+      "startLine": 116836,
+      "endLine": 117364,
+      "lineCount": 529,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NJ": {
+      "file": "nj-cities.ts",
+      "stateName": "New Jersey",
+      "startLine": 116836,
+      "endLine": 119971,
+      "lineCount": 3136,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NM": {
+      "file": "nm-cities.ts",
+      "stateName": "New Mexico",
+      "startLine": 116836,
+      "endLine": 119624,
+      "lineCount": 2789,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NV": {
+      "file": "nv-cities.ts",
+      "stateName": "Nevada",
+      "startLine": 116836,
+      "endLine": 117495,
+      "lineCount": 660,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "NY": {
+      "file": "ny-cities.ts",
+      "stateName": "New York",
+      "startLine": 116836,
+      "endLine": 122882,
+      "lineCount": 6047,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "OH": {
+      "file": "oh-cities.ts",
+      "stateName": "Ohio",
+      "startLine": 116836,
+      "endLine": 122327,
+      "lineCount": 5492,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "OK": {
+      "file": "ok-cities.ts",
+      "stateName": "Oklahoma",
+      "startLine": 116836,
+      "endLine": 120724,
+      "lineCount": 3889,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "OR": {
+      "file": "or-cities.ts",
+      "stateName": "Oregon",
+      "startLine": 116836,
+      "endLine": 118827,
+      "lineCount": 1992,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "PA": {
+      "file": "pa-cities.ts",
+      "stateName": "Pennsylvania",
+      "startLine": 116836,
+      "endLine": 126070,
+      "lineCount": 9235,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "RI": {
+      "file": "ri-cities.ts",
+      "stateName": "Rhode Island",
+      "startLine": 116836,
+      "endLine": 116955,
+      "lineCount": 120,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "SC": {
+      "file": "sc-cities.ts",
+      "stateName": "South Carolina",
+      "startLine": 116836,
+      "endLine": 119227,
+      "lineCount": 2392,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "SD": {
+      "file": "sd-cities.ts",
+      "stateName": "South Dakota",
+      "startLine": 116836,
+      "endLine": 119269,
+      "lineCount": 2434,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "TN": {
+      "file": "tn-cities.ts",
+      "stateName": "Tennessee",
+      "startLine": 116836,
+      "endLine": 119298,
+      "lineCount": 2463,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "TX": {
+      "file": "tx-cities.ts",
+      "stateName": "Texas",
+      "startLine": 116836,
+      "endLine": 126315,
+      "lineCount": 9480,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "UT": {
+      "file": "ut-cities.ts",
+      "stateName": "Utah",
+      "startLine": 116836,
+      "endLine": 118299,
+      "lineCount": 1464,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "VA": {
+      "file": "va-cities.ts",
+      "stateName": "Virginia",
+      "startLine": 116836,
+      "endLine": 120419,
+      "lineCount": 3584,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "VT": {
+      "file": "vt-cities.ts",
+      "stateName": "Vermont",
+      "startLine": 116836,
+      "endLine": 117765,
+      "lineCount": 930,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "WA": {
+      "file": "wa-cities.ts",
+      "stateName": "Washington",
+      "startLine": 116836,
+      "endLine": 119866,
+      "lineCount": 3031,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "WI": {
+      "file": "wi-cities.ts",
+      "stateName": "Wisconsin",
+      "startLine": 116836,
+      "endLine": 120441,
+      "lineCount": 3606,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "WV": {
+      "file": "wv-cities.ts",
+      "stateName": "West Virginia",
+      "startLine": 116836,
+      "endLine": 118867,
+      "lineCount": 2032,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    },
+    "WY": {
+      "file": "wy-cities.ts",
+      "stateName": "Wyoming",
+      "startLine": 116836,
+      "endLine": 117860,
+      "lineCount": 1025,
+      "totalCounties": 1,
+      "countiesWithStateCities": 1,
+      "occurrences": 2
+    }
+  },
+  "timestamp": "2025-11-17T15:14:09.701Z"
+}

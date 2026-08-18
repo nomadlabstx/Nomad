@@ -1,0 +1,561 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Hunter Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3048787,
+          "longitude": -111.0150415,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Icehouse Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3600144,
+          "longitude": -110.7897275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Haigler Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.2066488,
+          "longitude": -110.9734166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Gisela",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.1017053,
+          "longitude": -111.2798554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Geronimo Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3669749,
+          "longitude": -111.358749,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Freedom Acres",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.31722,
+          "longitude": -111.29972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Flowing Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3153103,
+          "longitude": -111.3345811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "El Capitan",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.2385883,
+          "longitude": -110.7837865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "East Globe",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3530663,
+          "longitude": -110.7062867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Verde Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.2949551,
+          "longitude": -111.3634297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Dripping Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.099386,
+          "longitude": -110.7432069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Deer Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.0633397,
+          "longitude": -111.3530641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Cutter",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3581327,
+          "longitude": -110.6615885,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Copper Hill",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.43028,
+          "longitude": -110.76389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Claypool",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.4111659,
+          "longitude": -110.8426113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Christopher Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3153145,
+          "longitude": -111.0170742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Central Heights-Midland City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.4126139,
+          "longitude": -110.8153052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Cedar Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.898251,
+          "longitude": -110.175194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Canyon Day",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.7847735,
+          "longitude": -110.0264881,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carrizo",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.9844356,
+          "longitude": -110.3368391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Beaver Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3383561,
+          "longitude": -111.2994071,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Bear Flat",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.2930923,
+          "longitude": -111.0676304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": []
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Globe",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3942223,
+          "longitude": -110.7864984,
+          "population": 7179,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hayden",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.0047878,
+          "longitude": -110.7853836,
+          "population": 516,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Miami",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3992217,
+          "longitude": -110.8687232,
+          "population": 1532,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Star Valley",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.2533416,
+          "longitude": -111.2579449,
+          "population": 2545,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Winkelman",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 32.9875659,
+          "longitude": -110.7709387,
+          "population": 294,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Swift Trail Junction",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.7298761,
+          "longitude": -109.7142939,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Solomon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.8141183,
+          "longitude": -109.6294831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "San Jose",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.8200654,
+          "longitude": -109.5920211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Fort Thomas",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 33.037193,
+          "longitude": -109.9656697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Central",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.8675965,
+          "longitude": -109.7927095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Bylas",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 33.1388468,
+          "longitude": -110.1248403,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cactus Flats",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.758333,
+          "longitude": -109.715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Bryce",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.9270478,
+          "longitude": -109.8231633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Graham County",
+      "cities": []
+    },
+    {
+      "name": "Graham County",
+      "cities": [
+        {
+          "name": "Pima",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.8961755,
+          "longitude": -109.8275815,
+          "population": 3036,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Thatcher",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Graham County",
+          "latitude": 32.8492323,
+          "longitude": -109.7592479,
+          "population": 5486,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

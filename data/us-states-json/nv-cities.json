@@ -1,0 +1,1498 @@
+{
+  "name": "Nevada",
+  "code": "NV",
+  "counties": [
+    {
+      "name": "Carson City",
+      "cities": []
+    },
+    {
+      "name": "Churchill County",
+      "cities": [
+        {
+          "name": "Fallon Station",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Churchill County",
+          "latitude": 39.4202048,
+          "longitude": -118.7254591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fallon",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Churchill County",
+          "latitude": 39.4748693,
+          "longitude": -118.7770407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": [
+        {
+          "name": "Whitney",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.0966897,
+          "longitude": -115.0407412,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winchester",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.1370261,
+          "longitude": -115.1185825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summerlin South",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.1349048,
+          "longitude": -115.3280016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunrise Manor",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.2110819,
+          "longitude": -115.0730563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.1080258,
+          "longitude": -115.2450006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Searchlight",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.4652621,
+          "longitude": -114.9200198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandy Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.8169191,
+          "longitude": -115.6322283,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradise",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.0971945,
+          "longitude": -115.1466648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nellis AFB",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.2406295,
+          "longitude": -115.0542759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nelson",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.7080419,
+          "longitude": -114.8247014,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Charleston",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.2571855,
+          "longitude": -115.6427949,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moapa Town",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.6926986,
+          "longitude": -114.5935384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moapa Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.5805298,
+          "longitude": -114.4702591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laughlin",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.1677771,
+          "longitude": -114.5730208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.5696826,
+          "longitude": -115.6705757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goodsprings",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.8324766,
+          "longitude": -115.4341661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enterprise",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.0252503,
+          "longitude": -115.2419419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Diamond",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.046579,
+          "longitude": -115.4039631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bunkerville",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.7730306,
+          "longitude": -114.1280249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cal-Nev-Ari",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.3055496,
+          "longitude": -114.8835866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boulder City",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 35.9782216,
+          "longitude": -114.8345117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Las Vegas",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.1988592,
+          "longitude": -115.1175013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mesquite",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.80553099999999,
+          "longitude": -114.06719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Clark County",
+          "latitude": 36.0395247,
+          "longitude": -114.9817213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Zephyr Cove",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9997537,
+          "longitude": -119.950188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Topaz Lake",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.695741,
+          "longitude": -119.5440574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Topaz Ranch Estates",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.7291639,
+          "longitude": -119.4991693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stateline",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9624079,
+          "longitude": -119.9399029,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Skyland",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0223632,
+          "longitude": -119.9481604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Round Hill Village",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9839775,
+          "longitude": -119.9427306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruhenstroth",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.885122,
+          "longitude": -119.6926578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minden",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9540739,
+          "longitude": -119.7657332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logan Creek",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.06465499999999,
+          "longitude": -119.9306863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeridge",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0362971,
+          "longitude": -119.9482375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson Lane",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0479645,
+          "longitude": -119.7221216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingsbury",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.97713,
+          "longitude": -119.9068468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Hills",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0860197,
+          "longitude": -119.784069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardnerville",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9412959,
+          "longitude": -119.7496216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardnerville Ranchos",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.8882398,
+          "longitude": -119.7412875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Genoa",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0040567,
+          "longitude": -119.8472149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenbrook",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 39.0899589,
+          "longitude": -119.9378368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fish Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9470659,
+          "longitude": -119.6480078,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.9369108,
+          "longitude": -119.7004756,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Double Spring",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.7756953,
+          "longitude": -119.5886453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carter Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Douglas County",
+          "latitude": 38.8628203,
+          "longitude": -119.6543948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Elko County",
+      "cities": [
+        {
+          "name": "Spring Creek",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.7265927,
+          "longitude": -115.5858953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osino",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.9321423,
+          "longitude": -115.6606224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Owyhee",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 41.9476788,
+          "longitude": -116.0987094,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montello",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 41.2661155,
+          "longitude": -114.1959536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain City",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 41.8385141,
+          "longitude": -115.9653694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lamoille",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.7279868,
+          "longitude": -115.4784204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackpot",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 41.9841401,
+          "longitude": -114.6724061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Wendover",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.739097,
+          "longitude": -114.073345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlin",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.7138067,
+          "longitude": -116.1039663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wells",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 41.1115888,
+          "longitude": -114.96449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elko",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Elko County",
+          "latitude": 40.8436459,
+          "longitude": -115.7526187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Esmeralda County",
+      "cities": [
+        {
+          "name": "Silver Peak",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Esmeralda County",
+          "latitude": 37.7539403,
+          "longitude": -117.635033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goldfield",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Esmeralda County",
+          "latitude": 37.7084481,
+          "longitude": -117.2357131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dyer",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Esmeralda County",
+          "latitude": 37.6673151,
+          "longitude": -118.0661434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Eureka County",
+      "cities": [
+        {
+          "name": "Eureka",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Eureka County",
+          "latitude": 39.5124858,
+          "longitude": -115.9607803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crescent Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Eureka County",
+          "latitude": 40.41602779999999,
+          "longitude": -116.5764745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Humboldt County",
+      "cities": [
+        {
+          "name": "Valmy",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 40.7922061,
+          "longitude": -117.1281453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradise Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 41.4935076,
+          "longitude": -117.5345736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orovada",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 41.569737,
+          "longitude": -117.7857299,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McDermitt",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 41.9972968,
+          "longitude": -117.7189974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golconda",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 40.9532359,
+          "longitude": -117.4892882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort McDermitt",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 41.9870747,
+          "longitude": -117.5923187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Denio",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Humboldt County",
+          "latitude": 41.9898955,
+          "longitude": -118.6343404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lander County",
+      "cities": [
+        {
+          "name": "Kingston",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lander County",
+          "latitude": 39.2117792,
+          "longitude": -117.0617553,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Battle Mountain",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lander County",
+          "latitude": 40.6421334,
+          "longitude": -116.9342671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Austin",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lander County",
+          "latitude": 39.49257009999999,
+          "longitude": -117.0672356,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Ursine",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.9803782,
+          "longitude": -114.2182453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rachel",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.64472,
+          "longitude": -115.74278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pioche",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.9298739,
+          "longitude": -114.4516203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Panaca",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.7891056,
+          "longitude": -114.3846527,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Wilson",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 38.2313523,
+          "longitude": -114.4470383,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hiko",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.6282856,
+          "longitude": -115.2155933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dry Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.8941436,
+          "longitude": -114.3044288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaverdam",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.6896988,
+          "longitude": -114.4500088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennett Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.7184098,
+          "longitude": -114.4630261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alamo",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lincoln County",
+          "latitude": 37.3649613,
+          "longitude": -115.1644614,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lyon County",
+      "cities": [
+        {
+          "name": "Stagecoach",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 39.3738041,
+          "longitude": -119.3740567,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smith Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 38.8022379,
+          "longitude": -119.3289012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 39.4154714,
+          "longitude": -119.2246073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver City",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 39.2635236,
+          "longitude": -119.640455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 39.2371353,
+          "longitude": -119.5929521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fernley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 39.6079683,
+          "longitude": -119.2518349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yerington",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Lyon County",
+          "latitude": 38.98575080000001,
+          "longitude": -119.1629309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mineral County",
+      "cities": [
+        {
+          "name": "Walker Lake",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Mineral County",
+          "latitude": 38.6482535,
+          "longitude": -118.7551395,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Schurz",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Mineral County",
+          "latitude": 38.9507534,
+          "longitude": -118.811256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mina",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Mineral County",
+          "latitude": 38.3905871,
+          "longitude": -118.1087248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hawthorne",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Mineral County",
+          "latitude": 38.5246441,
+          "longitude": -118.624578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nye County",
+      "cities": [
+        {
+          "name": "Tonopah",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Nye County",
+          "latitude": 38.069211,
+          "longitude": -117.2305861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pahrump",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Nye County",
+          "latitude": 36.2082943,
+          "longitude": -115.9839147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gabbs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Nye County",
+          "latitude": 38.8690562,
+          "longitude": -117.9228819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beatty",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Nye County",
+          "latitude": 36.9085566,
+          "longitude": -116.7592265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amargosa Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Nye County",
+          "latitude": 36.6437843,
+          "longitude": -116.4002815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pershing County",
+      "cities": [
+        {
+          "name": "Unionville",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Pershing County",
+          "latitude": 40.4454634,
+          "longitude": -118.1206953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Humboldt River Ranch",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Pershing County",
+          "latitude": 40.4671823,
+          "longitude": -118.2795119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Imlay",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Pershing County",
+          "latitude": 40.66073859999999,
+          "longitude": -118.1504207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grass Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Pershing County",
+          "latitude": 40.8327519,
+          "longitude": -117.753715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lovelock",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Pershing County",
+          "latitude": 40.17935370000001,
+          "longitude": -118.4734808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Storey County",
+      "cities": [
+        {
+          "name": "Virginia City",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Storey County",
+          "latitude": 39.3095135,
+          "longitude": -119.6499793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washoe County",
+      "cities": [
+        {
+          "name": "Reno",
+          "state": "Nevada",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.529919,
+          "longitude": -119.8142691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sparks",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.5349112,
+          "longitude": -119.7526886,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cold Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.680186,
+          "longitude": -119.9765878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crystal Bay",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.2278272,
+          "longitude": -120.0047095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Empire",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 40.5757049,
+          "longitude": -119.3413474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gerlach",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 40.6516223,
+          "longitude": -119.3567677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.6145964,
+          "longitude": -119.8267065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Incline Village",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.249683,
+          "longitude": -119.9526847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lemmon Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.63602059999999,
+          "longitude": -119.8432487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mogul",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.514133,
+          "longitude": -119.9255519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nixon",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.8318537,
+          "longitude": -119.3579527,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spanish Springs",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.649077,
+          "longitude": -119.7074096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sun Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.5962993,
+          "longitude": -119.7760234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sutcliffe",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.9501851,
+          "longitude": -119.600464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verdi",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.5183106,
+          "longitude": -119.9887669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wadsworth",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.6322272,
+          "longitude": -119.2870863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washoe Valley",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "Washoe County",
+          "latitude": 39.2963286,
+          "longitude": -119.7761221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "White Pine County",
+      "cities": [
+        {
+          "name": "Ruth",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 39.2782185,
+          "longitude": -114.9894381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Preston",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 38.9121027,
+          "longitude": -115.0607571,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McGill",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 39.4049384,
+          "longitude": -114.7786281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lund",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 38.8567195,
+          "longitude": -115.0078549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baker",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 39.0120898,
+          "longitude": -114.1231987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ely",
+          "state": "NV",
+          "stateCode": "NV",
+          "county": "White Pine County",
+          "latitude": 39.2533328,
+          "longitude": -114.874248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

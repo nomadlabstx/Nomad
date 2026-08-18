@@ -1,0 +1,5661 @@
+{
+  "name": "Louisiana",
+  "code": "LA",
+  "counties": [
+    {
+      "name": "Acadia Parish",
+      "cities": [
+        {
+          "name": "Midland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.1807609,
+          "longitude": -92.5029134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Branch",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.3488122,
+          "longitude": -92.26762769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Egan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.2368713,
+          "longitude": -92.5059689,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Church Point",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.4029776,
+          "longitude": -92.2151255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estherwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.1807606,
+          "longitude": -92.4643012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mermentau",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.1899281,
+          "longitude": -92.5826383,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morse",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.1218726,
+          "longitude": -92.4981911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iota",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.3313143,
+          "longitude": -92.4956909,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rayne",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.234925,
+          "longitude": -92.26846169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crowley",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Acadia Parish",
+          "latitude": 30.2140928,
+          "longitude": -92.3745761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Allen Parish",
+      "cities": [
+        {
+          "name": "Oakdale",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Allen Parish",
+          "latitude": 30.8167525,
+          "longitude": -92.658557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oberlin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Allen Parish",
+          "latitude": 30.6201984,
+          "longitude": -92.76264619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kinder",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Allen Parish",
+          "latitude": 30.485479,
+          "longitude": -92.850703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reeves",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Allen Parish",
+          "latitude": 30.5210332,
+          "longitude": -93.04765359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elizabeth",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Allen Parish",
+          "latitude": 30.868526,
+          "longitude": -92.7929262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ascension Parish",
+      "cities": [
+        {
+          "name": "Prairieville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.3058611,
+          "longitude": -90.9723583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Darrow",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.1182542,
+          "longitude": -90.9853773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lemannville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.108154,
+          "longitude": -90.91965499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gonzales",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.2385294,
+          "longitude": -90.9200987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Donaldsonville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.1010323,
+          "longitude": -90.9928773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sorrento",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ascension Parish",
+          "latitude": 30.1843642,
+          "longitude": -90.8592632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Assumption Parish",
+      "cities": [
+        {
+          "name": "Bayou L",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.7216739,
+          "longitude": -91.05791359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pierre Part",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.9652016,
+          "longitude": -91.2031593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paincourtville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.9902013,
+          "longitude": -91.05510009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Labadieville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.8394603,
+          "longitude": -90.9543375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belle Rose",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 30.0504778,
+          "longitude": -91.0414892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Corne",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 30.0167129,
+          "longitude": -91.1532964,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Napoleonville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.9382674,
+          "longitude": -91.0274993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Avoyelles Parish",
+      "cities": [
+        {
+          "name": "Fifth Ward",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.1301875,
+          "longitude": -92.1729052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Center Point",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.2482404,
+          "longitude": -92.2098515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bordelonville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.1058846,
+          "longitude": -91.9075788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hessmer",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.0596333,
+          "longitude": -92.12123629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marksville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.1279652,
+          "longitude": -92.0662356,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simmesport",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 30.983516,
+          "longitude": -91.8001194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bunkie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 30.9532472,
+          "longitude": -92.1826258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mansura",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.0579664,
+          "longitude": -92.049012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moreauville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 31.0346323,
+          "longitude": -91.9756768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plaucheville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 30.9654672,
+          "longitude": -91.9817867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evergreen",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 30.9526911,
+          "longitude": -92.10873450000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottonport",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Avoyelles Parish",
+          "latitude": 30.9840789,
+          "longitude": -92.0534555,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Beauregard Parish",
+      "cities": [
+        {
+          "name": "Singer",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.6554448,
+          "longitude": -93.4124891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sugartown",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.8399155,
+          "longitude": -93.0148779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oretta",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.525833,
+          "longitude": -93.43722199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Longville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.6051979,
+          "longitude": -93.2318269,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merryville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.754367,
+          "longitude": -93.540451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "DeRidder",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Beauregard Parish",
+          "latitude": 30.8463055,
+          "longitude": -93.2890527,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bienville Parish",
+      "cities": [
+        {
+          "name": "Arcadia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.5490406,
+          "longitude": -92.920158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bienville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.3568222,
+          "longitude": -92.98043740000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gibsland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.5440413,
+          "longitude": -93.05293979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamestown",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.3440451,
+          "longitude": -93.21183409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lucky",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.2551572,
+          "longitude": -92.9968267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ringgold",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.3285319,
+          "longitude": -93.2800379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castor",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.2532134,
+          "longitude": -93.1657218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saline",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.1646027,
+          "longitude": -92.9743261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bryceland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.4509872,
+          "longitude": -92.9793265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Lebanon",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bienville Parish",
+          "latitude": 32.5037644,
+          "longitude": -93.04905079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bossier Parish",
+      "cities": [
+        {
+          "name": "Red Chute",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.5559838,
+          "longitude": -93.6132317,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eastwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.5562617,
+          "longitude": -93.56711949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haughton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.53265140000001,
+          "longitude": -93.50406269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.6948677,
+          "longitude": -93.7418454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plain Dealing",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.9051385,
+          "longitude": -93.6968433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bossier City",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Bossier Parish",
+          "latitude": 32.5159852,
+          "longitude": -93.7321228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Caddo Parish",
+      "cities": [
+        {
+          "name": "Shreveport",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.5130159,
+          "longitude": -93.7514874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanchard",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.580983,
+          "longitude": -93.89268129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.4429323,
+          "longitude": -93.9729615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belcher",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.7487544,
+          "longitude": -93.8329576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rodessa",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.9712465,
+          "longitude": -93.9949029,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilliam",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.8270851,
+          "longitude": -93.8451793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hosston",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.8876386,
+          "longitude": -93.8785127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ida",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 33.0043014,
+          "longitude": -93.8949011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mooringsport",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.6876455,
+          "longitude": -93.96101499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oil City",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.7440322,
+          "longitude": -93.9715703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vivian",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.8715278,
+          "longitude": -93.9874032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caddo Parish",
+          "latitude": 32.524494,
+          "longitude": -93.82972699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Calcasieu Parish",
+      "cities": [
+        {
+          "name": "Starks",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.3154826,
+          "longitude": -93.6618318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prien",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.1818739,
+          "longitude": -93.27376550000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moss Bluff",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.3027042,
+          "longitude": -93.19070970000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayes",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.1092293,
+          "longitude": -92.9189964,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gillis",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.373611,
+          "longitude": -93.20083299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlyss",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.1688187,
+          "longitude": -93.3759893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vinton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.1911244,
+          "longitude": -93.58135759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westlake",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.2421496,
+          "longitude": -93.25070989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "DeQuincy",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.4504779,
+          "longitude": -93.4332189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sulphur",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.2365943,
+          "longitude": -93.37737829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iowa",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.2368292,
+          "longitude": -93.01363990000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Charles",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Calcasieu Parish",
+          "latitude": 30.2265949,
+          "longitude": -93.2173758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Caldwell Parish",
+      "cities": [
+        {
+          "name": "Banks Springs",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caldwell Parish",
+          "latitude": 32.082102,
+          "longitude": -92.09291329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarks",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caldwell Parish",
+          "latitude": 32.0265486,
+          "longitude": -92.1390256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caldwell Parish",
+          "latitude": 32.1051567,
+          "longitude": -92.0779129,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grayson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Caldwell Parish",
+          "latitude": 32.049881,
+          "longitude": -92.10930259999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Parish",
+      "cities": [
+        {
+          "name": "Hackberry",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Cameron Parish",
+          "latitude": 29.9937145,
+          "longitude": -93.3610731,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cameron",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Cameron Parish",
+          "latitude": 29.79772119999999,
+          "longitude": -93.3251535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Catahoula Parish",
+      "cities": [
+        {
+          "name": "Wallace Ridge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Catahoula Parish",
+          "latitude": 31.708973,
+          "longitude": -91.827309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonesville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Catahoula Parish",
+          "latitude": 31.6265595,
+          "longitude": -91.8181828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sicily Island",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Catahoula Parish",
+          "latitude": 31.8465511,
+          "longitude": -91.6562354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrisonburg",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Catahoula Parish",
+          "latitude": 31.7721106,
+          "longitude": -91.8215177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Claiborne Parish",
+      "cities": [
+        {
+          "name": "Athens",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Claiborne Parish",
+          "latitude": 32.65042810000001,
+          "longitude": -93.025717,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haynesville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Claiborne Parish",
+          "latitude": 32.96221000000001,
+          "longitude": -93.142496,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homer",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Claiborne Parish",
+          "latitude": 32.7918133,
+          "longitude": -93.055718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lisbon",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Claiborne Parish",
+          "latitude": 32.7959796,
+          "longitude": -92.8651572,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Junction City",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Claiborne Parish",
+          "latitude": 33.0121751,
+          "longitude": -92.7247637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Concordia Parish",
+      "cities": [
+        {
+          "name": "Minorca",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.578943,
+          "longitude": -91.480797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spokane",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.700125,
+          "longitude": -91.460922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monterey",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.4501334,
+          "longitude": -91.71809569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ferriday",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.6301664,
+          "longitude": -91.5545649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clayton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.7226647,
+          "longitude": -91.54317610000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgecrest",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.6029441,
+          "longitude": -91.5278975,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vidalia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Concordia Parish",
+          "latitude": 31.5654441,
+          "longitude": -91.4259495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "De Soto Parish",
+      "cities": [
+        {
+          "name": "Frierson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.2518252,
+          "longitude": -93.6899007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gloster",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.1909938,
+          "longitude": -93.8149045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Longstreet",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.0976637,
+          "longitude": -93.9521316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mansfield",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.0376629,
+          "longitude": -93.70018189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Mansfield",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.0165556,
+          "longitude": -93.7219315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stonewall",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.2818252,
+          "longitude": -93.8240703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Cane",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.0840517,
+          "longitude": -93.8101839,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keachi",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 32.1884355,
+          "longitude": -93.90567639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logansport",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 31.975445,
+          "longitude": -93.9979678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanley",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "De Soto Parish",
+          "latitude": 31.9609999,
+          "longitude": -93.8979654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "East Baton Rouge Parish",
+      "cities": [
+        {
+          "name": "Old Jefferson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.3826922,
+          "longitude": -91.0170468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westminster",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.41058799999999,
+          "longitude": -91.0881967,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monticello",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.4890784,
+          "longitude": -91.0487151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Hills Place",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.35991499999999,
+          "longitude": -91.0876042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Village St. George",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.3570566,
+          "longitude": -91.07163299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shenandoah",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.4013028,
+          "longitude": -91.00093539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merrydale",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.5013004,
+          "longitude": -91.1084389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inniswold",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.4049139,
+          "longitude": -91.08343769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownfields",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.5465772,
+          "longitude": -91.1206617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardere",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.3457487,
+          "longitude": -91.14010549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baker",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.5882429,
+          "longitude": -91.16816299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.554281,
+          "longitude": -91.0368766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Zachary",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Baton Rouge Parish",
+          "latitude": 30.64851909999999,
+          "longitude": -91.1564961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "East Carroll Parish",
+      "cities": [
+        {
+          "name": "Lake Providence",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Carroll Parish",
+          "latitude": 32.8042966,
+          "longitude": -91.170109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "East Feliciana Parish",
+      "cities": [
+        {
+          "name": "Slaughter",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Feliciana Parish",
+          "latitude": 30.7174063,
+          "longitude": -91.14149580000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Feliciana Parish",
+          "latitude": 30.8374036,
+          "longitude": -91.2176087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Feliciana Parish",
+          "latitude": 30.9676784,
+          "longitude": -91.1039945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Feliciana Parish",
+          "latitude": 30.8657362,
+          "longitude": -91.01565939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "East Feliciana Parish",
+          "latitude": 30.9201794,
+          "longitude": -91.1156617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Evangeline Parish",
+      "cities": [
+        {
+          "name": "Reddell",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.6740864,
+          "longitude": -92.42624409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Basile",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.4856404,
+          "longitude": -92.5956107,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chataignier",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.5685318,
+          "longitude": -92.32207319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mamou",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.6338092,
+          "longitude": -92.41929929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turkey Creek",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.8771379,
+          "longitude": -92.41318880000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Prairie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.78384399999999,
+          "longitude": -92.4254472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ville Platte",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Evangeline Parish",
+          "latitude": 30.6879749,
+          "longitude": -92.2715157,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Parish",
+      "cities": [
+        {
+          "name": "Gilbert",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Franklin Parish",
+          "latitude": 32.0493225,
+          "longitude": -91.65817969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baskin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Franklin Parish",
+          "latitude": 32.25903810000001,
+          "longitude": -91.7476257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wisner",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Franklin Parish",
+          "latitude": 31.9809913,
+          "longitude": -91.6556799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winnsboro",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Franklin Parish",
+          "latitude": 32.1632079,
+          "longitude": -91.720681,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant Parish",
+      "cities": [
+        {
+          "name": "Rock Hill",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.449724,
+          "longitude": -92.572334,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prospect",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.4504564,
+          "longitude": -92.4876396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montgomery",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.6673898,
+          "longitude": -92.89071240000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pollock",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.5257285,
+          "longitude": -92.4075256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colfax",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.5190623,
+          "longitude": -92.70681599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Creola",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.4313657,
+          "longitude": -92.4834977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dry Prong",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.5812854,
+          "longitude": -92.53292019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Georgetown",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Grant Parish",
+          "latitude": 31.7610027,
+          "longitude": -92.3845843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Iberia Parish",
+      "cities": [
+        {
+          "name": "Lydia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberia Parish",
+          "latitude": 29.9257731,
+          "longitude": -91.7809965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeanerette",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberia Parish",
+          "latitude": 29.9110378,
+          "longitude": -91.6634483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loreauville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberia Parish",
+          "latitude": 30.0565906,
+          "longitude": -91.7370595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Iberia",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Iberia Parish",
+          "latitude": 30.0035365,
+          "longitude": -91.81872849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Iberville Parish",
+      "cities": [
+        {
+          "name": "Bayou Goula",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.2099185,
+          "longitude": -91.1689942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crescent",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.2476958,
+          "longitude": -91.28733079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dorseyville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.1780748,
+          "longitude": -91.1611475,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grosse Tete",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.410917,
+          "longitude": -91.43415259999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maringouin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.4913049,
+          "longitude": -91.5195542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plaquemine",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.2890833,
+          "longitude": -91.23427439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosedale",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.4413051,
+          "longitude": -91.45205419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Gabriel",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.25769529999999,
+          "longitude": -91.0992706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Castle",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Iberville Parish",
+          "latitude": 30.16991939999999,
+          "longitude": -91.1470487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson Parish",
+      "cities": [
+        {
+          "name": "East Hodge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.2779331,
+          "longitude": -92.7140409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chatham",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.3062644,
+          "longitude": -92.4504223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eros",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.3923731,
+          "longitude": -92.4240322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hodge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.2756312,
+          "longitude": -92.7331928,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonesboro",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.2412672,
+          "longitude": -92.7159853,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Hodge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.2834885,
+          "longitude": -92.7159853,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quitman",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jackson Parish",
+          "latitude": 32.348765,
+          "longitude": -92.7215408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson Davis Parish",
+      "cities": [
+        {
+          "name": "Roanoke",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.2368736,
+          "longitude": -92.74708780000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lacassine",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.2350923,
+          "longitude": -92.92130139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.4813125,
+          "longitude": -92.6956982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fenton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.3671485,
+          "longitude": -92.91820399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jennings",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.22242839999999,
+          "longitude": -92.657085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Arthur",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.0806608,
+          "longitude": -92.6712841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Welsh",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Davis Parish",
+          "latitude": 30.2360403,
+          "longitude": -92.82264529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson Parish",
+      "cities": [
+        {
+          "name": "Terrytown",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.910205,
+          "longitude": -90.0325709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Timberlane",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.8774282,
+          "longitude": -90.0320153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waggaman",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9185388,
+          "longitude": -90.2109093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodmere",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.85798449999999,
+          "longitude": -90.0803502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "River Ridge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9602043,
+          "longitude": -90.2156316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Metairie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9840922,
+          "longitude": -90.1528519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marrero",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.8993723,
+          "longitude": -90.1003506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lafitte",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.6668793,
+          "longitude": -90.1084073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harvey",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9035387,
+          "longitude": -90.0772944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.96603709999999,
+          "longitude": -90.1531298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elmwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9565932,
+          "longitude": -90.1897975,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estelle",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.8457628,
+          "longitude": -90.10673980000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barataria",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.7232665,
+          "longitude": -90.1236852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridge City",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9332605,
+          "longitude": -90.1700748,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avondale",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.91298339999999,
+          "longitude": -90.2036868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Isle",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.2366172,
+          "longitude": -89.9872941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gretna",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9146493,
+          "longitude": -90.0539603,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harahan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9404826,
+          "longitude": -90.2031313,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jean Lafitte",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.73431,
+          "longitude": -90.1254191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westwego",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9060388,
+          "longitude": -90.14229619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenner",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Jefferson Parish",
+          "latitude": 29.9940924,
+          "longitude": -90.2417434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lafayette Parish",
+      "cities": [
+        {
+          "name": "Milton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.1038143,
+          "longitude": -92.0765119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ossun",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.2760341,
+          "longitude": -92.1123453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broussard",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.147146,
+          "longitude": -91.9612305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.2357577,
+          "longitude": -92.18540349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carencro",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.317144,
+          "longitude": -92.04900959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scott",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.2357569,
+          "longitude": -92.0945672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Youngsville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafayette Parish",
+          "latitude": 30.0996471,
+          "longitude": -91.9901206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lafourche Parish",
+      "cities": [
+        {
+          "name": "Raceland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.7274331,
+          "longitude": -90.5989759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mathews",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.6863233,
+          "longitude": -90.5467525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lockport Heights",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.6574853,
+          "longitude": -90.54705539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Galliano",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.4421645,
+          "longitude": -90.2992464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Larose",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.572438,
+          "longitude": -90.3817483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lafourche Crossing",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.7693405,
+          "longitude": -90.7675424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kraemer",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.8626906,
+          "longitude": -90.62515409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cut Off",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.5427168,
+          "longitude": -90.3381361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Choctaw",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.840511,
+          "longitude": -90.690575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chackbay",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.8835389,
+          "longitude": -90.79731509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Country Club",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.7825318,
+          "longitude": -90.78956389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lockport",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.6460467,
+          "longitude": -90.5392524,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Meadow",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.3791112,
+          "longitude": -90.2600786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thibodaux",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lafourche Parish",
+          "latitude": 29.7957633,
+          "longitude": -90.82287099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "LaSalle Parish",
+      "cities": [
+        {
+          "name": "Trout",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.6967121,
+          "longitude": -92.1806423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Midway",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.6919728,
+          "longitude": -92.1520575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Good Pine",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.6932269,
+          "longitude": -92.1620787,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tullos",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.8193342,
+          "longitude": -92.32986149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jena",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.6832271,
+          "longitude": -92.1337448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olla",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.9028296,
+          "longitude": -92.2426468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Urania",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "LaSalle Parish",
+          "latitude": 31.8637771,
+          "longitude": -92.2959723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln Parish",
+      "cities": [
+        {
+          "name": "Choudrant",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.5296273,
+          "longitude": -92.51388829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simsboro",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.5345953,
+          "longitude": -92.7884871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruston",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.5232053,
+          "longitude": -92.63792699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vienna",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.5909817,
+          "longitude": -92.6479275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dubach",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.6990352,
+          "longitude": -92.6568169,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grambling",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Lincoln Parish",
+          "latitude": 32.5276503,
+          "longitude": -92.7140402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Livingston Parish",
+      "cities": [
+        {
+          "name": "Watson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.5757431,
+          "longitude": -90.9531574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Killian",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.3588054,
+          "longitude": -90.5862016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "French Settlement",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.295195,
+          "longitude": -90.79509550000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livingston",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.5021345,
+          "longitude": -90.7478737,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Vincent",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.3337397,
+          "longitude": -90.8500725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.4290818,
+          "longitude": -90.5487012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walker",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.4879678,
+          "longitude": -90.86148779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albany",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.50435779999999,
+          "longitude": -90.5823138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Denham Springs",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Livingston Parish",
+          "latitude": 30.48685639999999,
+          "longitude": -90.95621249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles County",
+      "cities": [
+        {
+          "name": "Supreme",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Los Angeles County",
+          "latitude": 34.0907834,
+          "longitude": -118.3837016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison Parish",
+      "cities": [
+        {
+          "name": "Richmond",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Madison Parish",
+          "latitude": 32.3879218,
+          "longitude": -91.18205479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tallulah",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Madison Parish",
+          "latitude": 32.4084765,
+          "longitude": -91.1867771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delta",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Madison Parish",
+          "latitude": 32.3257022,
+          "longitude": -90.92704959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mound",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Madison Parish",
+          "latitude": 32.3393126,
+          "longitude": -91.0239959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morehouse Parish",
+      "cities": [
+        {
+          "name": "Oak Ridge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Morehouse Parish",
+          "latitude": 32.6240274,
+          "longitude": -91.77290300000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bastrop",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Morehouse Parish",
+          "latitude": 32.7562463,
+          "longitude": -91.8723497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collinston",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Morehouse Parish",
+          "latitude": 32.6909704,
+          "longitude": -91.8717943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mer Rouge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Morehouse Parish",
+          "latitude": 32.7751347,
+          "longitude": -91.7926255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonita",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Morehouse Parish",
+          "latitude": 32.9192963,
+          "longitude": -91.6770672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Natchitoches Parish",
+      "cities": [
+        {
+          "name": "Vienna Bend",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.73222,
+          "longitude": -93.04083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Point Place",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.69667,
+          "longitude": -93.02082999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marthaville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.7387778,
+          "longitude": -93.39656289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Campti",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.8934954,
+          "longitude": -93.1182202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarence",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.821552,
+          "longitude": -93.0296061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Natchez",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.6754441,
+          "longitude": -93.04460689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powhatan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.8729402,
+          "longitude": -93.20127869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Natchitoches",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.7607195,
+          "longitude": -93.08627489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Provencal",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.6529455,
+          "longitude": -93.202112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 32.1418256,
+          "longitude": -93.0982193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goldonna",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 32.016827,
+          "longitude": -92.9093239,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Robeline",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Natchitoches Parish",
+          "latitude": 31.690445,
+          "longitude": -93.3046153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ouachita Parish",
+      "cities": [
+        {
+          "name": "Swartz",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.5687521,
+          "longitude": -91.9851307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeshore",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.5349504,
+          "longitude": -92.0395655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Claiborne",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.5159779,
+          "longitude": -92.1918032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calhoun",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.512726,
+          "longitude": -92.35816319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bawcomville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.4869858,
+          "longitude": -92.15429999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownsville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.4869858,
+          "longitude": -92.15429999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.4487568,
+          "longitude": -92.08485619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sterlington",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.695648,
+          "longitude": -92.0841939,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Monroe",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.5184775,
+          "longitude": -92.14763529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monroe",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Ouachita Parish",
+          "latitude": 32.5093109,
+          "longitude": -92.1193012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Plaquemines Parish",
+      "cities": [
+        {
+          "name": "Venice",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.2857674,
+          "longitude": -89.3629995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Orleans Station",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.8294409,
+          "longitude": -90.0233208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Triumph",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.339386,
+          "longitude": -89.4767232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pointe a la Hache",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.5751225,
+          "longitude": -89.7901873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Sulphur",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.4804947,
+          "longitude": -89.6939531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Empire",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.3877189,
+          "longitude": -89.59728319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buras",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.3518223,
+          "longitude": -89.5246636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belle Chasse",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.8549287,
+          "longitude": -89.99062529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boothville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Plaquemines Parish",
+          "latitude": 29.3217614,
+          "longitude": -89.39298769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pointe Coupee Parish",
+      "cities": [
+        {
+          "name": "Ventress",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Pointe Coupee Parish",
+          "latitude": 30.6819639,
+          "longitude": -91.4080008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morganza",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Pointe Coupee Parish",
+          "latitude": 30.738518,
+          "longitude": -91.5942819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livonia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Pointe Coupee Parish",
+          "latitude": 30.55908029999999,
+          "longitude": -91.555945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Roads",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Pointe Coupee Parish",
+          "latitude": 30.7015741,
+          "longitude": -91.4362242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fordoche",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Pointe Coupee Parish",
+          "latitude": 30.5960234,
+          "longitude": -91.61650220000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rapides Parish",
+      "cities": [
+        {
+          "name": "Echo",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.1101881,
+          "longitude": -92.24179579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.35338629999999,
+          "longitude": -92.14993559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boyce",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.3904558,
+          "longitude": -92.66931319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Hill",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.0420646,
+          "longitude": -92.5311693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenmora",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 30.9765797,
+          "longitude": -92.5851402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pineville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.3224044,
+          "longitude": -92.4343035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodworth",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.1470953,
+          "longitude": -92.4970817,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cheneyville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.01491279999999,
+          "longitude": -92.28735209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ball",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.4154574,
+          "longitude": -92.41180360000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lecompte",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.0946327,
+          "longitude": -92.4004119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McNary",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 30.9874128,
+          "longitude": -92.576251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexandria",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Rapides Parish",
+          "latitude": 31.3112936,
+          "longitude": -92.4451371,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Red River Parish",
+      "cities": [
+        {
+          "name": "Coushatta",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Red River Parish",
+          "latitude": 32.0148834,
+          "longitude": -93.34211649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Red River Parish",
+          "latitude": 32.0854376,
+          "longitude": -93.2201681,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgefield",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Red River Parish",
+          "latitude": 32.0507163,
+          "longitude": -93.3329495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hall Summit",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Red River Parish",
+          "latitude": 32.1773811,
+          "longitude": -93.30239279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Richland Parish",
+      "cities": [
+        {
+          "name": "Start",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Richland Parish",
+          "latitude": 32.4865316,
+          "longitude": -91.85929449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mangham",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Richland Parish",
+          "latitude": 32.3090366,
+          "longitude": -91.77484849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delhi",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Richland Parish",
+          "latitude": 32.4576421,
+          "longitude": -91.49317359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rayville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Richland Parish",
+          "latitude": 32.4773643,
+          "longitude": -91.7548473,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sabine Parish",
+      "cities": [
+        {
+          "name": "Belmont",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.71639729999999,
+          "longitude": -93.5090018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Jesup",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.6116361,
+          "longitude": -93.4044187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Noble",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.6896167,
+          "longitude": -93.6840713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florien",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.4437889,
+          "longitude": -93.4573959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Many",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.5687848,
+          "longitude": -93.4840645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Zwolle",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.630911,
+          "longitude": -93.6437823,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Converse",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.7815585,
+          "longitude": -93.693794,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fisher",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.4937872,
+          "longitude": -93.46573010000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Hill",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Sabine Parish",
+          "latitude": 31.8198888,
+          "longitude": -93.51434429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Bernard Parish",
+      "cities": [
+        {
+          "name": "Violet",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.89576049999999,
+          "longitude": -89.8978439,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poydras",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.8693724,
+          "longitude": -89.8889549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meraux",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.92981709999999,
+          "longitude": -89.91471609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delacroix",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.7615983,
+          "longitude": -89.79089669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arabi",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.9543702,
+          "longitude": -90.0053477,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chalmette",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Bernard Parish",
+          "latitude": 29.942783,
+          "longitude": -89.9635162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Charles Parish",
+      "cities": [
+        {
+          "name": "St. Rose",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9468716,
+          "longitude": -90.3231349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norco",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9990924,
+          "longitude": -90.4123042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradis",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.8772427,
+          "longitude": -90.4358266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luling",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9321498,
+          "longitude": -90.3664694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taft",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9913149,
+          "longitude": -90.4481387,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Sarpy",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9779819,
+          "longitude": -90.38785899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montz",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 30.0130165,
+          "longitude": -90.46719689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hahnville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9765931,
+          "longitude": -90.40897079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Killona",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 30.0060367,
+          "longitude": -90.482862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Des Allemands",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.8238196,
+          "longitude": -90.4750837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boutte",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9024284,
+          "longitude": -90.38813689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Destrehan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9429828,
+          "longitude": -90.3517469,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Gauche",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.8080222,
+          "longitude": -90.42933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ama",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Charles Parish",
+          "latitude": 29.9521491,
+          "longitude": -90.2964674,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Helena Parish",
+      "cities": [
+        {
+          "name": "Greensburg",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Helena Parish",
+          "latitude": 30.8307379,
+          "longitude": -90.6717642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montpelier",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Helena Parish",
+          "latitude": 30.6810194,
+          "longitude": -90.6489843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. James Parish",
+      "cities": [
+        {
+          "name": "North Vacherie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0110809,
+          "longitude": -90.71971429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Vacherie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 29.939142,
+          "longitude": -90.6946213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Romeville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.062222,
+          "longitude": -90.846667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Union",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.091512,
+          "longitude": -90.900064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Welcome",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.059167,
+          "longitude": -90.86833299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. James",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0179292,
+          "longitude": -90.7913227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paulina",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.02605909999999,
+          "longitude": -90.71341129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moonshine",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 29.9695573,
+          "longitude": -90.8130102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hester",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0188956,
+          "longitude": -90.77948909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Point",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0613122,
+          "longitude": -90.7534258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Convent",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0207933,
+          "longitude": -90.8300269,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gramercy",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0474239,
+          "longitude": -90.6898128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lutcher",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. James Parish",
+          "latitude": 30.0404796,
+          "longitude": -90.6989797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. John the Baptist Parish",
+      "cities": [
+        {
+          "name": "Wallace",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 30.042895,
+          "longitude": -90.66860319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reserve",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 30.0538131,
+          "longitude": -90.5517534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasure Bend",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 29.9188959,
+          "longitude": -90.6275734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laplace",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 30.0665907,
+          "longitude": -90.4800848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgard",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 30.0461404,
+          "longitude": -90.5598476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garyville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. John the Baptist Parish",
+          "latitude": 30.056035,
+          "longitude": -90.6192554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Landry Parish",
+      "cities": [
+        {
+          "name": "Morrow",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.8299159,
+          "longitude": -92.0801201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lawtell",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.5174755,
+          "longitude": -92.1862592,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebeau",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.7313054,
+          "longitude": -91.97705979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eunice",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.4943669,
+          "longitude": -92.4176324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leonville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.4704745,
+          "longitude": -91.97845079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Opelousas",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.5335302,
+          "longitude": -92.081509,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.6929653,
+          "longitude": -91.74400399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Krotz Springs",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.53754799999999,
+          "longitude": -91.7503538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palmetto",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.7174143,
+          "longitude": -91.9092821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Barre",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.5601953,
+          "longitude": -91.9540054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunset",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.4113095,
+          "longitude": -92.0684539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washington",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.6163073,
+          "longitude": -92.057063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cankton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.3430715,
+          "longitude": -92.10962219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arnaudville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.39769729999999,
+          "longitude": -91.9315062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Coteau",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Landry Parish",
+          "latitude": 30.4199203,
+          "longitude": -92.04650869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Martin Parish",
+      "cities": [
+        {
+          "name": "Catahoula",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.214444,
+          "longitude": -91.708889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cecilia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.3371419,
+          "longitude": -91.8531715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cade",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.0887073,
+          "longitude": -91.90627630000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Breaux Bridge",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.2735323,
+          "longitude": -91.8992837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parks",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.2143661,
+          "longitude": -91.83206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Martinville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.1231441,
+          "longitude": -91.8294817,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Martin Parish",
+          "latitude": 30.3132529,
+          "longitude": -91.7903922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary Parish",
+      "cities": [
+        {
+          "name": "Sorrel",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.888333,
+          "longitude": -91.61666699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Siracusaville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.6883868,
+          "longitude": -91.1520965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centerville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.7597872,
+          "longitude": -91.428367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glencoe",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.8102762,
+          "longitude": -91.66878129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Vista",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.6896528,
+          "longitude": -91.2709383,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charenton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.88471539999999,
+          "longitude": -91.52429479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amelia",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.6663204,
+          "longitude": -91.1020449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berwick",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.69465259999999,
+          "longitude": -91.2189925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morgan City",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.6993748,
+          "longitude": -91.20676999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baldwin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.837842,
+          "longitude": -91.5446679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Patterson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Mary Parish",
+          "latitude": 29.6932641,
+          "longitude": -91.3020502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "St. Tammany Parish",
+      "cities": [
+        {
+          "name": "Lewisburg",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.3696392,
+          "longitude": -90.10313239999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lacombe",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.3135288,
+          "longitude": -89.9431264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eden Isle",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.2285288,
+          "longitude": -89.7986746,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Covington",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.4754702,
+          "longitude": -90.1009108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mandeville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.35825059999999,
+          "longitude": -90.06563109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pearl River",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.3760264,
+          "longitude": -89.7483972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abita Springs",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.4785257,
+          "longitude": -90.0375755,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Folsom",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.6301889,
+          "longitude": -90.18730479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madisonville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.4043607,
+          "longitude": -90.1570232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sun",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.6490783,
+          "longitude": -89.89257359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slidell",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "St. Tammany Parish",
+          "latitude": 30.2751945,
+          "longitude": -89.78117449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tangipahoa Parish",
+      "cities": [
+        {
+          "name": "Natalbany",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.5463016,
+          "longitude": -90.4848118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponchatoula",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.4388041,
+          "longitude": -90.4414762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roseland",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.7649069,
+          "longitude": -90.5117599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tickfaw",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.5772403,
+          "longitude": -90.483497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kentwood",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.9382358,
+          "longitude": -90.5089843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amite City",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.7265747,
+          "longitude": -90.50898149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Independence",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.635466,
+          "longitude": -90.5009245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tangipahoa",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.8760151,
+          "longitude": -90.5120391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hammond",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tangipahoa Parish",
+          "latitude": 30.5043583,
+          "longitude": -90.46119949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tensas Parish",
+      "cities": [
+        {
+          "name": "Newellton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tensas Parish",
+          "latitude": 32.0726546,
+          "longitude": -91.2409459,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Joseph",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tensas Parish",
+          "latitude": 31.9183685,
+          "longitude": -91.2334884,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterproof",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Tensas Parish",
+          "latitude": 31.8048847,
+          "longitude": -91.383449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Terrebonne Parish",
+      "cities": [
+        {
+          "name": "Schriever",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.7421537,
+          "longitude": -90.81037049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Presquille",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.5570922,
+          "longitude": -90.6381854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montegut",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.4743852,
+          "longitude": -90.55703079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gray",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.6977108,
+          "longitude": -90.786481,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chauvin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.4385529,
+          "longitude": -90.5953651,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dulac",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.3888318,
+          "longitude": -90.7139785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bourg",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.5535491,
+          "longitude": -90.6023096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Blue",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.645363,
+          "longitude": -90.6876132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayou Cane",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.62410199999999,
+          "longitude": -90.7512023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Houma",
+          "state": "Louisiana",
+          "stateCode": "LA",
+          "county": "Terrebonne Parish",
+          "latitude": 29.5957696,
+          "longitude": -90.71953479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union Parish",
+      "cities": [
+        {
+          "name": "Marion",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.9015214,
+          "longitude": -92.2420822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Downsville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.6268108,
+          "longitude": -92.4143096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bernice",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.8220876,
+          "longitude": -92.6579295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmerville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.7734728,
+          "longitude": -92.4056985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lillie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.9320846,
+          "longitude": -92.65682029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spearsville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Union Parish",
+          "latitude": 32.9359723,
+          "longitude": -92.6051518,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Vermilion Parish",
+      "cities": [
+        {
+          "name": "Perry",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 29.9485399,
+          "longitude": -92.1570706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abbeville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 29.9746502,
+          "longitude": -92.13429210000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erath",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 29.9582611,
+          "longitude": -92.0359562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gueydan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 30.0260404,
+          "longitude": -92.5084691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maurice",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 30.1085368,
+          "longitude": -92.1245688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kaplan",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 29.997984,
+          "longitude": -92.2848515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delcambre",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vermilion Parish",
+          "latitude": 29.948261,
+          "longitude": -91.9887327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Vernon Parish",
+      "cities": [
+        {
+          "name": "Pitkin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 30.9363018,
+          "longitude": -92.9362644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Polk North",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.0974111,
+          "longitude": -93.18800829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Polk South",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.0464824,
+          "longitude": -93.20480049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anacoco",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.2518589,
+          "longitude": -93.3418427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hornbeck",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.325737,
+          "longitude": -93.3985041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leesville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.1435194,
+          "longitude": -93.260998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Llano",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.11490929999999,
+          "longitude": -93.2715535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosepine",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 30.920077,
+          "longitude": -93.2823433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simpson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Vernon Parish",
+          "latitude": 31.2457364,
+          "longitude": -93.01543629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington Parish",
+      "cities": [
+        {
+          "name": "Rio",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Washington Parish",
+          "latitude": 30.6929665,
+          "longitude": -89.8900742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Angie",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Washington Parish",
+          "latitude": 30.9665729,
+          "longitude": -89.8095208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Franklinton",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Washington Parish",
+          "latitude": 30.8471283,
+          "longitude": -90.15314099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Varnado",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Washington Parish",
+          "latitude": 30.8937963,
+          "longitude": -89.8295203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bogalusa",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Washington Parish",
+          "latitude": 30.7910204,
+          "longitude": -89.8486858,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster Parish",
+      "cities": [
+        {
+          "name": "Heflin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.4562654,
+          "longitude": -93.26405710000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cullen",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.9690262,
+          "longitude": -93.45072809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minden",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.6154278,
+          "longitude": -93.2868354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springhill",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 33.0059692,
+          "longitude": -93.4668396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sarepta",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.8929177,
+          "longitude": -93.4485059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shongaloo",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.9415284,
+          "longitude": -93.2987799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sibley",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.5393189,
+          "longitude": -93.2962799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cotton Valley",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.8193093,
+          "longitude": -93.41767209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixie Inn",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.5951503,
+          "longitude": -93.33850319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Doyline",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.5357073,
+          "longitude": -93.4110049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dubberly",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Webster Parish",
+          "latitude": 32.5368191,
+          "longitude": -93.2423896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "West Baton Rouge Parish",
+      "cities": [
+        {
+          "name": "Erwinville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Baton Rouge Parish",
+          "latitude": 30.5310244,
+          "longitude": -91.4078876,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Addis",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Baton Rouge Parish",
+          "latitude": 30.3538043,
+          "longitude": -91.2653865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brusly",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Baton Rouge Parish",
+          "latitude": 30.3943588,
+          "longitude": -91.2537198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Allen",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Baton Rouge Parish",
+          "latitude": 30.4474878,
+          "longitude": -91.20732609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "West Carroll Parish",
+      "cities": [
+        {
+          "name": "Forest",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Carroll Parish",
+          "latitude": 32.79207580000001,
+          "longitude": -91.413449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kilbourne",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Carroll Parish",
+          "latitude": 32.9995689,
+          "longitude": -91.3151132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Carroll Parish",
+          "latitude": 32.8609625,
+          "longitude": -91.3884482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pioneer",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Carroll Parish",
+          "latitude": 32.7362443,
+          "longitude": -91.43344959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Epps",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Carroll Parish",
+          "latitude": 32.6040264,
+          "longitude": -91.4778953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "West Feliciana Parish",
+      "cities": [
+        {
+          "name": "St. Francisville",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "West Feliciana Parish",
+          "latitude": 30.7880721,
+          "longitude": -91.3768479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Winn Parish",
+      "cities": [
+        {
+          "name": "St. Maurice",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.7596089,
+          "longitude": -92.95904829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jordan Hill",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.8540552,
+          "longitude": -92.52264439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joyce",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.93933,
+          "longitude": -92.5987588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atlanta",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.805166,
+          "longitude": -92.73820680000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winnfield",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.9254413,
+          "longitude": -92.6395931,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sikes",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 32.080993,
+          "longitude": -92.486812,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calvin",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 31.9657173,
+          "longitude": -92.77570870000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dodson",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Winn Parish",
+          "latitude": 32.0804373,
+          "longitude": -92.660428,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

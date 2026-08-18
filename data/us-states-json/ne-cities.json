@@ -1,0 +1,6442 @@
+{
+  "name": "Nebraska",
+  "code": "NE",
+  "counties": [
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "Prosser",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.6872361,
+          "longitude": -98.576735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holstein",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.4652924,
+          "longitude": -98.6520134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Juniata",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.5900139,
+          "longitude": -98.50617539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenesaw",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.6203151,
+          "longitude": -98.65771749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roseland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.4700143,
+          "longitude": -98.55867599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ayr",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Adams County",
+          "latitude": 40.4375138,
+          "longitude": -98.4403373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Antelope County",
+      "cities": [
+        {
+          "name": "Oakdale",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.0697291,
+          "longitude": -97.9692312,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orchard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.3355602,
+          "longitude": -98.242852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brunswick",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.3369166,
+          "longitude": -97.9706375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearwater",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.1700064,
+          "longitude": -98.1884044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elgin",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 41.9833412,
+          "longitude": -98.08367729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neligh",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.1286177,
+          "longitude": -98.0297887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Royal",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Antelope County",
+          "latitude": 42.332227,
+          "longitude": -98.1259044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Arthur County",
+      "cities": [
+        {
+          "name": "Arthur",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Arthur County",
+          "latitude": 41.5716538,
+          "longitude": -101.691565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Banner County",
+      "cities": [
+        {
+          "name": "Harrisburg",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Banner County",
+          "latitude": 41.5563636,
+          "longitude": -103.7385563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Blaine County",
+      "cities": [
+        {
+          "name": "Brewster",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Blaine County",
+          "latitude": 41.9388904,
+          "longitude": -99.86484790000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boone County",
+      "cities": [
+        {
+          "name": "Raeville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.8963977,
+          "longitude": -98.0539534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loretto",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.7646465,
+          "longitude": -98.0807835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Petersburg",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.8533427,
+          "longitude": -98.0786758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Primrose",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.625058,
+          "longitude": -98.23840679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Edward",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.5700122,
+          "longitude": -97.8658897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Rapids",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boone County",
+          "latitude": 41.560013,
+          "longitude": -98.1445085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Box Butte County",
+      "cities": [
+        {
+          "name": "Berea",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Box Butte County",
+          "latitude": 42.21452,
+          "longitude": -102.9841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hemingford",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Box Butte County",
+          "latitude": 42.3216288,
+          "longitude": -103.0729757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alliance",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Box Butte County",
+          "latitude": 42.0930235,
+          "longitude": -102.8702006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boyd County",
+      "cities": [
+        {
+          "name": "Anoka",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.9469422,
+          "longitude": -98.83092210000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monowi",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.8286091,
+          "longitude": -98.3298021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Naper",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.96361,
+          "longitude": -99.09676259999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bristow",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.8419432,
+          "longitude": -98.5848065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butte",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.9113874,
+          "longitude": -98.8492562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gross",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.94583,
+          "longitude": -98.5723057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynch",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Boyd County",
+          "latitude": 42.8302762,
+          "longitude": -98.4661932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brown County",
+      "cities": [
+        {
+          "name": "Long Pine",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Brown County",
+          "latitude": 42.5338882,
+          "longitude": -99.6990105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnstown",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Brown County",
+          "latitude": 42.5720424,
+          "longitude": -100.0578563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo County",
+      "cities": [
+        {
+          "name": "Poole",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.979734,
+          "longitude": -98.9698068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Odessa",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.7007586,
+          "longitude": -99.2552479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.750206,
+          "longitude": -99.08360379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasanton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.96751099999999,
+          "longitude": -99.0864775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverdale",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.7844559,
+          "longitude": -99.16231309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Miller",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.927787,
+          "longitude": -99.39315549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amherst",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.8389104,
+          "longitude": -99.26885709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elm Creek",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.7182233,
+          "longitude": -99.37326159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gibbon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.7493637,
+          "longitude": -98.84657899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.7791808,
+          "longitude": -98.7309078,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ravenna",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 41.02632699999999,
+          "longitude": -98.9127208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kearney",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Buffalo County",
+          "latitude": 40.69933030000001,
+          "longitude": -99.0816784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Burt County",
+      "cities": [
+        {
+          "name": "Decatur",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Burt County",
+          "latitude": 42.0074879,
+          "longitude": -96.2497439,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyons",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Burt County",
+          "latitude": 41.93752629999999,
+          "longitude": -96.47311409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Burt County",
+          "latitude": 41.8357057,
+          "longitude": -96.4666634,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tekamah",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Burt County",
+          "latitude": 41.7783218,
+          "longitude": -96.22112840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Craig",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Burt County",
+          "latitude": 41.7855467,
+          "longitude": -96.3639108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Butler County",
+      "cities": [
+        {
+          "name": "Abie",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.33417559999999,
+          "longitude": -96.94892109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.3419146,
+          "longitude": -97.2395379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brainard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.1838999,
+          "longitude": -97.0039204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruno",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.2838988,
+          "longitude": -96.9586434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garrison",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.1772348,
+          "longitude": -97.1672602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Linwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.4122295,
+          "longitude": -96.9314206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Octavia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.348066,
+          "longitude": -97.05892349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rising City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.1979835,
+          "longitude": -97.2964413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ulysses",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.0719562,
+          "longitude": -97.201984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dwight",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.0836209,
+          "longitude": -97.0200294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Surprise",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Butler County",
+          "latitude": 41.105548,
+          "longitude": -97.3098066,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cass County",
+      "cities": [
+        {
+          "name": "Lake Waconda",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.8439602,
+          "longitude": -95.85186949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buccaneer Bay",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 41.0489004,
+          "longitude": -95.9647536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver Lake",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.9148,
+          "longitude": -95.87667959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murdock",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.925555,
+          "longitude": -96.2800116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Louisville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 41.00444299999999,
+          "longitude": -96.1600132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murray",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.9171103,
+          "longitude": -95.93044189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nehawka",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.83034869999999,
+          "longitude": -95.9915664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Bend",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 41.0016652,
+          "longitude": -96.24529129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weeping Water",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.8699301,
+          "longitude": -96.139972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avoca",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.796113,
+          "longitude": -96.11750889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Creek",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 41.0467204,
+          "longitude": -96.10234679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.8166664,
+          "longitude": -96.4302879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elmwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.8416672,
+          "longitude": -96.2936215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.9627758,
+          "longitude": -96.4411197,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alvo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.8719437,
+          "longitude": -96.38750999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cass County",
+          "latitude": 40.9197221,
+          "longitude": -96.16584499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cedar County",
+      "cities": [
+        {
+          "name": "Bow Valley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.7147205,
+          "longitude": -97.24949749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aten",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.840805,
+          "longitude": -97.439415,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Magnet",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.4550021,
+          "longitude": -97.4700604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laurel",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.4284687,
+          "longitude": -97.0913752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Obert",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.6897205,
+          "longitude": -97.0281016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Randolph",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.3822237,
+          "longitude": -97.3531115,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Helena",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.8097196,
+          "longitude": -97.2489418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wynot",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.7402759,
+          "longitude": -97.16921699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belden",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.4121191,
+          "longitude": -97.20709099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coleridge",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.5061111,
+          "longitude": -97.20366349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fordyce",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cedar County",
+          "latitude": 42.6986102,
+          "longitude": -97.3622795,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chase County",
+      "cities": [
+        {
+          "name": "Champion",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Chase County",
+          "latitude": 40.4690214,
+          "longitude": -101.7485722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enders",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Chase County",
+          "latitude": 40.4543822,
+          "longitude": -101.5349192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lamar",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Chase County",
+          "latitude": 40.5719404,
+          "longitude": -101.9785158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Imperial",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Chase County",
+          "latitude": 40.5169402,
+          "longitude": -101.6432253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wauneta",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Chase County",
+          "latitude": 40.4165052,
+          "longitude": -101.3711624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cherry County",
+      "cities": [
+        {
+          "name": "Brownlee",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.2880549,
+          "longitude": -100.6256949,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valentine",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.87278329999999,
+          "longitude": -100.5509669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wood Lake",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.6386118,
+          "longitude": -100.2381824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nenzel",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.9277842,
+          "longitude": -101.1029289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crookston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.928012,
+          "longitude": -100.7531217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merriman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.9197225,
+          "longitude": -101.7007033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cody",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.9358403,
+          "longitude": -101.2445962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kilgore",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cherry County",
+          "latitude": 42.9383393,
+          "longitude": -100.9557047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cheyenne County",
+      "cities": [
+        {
+          "name": "Sunol",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.1552634,
+          "longitude": -102.7635293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lorenzo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.0474855,
+          "longitude": -103.0679793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dalton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.4071726,
+          "longitude": -102.974154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lodgepole",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.14942430000001,
+          "longitude": -102.6381667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Potter",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.2174813,
+          "longitude": -103.3157655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gurley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cheyenne County",
+          "latitude": 41.3222034,
+          "longitude": -102.9707586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clay County",
+      "cities": [
+        {
+          "name": "Inland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.5957364,
+          "longitude": -98.22393009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saronville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.6025107,
+          "longitude": -97.9383818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trumbull",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.6791793,
+          "longitude": -98.27172399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clay Center",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.5216783,
+          "longitude": -98.0553259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgar",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.37223170000001,
+          "longitude": -97.9714319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenvil",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.5041798,
+          "longitude": -98.2531079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harvard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.6189006,
+          "longitude": -98.0972736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deweese",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.3547334,
+          "longitude": -98.13865729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ong",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Clay County",
+          "latitude": 40.3987504,
+          "longitude": -97.83607959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Colfax County",
+      "cities": [
+        {
+          "name": "Schuyler",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.4483432,
+          "longitude": -97.0597019,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarkson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.726674,
+          "longitude": -97.12226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howells",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.7250059,
+          "longitude": -97.0028133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leigh",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.7052868,
+          "longitude": -97.2380953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.438344,
+          "longitude": -97.2136486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rogers",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Colfax County",
+          "latitude": 41.4645354,
+          "longitude": -96.9155704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cuming County",
+      "cities": [
+        {
+          "name": "Beemer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cuming County",
+          "latitude": 41.930001,
+          "longitude": -96.8117024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Point",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cuming County",
+          "latitude": 41.8416659,
+          "longitude": -96.7086432,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wisner",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cuming County",
+          "latitude": 41.9872249,
+          "longitude": -96.9142055,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bancroft",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Cuming County",
+          "latitude": 42.0127727,
+          "longitude": -96.5728101,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Custer County",
+      "cities": [
+        {
+          "name": "Westerville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.3962302,
+          "longitude": -99.3813222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arnold",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.4225018,
+          "longitude": -100.1934649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mason City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.22306409999999,
+          "longitude": -99.30037530000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sargent",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.640562,
+          "longitude": -99.37121619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anselmo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.6186131,
+          "longitude": -99.86509079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ansley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.287471,
+          "longitude": -99.3817052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berwyn",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.3511185,
+          "longitude": -99.4995515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Callaway",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.2919504,
+          "longitude": -99.92262129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Comstock",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.56056359999999,
+          "longitude": -99.250377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merna",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.483894,
+          "longitude": -99.7601181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oconto",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Custer County",
+          "latitude": 41.1411186,
+          "longitude": -99.76317039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dakota County",
+      "cities": [
+        {
+          "name": "Homer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dakota County",
+          "latitude": 42.3222166,
+          "longitude": -96.48642249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dakota County",
+          "latitude": 42.4486067,
+          "longitude": -96.5647556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dakota City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dakota County",
+          "latitude": 42.4155496,
+          "longitude": -96.41836370000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hubbard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dakota County",
+          "latitude": 42.3866626,
+          "longitude": -96.5894792,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dawes County",
+      "cities": [
+        {
+          "name": "Chadron",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawes County",
+          "latitude": 42.8293845,
+          "longitude": -103.000642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crawford",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawes County",
+          "latitude": 42.6830238,
+          "longitude": -103.4054788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitney",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawes County",
+          "latitude": 42.7827483,
+          "longitude": -103.2560282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dawson County",
+      "cities": [
+        {
+          "name": "Willow Island",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.88898469999999,
+          "longitude": -100.0694907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cozad",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.8563961,
+          "longitude": -99.9856776,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eddyville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 41.0113969,
+          "longitude": -99.6242755,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farnam",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.7058411,
+          "longitude": -100.2148552,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gothenburg",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.9276614,
+          "longitude": -100.1606978,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Overton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.7390259,
+          "longitude": -99.5376653,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sumner",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.9500085,
+          "longitude": -99.5053822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Deuel County",
+      "cities": [
+        {
+          "name": "Big Springs",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Deuel County",
+          "latitude": 41.0630102,
+          "longitude": -102.0740255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chappell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Deuel County",
+          "latitude": 41.0936515,
+          "longitude": -102.4666996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dixon County",
+      "cities": [
+        {
+          "name": "Wakefield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.2691672,
+          "longitude": -96.8650419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martinsburg",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.5083314,
+          "longitude": -96.83087289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maskell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.6899982,
+          "longitude": -96.9825446,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newcastle",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.65138710000001,
+          "longitude": -96.8736526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponca",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.56249709999999,
+          "longitude": -96.7055917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Allen",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.4151088,
+          "longitude": -96.8424713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emerson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.2786092,
+          "longitude": -96.72670470000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Concord",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.3836121,
+          "longitude": -96.9883785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterbury",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.4566625,
+          "longitude": -96.7361924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dixon County",
+          "latitude": 42.4160469,
+          "longitude": -96.9954535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dodge County",
+      "cities": [
+        {
+          "name": "Ames",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.4522236,
+          "longitude": -96.62447139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nickerson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.534442,
+          "longitude": -96.47030199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winslow",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.6090352,
+          "longitude": -96.5046254,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Uehling",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.7344392,
+          "longitude": -96.5066927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scribner",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.6666663,
+          "longitude": -96.66586219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dodge",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.7211147,
+          "longitude": -96.8828111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hooper",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.6107625,
+          "longitude": -96.5477993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inglewood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.4163886,
+          "longitude": -96.5014142,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Bend",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.4619485,
+          "longitude": -96.77975149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snyder",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.7038909,
+          "longitude": -96.7886426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Venice",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.2390169,
+          "longitude": -96.3543849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "King Lake",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.3136099,
+          "longitude": -96.3011348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boys Town",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.2611099,
+          "longitude": -96.1319649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ralston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.2002566,
+          "longitude": -96.031987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterloo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.28727809999999,
+          "longitude": -96.2880569,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennington",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.3647193,
+          "longitude": -96.1577968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dundy County",
+      "cities": [
+        {
+          "name": "Parks",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dundy County",
+          "latitude": 40.0428682,
+          "longitude": -101.7254011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Max",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dundy County",
+          "latitude": 40.1138843,
+          "longitude": -101.4026645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haigler",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dundy County",
+          "latitude": 40.0138799,
+          "longitude": -101.9393485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benkelman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Dundy County",
+          "latitude": 40.047217,
+          "longitude": -101.5332221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fillmore County",
+      "cities": [
+        {
+          "name": "Shickley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.4158403,
+          "longitude": -97.7236556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Exeter",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.6441737,
+          "longitude": -97.4503271,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairmont",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.6352901,
+          "longitude": -97.5851206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milligan",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.500672,
+          "longitude": -97.3880257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ohiowa",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.4136587,
+          "longitude": -97.4523238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Strang",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.4153466,
+          "longitude": -97.5874339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grafton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Fillmore County",
+          "latitude": 40.629176,
+          "longitude": -97.71532549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Naponee",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.076557,
+          "longitude": -99.1405852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.0875141,
+          "longitude": -98.757295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.319458,
+          "longitude": -98.9017461,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomington",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.0941794,
+          "longitude": -99.0370286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Campbell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.2982503,
+          "longitude": -98.73188909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hildreth",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Franklin County",
+          "latitude": 40.3360829,
+          "longitude": -99.0449316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Frontier County",
+      "cities": [
+        {
+          "name": "Curtis",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Frontier County",
+          "latitude": 40.6300081,
+          "longitude": -100.5157004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maywood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Frontier County",
+          "latitude": 40.65758760000001,
+          "longitude": -100.6221189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stockville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Frontier County",
+          "latitude": 40.5327852,
+          "longitude": -100.3834757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eustis",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Frontier County",
+          "latitude": 40.6611177,
+          "longitude": -100.0242925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moorefield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Frontier County",
+          "latitude": 40.68917020000001,
+          "longitude": -100.3996779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Furnas County",
+      "cities": [
+        {
+          "name": "Oxford",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.251486,
+          "longitude": -99.6352189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hendley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.1302843,
+          "longitude": -99.9698492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holbrook",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.3052046,
+          "longitude": -100.0100976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arapahoe",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.3062583,
+          "longitude": -99.89779539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cambridge",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.2819509,
+          "longitude": -100.1656922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edison",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.2772163,
+          "longitude": -99.7765982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.1381179,
+          "longitude": -99.8264435,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilsonville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Furnas County",
+          "latitude": 40.1118611,
+          "longitude": -100.1069944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gage County",
+      "cities": [
+        {
+          "name": "Holmesville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.2008336,
+          "longitude": -96.657801,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beatrice",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.2659269,
+          "longitude": -96.7466913,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pickrell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.3786119,
+          "longitude": -96.7286354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Liberty",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.0847234,
+          "longitude": -96.4827962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wymore",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.1222236,
+          "longitude": -96.6625231,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adams",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.4614307,
+          "longitude": -96.5097604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barneston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.0482108,
+          "longitude": -96.5767236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Springs",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.13951660000001,
+          "longitude": -96.6652826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clatonia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.4654994,
+          "longitude": -96.85101,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cortland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.5060627,
+          "longitude": -96.70584840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Filley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.2861111,
+          "longitude": -96.535297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Odell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.048824,
+          "longitude": -96.80174219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Virginia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gage County",
+          "latitude": 40.2458333,
+          "longitude": -96.4969629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Garden County",
+      "cities": [
+        {
+          "name": "Lisco",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Garden County",
+          "latitude": 41.4971969,
+          "longitude": -102.6204896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewellen",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Garden County",
+          "latitude": 41.3313749,
+          "longitude": -102.1437951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oshkosh",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Garden County",
+          "latitude": 41.404983,
+          "longitude": -102.3443564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Garfield County",
+      "cities": []
+    },
+    {
+      "name": "Gosper County",
+      "cities": [
+        {
+          "name": "Smithfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gosper County",
+          "latitude": 40.57250639999999,
+          "longitude": -99.7423391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elwood",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Gosper County",
+          "latitude": 40.5916729,
+          "longitude": -99.86151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": []
+    },
+    {
+      "name": "Greeley County",
+      "cities": [
+        {
+          "name": "Wolbach",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Greeley County",
+          "latitude": 41.3969577,
+          "longitude": -98.3942356,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scotia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Greeley County",
+          "latitude": 41.4664006,
+          "longitude": -98.7031344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greeley Center",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Greeley County",
+          "latitude": 41.5487118,
+          "longitude": -98.5308417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hall County",
+      "cities": [
+        {
+          "name": "Alda",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hall County",
+          "latitude": 40.8691794,
+          "longitude": -98.46839969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cairo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hall County",
+          "latitude": 41.0011236,
+          "longitude": -98.6075718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Doniphan",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hall County",
+          "latitude": 40.7719572,
+          "longitude": -98.36950689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wood River",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hall County",
+          "latitude": 40.8204641,
+          "longitude": -98.6002156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hamilton County",
+      "cities": [
+        {
+          "name": "Overland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 41.0775,
+          "longitude": -97.98582999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 40.8813808,
+          "longitude": -97.887194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stockham",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 40.7168559,
+          "longitude": -97.94430400000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Giltner",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 40.7739007,
+          "longitude": -98.1536672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hordville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 41.0777922,
+          "longitude": -97.88644529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marquette",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 41.0069471,
+          "longitude": -98.00966199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Phillips",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hamilton County",
+          "latitude": 40.8980304,
+          "longitude": -98.2131512,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harlan County",
+      "cities": [
+        {
+          "name": "Huntley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Harlan County",
+          "latitude": 40.2101364,
+          "longitude": -99.2924176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ragan",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Harlan County",
+          "latitude": 40.3102892,
+          "longitude": -99.28981809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stamford",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Harlan County",
+          "latitude": 40.1305647,
+          "longitude": -99.59483100000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orleans",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Harlan County",
+          "latitude": 40.1314384,
+          "longitude": -99.45440959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Republican City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Harlan County",
+          "latitude": 40.0997338,
+          "longitude": -99.2203698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hayes County",
+      "cities": [
+        {
+          "name": "Hamlet",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hayes County",
+          "latitude": 40.38492770000001,
+          "longitude": -101.2346129,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayes Center",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hayes County",
+          "latitude": 40.5108385,
+          "longitude": -101.0196016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hitchcock County",
+      "cities": [
+        {
+          "name": "Trenton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hitchcock County",
+          "latitude": 40.1747708,
+          "longitude": -101.0129668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Culbertson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hitchcock County",
+          "latitude": 40.23071400000001,
+          "longitude": -100.8369649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palisade",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hitchcock County",
+          "latitude": 40.3491653,
+          "longitude": -101.1076608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stratton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hitchcock County",
+          "latitude": 40.1480519,
+          "longitude": -101.2268291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Holt County",
+      "cities": [
+        {
+          "name": "O\\",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4576723,
+          "longitude": -98.6478882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atkinson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.5313082,
+          "longitude": -98.9782894,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ewing",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.2572278,
+          "longitude": -98.34702109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Page",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4007742,
+          "longitude": -98.4172923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stuart",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.6006534,
+          "longitude": -99.14120539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chambers",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.2050051,
+          "longitude": -98.74897829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.3817734,
+          "longitude": -98.52996499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emmet",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4755589,
+          "longitude": -98.80620320000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hooker County",
+      "cities": [
+        {
+          "name": "Mullen",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Hooker County",
+          "latitude": 42.0422345,
+          "longitude": -101.0425144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Howard County",
+      "cities": [
+        {
+          "name": "St. Libory",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.0825958,
+          "longitude": -98.357638,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farwell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.2155676,
+          "longitude": -98.62812989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howard City (Boelus)",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.0736399,
+          "longitude": -98.71562879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dannebrog",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.1183456,
+          "longitude": -98.5459042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elba",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.2855678,
+          "longitude": -98.5678508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cotesfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.3581215,
+          "longitude": -98.6338408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cushing",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Howard County",
+          "latitude": 41.29723509999999,
+          "longitude": -98.3684007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Endicott",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.0822872,
+          "longitude": -97.0987123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Diller",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.107225,
+          "longitude": -96.93502880000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jansen",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.1853674,
+          "longitude": -97.0835134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reynolds",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.0580595,
+          "longitude": -97.3358722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steele City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.03649000000001,
+          "longitude": -97.02239709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plymouth",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.3030578,
+          "longitude": -96.9889187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Daykin",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.3222242,
+          "longitude": -97.29865249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harbine",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Jefferson County",
+          "latitude": 40.1922243,
+          "longitude": -96.9725297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Johnson County",
+      "cities": [
+        {
+          "name": "Cook",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Johnson County",
+          "latitude": 40.50972220000001,
+          "longitude": -96.1636195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crab Orchard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Johnson County",
+          "latitude": 40.3349998,
+          "longitude": -96.4216822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elk Creek",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Johnson County",
+          "latitude": 40.2858334,
+          "longitude": -96.12945099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sterling",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Johnson County",
+          "latitude": 40.4591243,
+          "longitude": -96.3761431,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kearney County",
+      "cities": [
+        {
+          "name": "Axtell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kearney County",
+          "latitude": 40.4777906,
+          "longitude": -99.1259225,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minden",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kearney County",
+          "latitude": 40.4986252,
+          "longitude": -98.9478594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilcox",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kearney County",
+          "latitude": 40.3650122,
+          "longitude": -99.17009089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heartwell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kearney County",
+          "latitude": 40.57059220000001,
+          "longitude": -98.7879441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kearney County",
+          "latitude": 40.4797369,
+          "longitude": -98.7922971,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Keith County",
+      "cities": [
+        {
+          "name": "Sarben",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.1649935,
+          "longitude": -101.3071087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roscoe",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.1305481,
+          "longitude": -101.5857267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.2576662,
+          "longitude": -101.7089644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lemoyne",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.2729002,
+          "longitude": -101.8134532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keystone",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.21616480000001,
+          "longitude": -101.5835551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belmar",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.29889,
+          "longitude": -101.91611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ogallala",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.12821780000001,
+          "longitude": -101.7203993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paxton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.1241604,
+          "longitude": -101.3562761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brule",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keith County",
+          "latitude": 41.092927,
+          "longitude": -101.8880234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Keya Paha County",
+      "cities": [
+        {
+          "name": "Burton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keya Paha County",
+          "latitude": 42.9116688,
+          "longitude": -99.59177930000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springview",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Keya Paha County",
+          "latitude": 42.8244444,
+          "longitude": -99.74900550000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kimball County",
+      "cities": [
+        {
+          "name": "Kimball",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kimball County",
+          "latitude": 41.23565869999999,
+          "longitude": -103.6629832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dix",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kimball County",
+          "latitude": 41.23440480000001,
+          "longitude": -103.4865253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bushnell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Kimball County",
+          "latitude": 41.2321705,
+          "longitude": -103.8918599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Knox County",
+      "cities": [
+        {
+          "name": "Lindy",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.7332451,
+          "longitude": -97.7471025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Center",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.60944689999999,
+          "longitude": -97.87673389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bazile Mills",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.5127813,
+          "longitude": -97.9050675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Niobrara",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.7547231,
+          "longitude": -98.02868230000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verdel",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.81110959999999,
+          "longitude": -98.1925768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verdigre",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.5969469,
+          "longitude": -98.03368139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wausa",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.4994468,
+          "longitude": -97.542007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.5988909,
+          "longitude": -97.6456195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crofton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.7288884,
+          "longitude": -97.49561829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santee",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.8411104,
+          "longitude": -97.85090079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winnetoon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Knox County",
+          "latitude": 42.5125035,
+          "longitude": -97.9609016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lancaster County",
+      "cities": [
+        {
+          "name": "Lincoln",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.8136634,
+          "longitude": -96.7025764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennet",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.6826333,
+          "longitude": -96.50668019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Denton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.7378217,
+          "longitude": -96.8456143,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.6251702,
+          "longitude": -96.6293392,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Panama",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.5986916,
+          "longitude": -96.5111757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raymond",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.956326,
+          "longitude": -96.78356840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roca",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.6574995,
+          "longitude": -96.66127910000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davey",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.9856256,
+          "longitude": -96.6687875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Firth",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.5338503,
+          "longitude": -96.60631959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sprague",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.6259205,
+          "longitude": -96.7447851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malcolm",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.9069984,
+          "longitude": -96.8652781,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hallam",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.5376418,
+          "longitude": -96.7863345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Agnew",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 41.0169486,
+          "longitude": -96.8147413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cheney",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.7255562,
+          "longitude": -96.5961257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emerald",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.8138924,
+          "longitude": -96.8350217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kramer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.5883367,
+          "longitude": -96.8753036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.6375021,
+          "longitude": -96.7586323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prairie Home",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.86472120000001,
+          "longitude": -96.52084320000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Princeton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.5736127,
+          "longitude": -96.7047431,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.7986111,
+          "longitude": -96.56195679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yankee Hill",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lancaster County",
+          "latitude": 40.7675167,
+          "longitude": -96.73334299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Brady",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 41.0222267,
+          "longitude": -100.3676328,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hershey",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 41.1586079,
+          "longitude": -101.002652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sutherland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 41.1569524,
+          "longitude": -101.1261976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallace",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 40.83824920000001,
+          "longitude": -101.1651478,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellfleet",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 40.7522303,
+          "longitude": -100.7298694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maxwell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Lincoln County",
+          "latitude": 41.0785928,
+          "longitude": -100.5252843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Logan County",
+      "cities": [
+        {
+          "name": "Gandy",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Logan County",
+          "latitude": 41.46972050000001,
+          "longitude": -100.4584735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Loup County",
+      "cities": [
+        {
+          "name": "Taylor",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Loup County",
+          "latitude": 41.7702829,
+          "longitude": -99.3787184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Tilden",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Madison County",
+          "latitude": 42.0472285,
+          "longitude": -97.8339503,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madison",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Madison County",
+          "latitude": 41.8279842,
+          "longitude": -97.4549636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow Grove",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Madison County",
+          "latitude": 42.028895,
+          "longitude": -97.733948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newman Grove",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Madison County",
+          "latitude": 41.7500096,
+          "longitude": -97.77533269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Battle Creek",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Madison County",
+          "latitude": 41.9994496,
+          "longitude": -97.5983892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McPherson County",
+      "cities": [
+        {
+          "name": "Tryon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "McPherson County",
+          "latitude": 41.5532792,
+          "longitude": -100.9574198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Merrick County",
+      "cities": [
+        {
+          "name": "Archer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.1652234,
+          "longitude": -98.13604559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chapman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.02415320000001,
+          "longitude": -98.1593756,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.1158476,
+          "longitude": -98.00172479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarks",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.2163239,
+          "longitude": -97.8373251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palmer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.2223351,
+          "longitude": -98.2572079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Creek",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Merrick County",
+          "latitude": 41.3165424,
+          "longitude": -97.66496699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morrill County",
+      "cities": [
+        {
+          "name": "Bridgeport",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Morrill County",
+          "latitude": 41.6652507,
+          "longitude": -103.1018755,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Morrill County",
+          "latitude": 41.7549696,
+          "longitude": -103.3241025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broadwater",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Morrill County",
+          "latitude": 41.5971285,
+          "longitude": -102.8519059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nance County",
+      "cities": [
+        {
+          "name": "Fullerton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nance County",
+          "latitude": 41.3634729,
+          "longitude": -97.9693882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Genoa",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nance County",
+          "latitude": 41.4486243,
+          "longitude": -97.7306076,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belgrade",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nance County",
+          "latitude": 41.4730692,
+          "longitude": -98.0683949,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nemaha County",
+      "cities": [
+        {
+          "name": "Julian",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.5227791,
+          "longitude": -95.86777800000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.3947236,
+          "longitude": -95.83221909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brock",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.48000080000001,
+          "longitude": -95.95944759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.3977793,
+          "longitude": -95.6580455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.4108337,
+          "longitude": -95.9980593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nemaha",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.3383347,
+          "longitude": -95.6730453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peru",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nemaha County",
+          "latitude": 40.4741686,
+          "longitude": -95.7336054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nuckolls County",
+      "cities": [
+        {
+          "name": "Lawrence",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.2919567,
+          "longitude": -98.2600482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruskin",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.1438979,
+          "longitude": -97.86920789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Superior",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.0220055,
+          "longitude": -98.0666657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nora",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.1616768,
+          "longitude": -97.9703189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.23695180000001,
+          "longitude": -97.9033736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hardy",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.0089017,
+          "longitude": -97.9269874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nelson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Nuckolls County",
+          "latitude": 40.2016771,
+          "longitude": -98.06782009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Otoe County",
+      "cities": [
+        {
+          "name": "Woodland Hills",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.7508913,
+          "longitude": -96.42241829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nebraska City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.6765745,
+          "longitude": -95.8593616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palmyra",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.7042822,
+          "longitude": -96.3899345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Douglas",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.5939437,
+          "longitude": -96.3877734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Otoe",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.675971,
+          "longitude": -96.11029429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lorton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.5976941,
+          "longitude": -96.0235896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Syracuse",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.6601895,
+          "longitude": -96.18248349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Talmage",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.53055639999999,
+          "longitude": -96.02167229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unadilla",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.68333459999999,
+          "longitude": -96.2697318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunbar",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.6686132,
+          "longitude": -96.0280624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burr",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Otoe County",
+          "latitude": 40.5355554,
+          "longitude": -96.3000112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pawnee County",
+      "cities": [
+        {
+          "name": "Du Bois",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pawnee County",
+          "latitude": 40.0347221,
+          "longitude": -96.0483352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burchard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pawnee County",
+          "latitude": 40.1475004,
+          "longitude": -96.3502917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steinauer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pawnee County",
+          "latitude": 40.2077778,
+          "longitude": -96.23417669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Table Rock",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pawnee County",
+          "latitude": 40.1761111,
+          "longitude": -96.09472679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewiston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pawnee County",
+          "latitude": 40.2433333,
+          "longitude": -96.4036266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Perkins County",
+      "cities": [
+        {
+          "name": "Venango",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Perkins County",
+          "latitude": 40.7622693,
+          "longitude": -102.0406519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elsie",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Perkins County",
+          "latitude": 40.8475929,
+          "longitude": -101.3896601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grant",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Perkins County",
+          "latitude": 40.842962,
+          "longitude": -101.7251929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Phelps County",
+      "cities": [
+        {
+          "name": "Funk",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Phelps County",
+          "latitude": 40.4625119,
+          "longitude": -99.24926099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bertrand",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Phelps County",
+          "latitude": 40.5257363,
+          "longitude": -99.63387069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loomis",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Phelps County",
+          "latitude": 40.47889809999999,
+          "longitude": -99.5059388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atlanta",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Phelps County",
+          "latitude": 40.3687607,
+          "longitude": -99.4734821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pierce County",
+      "cities": [
+        {
+          "name": "Foster",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pierce County",
+          "latitude": 42.2738929,
+          "longitude": -97.66450619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McLean",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pierce County",
+          "latitude": 42.3868036,
+          "longitude": -97.46856439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osmond",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pierce County",
+          "latitude": 42.3563631,
+          "longitude": -97.5968118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plainview",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pierce County",
+          "latitude": 42.3497265,
+          "longitude": -97.7920091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hadar",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Pierce County",
+          "latitude": 42.1050038,
+          "longitude": -97.449221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Platte County",
+      "cities": [
+        {
+          "name": "Lakeview",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.4967728,
+          "longitude": -97.3724526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monroe",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.474144,
+          "longitude": -97.5993531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbus",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.43029730000001,
+          "longitude": -97.3593904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lindsay",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.7000097,
+          "longitude": -97.69394109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornlea",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.6800092,
+          "longitude": -97.56643729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Creston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.70667539999999,
+          "longitude": -97.362543,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duncan",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.3895449,
+          "longitude": -97.4933083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Humphrey",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.69195300000001,
+          "longitude": -97.4831018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Platte Center",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.5376414,
+          "longitude": -97.490067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tarnov",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Platte County",
+          "latitude": 41.6158431,
+          "longitude": -97.50226819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Polk County",
+      "cities": [
+        {
+          "name": "Osceola",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Polk County",
+          "latitude": 41.1804369,
+          "longitude": -97.5507044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Polk",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Polk County",
+          "latitude": 41.0756468,
+          "longitude": -97.7838057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelby",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Polk County",
+          "latitude": 41.1920272,
+          "longitude": -97.4259737,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Red Willow County",
+      "cities": [
+        {
+          "name": "Lebanon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Red Willow County",
+          "latitude": 40.0505347,
+          "longitude": -100.2769721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCook",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Red Willow County",
+          "latitude": 40.1966701,
+          "longitude": -100.6248741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danbury",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Red Willow County",
+          "latitude": 40.0394503,
+          "longitude": -100.4043111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bartley",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Red Willow County",
+          "latitude": 40.2491727,
+          "longitude": -100.3120875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indianola",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Red Willow County",
+          "latitude": 40.2344497,
+          "longitude": -100.4173683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Richardson County",
+      "cities": [
+        {
+          "name": "Preston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.0343858,
+          "longitude": -95.5180628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.0755572,
+          "longitude": -95.72082119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shubert",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.23639000000001,
+          "longitude": -95.6822109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stella",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.2330574,
+          "longitude": -95.77332539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barada",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.2186112,
+          "longitude": -95.57776280000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dawson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.1311123,
+          "longitude": -95.8305486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falls City",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.0608352,
+          "longitude": -95.60192939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Humboldt",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.163891,
+          "longitude": -95.9445866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rulo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.0524616,
+          "longitude": -95.42927639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verdon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Richardson County",
+          "latitude": 40.1463905,
+          "longitude": -95.7138775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rock County",
+      "cities": [
+        {
+          "name": "Newport",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Rock County",
+          "latitude": 42.6013894,
+          "longitude": -99.3273303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Saline County",
+      "cities": [
+        {
+          "name": "De Witt",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.39361359999999,
+          "longitude": -96.922806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Friend",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.6536172,
+          "longitude": -97.28615719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Swanton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.3786139,
+          "longitude": -97.0797558,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Western",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.3934846,
+          "longitude": -97.19789659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilber",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.4813257,
+          "longitude": -96.9605686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dorchester",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.6458388,
+          "longitude": -97.11642599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tobias",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saline County",
+          "latitude": 40.4177811,
+          "longitude": -97.3330998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sarpy County",
+      "cities": [
+        {
+          "name": "Richfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.1083321,
+          "longitude": -96.0752931,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Offutt AFB",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.1242718,
+          "longitude": -95.9145568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.095867,
+          "longitude": -96.2820747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Linoma Beach",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.0603878,
+          "longitude": -96.3146324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Platte",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.0747212,
+          "longitude": -95.92362229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chalco",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.18388780000001,
+          "longitude": -96.15251909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beacon View",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.0672208,
+          "longitude": -96.326404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gretna",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.1468763,
+          "longitude": -96.2389004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Papillion",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.1544398,
+          "longitude": -96.0430314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.0818284,
+          "longitude": -96.1334222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Vista",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sarpy County",
+          "latitude": 41.1800329,
+          "longitude": -96.06200179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Saunders County",
+      "cities": [
+        {
+          "name": "Wann",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.146667,
+          "longitude": -96.35555599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yutan",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.2450007,
+          "longitude": -96.39724749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Memphis",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.0951128,
+          "longitude": -96.4352735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Bluffs",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.3969461,
+          "longitude": -96.6114157,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wahoo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.2115023,
+          "longitude": -96.6212604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.0393413,
+          "longitude": -96.3683157,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ceresco",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.0572232,
+          "longitude": -96.6447376,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.2975026,
+          "longitude": -96.6058604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ithaca",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.1627786,
+          "longitude": -96.5397423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leshara",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.3297222,
+          "longitude": -96.4283583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mead",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.2286493,
+          "longitude": -96.489212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morse Bluff",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.4319484,
+          "longitude": -96.7664178,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prague",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.3102835,
+          "longitude": -96.80836289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valparaiso",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.0813941,
+          "longitude": -96.8316892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.1925566,
+          "longitude": -96.74300579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malmo",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Saunders County",
+          "latitude": 41.2661152,
+          "longitude": -96.7222503,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Scotts Bluff County",
+      "cities": [
+        {
+          "name": "Mitchell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.9428801,
+          "longitude": -103.8096301,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morrill",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.9632981,
+          "longitude": -103.9263362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terrytown",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.8474677,
+          "longitude": -103.6616105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henry",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.9986958,
+          "longitude": -104.0472798,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.91738429999999,
+          "longitude": -104.0389312,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McGrew",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.7466364,
+          "longitude": -103.4182717,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minatare",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.8091217,
+          "longitude": -103.5033687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scottsbluff",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.8666341,
+          "longitude": -103.6671662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gering",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.82636189999999,
+          "longitude": -103.6577616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melbeta",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Scotts Bluff County",
+          "latitude": 41.7824153,
+          "longitude": -103.5179167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Seward County",
+      "cities": [
+        {
+          "name": "Tamora",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.8938986,
+          "longitude": -97.2250424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bee",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 41.0063982,
+          "longitude": -97.05725199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garland",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.9447298,
+          "longitude": -96.98558179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Staplehurst",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.9750104,
+          "longitude": -97.1725378,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Utica",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.8943807,
+          "longitude": -97.34612949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver Crossing",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.7786191,
+          "longitude": -97.28226839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cordova",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.7172296,
+          "longitude": -97.3531033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goehner",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.8322306,
+          "longitude": -97.22115409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milford",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.7742171,
+          "longitude": -97.051721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Dale",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Seward County",
+          "latitude": 40.7919495,
+          "longitude": -96.9322487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sheridan County",
+      "cities": [
+        {
+          "name": "White Clay",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sheridan County",
+          "latitude": 42.9967677,
+          "longitude": -102.5545021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sheridan County",
+          "latitude": 42.7599927,
+          "longitude": -102.3493352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gordon",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sheridan County",
+          "latitude": 42.8027753,
+          "longitude": -102.2037736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hay Springs",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sheridan County",
+          "latitude": 42.6838618,
+          "longitude": -102.6899007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rushville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sheridan County",
+          "latitude": 42.7166186,
+          "longitude": -102.4637339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sherman County",
+      "cities": [
+        {
+          "name": "Ashton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sherman County",
+          "latitude": 41.2480665,
+          "longitude": -98.7942467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Litchfield",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sherman County",
+          "latitude": 41.1564497,
+          "longitude": -99.15353420000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockville",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sherman County",
+          "latitude": 41.118345,
+          "longitude": -98.8317472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hazard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sherman County",
+          "latitude": 41.0917,
+          "longitude": -99.07805460000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sioux County",
+      "cities": [
+        {
+          "name": "Harrison",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Sioux County",
+          "latitude": 42.6871883,
+          "longitude": -103.8827115,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stanton County",
+      "cities": [
+        {
+          "name": "Woodland Park",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Stanton County",
+          "latitude": 42.055304,
+          "longitude": -97.3490207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Stanton County",
+          "latitude": 41.950284,
+          "longitude": -97.2239336,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pilger",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Stanton County",
+          "latitude": 42.0086158,
+          "longitude": -97.0539311,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Thayer County",
+      "cities": [
+        {
+          "name": "Belvidere",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.2522249,
+          "longitude": -97.55726419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Byron",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.0047443,
+          "longitude": -97.769058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carleton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.2991714,
+          "longitude": -97.6786532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chester",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.0088965,
+          "longitude": -97.61893099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davenport",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.3128941,
+          "longitude": -97.811833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deshler",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.1408402,
+          "longitude": -97.72281910000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebron",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.1663933,
+          "longitude": -97.58587519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hubbell",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.00604209999999,
+          "longitude": -97.49767940000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilead",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.1461639,
+          "longitude": -97.4146136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexandria",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.2463056,
+          "longitude": -97.3896117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruning",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thayer County",
+          "latitude": 40.336115,
+          "longitude": -97.56754409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Thomas County",
+      "cities": [
+        {
+          "name": "Seneca",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thomas County",
+          "latitude": 42.0421293,
+          "longitude": -100.8326847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halsey",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thomas County",
+          "latitude": 41.90333320000001,
+          "longitude": -100.2690244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Thurston County",
+      "cities": [
+        {
+          "name": "Macy",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.1130467,
+          "longitude": -96.3564161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosalie",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.0574235,
+          "longitude": -96.51239860000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pender",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.1140747,
+          "longitude": -96.7071082,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thurston",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.17722,
+          "longitude": -96.7008704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winnebago",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.2376482,
+          "longitude": -96.4723119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walthill",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Thurston County",
+          "latitude": 42.1491,
+          "longitude": -96.49386709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Valley County",
+      "cities": [
+        {
+          "name": "North Loup",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Valley County",
+          "latitude": 41.4952891,
+          "longitude": -98.77313699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ord",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Valley County",
+          "latitude": 41.6053522,
+          "longitude": -98.92805829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elyria",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Valley County",
+          "latitude": 41.68084169999999,
+          "longitude": -99.0062026,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arcadia",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Valley County",
+          "latitude": 41.4233426,
+          "longitude": -99.126204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Fontanelle",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.538608,
+          "longitude": -96.42807859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washington",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.3974968,
+          "longitude": -96.2080754,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kennard",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.4749103,
+          "longitude": -96.2016264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Calhoun",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.4558282,
+          "longitude": -96.0264024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Herman",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.6733239,
+          "longitude": -96.21501699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Washington County",
+          "latitude": 41.45501180000001,
+          "longitude": -96.3578639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Winside",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Wayne County",
+          "latitude": 42.176392,
+          "longitude": -97.1750483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carroll",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Wayne County",
+          "latitude": 42.27611290000001,
+          "longitude": -97.189217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoskins",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Wayne County",
+          "latitude": 42.1122261,
+          "longitude": -97.30616130000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sholes",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Wayne County",
+          "latitude": 42.3327792,
+          "longitude": -97.29449819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Inavale",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Webster County",
+          "latitude": 40.0914028,
+          "longitude": -98.6495118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bladen",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Webster County",
+          "latitude": 40.3212077,
+          "longitude": -98.5947609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Hill",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Webster County",
+          "latitude": 40.3333467,
+          "longitude": -98.4508925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowles",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Webster County",
+          "latitude": 40.1722355,
+          "longitude": -98.4475575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guide Rock",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Webster County",
+          "latitude": 40.0746788,
+          "longitude": -98.33033379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wheeler County",
+      "cities": [
+        {
+          "name": "Ericson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Wheeler County",
+          "latitude": 41.7800087,
+          "longitude": -98.6773029,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "York County",
+      "cities": [
+        {
+          "name": "Bradshaw",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.8841016,
+          "longitude": -97.74732569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thayer",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.9686242,
+          "longitude": -97.4972726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benedict",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 41.0058474,
+          "longitude": -97.60644119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.7797332,
+          "longitude": -97.8122722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lushton",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.72473249999999,
+          "longitude": -97.72504839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCool Junction",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.7441762,
+          "longitude": -97.59754989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gresham",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 41.0283465,
+          "longitude": -97.4022694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waco",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "York County",
+          "latitude": 40.8944558,
+          "longitude": -97.46282749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

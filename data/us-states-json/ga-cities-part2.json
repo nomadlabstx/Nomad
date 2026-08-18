@@ -1,0 +1,577 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Bryan County",
+      "cities": []
+    },
+    {
+      "name": "Bryan County",
+      "cities": [
+        {
+          "name": "Durant",
+          "state": "Oklahoma",
+          "stateCode": "OK",
+          "county": "Bryan County",
+          "latitude": 33.9924186,
+          "longitude": -96.39712329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pembroke",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bryan County",
+          "latitude": 32.1360332,
+          "longitude": -81.6220565,
+          "population": 2839,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bulloch County",
+      "cities": []
+    },
+    {
+      "name": "Bulloch County",
+      "cities": [
+        {
+          "name": "Brooklet",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bulloch County",
+          "latitude": 32.37962940000001,
+          "longitude": -81.6631659,
+          "population": 2063,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Portal",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bulloch County",
+          "latitude": 32.5380162,
+          "longitude": -81.9325327,
+          "population": 677,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Register",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bulloch County",
+          "latitude": 32.3671237,
+          "longitude": -81.88400390000001,
+          "population": 166,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Burke County",
+      "cities": [
+        {
+          "name": "Gough",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 33.0918155,
+          "longitude": -82.2265113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Burke County",
+      "cities": []
+    },
+    {
+      "name": "Burke County",
+      "cities": [
+        {
+          "name": "Girard",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 33.04043230000001,
+          "longitude": -81.71205669999999,
+          "population": 182,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Keysville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 33.2337555,
+          "longitude": -82.23234440000002,
+          "population": 307,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Midville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 32.8190456,
+          "longitude": -82.2348455,
+          "population": 381,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Morganton",
+          "state": "North Carolina",
+          "stateCode": "NC",
+          "county": "Burke County",
+          "latitude": 35.7454071,
+          "longitude": -81.6848188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sardis",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 32.975157,
+          "longitude": -81.75761299999999,
+          "population": 999,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Vidette",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Burke County",
+          "latitude": 33.0376503,
+          "longitude": -82.2473452,
+          "population": 102,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Butts County",
+      "cities": [
+        {
+          "name": "Indian Springs",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Butts County",
+          "latitude": 33.2426229,
+          "longitude": -83.9207406,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Butts County",
+      "cities": []
+    },
+    {
+      "name": "Butts County",
+      "cities": [
+        {
+          "name": "Jenkinsburg",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Butts County",
+          "latitude": 33.3245628,
+          "longitude": -84.0357465,
+          "population": 417,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Calhoun County",
+      "cities": [
+        {
+          "name": "Arlington",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Calhoun County",
+          "latitude": 31.4398548,
+          "longitude": -84.72527889999999,
+          "population": 1149,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Edison",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Calhoun County",
+          "latitude": 31.5582271,
+          "longitude": -84.7382526,
+          "population": 1177,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Leary",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Calhoun County",
+          "latitude": 31.4857308,
+          "longitude": -84.5138017,
+          "population": 503,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Camden County",
+      "cities": [
+        {
+          "name": "Waverly",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Camden County",
+          "latitude": 31.0947092,
+          "longitude": -81.7245535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Camden County",
+      "cities": [
+        {
+          "name": "Kings Bay Base",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Camden County",
+          "latitude": 30.801543,
+          "longitude": -81.5623849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Camden County",
+      "cities": []
+    },
+    {
+      "name": "Camden County",
+      "cities": [
+        {
+          "name": "Camden",
+          "state": "New Jersey",
+          "stateCode": "NJ",
+          "county": "Camden County",
+          "latitude": 39.9425241,
+          "longitude": -75.1164689,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Marys",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Camden County",
+          "latitude": 30.7478954,
+          "longitude": -81.57061089999999,
+          "population": 19537,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Woodbine",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Camden County",
+          "latitude": 30.9599875,
+          "longitude": -81.72192890000001,
+          "population": 1059,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Candler County",
+      "cities": []
+    },
+    {
+      "name": "Candler County",
+      "cities": [
+        {
+          "name": "Pulaski",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Candler County",
+          "latitude": 32.3901752,
+          "longitude": -81.9567837,
+          "population": 208,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Fairfield Plantation",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.6422871,
+          "longitude": -84.9245146,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Bowdon",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.5378885,
+          "longitude": -85.2532818,
+          "population": 2211,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mount Zion",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.6342754,
+          "longitude": -85.18717029999999,
+          "population": 2022,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Roopville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.4565021,
+          "longitude": -85.1307779,
+          "population": 242,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Temple",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.7370514,
+          "longitude": -85.032445,
+          "population": 6360,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Villa Rica",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.732052,
+          "longitude": -84.9191081,
+          "population": 18703,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Whitesburg",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.4940017,
+          "longitude": -84.91382829999999,
+          "population": 622,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Catoosa County",
+      "cities": [
+        {
+          "name": "Lakeview",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Catoosa County",
+          "latitude": 34.9792419,
+          "longitude": -85.2588447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Catoosa County",
+      "cities": []
+    },
+    {
+      "name": "Catoosa County",
+      "cities": [
+        {
+          "name": "Ringgold",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Catoosa County",
+          "latitude": 34.9159099,
+          "longitude": -85.1091173,
+          "population": 3435,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Charlton County",
+      "cities": []
+    },
+    {
+      "name": "Charlton County",
+      "cities": [
+        {
+          "name": "Homeland",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Charlton County",
+          "latitude": 30.8560651,
+          "longitude": -82.02094919999999,
+          "population": 899,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Wilmington Island",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 32.0035477,
+          "longitude": -80.97372299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Whitemarsh Island",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 32.0288234,
+          "longitude": -81.0167786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Talahi Island",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 32.0328499,
+          "longitude": -80.974674,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Skidaway Island",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 31.9349381,
+          "longitude": -81.0470536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Montgomery",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 31.9404913,
+          "longitude": -81.1220539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chatham County",
+      "cities": [
+        {
+          "name": "Isle of Hope",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Chatham County",
+          "latitude": 31.9818802,
+          "longitude": -81.0609446,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

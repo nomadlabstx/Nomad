@@ -1,0 +1,637 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Pinal County",
+      "cities": [
+        {
+          "name": "Apache Junction",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.414911,
+          "longitude": -111.5500532,
+          "population": 41153,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Casa Grande",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.9110027,
+          "longitude": -111.7733902,
+          "population": 63743,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Coolidge",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.977839,
+          "longitude": -111.517624,
+          "population": 18293,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Eloy",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.7558962,
+          "longitude": -111.554844,
+          "population": 18528,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Florence",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0314508,
+          "longitude": -111.3873431,
+          "population": 24291,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Kearny",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.0613504,
+          "longitude": -110.9066589,
+          "population": 1817,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mammoth",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 32.722568,
+          "longitude": -110.6406547,
+          "population": 1133,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Superior",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Pinal County",
+          "latitude": 33.293945,
+          "longitude": -111.0962305,
+          "population": 2571,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Tumacacori-Carmen",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.5732603,
+          "longitude": -111.052002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Tubac",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.61259,
+          "longitude": -111.0459238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Sonoita",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.6793295,
+          "longitude": -110.6557777,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Santa Cruz",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.5986127,
+          "longitude": -110.8076084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Rio Rico",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.4673632,
+          "longitude": -110.9742353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Kino Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.36306,
+          "longitude": -110.80944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Elgin",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.6598128,
+          "longitude": -110.5253565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Beyerville",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.39028,
+          "longitude": -110.87778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Amado",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.70786579999999,
+          "longitude": -111.0645359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": []
+    },
+    {
+      "name": "Santa Cruz County",
+      "cities": [
+        {
+          "name": "Patagonia",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Santa Cruz County",
+          "latitude": 31.5395378,
+          "longitude": -110.7561963,
+          "population": 789,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Santa Cruz",
+          "state": "California",
+          "stateCode": "CA",
+          "county": "Santa Cruz County",
+          "latitude": 36.9741275,
+          "longitude": -122.028807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Yarnell",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.2216927,
+          "longitude": -112.7474007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Wilhoit",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.4258586,
+          "longitude": -112.5868398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamson",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.6900229,
+          "longitude": -112.5410052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Village of Oak Creek (Big Park)",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.780297,
+          "longitude": -111.7626535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Verde Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.69498470000001,
+          "longitude": -111.9820582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Spring Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.3506108,
+          "longitude": -112.1596413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Seligman",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 35.3255608,
+          "longitude": -112.8774057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Peeples Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.2804495,
+          "longitude": -112.7549654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Paulden",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.8855756,
+          "longitude": -112.4682271,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Mayer",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.3978054,
+          "longitude": -112.2362734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Lake Montezuma",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.6322449,
+          "longitude": -111.7779282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Cordes Lakes",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.3138575,
+          "longitude": -112.1048218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornville",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.7177989,
+          "longitude": -111.9215438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Congress",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.162526,
+          "longitude": -112.8507374,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Black Canyon City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.0774991,
+          "longitude": -112.1295121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Bagdad",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.5722212,
+          "longitude": -113.1784322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Ash Fork",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 35.2250114,
+          "longitude": -112.4840675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yavapai County",
+      "cities": []
+    },
+    {
+      "name": "Yavapai County",
+      "cities": []
+    },
+    {
+      "name": "Yavapai County",
+      "cities": [
+        {
+          "name": "Camp Verde",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.5636358,
+          "longitude": -111.8543178,
+          "population": 12489,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Chino Valley",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.7575227,
+          "longitude": -112.4537809,
+          "population": 13815,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Clarkdale",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.7711319,
+          "longitude": -112.0579367,
+          "population": 4904,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Cottonwood",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.7391876,
+          "longitude": -112.0098791,
+          "population": 13124,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Dewey-Humboldt",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.5056894,
+          "longitude": -112.2427894,
+          "population": 4540,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jerome",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.7489107,
+          "longitude": -112.1137716,
+          "population": 460,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Prescott",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.5394432,
+          "longitude": -112.4681888,
+          "population": 47757,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Sedona",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yavapai County",
+          "latitude": 34.862614,
+          "longitude": -111.8137258,
+          "population": 9819,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

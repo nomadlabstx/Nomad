@@ -1,0 +1,521 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Columbia County",
+      "cities": [
+        {
+          "name": "Martinez",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Columbia County",
+          "latitude": 33.5173577,
+          "longitude": -82.0756734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Columbia County",
+      "cities": [
+        {
+          "name": "Evans",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Columbia County",
+          "latitude": 33.5337464,
+          "longitude": -82.1306747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Columbia County",
+      "cities": [
+        {
+          "name": "Appling",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Columbia County",
+          "latitude": 33.54609000000001,
+          "longitude": -82.3163154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Columbia County",
+      "cities": [
+        {
+          "name": "Harlem",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Columbia County",
+          "latitude": 33.4145834,
+          "longitude": -82.3126237,
+          "population": 3992,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Cook County",
+      "cities": []
+    },
+    {
+      "name": "Cook County",
+      "cities": [
+        {
+          "name": "Cecil",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Cook County",
+          "latitude": 31.0455063,
+          "longitude": -83.3924741,
+          "population": 283,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chicago",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Cook County",
+          "latitude": 41.88325,
+          "longitude": -87.6323879,
+          "population": 2700000,
+          "size": "major",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lenox",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Cook County",
+          "latitude": 31.2715768,
+          "longitude": -83.4648845,
+          "population": 737,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sparks",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Cook County",
+          "latitude": 31.1669785,
+          "longitude": -83.4373729,
+          "population": 2029,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Coweta County",
+      "cities": [
+        {
+          "name": "East Newnan",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.3541124,
+          "longitude": -84.7706208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coweta County",
+      "cities": []
+    },
+    {
+      "name": "Coweta County",
+      "cities": []
+    },
+    {
+      "name": "Coweta County",
+      "cities": [
+        {
+          "name": "Grantville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.2348419,
+          "longitude": -84.8357678,
+          "population": 3278,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Haralson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.2265099,
+          "longitude": -84.5713164,
+          "population": 199,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Moreland",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.2867851,
+          "longitude": -84.7677111,
+          "population": 382,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Senoia",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.3023411,
+          "longitude": -84.5538165,
+          "population": 5929,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sharpsburg",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.3392842,
+          "longitude": -84.6485417,
+          "population": 325,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Turin",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Coweta County",
+          "latitude": 33.3265068,
+          "longitude": -84.6357634,
+          "population": 589,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Crawford County",
+      "cities": [
+        {
+          "name": "Musella",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Crawford County",
+          "latitude": 32.7991749,
+          "longitude": -84.0314855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crawford County",
+      "cities": [
+        {
+          "name": "Knoxville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Crawford County",
+          "latitude": 32.7243072,
+          "longitude": -83.9976875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crawford County",
+      "cities": []
+    },
+    {
+      "name": "Crisp County",
+      "cities": [
+        {
+          "name": "Wenona",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Crisp County",
+          "latitude": 31.9054532,
+          "longitude": -83.7668381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crisp County",
+      "cities": []
+    },
+    {
+      "name": "Crisp County",
+      "cities": [
+        {
+          "name": "Arabi",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Crisp County",
+          "latitude": 31.8356967,
+          "longitude": -83.71390869999999,
+          "population": 453,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Dade County",
+      "cities": [
+        {
+          "name": "Wildwood",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Dade County",
+          "latitude": 34.9634096,
+          "longitude": -85.4110711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dade County",
+      "cities": [
+        {
+          "name": "West Brow",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Dade County",
+          "latitude": 34.9228546,
+          "longitude": -85.415238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dade County",
+      "cities": [
+        {
+          "name": "New England",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Dade County",
+          "latitude": 34.910355,
+          "longitude": -85.48024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dade County",
+      "cities": []
+    },
+    {
+      "name": "Dade County",
+      "cities": []
+    },
+    {
+      "name": "Dawson County",
+      "cities": []
+    },
+    {
+      "name": "Dawson County",
+      "cities": [
+        {
+          "name": "Glendive",
+          "state": "Montana",
+          "stateCode": "MT",
+          "county": "Dawson County",
+          "latitude": 47.106401,
+          "longitude": -104.7107931,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lamesa",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Dawson County",
+          "latitude": 32.7376001,
+          "longitude": -101.950992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lexington",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Dawson County",
+          "latitude": 40.7808398,
+          "longitude": -99.74150449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Decatur County",
+      "cities": [
+        {
+          "name": "Faceville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Decatur County",
+          "latitude": 30.753247,
+          "longitude": -84.63991589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Decatur County",
+      "cities": []
+    },
+    {
+      "name": "Decatur County",
+      "cities": [
+        {
+          "name": "Attapulgus",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Decatur County",
+          "latitude": 30.7490815,
+          "longitude": -84.4837998,
+          "population": 447,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Brinson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Decatur County",
+          "latitude": 30.97685319999999,
+          "longitude": -84.7376974,
+          "population": 214,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Climax",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Decatur County",
+          "latitude": 30.8760231,
+          "longitude": -84.4312983,
+          "population": 270,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Scottdale",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7898269,
+          "longitude": -84.26408889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Redan",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7423178,
+          "longitude": -84.1593413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Panthersville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7073291,
+          "longitude": -84.27186669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "North Decatur",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7903828,
+          "longitude": -84.3060349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Druid Hills",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.816771,
+          "longitude": -84.3132574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2425 @@
+{
+  "name": "Idaho",
+  "code": "ID",
+  "counties": [
+    {
+      "name": "Ada County",
+      "cities": [
+        {
+          "name": "Meridian",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6121087,
+          "longitude": -116.3915131,
+          "population": 134801,
+          "size": "medium",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6954424,
+          "longitude": -116.3540138,
+          "population": 32319,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Kuna",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.4918307,
+          "longitude": -116.4201223,
+          "population": 28050,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Star",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6921071,
+          "longitude": -116.4934631,
+          "population": 16333,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Garden City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6221108,
+          "longitude": -116.2381744,
+          "population": 12784,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Avimor",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.77746459999999,
+          "longitude": -116.257216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hidden Springs",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.71905080000001,
+          "longitude": -116.2583276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "New Meadows",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Adams County",
+          "latitude": 44.9712808,
+          "longitude": -116.2840176,
+          "population": 636,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bannock County",
+      "cities": [
+        {
+          "name": "Tyhee",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.95158130000001,
+          "longitude": -112.4663693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chubbuck",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.9207477,
+          "longitude": -112.4660912,
+          "population": 16362,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Inkom",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.7963041,
+          "longitude": -112.2541374,
+          "population": 832,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "McCammon",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.6504719,
+          "longitude": -112.1930226,
+          "population": 816,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Downey",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.42852970000001,
+          "longitude": -112.1244073,
+          "population": 570,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lava Hot Springs",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.6193625,
+          "longitude": -112.0110712,
+          "population": 375,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Arimo",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.559917,
+          "longitude": -112.1713544,
+          "population": 350,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bear Lake County",
+      "cities": [
+        {
+          "name": "Bennington",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.3910379,
+          "longitude": -111.3215956,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paris",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.22714939999999,
+          "longitude": -111.4010403,
+          "population": 549,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Georgetown",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.4821477,
+          "longitude": -111.3707661,
+          "population": 516,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bloomington",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.1926579,
+          "longitude": -111.4067217,
+          "population": 214,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Charles",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.1138188,
+          "longitude": -111.3888175,
+          "population": 186,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Benewah County",
+      "cities": [
+        {
+          "name": "Parkline",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.33547,
+          "longitude": -116.688666,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fernwood",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.11224560000001,
+          "longitude": -116.3931132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "De Smet",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.146785,
+          "longitude": -116.9167208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plummer",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.3351803,
+          "longitude": -116.8885094,
+          "population": 1113,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tensed",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.15989889999999,
+          "longitude": -116.9218365,
+          "population": 94,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Rockford",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.1896362,
+          "longitude": -112.5347054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverside",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.197201,
+          "longitude": -112.435226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moreland",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.2191244,
+          "longitude": -112.4417712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Groveland",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.2199151,
+          "longitude": -112.3724783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Hall",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.0332482,
+          "longitude": -112.4383131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3813038,
+          "longitude": -112.1233056,
+          "population": 5182,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Aberdeen",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 42.9440784,
+          "longitude": -112.8383265,
+          "population": 1843,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Firth",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3051934,
+          "longitude": -112.1830288,
+          "population": 541,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Basalt",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3154712,
+          "longitude": -112.1644173,
+          "population": 371,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Blaine County",
+      "cities": [
+        {
+          "name": "Gannett",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.3599057,
+          "longitude": -114.175873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ketchum",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.6807402,
+          "longitude": -114.3636619,
+          "population": 3611,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bellevue",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.4635179,
+          "longitude": -114.2605998,
+          "population": 2575,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sun Valley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.6971294,
+          "longitude": -114.3517172,
+          "population": 1771,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Carey",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.3076829,
+          "longitude": -113.9447521,
+          "population": 688,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Robie Creek",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.6331901,
+          "longitude": -115.9949024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowman",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0809804,
+          "longitude": -115.6186743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garden Valley",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0919511,
+          "longitude": -115.9544145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Banks",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0804473,
+          "longitude": -116.1240151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idaho City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.8285046,
+          "longitude": -115.8345537,
+          "population": 529,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Crouch",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.1152163,
+          "longitude": -115.9702514,
+          "population": 177,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Placerville",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.9432266,
+          "longitude": -115.94706,
+          "population": 48,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bonner County",
+      "cities": [
+        {
+          "name": "Laclede",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.1700654,
+          "longitude": -116.7560563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coolin",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.479643,
+          "longitude": -116.8494592,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanchard",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.0168468,
+          "longitude": -116.9838096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ponderay",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.3054806,
+          "longitude": -116.5338037,
+          "population": 1956,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Priest River",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.1807415,
+          "longitude": -116.909365,
+          "population": 1804,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dover",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.2513216,
+          "longitude": -116.6066774,
+          "population": 1091,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kootenai",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.3102037,
+          "longitude": -116.5135257,
+          "population": 1054,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Clark Fork",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.14520510000001,
+          "longitude": -116.1757309,
+          "population": 561,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oldtown",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.1787944,
+          "longitude": -117.0379802,
+          "population": 250,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "East Hope",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.2418738,
+          "longitude": -116.2954561,
+          "population": 245,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hope",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonner County",
+          "latitude": 48.24770729999999,
+          "longitude": -116.3071233,
+          "population": 104,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bonneville County",
+      "cities": [
+        {
+          "name": "Lincoln",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.5129694,
+          "longitude": -111.9644136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ammon",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.4696366,
+          "longitude": -111.9666355,
+          "population": 19617,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Iona",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.5263026,
+          "longitude": -111.9330238,
+          "population": 3105,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ucon",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.5963015,
+          "longitude": -111.9638582,
+          "population": 1235,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Swan Valley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.45141,
+          "longitude": -111.3399438,
+          "population": 303,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Irwin",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bonneville County",
+          "latitude": 43.4085283,
+          "longitude": -111.2993914,
+          "population": 286,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Boundary County",
+      "cities": [
+        {
+          "name": "Moyie Springs",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boundary County",
+          "latitude": 48.7263285,
+          "longitude": -116.1885283,
+          "population": 1080,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Butte County",
+      "cities": [
+        {
+          "name": "Moore",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Butte County",
+          "latitude": 43.7357346,
+          "longitude": -113.3663993,
+          "population": 176,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Butte City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Butte County",
+          "latitude": 43.6073096,
+          "longitude": -113.239693,
+          "population": 85,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Camas County",
+      "cities": []
+    },
+    {
+      "name": "Canyon County",
+      "cities": [
+        {
+          "name": "Caldwell",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.66293839999999,
+          "longitude": -116.6873596,
+          "population": 68336,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Middleton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.7068281,
+          "longitude": -116.6201357,
+          "population": 11016,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Parma",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.7851615,
+          "longitude": -116.9432088,
+          "population": 2149,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wilder",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.6765485,
+          "longitude": -116.9118157,
+          "population": 1685,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Greenleaf",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.671271,
+          "longitude": -116.816255,
+          "population": 790,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Notus",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.7254385,
+          "longitude": -116.8012557,
+          "population": 604,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Melba",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Canyon County",
+          "latitude": 43.3754405,
+          "longitude": -116.5290116,
+          "population": 588,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Caribou County",
+      "cities": [
+        {
+          "name": "Grace",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Caribou County",
+          "latitude": 42.5760314,
+          "longitude": -111.7305061,
+          "population": 945,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bancroft",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Caribou County",
+          "latitude": 42.7201961,
+          "longitude": -111.8857901,
+          "population": 311,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Cassia County",
+      "cities": [
+        {
+          "name": "Oakley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Cassia County",
+          "latitude": 42.2432451,
+          "longitude": -113.8819595,
+          "population": 816,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Declo",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Cassia County",
+          "latitude": 42.5182428,
+          "longitude": -113.6280649,
+          "population": 354,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Albion",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Cassia County",
+          "latitude": 42.4126885,
+          "longitude": -113.578063,
+          "population": 245,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Malta",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Cassia County",
+          "latitude": 42.3063021,
+          "longitude": -113.3691675,
+          "population": 176,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": [
+        {
+          "name": "Spencer",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Clark County",
+          "latitude": 44.3604673,
+          "longitude": -112.1869345,
+          "population": 29,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Clearwater County",
+      "cities": [
+        {
+          "name": "Pierce",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Clearwater County",
+          "latitude": 46.4910207,
+          "longitude": -115.7990289,
+          "population": 523,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Weippe",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Clearwater County",
+          "latitude": 46.37601490000001,
+          "longitude": -115.9381946,
+          "population": 417,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Elk River",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Clearwater County",
+          "latitude": 46.7835139,
+          "longitude": -116.1798721,
+          "population": 145,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Custer County",
+      "cities": [
+        {
+          "name": "Lost River",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Custer County",
+          "latitude": 43.6966322,
+          "longitude": -113.629055,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mackay",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Custer County",
+          "latitude": 43.9146302,
+          "longitude": -113.6133552,
+          "population": 480,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Stanley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Custer County",
+          "latitude": 44.2164623,
+          "longitude": -114.9299884,
+          "population": 119,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Clayton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Custer County",
+          "latitude": 44.2592165,
+          "longitude": -114.4011538,
+          "population": 10,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Elmore County",
+      "cities": [
+        {
+          "name": "Mountain Home AFB",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Elmore County",
+          "latitude": 43.0444129,
+          "longitude": -115.8619784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hammett",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Elmore County",
+          "latitude": 42.9457307,
+          "longitude": -115.4661859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenns Ferry",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Elmore County",
+          "latitude": 42.9548989,
+          "longitude": -115.3009037,
+          "population": 1304,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Franklin",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Franklin County",
+          "latitude": 42.2100342,
+          "longitude": -111.7614661,
+          "population": 1120,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Weston",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Franklin County",
+          "latitude": 42.0371465,
+          "longitude": -111.9793979,
+          "population": 550,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dayton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Franklin County",
+          "latitude": 42.1129787,
+          "longitude": -111.9935663,
+          "population": 536,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Clifton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Franklin County",
+          "latitude": 42.1899219,
+          "longitude": -112.0080125,
+          "population": 454,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oxford",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Franklin County",
+          "latitude": 42.2588098,
+          "longitude": -112.0213474,
+          "population": 43,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Fremont County",
+      "cities": [
+        {
+          "name": "Warm River",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 44.1149152,
+          "longitude": -111.3207842,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 44.0715807,
+          "longitude": -111.4482884,
+          "population": 951,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Teton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 43.886579,
+          "longitude": -111.6777396,
+          "population": 840,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Newdale",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 43.8832463,
+          "longitude": -111.6063483,
+          "population": 332,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Parker",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 43.9593557,
+          "longitude": -111.7577428,
+          "population": 298,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Island Park",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 44.4242175,
+          "longitude": -111.3709644,
+          "population": 193,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Drummond",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Fremont County",
+          "latitude": 43.9985247,
+          "longitude": -111.3452291,
+          "population": 15,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Gem County",
+      "cities": [
+        {
+          "name": "Letha",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Gem County",
+          "latitude": 43.8943306,
+          "longitude": -116.6476414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gooding County",
+      "cities": [
+        {
+          "name": "Wendell",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Gooding County",
+          "latitude": 42.7757368,
+          "longitude": -114.7042168,
+          "population": 3010,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hagerman",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Gooding County",
+          "latitude": 42.81212439999999,
+          "longitude": -114.898669,
+          "population": 988,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bliss",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Gooding County",
+          "latitude": 42.92684610000001,
+          "longitude": -114.9495057,
+          "population": 265,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Idaho County",
+      "cities": [
+        {
+          "name": "Elk City",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 45.8268527,
+          "longitude": -115.4367941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottonwood",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 46.0488274,
+          "longitude": -116.3516548,
+          "population": 911,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kooskia",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 46.1401684,
+          "longitude": -115.9789311,
+          "population": 556,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Riggins",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 45.4200222,
+          "longitude": -116.3163157,
+          "population": 401,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Stites",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 46.0916037,
+          "longitude": -115.9762249,
+          "population": 190,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ferdinand",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 46.1524438,
+          "longitude": -116.3897153,
+          "population": 142,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "White Bird",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Idaho County",
+          "latitude": 45.7601005,
+          "longitude": -116.3018734,
+          "population": 88,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Hamer",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.92713089999999,
+          "longitude": -112.2060903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Menan",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.720744,
+          "longitude": -111.9899703,
+          "population": 734,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ririe",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.6318575,
+          "longitude": -111.773575,
+          "population": 705,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Roberts",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.720188,
+          "longitude": -112.1263628,
+          "population": 578,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lewisville",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.6957443,
+          "longitude": -112.0105263,
+          "population": 442,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mud Lake",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jefferson County",
+          "latitude": 43.841297,
+          "longitude": -112.4760951,
+          "population": 352,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jerome County",
+      "cities": [
+        {
+          "name": "Hazelton",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jerome County",
+          "latitude": 42.5963003,
+          "longitude": -114.13614,
+          "population": 813,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Eden",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Jerome County",
+          "latitude": 42.6057451,
+          "longitude": -114.2108634,
+          "population": 402,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Kootenai County",
+      "cities": [
+        {
+          "name": "Rockford Bay",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.50528,
+          "longitude": -116.8775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conkling Park",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.401058,
+          "longitude": -116.760952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayden",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.76601609999999,
+          "longitude": -116.7865815,
+          "population": 16422,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Rathdrum",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.8124031,
+          "longitude": -116.8965857,
+          "population": 11580,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Dalton Gardens",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.7296276,
+          "longitude": -116.7701906,
+          "population": 2513,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Spirit Lake",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.9662924,
+          "longitude": -116.8685314,
+          "population": 2479,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hauser",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.77295609999999,
+          "longitude": -117.027979,
+          "population": 861,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Athol",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.9479601,
+          "longitude": -116.7079745,
+          "population": 734,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hayden Lake",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.7587944,
+          "longitude": -116.7568579,
+          "population": 669,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Worley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.40073599999999,
+          "longitude": -116.9171246,
+          "population": 249,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Harrison",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.4543498,
+          "longitude": -116.7854567,
+          "population": 225,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Fernan Lake Village",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.6737949,
+          "longitude": -116.7454651,
+          "population": 162,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Huetter",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.7040318,
+          "longitude": -116.8500013,
+          "population": 102,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "State Line",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.7048807,
+          "longitude": -117.0378801,
+          "population": 37,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Latah County",
+      "cities": [
+        {
+          "name": "Viola",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.8385007,
+          "longitude": -117.0246114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Princeton",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.9137655,
+          "longitude": -116.8331548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Genesee",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.5507205,
+          "longitude": -116.9254357,
+          "population": 1075,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Troy",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.7368359,
+          "longitude": -116.7696025,
+          "population": 925,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Potlatch",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.9215603,
+          "longitude": -116.8982195,
+          "population": 792,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Juliaetta",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.57858479999999,
+          "longitude": -116.7060415,
+          "population": 637,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Deary",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.7993412,
+          "longitude": -116.5559894,
+          "population": 523,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kendrick",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.6140599,
+          "longitude": -116.6465417,
+          "population": 296,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Onaway",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.92822719999999,
+          "longitude": -116.8909971,
+          "population": 213,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bovill",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Latah County",
+          "latitude": 46.85879,
+          "longitude": -116.3934881,
+          "population": 198,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Lemhi County",
+      "cities": [
+        {
+          "name": "Leadore",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lemhi County",
+          "latitude": 44.6802005,
+          "longitude": -113.358091,
+          "population": 100,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Lewis County",
+      "cities": [
+        {
+          "name": "Craigmont",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lewis County",
+          "latitude": 46.2410641,
+          "longitude": -116.4671375,
+          "population": 482,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nezperce",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lewis County",
+          "latitude": 46.235021,
+          "longitude": -116.2404961,
+          "population": 482,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Winchester",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lewis County",
+          "latitude": 46.2414139,
+          "longitude": -116.6241755,
+          "population": 371,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Reubens",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lewis County",
+          "latitude": 46.3227833,
+          "longitude": -116.5420319,
+          "population": 44,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Centralia",
+          "state": "Washington",
+          "stateCode": "WA",
+          "county": "Lewis County",
+          "latitude": 46.7162136,
+          "longitude": -122.9542972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hohenwald",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Lewis County",
+          "latitude": 35.5478513,
+          "longitude": -87.5519628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weston",
+          "state": "West Virginia",
+          "stateCode": "WV",
+          "county": "Lewis County",
+          "latitude": 39.0384274,
+          "longitude": -80.46731299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowville",
+          "state": "New York",
+          "stateCode": "NY",
+          "county": "Lewis County",
+          "latitude": 43.7866824,
+          "longitude": -75.4922398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canton",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Lewis County",
+          "latitude": 40.12941199999999,
+          "longitude": -91.5186737,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vanceburg",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Lewis County",
+          "latitude": 38.599243,
+          "longitude": -83.3187952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Richfield",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lincoln County",
+          "latitude": 43.0485171,
+          "longitude": -114.1555907,
+          "population": 467,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dietrich",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Lincoln County",
+          "latitude": 42.9093508,
+          "longitude": -114.2653142,
+          "population": 302,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Sugar City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Madison County",
+          "latitude": 43.8729673,
+          "longitude": -111.7482976,
+          "population": 2115,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Minidoka County",
+      "cities": [
+        {
+          "name": "Heyburn",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Minidoka County",
+          "latitude": 42.5585201,
+          "longitude": -113.7639048,
+          "population": 3726,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Paul",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Minidoka County",
+          "latitude": 42.6079646,
+          "longitude": -113.7833506,
+          "population": 1725,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Acequia",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Minidoka County",
+          "latitude": 42.6679642,
+          "longitude": -113.5969537,
+          "population": 136,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Minidoka",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Minidoka County",
+          "latitude": 42.7537967,
+          "longitude": -113.4902829,
+          "population": 90,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Nez Perce County",
+      "cities": [
+        {
+          "name": "Sweetwater",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Nez Perce County",
+          "latitude": 46.3723859,
+          "longitude": -116.7929277,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lapwai",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Nez Perce County",
+          "latitude": 46.4041348,
+          "longitude": -116.804906,
+          "population": 1205,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Culdesac",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Nez Perce County",
+          "latitude": 46.3754741,
+          "longitude": -116.67245,
+          "population": 422,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Peck",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Nez Perce County",
+          "latitude": 46.4751758,
+          "longitude": -116.4243109,
+          "population": 171,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Oneida County",
+      "cities": [
+        {
+          "name": "Utica",
+          "state": "New York",
+          "stateCode": "NY",
+          "county": "Oneida County",
+          "latitude": 43.10109490000001,
+          "longitude": -75.23558059999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhinelander",
+          "state": "Wisconsin",
+          "stateCode": "WI",
+          "county": "Oneida County",
+          "latitude": 45.6366228,
+          "longitude": -89.4120753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Owyhee County",
+      "cities": [
+        {
+          "name": "Murphy",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Owyhee County",
+          "latitude": 43.2162359,
+          "longitude": -116.5510588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruneau",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Owyhee County",
+          "latitude": 42.8819727,
+          "longitude": -115.7989463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marsing",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Owyhee County",
+          "latitude": 43.5454359,
+          "longitude": -116.8131958,
+          "population": 1256,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Grand View",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Owyhee County",
+          "latitude": 42.98961389999999,
+          "longitude": -116.0934305,
+          "population": 465,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Payette County",
+      "cities": [
+        {
+          "name": "Fruitland",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Payette County",
+          "latitude": 44.0076639,
+          "longitude": -116.9165461,
+          "population": 6879,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "New Plymouth",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Payette County",
+          "latitude": 43.9698864,
+          "longitude": -116.81904,
+          "population": 1566,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Power County",
+      "cities": [
+        {
+          "name": "Arbon Valley",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Power County",
+          "latitude": 42.8834659,
+          "longitude": -112.5811456,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockland",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Power County",
+          "latitude": 42.5732468,
+          "longitude": -112.8772126,
+          "population": 258,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Shoshone County",
+      "cities": [
+        {
+          "name": "Silverton",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.4928296,
+          "longitude": -115.9547387,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinehurst",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.53880909999999,
+          "longitude": -116.2373902,
+          "population": 1780,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Osburn",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.5060379,
+          "longitude": -115.9993296,
+          "population": 1659,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wallace",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.4740945,
+          "longitude": -115.9279387,
+          "population": 825,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Smelterville",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.5426993,
+          "longitude": -116.1815561,
+          "population": 708,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mullan",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.4702078,
+          "longitude": -115.8018253,
+          "population": 677,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wardner",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Shoshone County",
+          "latitude": 47.5227008,
+          "longitude": -116.1340546,
+          "population": 203,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Teton County",
+      "cities": [
+        {
+          "name": "Driggs",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Teton County",
+          "latitude": 43.72312160000001,
+          "longitude": -111.1110708,
+          "population": 2263,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tetonia",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Teton County",
+          "latitude": 43.8144855,
+          "longitude": -111.1601942,
+          "population": 287,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jackson",
+          "state": "Wyoming",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.4799291,
+          "longitude": -110.7624282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Twin Falls County",
+      "cities": [
+        {
+          "name": "Kimberly",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.5338019,
+          "longitude": -114.3647561,
+          "population": 5359,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Buhl",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.5990714,
+          "longitude": -114.7594946,
+          "population": 4715,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Filer",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.570186,
+          "longitude": -114.6078214,
+          "population": 2951,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hansen",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.5296532,
+          "longitude": -114.301121,
+          "population": 1112,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hollister",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.3532439,
+          "longitude": -114.575039,
+          "population": 265,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Castleford",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.5204451,
+          "longitude": -114.8719356,
+          "population": 226,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Murtaugh",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Twin Falls County",
+          "latitude": 42.4924139,
+          "longitude": -114.1622508,
+          "population": 121,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Valley County",
+      "cities": [
+        {
+          "name": "Yellow Pine",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Valley County",
+          "latitude": 44.963779,
+          "longitude": -115.4932879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smiths Ferry",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Valley County",
+          "latitude": 44.3027038,
+          "longitude": -116.0884825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascade",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Valley County",
+          "latitude": 44.51628210000001,
+          "longitude": -116.0417983,
+          "population": 1012,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Donnelly",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Valley County",
+          "latitude": 44.7308461,
+          "longitude": -116.0772125,
+          "population": 256,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Cambridge",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Washington County",
+          "latitude": 44.5726619,
+          "longitude": -116.6759919,
+          "population": 353,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Midvale",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Washington County",
+          "latitude": 44.4712737,
+          "longitude": -116.7346066,
+          "population": 216,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

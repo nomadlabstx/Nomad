@@ -1,0 +1,324 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Yuma Proving Ground",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.8643078,
+          "longitude": -114.4381266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Wellton Hills",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.624404,
+          "longitude": -114.1394764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Wall Lane",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6576954,
+          "longitude": -114.7104647,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Tacna",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6975472,
+          "longitude": -113.9535427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Rancho Mesa Verde",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.5949814,
+          "longitude": -114.6564029,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Padre Ranchitos",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6457105,
+          "longitude": -114.6404448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Orange Grove Mobile Manor",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.5985406,
+          "longitude": -114.6615985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Martinez Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.974188,
+          "longitude": -114.461957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Gadsden",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.5544974,
+          "longitude": -114.7849577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Fortuna Foothills",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6578265,
+          "longitude": -114.4118901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "El Prado Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.7039551,
+          "longitude": -114.521294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Drysdale",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6454362,
+          "longitude": -114.7068707,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Donovan Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.7091209,
+          "longitude": -114.6779268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Dateland",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.7972176,
+          "longitude": -113.5410267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Buckshot",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.7397605,
+          "longitude": -114.4827091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Aztec",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.818871,
+          "longitude": -113.443398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Avenue B and C",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.7185561,
+          "longitude": -114.6590156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": []
+    },
+    {
+      "name": "Yuma County",
+      "cities": []
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "San Luis",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.4869996,
+          "longitude": -114.7821796,
+          "population": 37966,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Somerton",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.5964404,
+          "longitude": -114.709677,
+          "population": 14594,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Wellton",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Yuma County",
+          "latitude": 32.6728256,
+          "longitude": -114.1468821,
+          "population": 2572,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

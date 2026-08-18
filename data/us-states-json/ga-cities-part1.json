@@ -1,0 +1,449 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Appling County",
+      "cities": [
+        {
+          "name": "Graham",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Appling County",
+          "latitude": 31.8315786,
+          "longitude": -82.5023554,
+          "population": 264,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Surrency",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Appling County",
+          "latitude": 31.7238139,
+          "longitude": -82.19790119999999,
+          "population": 195,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Atkinson County",
+      "cities": [
+        {
+          "name": "Axson",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Atkinson County",
+          "latitude": 31.2763162,
+          "longitude": -82.7343089,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Atkinson County",
+      "cities": []
+    },
+    {
+      "name": "Atkinson County",
+      "cities": [
+        {
+          "name": "Willacoochee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Atkinson County",
+          "latitude": 31.3406999,
+          "longitude": -83.0465617,
+          "population": 1243,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bacon County",
+      "cities": [
+        {
+          "name": "Rockingham",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Bacon County",
+          "latitude": 31.547982,
+          "longitude": -82.4165204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bacon County",
+      "cities": []
+    },
+    {
+      "name": "Bacon County",
+      "cities": []
+    },
+    {
+      "name": "Baker County",
+      "cities": []
+    },
+    {
+      "name": "Baldwin County",
+      "cities": [
+        {
+          "name": "Hardwick",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Baldwin County",
+          "latitude": 33.0480193,
+          "longitude": -83.2452478,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Baldwin County",
+      "cities": []
+    },
+    {
+      "name": "Banks County",
+      "cities": []
+    },
+    {
+      "name": "Banks County",
+      "cities": [
+        {
+          "name": "Gillsville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Banks County",
+          "latitude": 34.3078817,
+          "longitude": -83.6335036,
+          "population": 314,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Barrow County",
+      "cities": [
+        {
+          "name": "Russell",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Barrow County",
+          "latitude": 33.9787216,
+          "longitude": -83.70017039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Barrow County",
+      "cities": []
+    },
+    {
+      "name": "Barrow County",
+      "cities": [
+        {
+          "name": "Auburn",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Barrow County",
+          "latitude": 34.0137179,
+          "longitude": -83.8276759,
+          "population": 9688,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bethlehem",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Barrow County",
+          "latitude": 33.9320556,
+          "longitude": -83.7137827,
+          "population": 777,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Carl",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Barrow County",
+          "latitude": 34.005663,
+          "longitude": -83.8112862,
+          "population": 227,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Statham",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Barrow County",
+          "latitude": 33.9651127,
+          "longitude": -83.596555,
+          "population": 3102,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bartow County",
+      "cities": []
+    },
+    {
+      "name": "Bartow County",
+      "cities": [
+        {
+          "name": "Adairsville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.3687021,
+          "longitude": -84.9341093,
+          "population": 5052,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Emerson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.1271745,
+          "longitude": -84.7542959,
+          "population": 1437,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Euharlee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.1448193,
+          "longitude": -84.93299859999999,
+          "population": 4168,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kingston",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.237039,
+          "longitude": -84.94410979999999,
+          "population": 902,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Taylorsville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.0862094,
+          "longitude": -84.98744490000001,
+          "population": 258,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "White",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Bartow County",
+          "latitude": 34.2828722,
+          "longitude": -84.7452138,
+          "population": 645,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Ben Hill County",
+      "cities": []
+    },
+    {
+      "name": "Ben Hill County",
+      "cities": []
+    },
+    {
+      "name": "Berrien County",
+      "cities": [
+        {
+          "name": "Alapaha",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Berrien County",
+          "latitude": 31.3851954,
+          "longitude": -83.2229323,
+          "population": 490,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Enigma",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Berrien County",
+          "latitude": 31.4129695,
+          "longitude": -83.3290468,
+          "population": 1098,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ray City",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Berrien County",
+          "latitude": 31.0746445,
+          "longitude": -83.1993186,
+          "population": 1020,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bibb County",
+      "cities": []
+    },
+    {
+      "name": "Bleckley County",
+      "cities": []
+    },
+    {
+      "name": "Bleckley County",
+      "cities": []
+    },
+    {
+      "name": "Brantley County",
+      "cities": [
+        {
+          "name": "Waynesville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Brantley County",
+          "latitude": 31.2295421,
+          "longitude": -81.78867749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brantley County",
+      "cities": [
+        {
+          "name": "Hortense",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Brantley County",
+          "latitude": 31.3366088,
+          "longitude": -81.9562253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brantley County",
+      "cities": [
+        {
+          "name": "Hickox",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Brantley County",
+          "latitude": 31.1505026,
+          "longitude": -81.9965043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brantley County",
+      "cities": []
+    },
+    {
+      "name": "Brantley County",
+      "cities": [
+        {
+          "name": "Hoboken",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Brantley County",
+          "latitude": 31.1810559,
+          "longitude": -82.1348416,
+          "population": 489,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Brooks County",
+      "cities": []
+    },
+    {
+      "name": "Brooks County",
+      "cities": [
+        {
+          "name": "Falfurrias",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Brooks County",
+          "latitude": 27.2269872,
+          "longitude": -98.1441714,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morven",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Brooks County",
+          "latitude": 30.9415814,
+          "longitude": -83.4993276,
+          "population": 514,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pavo",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Brooks County",
+          "latitude": 30.959912,
+          "longitude": -83.73794579999999,
+          "population": 607,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

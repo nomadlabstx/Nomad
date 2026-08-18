@@ -1,0 +1,3500 @@
+{
+  "totalCities": 32074,
+  "exactDuplicates": 52,
+  "similarDuplicates": 1,
+  "potentialDuplicates": 30,
+  "exactDuplicateList": [
+    {
+      "name": "Port O\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "Port O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Calhoun County",
+          "latitude": 28.4475898,
+          "longitude": -96.4053596,
+          "lineNumber": 119,
+          "fullLine": "{ name: 'Port O\\'Connor', state: 'TX', stateCode: 'TX', county: 'Calhoun County', latitude: 28.4475898, longitude: -96.4053596, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Port O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Calhoun County",
+          "latitude": 28.4475898,
+          "longitude": -96.4053596,
+          "lineNumber": 179,
+          "fullLine": "{ name: 'Port O\\'Connor', state: 'TX', stateCode: 'TX', county: 'Calhoun County', latitude: 28.4475898, longitude: -96.4053596, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Port O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Calhoun County",
+          "latitude": 28.4475898,
+          "longitude": -96.4053596,
+          "lineNumber": 233,
+          "fullLine": "{ name: 'Port O\\'Connor', state: 'TX', stateCode: 'TX', county: 'Calhoun County', latitude: 28.4475898, longitude: -96.4053596, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Port O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Calhoun County",
+          "latitude": 28.4475898,
+          "longitude": -96.4053596,
+          "lineNumber": 287,
+          "fullLine": "{ name: 'Port O\\'Connor', state: 'TX', stateCode: 'TX', county: 'Calhoun County', latitude: 28.4475898, longitude: -96.4053596, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "D\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "D\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Medina County",
+          "latitude": 29.3304852,
+          "longitude": -99.28079199999999,
+          "lineNumber": 125,
+          "fullLine": "{ name: 'D\\'Hanis', state: 'TX', stateCode: 'TX', county: 'Medina County', latitude: 29.3304852, longitude: -99.28079199999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Medina County",
+          "latitude": 29.3304852,
+          "longitude": -99.28079199999999,
+          "lineNumber": 185,
+          "fullLine": "{ name: 'D\\'Hanis', state: 'TX', stateCode: 'TX', county: 'Medina County', latitude: 29.3304852, longitude: -99.28079199999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Medina County",
+          "latitude": 29.3304852,
+          "longitude": -99.28079199999999,
+          "lineNumber": 239,
+          "fullLine": "{ name: 'D\\'Hanis', state: 'TX', stateCode: 'TX', county: 'Medina County', latitude: 29.3304852, longitude: -99.28079199999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Medina County",
+          "latitude": 29.3304852,
+          "longitude": -99.28079199999999,
+          "lineNumber": 293,
+          "fullLine": "{ name: 'D\\'Hanis', state: 'TX', stateCode: 'TX', county: 'Medina County', latitude: 29.3304852, longitude: -99.28079199999999, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Carl\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "Carl\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Hill County",
+          "latitude": 32.088674,
+          "longitude": -97.0485614,
+          "lineNumber": 131,
+          "fullLine": "{ name: 'Carl\\'s Corner', state: 'TX', stateCode: 'TX', county: 'Hill County', latitude: 32.088674, longitude: -97.0485614, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Carl\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Hill County",
+          "latitude": 32.088674,
+          "longitude": -97.0485614,
+          "lineNumber": 191,
+          "fullLine": "{ name: 'Carl\\'s Corner', state: 'TX', stateCode: 'TX', county: 'Hill County', latitude: 32.088674, longitude: -97.0485614, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Carl\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Hill County",
+          "latitude": 32.088674,
+          "longitude": -97.0485614,
+          "lineNumber": 245,
+          "fullLine": "{ name: 'Carl\\'s Corner', state: 'TX', stateCode: 'TX', county: 'Hill County', latitude: 32.088674, longitude: -97.0485614, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Carl\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Hill County",
+          "latitude": 32.088674,
+          "longitude": -97.0485614,
+          "lineNumber": 299,
+          "fullLine": "{ name: 'Carl\\'s Corner', state: 'TX', stateCode: 'TX', county: 'Hill County', latitude: 32.088674, longitude: -97.0485614, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Carl\\",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Travis County",
+          "latitude": 30.1141026,
+          "longitude": -97.7497257,
+          "lineNumber": 124235,
+          "fullLine": "{ name: 'Carl\\', state: 'Texas', stateCode: 'TX', county: 'Travis County', latitude: 30.1141026, longitude: -97.7497257, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Morgan\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Harris County",
+          "latitude": 29.6729908,
+          "longitude": -94.99137929999999,
+          "lineNumber": 137,
+          "fullLine": "{ name: 'Morgan\\'s Point', state: 'TX', stateCode: 'TX', county: 'Harris County', latitude: 29.6729908, longitude: -94.99137929999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Bell County",
+          "latitude": 31.1483719,
+          "longitude": -97.463555,
+          "lineNumber": 155,
+          "fullLine": "{ name: 'Morgan\\'s Point Resort', state: 'TX', stateCode: 'TX', county: 'Bell County', latitude: 31.1483719, longitude: -97.463555, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Harris County",
+          "latitude": 29.6729908,
+          "longitude": -94.99137929999999,
+          "lineNumber": 197,
+          "fullLine": "{ name: 'Morgan\\'s Point', state: 'TX', stateCode: 'TX', county: 'Harris County', latitude: 29.6729908, longitude: -94.99137929999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Bell County",
+          "latitude": 31.1483719,
+          "longitude": -97.463555,
+          "lineNumber": 215,
+          "fullLine": "{ name: 'Morgan\\'s Point Resort', state: 'TX', stateCode: 'TX', county: 'Bell County', latitude: 31.1483719, longitude: -97.463555, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Harris County",
+          "latitude": 29.6729908,
+          "longitude": -94.99137929999999,
+          "lineNumber": 251,
+          "fullLine": "{ name: 'Morgan\\'s Point', state: 'TX', stateCode: 'TX', county: 'Harris County', latitude: 29.6729908, longitude: -94.99137929999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Bell County",
+          "latitude": 31.1483719,
+          "longitude": -97.463555,
+          "lineNumber": 269,
+          "fullLine": "{ name: 'Morgan\\'s Point Resort', state: 'TX', stateCode: 'TX', county: 'Bell County', latitude: 31.1483719, longitude: -97.463555, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Harris County",
+          "latitude": 29.6729908,
+          "longitude": -94.99137929999999,
+          "lineNumber": 305,
+          "fullLine": "{ name: 'Morgan\\'s Point', state: 'TX', stateCode: 'TX', county: 'Harris County', latitude: 29.6729908, longitude: -94.99137929999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Bell County",
+          "latitude": 31.1483719,
+          "longitude": -97.463555,
+          "lineNumber": 323,
+          "fullLine": "{ name: 'Morgan\\'s Point Resort', state: 'TX', stateCode: 'TX', county: 'Bell County', latitude: 31.1483719, longitude: -97.463555, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Morgan\\",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Bosque County",
+          "latitude": 32.0187622,
+          "longitude": -97.60835510000001,
+          "lineNumber": 9072,
+          "fullLine": "{ name: 'Morgan\\', state: 'Texas', stateCode: 'TX', county: 'Bosque County', latitude: 32.0187622, longitude: -97.60835510000001, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Miller\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "Miller\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Titus County",
+          "latitude": 33.1554,
+          "longitude": -95.115848,
+          "lineNumber": 143,
+          "fullLine": "{ name: 'Miller\\'s Cove', state: 'TX', stateCode: 'TX', county: 'Titus County', latitude: 33.1554, longitude: -95.115848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Miller\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Titus County",
+          "latitude": 33.1554,
+          "longitude": -95.115848,
+          "lineNumber": 203,
+          "fullLine": "{ name: 'Miller\\'s Cove', state: 'TX', stateCode: 'TX', county: 'Titus County', latitude: 33.1554, longitude: -95.115848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Miller\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Titus County",
+          "latitude": 33.1554,
+          "longitude": -95.115848,
+          "lineNumber": 257,
+          "fullLine": "{ name: 'Miller\\'s Cove', state: 'TX', stateCode: 'TX', county: 'Titus County', latitude: 33.1554, longitude: -95.115848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Miller\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Titus County",
+          "latitude": 33.1554,
+          "longitude": -95.115848,
+          "lineNumber": 311,
+          "fullLine": "{ name: 'Miller\\'s Cove', state: 'TX', stateCode: 'TX', county: 'Titus County', latitude: 33.1554, longitude: -95.115848, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Miller\\",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Hopkins County",
+          "latitude": 33.0242693,
+          "longitude": -95.8031831,
+          "lineNumber": 124283,
+          "fullLine": "{ name: 'Miller\\', state: 'Texas', stateCode: 'TX', county: 'Hopkins County', latitude: 33.0242693, longitude: -95.8031831, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Haskell County",
+          "latitude": 33.3800959,
+          "longitude": -99.8437036,
+          "lineNumber": 149,
+          "fullLine": "{ name: 'O\\'Brien', state: 'TX', stateCode: 'TX', county: 'Haskell County', latitude: 33.3800959, longitude: -99.8437036, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Lynn County",
+          "latitude": 32.9637085,
+          "longitude": -101.8326541,
+          "lineNumber": 161,
+          "fullLine": "{ name: 'O\\'Donnell', state: 'TX', stateCode: 'TX', county: 'Lynn County', latitude: 32.9637085, longitude: -101.8326541, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Haskell County",
+          "latitude": 33.3800959,
+          "longitude": -99.8437036,
+          "lineNumber": 209,
+          "fullLine": "{ name: 'O\\'Brien', state: 'TX', stateCode: 'TX', county: 'Haskell County', latitude: 33.3800959, longitude: -99.8437036, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Lynn County",
+          "latitude": 32.9637085,
+          "longitude": -101.8326541,
+          "lineNumber": 221,
+          "fullLine": "{ name: 'O\\'Donnell', state: 'TX', stateCode: 'TX', county: 'Lynn County', latitude: 32.9637085, longitude: -101.8326541, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Haskell County",
+          "latitude": 33.3800959,
+          "longitude": -99.8437036,
+          "lineNumber": 263,
+          "fullLine": "{ name: 'O\\'Brien', state: 'TX', stateCode: 'TX', county: 'Haskell County', latitude: 33.3800959, longitude: -99.8437036, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Lynn County",
+          "latitude": 32.9637085,
+          "longitude": -101.8326541,
+          "lineNumber": 275,
+          "fullLine": "{ name: 'O\\'Donnell', state: 'TX', stateCode: 'TX', county: 'Lynn County', latitude: 32.9637085, longitude: -101.8326541, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Haskell County",
+          "latitude": 33.3800959,
+          "longitude": -99.8437036,
+          "lineNumber": 317,
+          "fullLine": "{ name: 'O\\'Brien', state: 'TX', stateCode: 'TX', county: 'Haskell County', latitude: 33.3800959, longitude: -99.8437036, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Lynn County",
+          "latitude": 32.9637085,
+          "longitude": -101.8326541,
+          "lineNumber": 329,
+          "fullLine": "{ name: 'O\\'Donnell', state: 'TX', stateCode: 'TX', county: 'Lynn County', latitude: 32.9637085, longitude: -101.8326541, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Unknown County",
+          "latitude": 31.9685988,
+          "longitude": -99.9018131,
+          "lineNumber": 123937,
+          "fullLine": "{ name: 'O\\', state: 'Texas', stateCode: 'TX', county: 'Unknown County', latitude: 31.9685988, longitude: -99.9018131, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Bailey\\",
+      "stateCode": "TX",
+      "entries": [
+        {
+          "name": "Bailey\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Brazoria County",
+          "latitude": 29.14976519999999,
+          "longitude": -95.5086232,
+          "lineNumber": 167,
+          "fullLine": "{ name: 'Bailey\\'s Prairie', state: 'TX', stateCode: 'TX', county: 'Brazoria County', latitude: 29.14976519999999, longitude: -95.5086232, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Brazoria County",
+          "latitude": 29.14976519999999,
+          "longitude": -95.5086232,
+          "lineNumber": 227,
+          "fullLine": "{ name: 'Bailey\\'s Prairie', state: 'TX', stateCode: 'TX', county: 'Brazoria County', latitude: 29.14976519999999, longitude: -95.5086232, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Brazoria County",
+          "latitude": 29.14976519999999,
+          "longitude": -95.5086232,
+          "lineNumber": 281,
+          "fullLine": "{ name: 'Bailey\\'s Prairie', state: 'TX', stateCode: 'TX', county: 'Brazoria County', latitude: 29.14976519999999, longitude: -95.5086232, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "TX",
+          "stateCode": "TX",
+          "county": "Brazoria County",
+          "latitude": 29.14976519999999,
+          "longitude": -95.5086232,
+          "lineNumber": 335,
+          "fullLine": "{ name: 'Bailey\\'s Prairie', state: 'TX', stateCode: 'TX', county: 'Brazoria County', latitude: 29.14976519999999, longitude: -95.5086232, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "Texas",
+          "stateCode": "TX",
+          "county": "Fannin County",
+          "latitude": 33.4320531,
+          "longitude": -96.16580909999999,
+          "lineNumber": 123866,
+          "fullLine": "{ name: 'Bailey\\', state: 'Texas', stateCode: 'TX', county: 'Fannin County', latitude: 33.4320531, longitude: -96.16580909999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Queen Anne",
+      "stateCode": "MD",
+      "entries": [
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9536,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9548,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9550,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9562,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9564,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Queen Anne",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Queen Anne\\",
+          "latitude": 38.9209467,
+          "longitude": -75.9552162,
+          "lineNumber": 9576,
+          "fullLine": "{ name: 'Queen Anne', state: 'MD', stateCode: 'MD', county: 'Queen Anne\\'s County', latitude: 38.9209467, longitude: -75.9552162, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Martin\\",
+      "stateCode": "MD",
+      "entries": [
+        {
+          "name": "Martin\\",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Montgomery County",
+          "latitude": 38.9785017,
+          "longitude": -77.0692189,
+          "lineNumber": 9542,
+          "fullLine": "{ name: 'Martin\\'s Additions', state: 'MD', stateCode: 'MD', county: 'Montgomery County', latitude: 38.9785017, longitude: -77.0692189, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Martin\\",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Montgomery County",
+          "latitude": 38.9785017,
+          "longitude": -77.0692189,
+          "lineNumber": 9556,
+          "fullLine": "{ name: 'Martin\\'s Additions', state: 'MD', stateCode: 'MD', county: 'Montgomery County', latitude: 38.9785017, longitude: -77.0692189, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Martin\\",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Montgomery County",
+          "latitude": 38.9785017,
+          "longitude": -77.0692189,
+          "lineNumber": 9570,
+          "fullLine": "{ name: 'Martin\\'s Additions', state: 'MD', stateCode: 'MD', county: 'Montgomery County', latitude: 38.9785017, longitude: -77.0692189, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Martin\\",
+          "state": "MD",
+          "stateCode": "MD",
+          "county": "Montgomery County",
+          "latitude": 38.9785017,
+          "longitude": -77.0692189,
+          "lineNumber": 9582,
+          "fullLine": "{ name: 'Martin\\'s Additions', state: 'MD', stateCode: 'MD', county: 'Montgomery County', latitude: 38.9785017, longitude: -77.0692189, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Spivey\\",
+      "stateCode": "NC",
+      "entries": [
+        {
+          "name": "Spivey\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Sampson County",
+          "latitude": 35.1954436,
+          "longitude": -78.48723000000001,
+          "lineNumber": 12190,
+          "fullLine": "{ name: 'Spivey\\'s Corner', state: 'NC', stateCode: 'NC', county: 'Sampson County', latitude: 35.1954436, longitude: -78.48723000000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Spivey\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Sampson County",
+          "latitude": 35.1954436,
+          "longitude": -78.48723000000001,
+          "lineNumber": 12214,
+          "fullLine": "{ name: 'Spivey\\'s Corner', state: 'NC', stateCode: 'NC', county: 'Sampson County', latitude: 35.1954436, longitude: -78.48723000000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Spivey\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Sampson County",
+          "latitude": 35.1954436,
+          "longitude": -78.48723000000001,
+          "lineNumber": 12232,
+          "fullLine": "{ name: 'Spivey\\'s Corner', state: 'NC', stateCode: 'NC', county: 'Sampson County', latitude: 35.1954436, longitude: -78.48723000000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Spivey\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Sampson County",
+          "latitude": 35.1954436,
+          "longitude": -78.48723000000001,
+          "lineNumber": 12250,
+          "fullLine": "{ name: 'Spivey\\'s Corner', state: 'NC', stateCode: 'NC', county: 'Sampson County', latitude: 35.1954436, longitude: -78.48723000000001, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Wilson\\",
+      "stateCode": "NC",
+      "entries": [
+        {
+          "name": "Wilson\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Johnston County",
+          "latitude": 35.5840472,
+          "longitude": -78.3558342,
+          "lineNumber": 12196,
+          "fullLine": "{ name: 'Wilson\\'s Mills', state: 'NC', stateCode: 'NC', county: 'Johnston County', latitude: 35.5840472, longitude: -78.3558342, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Wilson\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Johnston County",
+          "latitude": 35.5840472,
+          "longitude": -78.3558342,
+          "lineNumber": 12220,
+          "fullLine": "{ name: 'Wilson\\'s Mills', state: 'NC', stateCode: 'NC', county: 'Johnston County', latitude: 35.5840472, longitude: -78.3558342, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Wilson\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Johnston County",
+          "latitude": 35.5840472,
+          "longitude": -78.3558342,
+          "lineNumber": 12238,
+          "fullLine": "{ name: 'Wilson\\'s Mills', state: 'NC', stateCode: 'NC', county: 'Johnston County', latitude: 35.5840472, longitude: -78.3558342, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Wilson\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Johnston County",
+          "latitude": 35.5840472,
+          "longitude": -78.3558342,
+          "lineNumber": 12256,
+          "fullLine": "{ name: 'Wilson\\'s Mills', state: 'NC', stateCode: 'NC', county: 'Johnston County', latitude: 35.5840472, longitude: -78.3558342, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Cajah\\",
+      "stateCode": "NC",
+      "entries": [
+        {
+          "name": "Cajah\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Caldwell County",
+          "latitude": 35.8479569,
+          "longitude": -81.5349581,
+          "lineNumber": 12202,
+          "fullLine": "{ name: 'Cajah\\'s Mountain', state: 'NC', stateCode: 'NC', county: 'Caldwell County', latitude: 35.8479569, longitude: -81.5349581, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cajah\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Caldwell County",
+          "latitude": 35.8479569,
+          "longitude": -81.5349581,
+          "lineNumber": 12226,
+          "fullLine": "{ name: 'Cajah\\'s Mountain', state: 'NC', stateCode: 'NC', county: 'Caldwell County', latitude: 35.8479569, longitude: -81.5349581, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cajah\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Caldwell County",
+          "latitude": 35.8479569,
+          "longitude": -81.5349581,
+          "lineNumber": 12244,
+          "fullLine": "{ name: 'Cajah\\'s Mountain', state: 'NC', stateCode: 'NC', county: 'Caldwell County', latitude: 35.8479569, longitude: -81.5349581, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cajah\\",
+          "state": "NC",
+          "stateCode": "NC",
+          "county": "Caldwell County",
+          "latitude": 35.8479569,
+          "longitude": -81.5349581,
+          "lineNumber": 12262,
+          "fullLine": "{ name: 'Cajah\\'s Mountain', state: 'NC', stateCode: 'NC', county: 'Caldwell County', latitude: 35.8479569, longitude: -81.5349581, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "St. John\\",
+      "stateCode": "MN",
+      "entries": [
+        {
+          "name": "St. John\\",
+          "state": "MN",
+          "stateCode": "MN",
+          "county": "Stearns County",
+          "latitude": 45.5780129,
+          "longitude": -94.38968380000001,
+          "lineNumber": 16071,
+          "fullLine": "{ name: 'St. John\\'s University', state: 'MN', stateCode: 'MN', county: 'Stearns County', latitude: 45.5780129, longitude: -94.38968380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. John\\",
+          "state": "MN",
+          "stateCode": "MN",
+          "county": "Stearns County",
+          "latitude": 45.5780129,
+          "longitude": -94.38968380000001,
+          "lineNumber": 16083,
+          "fullLine": "{ name: 'St. John\\'s University', state: 'MN', stateCode: 'MN', county: 'Stearns County', latitude: 45.5780129, longitude: -94.38968380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. John\\",
+          "state": "MN",
+          "stateCode": "MN",
+          "county": "Stearns County",
+          "latitude": 45.5780129,
+          "longitude": -94.38968380000001,
+          "lineNumber": 16086,
+          "fullLine": "{ name: 'St. John\\'s University', state: 'MN', stateCode: 'MN', county: 'Stearns County', latitude: 45.5780129, longitude: -94.38968380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. John\\",
+          "state": "MN",
+          "stateCode": "MN",
+          "county": "Stearns County",
+          "latitude": 45.5780129,
+          "longitude": -94.38968380000001,
+          "lineNumber": 16088,
+          "fullLine": "{ name: 'St. John\\'s University', state: 'MN', stateCode: 'MN', county: 'Stearns County', latitude: 45.5780129, longitude: -94.38968380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "NE",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4576723,
+          "longitude": -98.6478882,
+          "lineNumber": 29213,
+          "fullLine": "{ name: 'O\\'Neill', state: 'NE', stateCode: 'NE', county: 'Holt County', latitude: 42.4576723, longitude: -98.6478882, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4576723,
+          "longitude": -98.6478882,
+          "lineNumber": 29216,
+          "fullLine": "{ name: 'O\\'Neill', state: 'NE', stateCode: 'NE', county: 'Holt County', latitude: 42.4576723, longitude: -98.6478882, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4576723,
+          "longitude": -98.6478882,
+          "lineNumber": 29218,
+          "fullLine": "{ name: 'O\\'Neill', state: 'NE', stateCode: 'NE', county: 'Holt County', latitude: 42.4576723, longitude: -98.6478882, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "NE",
+          "stateCode": "NE",
+          "county": "Holt County",
+          "latitude": 42.4576723,
+          "longitude": -98.6478882,
+          "lineNumber": 29220,
+          "fullLine": "{ name: 'O\\'Neill', state: 'NE', stateCode: 'NE', county: 'Holt County', latitude: 42.4576723, longitude: -98.6478882, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Douglas County",
+          "latitude": 41.2565369,
+          "longitude": -95.9345034,
+          "lineNumber": 122093,
+          "fullLine": "{ name: 'O\\', state: 'Nebraska', stateCode: 'NE', county: 'Douglas County', latitude: 41.2565369, longitude: -95.9345034, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Chain O\\",
+      "stateCode": "WI",
+      "entries": [
+        {
+          "name": "Chain O\\",
+          "state": "WI",
+          "stateCode": "WI",
+          "county": "Waupaca County",
+          "latitude": 44.3300463,
+          "longitude": -89.1610748,
+          "lineNumber": 34776,
+          "fullLine": "{ name: 'Chain O\\' Lakes', state: 'WI', stateCode: 'WI', county: 'Waupaca County', latitude: 44.3300463, longitude: -89.1610748, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Chain O\\",
+          "state": "WI",
+          "stateCode": "WI",
+          "county": "Waupaca County",
+          "latitude": 44.3300463,
+          "longitude": -89.1610748,
+          "lineNumber": 34779,
+          "fullLine": "{ name: 'Chain O\\' Lakes', state: 'WI', stateCode: 'WI', county: 'Waupaca County', latitude: 44.3300463, longitude: -89.1610748, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Chain O\\",
+          "state": "WI",
+          "stateCode": "WI",
+          "county": "Waupaca County",
+          "latitude": 44.3300463,
+          "longitude": -89.1610748,
+          "lineNumber": 34781,
+          "fullLine": "{ name: 'Chain O\\' Lakes', state: 'WI', stateCode: 'WI', county: 'Waupaca County', latitude: 44.3300463, longitude: -89.1610748, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Chain O\\",
+          "state": "WI",
+          "stateCode": "WI",
+          "county": "Waupaca County",
+          "latitude": 44.3300463,
+          "longitude": -89.1610748,
+          "lineNumber": 34783,
+          "fullLine": "{ name: 'Chain O\\' Lakes', state: 'WI', stateCode: 'WI', county: 'Waupaca County', latitude: 44.3300463, longitude: -89.1610748, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Golden\\",
+      "stateCode": "NY",
+      "entries": [
+        {
+          "name": "Golden\\",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Westchester County",
+          "latitude": 41.2949887,
+          "longitude": -73.6744592,
+          "lineNumber": 39077,
+          "fullLine": "{ name: 'Golden\\'s Bridge', state: 'NY', stateCode: 'NY', county: 'Westchester County', latitude: 41.2949887, longitude: -73.6744592, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Golden\\",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Westchester County",
+          "latitude": 41.2949887,
+          "longitude": -73.6744592,
+          "lineNumber": 39089,
+          "fullLine": "{ name: 'Golden\\'s Bridge', state: 'NY', stateCode: 'NY', county: 'Westchester County', latitude: 41.2949887, longitude: -73.6744592, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Golden\\",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Westchester County",
+          "latitude": 41.2949887,
+          "longitude": -73.6744592,
+          "lineNumber": 39101,
+          "fullLine": "{ name: 'Golden\\'s Bridge', state: 'NY', stateCode: 'NY', county: 'Westchester County', latitude: 41.2949887, longitude: -73.6744592, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Golden\\",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Westchester County",
+          "latitude": 41.2949887,
+          "longitude": -73.6744592,
+          "lineNumber": 39113,
+          "fullLine": "{ name: 'Golden\\'s Bridge', state: 'NY', stateCode: 'NY', county: 'Westchester County', latitude: 41.2949887, longitude: -73.6744592, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "stateCode": "NY",
+      "entries": [
+        {
+          "name": "New York",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Unknown County",
+          "latitude": 40.7127753,
+          "longitude": -74.0059728,
+          "lineNumber": 39083,
+          "fullLine": "{ name: 'New York', state: 'NY', stateCode: 'NY', county: 'Unknown County', latitude: 40.7127753, longitude: -74.0059728, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "New York",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Unknown County",
+          "latitude": 40.7127753,
+          "longitude": -74.0059728,
+          "lineNumber": 39095,
+          "fullLine": "{ name: 'New York', state: 'NY', stateCode: 'NY', county: 'Unknown County', latitude: 40.7127753, longitude: -74.0059728, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "New York",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "Unknown County",
+          "latitude": 40.7127753,
+          "longitude": -74.0059728,
+          "lineNumber": 39107,
+          "fullLine": "{ name: 'New York', state: 'NY', stateCode: 'NY', county: 'Unknown County', latitude: 40.7127753, longitude: -74.0059728, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Prince\\",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Prince\\",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Johnson County",
+          "latitude": 39.353661,
+          "longitude": -86.09804729999999,
+          "lineNumber": 45090,
+          "fullLine": "{ name: 'Prince\\'s Lakes', state: 'IN', stateCode: 'IN', county: 'Johnson County', latitude: 39.353661, longitude: -86.09804729999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Prince\\",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Johnson County",
+          "latitude": 39.353661,
+          "longitude": -86.09804729999999,
+          "lineNumber": 45092,
+          "fullLine": "{ name: 'Prince\\'s Lakes', state: 'IN', stateCode: 'IN', county: 'Johnson County', latitude: 39.353661, longitude: -86.09804729999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Prince\\",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Johnson County",
+          "latitude": 39.353661,
+          "longitude": -86.09804729999999,
+          "lineNumber": 45094,
+          "fullLine": "{ name: 'Prince\\'s Lakes', state: 'IN', stateCode: 'IN', county: 'Johnson County', latitude: 39.353661, longitude: -86.09804729999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Prince\\",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Johnson County",
+          "latitude": 39.353661,
+          "longitude": -86.09804729999999,
+          "lineNumber": 47666,
+          "fullLine": "{ name: 'Prince\\'s Lakes', state: 'IN', stateCode: 'IN', county: 'Johnson County', latitude: 39.353661, longitude: -86.09804729999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Prince\\",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Carroll County",
+          "latitude": 40.442258,
+          "longitude": -86.57305629999999,
+          "lineNumber": 123412,
+          "fullLine": "{ name: 'Prince\\', state: 'Indiana', stateCode: 'IN', county: 'Carroll County', latitude: 40.442258, longitude: -86.57305629999999, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Barney\\",
+      "stateCode": "WA",
+      "entries": [
+        {
+          "name": "Barney\\",
+          "state": "WA",
+          "stateCode": "WA",
+          "county": "Ferry County",
+          "latitude": 48.6239881,
+          "longitude": -118.1262409,
+          "lineNumber": 52983,
+          "fullLine": "{ name: 'Barney\\'s Junction', state: 'WA', stateCode: 'WA', county: 'Ferry County', latitude: 48.6239881, longitude: -118.1262409, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Barney\\",
+          "state": "WA",
+          "stateCode": "WA",
+          "county": "Ferry County",
+          "latitude": 48.6239881,
+          "longitude": -118.1262409,
+          "lineNumber": 52986,
+          "fullLine": "{ name: 'Barney\\'s Junction', state: 'WA', stateCode: 'WA', county: 'Ferry County', latitude: 48.6239881, longitude: -118.1262409, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Barney\\",
+          "state": "WA",
+          "stateCode": "WA",
+          "county": "Ferry County",
+          "latitude": 48.6239881,
+          "longitude": -118.1262409,
+          "lineNumber": 52988,
+          "fullLine": "{ name: 'Barney\\'s Junction', state: 'WA', stateCode: 'WA', county: 'Ferry County', latitude: 48.6239881, longitude: -118.1262409, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Barney\\",
+          "state": "WA",
+          "stateCode": "WA",
+          "county": "Ferry County",
+          "latitude": 48.6239881,
+          "longitude": -118.1262409,
+          "lineNumber": 52990,
+          "fullLine": "{ name: 'Barney\\'s Junction', state: 'WA', stateCode: 'WA', county: 'Ferry County', latitude: 48.6239881, longitude: -118.1262409, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Bayou L\\",
+      "stateCode": "LA",
+      "entries": [
+        {
+          "name": "Bayou L\\",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.7216739,
+          "longitude": -91.05791359999999,
+          "lineNumber": 60034,
+          "fullLine": "{ name: 'Bayou L\\'Ourse', state: 'LA', stateCode: 'LA', county: 'Assumption Parish', latitude: 29.7216739, longitude: -91.05791359999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bayou L\\",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.7216739,
+          "longitude": -91.05791359999999,
+          "lineNumber": 60037,
+          "fullLine": "{ name: 'Bayou L\\'Ourse', state: 'LA', stateCode: 'LA', county: 'Assumption Parish', latitude: 29.7216739, longitude: -91.05791359999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bayou L\\",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.7216739,
+          "longitude": -91.05791359999999,
+          "lineNumber": 60039,
+          "fullLine": "{ name: 'Bayou L\\'Ourse', state: 'LA', stateCode: 'LA', county: 'Assumption Parish', latitude: 29.7216739, longitude: -91.05791359999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bayou L\\",
+          "state": "LA",
+          "stateCode": "LA",
+          "county": "Assumption Parish",
+          "latitude": 29.7216739,
+          "longitude": -91.05791359999999,
+          "lineNumber": 60041,
+          "fullLine": "{ name: 'Bayou L\\'Ourse', state: 'LA', stateCode: 'LA', county: 'Assumption Parish', latitude: 29.7216739, longitude: -91.05791359999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Sullivan\\",
+      "stateCode": "SC",
+      "entries": [
+        {
+          "name": "Sullivan\\",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "lineNumber": 62561,
+          "fullLine": "{ name: 'Sullivan\\'s Island', state: 'SC', stateCode: 'SC', county: 'Charleston County', latitude: 32.7629024, longitude: -79.8362471, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sullivan\\",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "lineNumber": 62577,
+          "fullLine": "{ name: 'Sullivan\\'s Island', state: 'SC', stateCode: 'SC', county: 'Charleston County', latitude: 32.7629024, longitude: -79.8362471, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sullivan\\",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "lineNumber": 62579,
+          "fullLine": "{ name: 'Sullivan\\'s Island', state: 'SC', stateCode: 'SC', county: 'Charleston County', latitude: 32.7629024, longitude: -79.8362471, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sullivan\\",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "lineNumber": 62581,
+          "fullLine": "{ name: 'Sullivan\\'s Island', state: 'SC', stateCode: 'SC', county: 'Charleston County', latitude: 32.7629024, longitude: -79.8362471, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "D\\",
+      "stateCode": "MS",
+      "entries": [
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.9857115,
+          "longitude": -89.90119,
+          "lineNumber": 66036,
+          "fullLine": "{ name: 'D\\'Lo', state: 'MS', stateCode: 'MS', county: 'Simpson County', latitude: 31.9857115, longitude: -89.90119, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.4263092,
+          "longitude": -88.89086379999999,
+          "lineNumber": 66042,
+          "fullLine": "{ name: 'D\\'Iberville', state: 'MS', stateCode: 'MS', county: 'Harrison County', latitude: 30.4263092, longitude: -88.89086379999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.9857115,
+          "longitude": -89.90119,
+          "lineNumber": 66048,
+          "fullLine": "{ name: 'D\\'Lo', state: 'MS', stateCode: 'MS', county: 'Simpson County', latitude: 31.9857115, longitude: -89.90119, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.4263092,
+          "longitude": -88.89086379999999,
+          "lineNumber": 66054,
+          "fullLine": "{ name: 'D\\'Iberville', state: 'MS', stateCode: 'MS', county: 'Harrison County', latitude: 30.4263092, longitude: -88.89086379999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.9857115,
+          "longitude": -89.90119,
+          "lineNumber": 66060,
+          "fullLine": "{ name: 'D\\'Lo', state: 'MS', stateCode: 'MS', county: 'Simpson County', latitude: 31.9857115, longitude: -89.90119, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.4263092,
+          "longitude": -88.89086379999999,
+          "lineNumber": 66066,
+          "fullLine": "{ name: 'D\\'Iberville', state: 'MS', stateCode: 'MS', county: 'Harrison County', latitude: 30.4263092, longitude: -88.89086379999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.9857115,
+          "longitude": -89.90119,
+          "lineNumber": 66072,
+          "fullLine": "{ name: 'D\\'Lo', state: 'MS', stateCode: 'MS', county: 'Simpson County', latitude: 31.9857115, longitude: -89.90119, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.4263092,
+          "longitude": -88.89086379999999,
+          "lineNumber": 66078,
+          "fullLine": "{ name: 'D\\'Iberville', state: 'MS', stateCode: 'MS', county: 'Harrison County', latitude: 30.4263092, longitude: -88.89086379999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "D\\",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Unknown County",
+          "latitude": 32.3546679,
+          "longitude": -89.3985283,
+          "lineNumber": 120194,
+          "fullLine": "{ name: 'D\\', state: 'Mississippi', stateCode: 'MS', county: 'Unknown County', latitude: 32.3546679, longitude: -89.3985283, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "L\\",
+      "stateCode": "MI",
+      "entries": [
+        {
+          "name": "L\\",
+          "state": "MI",
+          "stateCode": "MI",
+          "county": "Baraga County",
+          "latitude": 46.7565991,
+          "longitude": -88.45290849999999,
+          "lineNumber": 68228,
+          "fullLine": "{ name: 'L\\'Anse', state: 'MI', stateCode: 'MI', county: 'Baraga County', latitude: 46.7565991, longitude: -88.45290849999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "L\\",
+          "state": "MI",
+          "stateCode": "MI",
+          "county": "Baraga County",
+          "latitude": 46.7565991,
+          "longitude": -88.45290849999999,
+          "lineNumber": 68231,
+          "fullLine": "{ name: 'L\\'Anse', state: 'MI', stateCode: 'MI', county: 'Baraga County', latitude: 46.7565991, longitude: -88.45290849999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "L\\",
+          "state": "MI",
+          "stateCode": "MI",
+          "county": "Baraga County",
+          "latitude": 46.7565991,
+          "longitude": -88.45290849999999,
+          "lineNumber": 68233,
+          "fullLine": "{ name: 'L\\'Anse', state: 'MI', stateCode: 'MI', county: 'Baraga County', latitude: 46.7565991, longitude: -88.45290849999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "L\\",
+          "state": "MI",
+          "stateCode": "MI",
+          "county": "Baraga County",
+          "latitude": 46.7565991,
+          "longitude": -88.45290849999999,
+          "lineNumber": 68235,
+          "fullLine": "{ name: 'L\\'Anse', state: 'MI', stateCode: 'MI', county: 'Baraga County', latitude: 46.7565991, longitude: -88.45290849999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "L\\",
+          "state": "Michigan",
+          "stateCode": "MI",
+          "county": "Clare County",
+          "latitude": 43.8519519,
+          "longitude": -85.0050744,
+          "lineNumber": 123013,
+          "fullLine": "{ name: 'L\\', state: 'Michigan', stateCode: 'MI', county: 'Clare County', latitude: 43.8519519, longitude: -85.0050744, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Rocky Boy\\",
+      "stateCode": "MT",
+      "entries": [
+        {
+          "name": "Rocky Boy\\",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2708165,
+          "longitude": -109.77144,
+          "lineNumber": 79582,
+          "fullLine": "{ name: 'Rocky Boy\\'s Agency', state: 'MT', stateCode: 'MT', county: 'Hill County', latitude: 48.2708165, longitude: -109.77144, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Rocky Boy\\",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2708165,
+          "longitude": -109.77144,
+          "lineNumber": 79585,
+          "fullLine": "{ name: 'Rocky Boy\\'s Agency', state: 'MT', stateCode: 'MT', county: 'Hill County', latitude: 48.2708165, longitude: -109.77144, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Rocky Boy\\",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2708165,
+          "longitude": -109.77144,
+          "lineNumber": 79587,
+          "fullLine": "{ name: 'Rocky Boy\\'s Agency', state: 'MT', stateCode: 'MT', county: 'Hill County', latitude: 48.2708165, longitude: -109.77144, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Rocky Boy\\",
+          "state": "MT",
+          "stateCode": "MT",
+          "county": "Hill County",
+          "latitude": 48.2708165,
+          "longitude": -109.77144,
+          "lineNumber": 79589,
+          "fullLine": "{ name: 'Rocky Boy\\'s Agency', state: 'MT', stateCode: 'MT', county: 'Hill County', latitude: 48.2708165, longitude: -109.77144, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "OR",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.0672375,
+          "longitude": -123.7032075,
+          "lineNumber": 85236,
+          "fullLine": "{ name: 'O\\'Brien', state: 'OR', stateCode: 'OR', county: 'Josephine County', latitude: 42.0672375, longitude: -123.7032075, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.0672375,
+          "longitude": -123.7032075,
+          "lineNumber": 85239,
+          "fullLine": "{ name: 'O\\'Brien', state: 'OR', stateCode: 'OR', county: 'Josephine County', latitude: 42.0672375, longitude: -123.7032075, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.0672375,
+          "longitude": -123.7032075,
+          "lineNumber": 85241,
+          "fullLine": "{ name: 'O\\'Brien', state: 'OR', stateCode: 'OR', county: 'Josephine County', latitude: 42.0672375, longitude: -123.7032075, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.0672375,
+          "longitude": -123.7032075,
+          "lineNumber": 85243,
+          "fullLine": "{ name: 'O\\'Brien', state: 'OR', stateCode: 'OR', county: 'Josephine County', latitude: 42.0672375, longitude: -123.7032075, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Lee\\",
+      "stateCode": "MO",
+      "entries": [
+        {
+          "name": "Lee\\",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Andrew County",
+          "latitude": 40.0619372,
+          "longitude": -94.7646888,
+          "lineNumber": 87197,
+          "fullLine": "{ name: 'Lee\\', state: 'Missouri', stateCode: 'MO', county: 'Andrew County', latitude: 40.0619372, longitude: -94.7646888, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lee\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Jackson County",
+          "latitude": 38.9108408,
+          "longitude": -94.3821724,
+          "lineNumber": 87232,
+          "fullLine": "{ name: 'Lee\\'s Summit', state: 'MO', stateCode: 'MO', county: 'Jackson County', latitude: 38.9108408, longitude: -94.3821724, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lee\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Jackson County",
+          "latitude": 38.9108408,
+          "longitude": -94.3821724,
+          "lineNumber": 87250,
+          "fullLine": "{ name: 'Lee\\'s Summit', state: 'MO', stateCode: 'MO', county: 'Jackson County', latitude: 38.9108408, longitude: -94.3821724, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lee\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Jackson County",
+          "latitude": 38.9108408,
+          "longitude": -94.3821724,
+          "lineNumber": 87268,
+          "fullLine": "{ name: 'Lee\\'s Summit', state: 'MO', stateCode: 'MO', county: 'Jackson County', latitude: 38.9108408, longitude: -94.3821724, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lee\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Jackson County",
+          "latitude": 38.9108408,
+          "longitude": -94.3821724,
+          "lineNumber": 87286,
+          "fullLine": "{ name: 'Lee\\'s Summit', state: 'MO', stateCode: 'MO', county: 'Jackson County', latitude: 38.9108408, longitude: -94.3821724, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "MO",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "St. Charles County",
+          "latitude": 38.8106075,
+          "longitude": -90.69984769999999,
+          "lineNumber": 87220,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'MO', stateCode: 'MO', county: 'St. Charles County', latitude: 38.8106075, longitude: -90.69984769999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "St. Charles County",
+          "latitude": 38.8106075,
+          "longitude": -90.69984769999999,
+          "lineNumber": 87238,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'MO', stateCode: 'MO', county: 'St. Charles County', latitude: 38.8106075, longitude: -90.69984769999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "St. Charles County",
+          "latitude": 38.8106075,
+          "longitude": -90.69984769999999,
+          "lineNumber": 87256,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'MO', stateCode: 'MO', county: 'St. Charles County', latitude: 38.8106075, longitude: -90.69984769999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "St. Charles County",
+          "latitude": 38.8106075,
+          "longitude": -90.69984769999999,
+          "lineNumber": 87274,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'MO', stateCode: 'MO', county: 'St. Charles County', latitude: 38.8106075, longitude: -90.69984769999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Unknown County",
+          "latitude": 37.9642529,
+          "longitude": -91.8318334,
+          "lineNumber": 118787,
+          "fullLine": "{ name: 'O\\', state: 'Missouri', stateCode: 'MO', county: 'Unknown County', latitude: 37.9642529, longitude: -91.8318334, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Fountain N\\",
+      "stateCode": "MO",
+      "entries": [
+        {
+          "name": "Fountain N\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Lincoln County",
+          "latitude": 38.9689383,
+          "longitude": -90.8501316,
+          "lineNumber": 87226,
+          "fullLine": "{ name: 'Fountain N\\' Lakes', state: 'MO', stateCode: 'MO', county: 'Lincoln County', latitude: 38.9689383, longitude: -90.8501316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Fountain N\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Lincoln County",
+          "latitude": 38.9689383,
+          "longitude": -90.8501316,
+          "lineNumber": 87244,
+          "fullLine": "{ name: 'Fountain N\\' Lakes', state: 'MO', stateCode: 'MO', county: 'Lincoln County', latitude: 38.9689383, longitude: -90.8501316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Fountain N\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Lincoln County",
+          "latitude": 38.9689383,
+          "longitude": -90.8501316,
+          "lineNumber": 87262,
+          "fullLine": "{ name: 'Fountain N\\' Lakes', state: 'MO', stateCode: 'MO', county: 'Lincoln County', latitude: 38.9689383, longitude: -90.8501316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Fountain N\\",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Lincoln County",
+          "latitude": 38.9689383,
+          "longitude": -90.8501316,
+          "lineNumber": 87280,
+          "fullLine": "{ name: 'Fountain N\\' Lakes', state: 'MO', stateCode: 'MO', county: 'Lincoln County', latitude: 38.9689383, longitude: -90.8501316, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Fountain N\\",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Unknown County",
+          "latitude": 37.9642529,
+          "longitude": -91.8318334,
+          "lineNumber": 124242,
+          "fullLine": "{ name: 'Fountain N\\', state: 'Missouri', stateCode: 'MO', county: 'Unknown County', latitude: 37.9642529, longitude: -91.8318334, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Reile\\",
+      "stateCode": "ND",
+      "entries": [
+        {
+          "name": "Reile\\",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9245198,
+          "longitude": -96.8659263,
+          "lineNumber": 91782,
+          "fullLine": "{ name: 'Reile\\'s Acres', state: 'ND', stateCode: 'ND', county: 'Cass County', latitude: 46.9245198, longitude: -96.8659263, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Reile\\",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9245198,
+          "longitude": -96.8659263,
+          "lineNumber": 91785,
+          "fullLine": "{ name: 'Reile\\'s Acres', state: 'ND', stateCode: 'ND', county: 'Cass County', latitude: 46.9245198, longitude: -96.8659263, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Reile\\",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9245198,
+          "longitude": -96.8659263,
+          "lineNumber": 91787,
+          "fullLine": "{ name: 'Reile\\'s Acres', state: 'ND', stateCode: 'ND', county: 'Cass County', latitude: 46.9245198, longitude: -96.8659263, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Reile\\",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9245198,
+          "longitude": -96.8659263,
+          "lineNumber": 91789,
+          "fullLine": "{ name: 'Reile\\'s Acres', state: 'ND', stateCode: 'ND', county: 'Cass County', latitude: 46.9245198, longitude: -96.8659263, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Reile\\",
+          "state": "North Dakota",
+          "stateCode": "ND",
+          "county": "Unknown County",
+          "latitude": 47.5514926,
+          "longitude": -101.0020119,
+          "lineNumber": 123819,
+          "fullLine": "{ name: 'Reile\\', state: 'North Dakota', stateCode: 'ND', county: 'Unknown County', latitude: 47.5514926, longitude: -101.0020119, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Parker\\",
+      "stateCode": "TN",
+      "entries": [
+        {
+          "name": "Parker\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7789726,
+          "longitude": -88.39309279999999,
+          "lineNumber": 100011,
+          "fullLine": "{ name: 'Parker\\'s Crossroads', state: 'TN', stateCode: 'TN', county: 'Henderson County', latitude: 35.7789726, longitude: -88.39309279999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Parker\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7789726,
+          "longitude": -88.39309279999999,
+          "lineNumber": 100023,
+          "fullLine": "{ name: 'Parker\\'s Crossroads', state: 'TN', stateCode: 'TN', county: 'Henderson County', latitude: 35.7789726, longitude: -88.39309279999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Parker\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7789726,
+          "longitude": -88.39309279999999,
+          "lineNumber": 100035,
+          "fullLine": "{ name: 'Parker\\'s Crossroads', state: 'TN', stateCode: 'TN', county: 'Henderson County', latitude: 35.7789726, longitude: -88.39309279999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Parker\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Henderson County",
+          "latitude": 35.7789726,
+          "longitude": -88.39309279999999,
+          "lineNumber": 100047,
+          "fullLine": "{ name: 'Parker\\'s Crossroads', state: 'TN', stateCode: 'TN', county: 'Henderson County', latitude: 35.7789726, longitude: -88.39309279999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Parker\\",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Dyer County",
+          "latitude": 35.9978494,
+          "longitude": -89.28312629999999,
+          "lineNumber": 124203,
+          "fullLine": "{ name: 'Parker\\', state: 'Tennessee', stateCode: 'TN', county: 'Dyer County', latitude: 35.9978494, longitude: -89.28312629999999, population: 50000, size: 'village', confidence: 'medium' },,"
+        }
+      ]
+    },
+    {
+      "name": "Thompson\\",
+      "stateCode": "TN",
+      "entries": [
+        {
+          "name": "Thompson\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.7971371,
+          "longitude": -86.90546479999999,
+          "lineNumber": 100017,
+          "fullLine": "{ name: 'Thompson\\'s Station', state: 'TN', stateCode: 'TN', county: 'Williamson County', latitude: 35.7971371, longitude: -86.90546479999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Thompson\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.7971371,
+          "longitude": -86.90546479999999,
+          "lineNumber": 100029,
+          "fullLine": "{ name: 'Thompson\\'s Station', state: 'TN', stateCode: 'TN', county: 'Williamson County', latitude: 35.7971371, longitude: -86.90546479999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Thompson\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.7971371,
+          "longitude": -86.90546479999999,
+          "lineNumber": 100041,
+          "fullLine": "{ name: 'Thompson\\'s Station', state: 'TN', stateCode: 'TN', county: 'Williamson County', latitude: 35.7971371, longitude: -86.90546479999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Thompson\\",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Williamson County",
+          "latitude": 35.7971371,
+          "longitude": -86.90546479999999,
+          "lineNumber": 100053,
+          "fullLine": "{ name: 'Thompson\\'s Station', state: 'TN', stateCode: 'TN', county: 'Williamson County', latitude: 35.7971371, longitude: -86.90546479999999, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "The University of Virginia\\",
+      "stateCode": "VA",
+      "entries": [
+        {
+          "name": "The University of Virginia\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Wise County",
+          "latitude": 36.9743943,
+          "longitude": -82.5578081,
+          "lineNumber": 106421,
+          "fullLine": "{ name: 'The University of Virginia\\'s College at Wise', state: 'VA', stateCode: 'VA', county: 'Wise County', latitude: 36.9743943, longitude: -82.5578081, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "The University of Virginia\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Wise County",
+          "latitude": 36.9743943,
+          "longitude": -82.5578081,
+          "lineNumber": 106445,
+          "fullLine": "{ name: 'The University of Virginia\\'s College at Wise', state: 'VA', stateCode: 'VA', county: 'Wise County', latitude: 36.9743943, longitude: -82.5578081, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "The University of Virginia\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Wise County",
+          "latitude": 36.9743943,
+          "longitude": -82.5578081,
+          "lineNumber": 106469,
+          "fullLine": "{ name: 'The University of Virginia\\'s College at Wise', state: 'VA', stateCode: 'VA', county: 'Wise County', latitude: 36.9743943, longitude: -82.5578081, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "The University of Virginia\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Wise County",
+          "latitude": 36.9743943,
+          "longitude": -82.5578081,
+          "lineNumber": 106493,
+          "fullLine": "{ name: 'The University of Virginia\\'s College at Wise', state: 'VA', stateCode: 'VA', county: 'Wise County', latitude: 36.9743943, longitude: -82.5578081, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Lake Land\\",
+      "stateCode": "VA",
+      "entries": [
+        {
+          "name": "Lake Land\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Caroline County",
+          "latitude": 38.0123176,
+          "longitude": -77.5545805,
+          "lineNumber": 106427,
+          "fullLine": "{ name: 'Lake Land\\'Or', state: 'VA', stateCode: 'VA', county: 'Caroline County', latitude: 38.0123176, longitude: -77.5545805, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lake Land\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Caroline County",
+          "latitude": 38.0123176,
+          "longitude": -77.5545805,
+          "lineNumber": 106451,
+          "fullLine": "{ name: 'Lake Land\\'Or', state: 'VA', stateCode: 'VA', county: 'Caroline County', latitude: 38.0123176, longitude: -77.5545805, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lake Land\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Caroline County",
+          "latitude": 38.0123176,
+          "longitude": -77.5545805,
+          "lineNumber": 106475,
+          "fullLine": "{ name: 'Lake Land\\'Or', state: 'VA', stateCode: 'VA', county: 'Caroline County', latitude: 38.0123176, longitude: -77.5545805, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lake Land\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Caroline County",
+          "latitude": 38.0123176,
+          "longitude": -77.5545805,
+          "lineNumber": 106499,
+          "fullLine": "{ name: 'Lake Land\\'Or', state: 'VA', stateCode: 'VA', county: 'Caroline County', latitude: 38.0123176, longitude: -77.5545805, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Boswell\\",
+      "stateCode": "VA",
+      "entries": [
+        {
+          "name": "Boswell\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Stafford County",
+          "latitude": 38.5064207,
+          "longitude": -77.3732613,
+          "lineNumber": 106433,
+          "fullLine": "{ name: 'Boswell\\'s Corner', state: 'VA', stateCode: 'VA', county: 'Stafford County', latitude: 38.5064207, longitude: -77.3732613, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Boswell\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Stafford County",
+          "latitude": 38.5064207,
+          "longitude": -77.3732613,
+          "lineNumber": 106457,
+          "fullLine": "{ name: 'Boswell\\'s Corner', state: 'VA', stateCode: 'VA', county: 'Stafford County', latitude: 38.5064207, longitude: -77.3732613, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Boswell\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Stafford County",
+          "latitude": 38.5064207,
+          "longitude": -77.3732613,
+          "lineNumber": 106481,
+          "fullLine": "{ name: 'Boswell\\'s Corner', state: 'VA', stateCode: 'VA', county: 'Stafford County', latitude: 38.5064207, longitude: -77.3732613, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Boswell\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Stafford County",
+          "latitude": 38.5064207,
+          "longitude": -77.3732613,
+          "lineNumber": 106505,
+          "fullLine": "{ name: 'Boswell\\'s Corner', state: 'VA', stateCode: 'VA', county: 'Stafford County', latitude: 38.5064207, longitude: -77.3732613, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Bailey\\",
+      "stateCode": "VA",
+      "entries": [
+        {
+          "name": "Bailey\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Fairfax County",
+          "latitude": 38.8502289,
+          "longitude": -77.13107889999999,
+          "lineNumber": 106439,
+          "fullLine": "{ name: 'Bailey\\'s Crossroads', state: 'VA', stateCode: 'VA', county: 'Fairfax County', latitude: 38.8502289, longitude: -77.13107889999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Fairfax County",
+          "latitude": 38.8502289,
+          "longitude": -77.13107889999999,
+          "lineNumber": 106463,
+          "fullLine": "{ name: 'Bailey\\'s Crossroads', state: 'VA', stateCode: 'VA', county: 'Fairfax County', latitude: 38.8502289, longitude: -77.13107889999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Fairfax County",
+          "latitude": 38.8502289,
+          "longitude": -77.13107889999999,
+          "lineNumber": 106487,
+          "fullLine": "{ name: 'Bailey\\'s Crossroads', state: 'VA', stateCode: 'VA', county: 'Fairfax County', latitude: 38.8502289, longitude: -77.13107889999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Bailey\\",
+          "state": "VA",
+          "stateCode": "VA",
+          "county": "Fairfax County",
+          "latitude": 38.8502289,
+          "longitude": -77.13107889999999,
+          "lineNumber": 106511,
+          "fullLine": "{ name: 'Bailey\\'s Crossroads', state: 'VA', stateCode: 'VA', county: 'Fairfax County', latitude: 38.8502289, longitude: -77.13107889999999, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Jacksons\\",
+      "stateCode": "AL",
+      "entries": [
+        {
+          "name": "Jacksons\\",
+          "state": "AL",
+          "stateCode": "AL",
+          "county": "Tallapoosa County",
+          "latitude": 32.8863457,
+          "longitude": -85.8113875,
+          "lineNumber": 116928,
+          "fullLine": "{ name: 'Jacksons\\' Gap', state: 'AL', stateCode: 'AL', county: 'Tallapoosa County', latitude: 32.8863457, longitude: -85.8113875, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Jacksons\\",
+          "state": "AL",
+          "stateCode": "AL",
+          "county": "Tallapoosa County",
+          "latitude": 32.8863457,
+          "longitude": -85.8113875,
+          "lineNumber": 116931,
+          "fullLine": "{ name: 'Jacksons\\' Gap', state: 'AL', stateCode: 'AL', county: 'Tallapoosa County', latitude: 32.8863457, longitude: -85.8113875, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Jacksons\\",
+          "state": "AL",
+          "stateCode": "AL",
+          "county": "Tallapoosa County",
+          "latitude": 32.8863457,
+          "longitude": -85.8113875,
+          "lineNumber": 116933,
+          "fullLine": "{ name: 'Jacksons\\' Gap', state: 'AL', stateCode: 'AL', county: 'Tallapoosa County', latitude: 32.8863457, longitude: -85.8113875, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Jacksons\\",
+          "state": "AL",
+          "stateCode": "AL",
+          "county": "Tallapoosa County",
+          "latitude": 32.8863457,
+          "longitude": -85.8113875,
+          "lineNumber": 116935,
+          "fullLine": "{ name: 'Jacksons\\' Gap', state: 'AL', stateCode: 'AL', county: 'Tallapoosa County', latitude: 32.8863457, longitude: -85.8113875, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Jacksons\\",
+          "state": "Alabama",
+          "stateCode": "AL",
+          "county": "Clarke County",
+          "latitude": 31.5090521,
+          "longitude": -87.8944435,
+          "lineNumber": 117705,
+          "fullLine": "{ name: 'Jacksons\\', state: 'Alabama', stateCode: 'AL', county: 'Clarke County', latitude: 31.5090521, longitude: -87.8944435, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Coeur d\\",
+      "stateCode": "ID",
+      "entries": [
+        {
+          "name": "Coeur d\\",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.6734632,
+          "longitude": -116.7812225,
+          "lineNumber": 119051,
+          "fullLine": "{ name: 'Coeur d\\', state: 'Idaho', stateCode: 'ID', county: 'Kootenai County', latitude: 47.6734632, longitude: -116.7812225, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Coeur d\\",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.6734632,
+          "longitude": -116.7812225,
+          "lineNumber": 156796,
+          "fullLine": "{ name: 'Coeur d\\'Alene', state: 'ID', stateCode: 'ID', county: 'Kootenai County', latitude: 47.6734632, longitude: -116.7812225, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Coeur d\\",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.6734632,
+          "longitude": -116.7812225,
+          "lineNumber": 156798,
+          "fullLine": "{ name: 'Coeur d\\'Alene', state: 'ID', stateCode: 'ID', county: 'Kootenai County', latitude: 47.6734632, longitude: -116.7812225, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Coeur d\\",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Kootenai County",
+          "latitude": 47.6734632,
+          "longitude": -116.7812225,
+          "lineNumber": 156800,
+          "fullLine": "{ name: 'Coeur d\\'Alene', state: 'ID', stateCode: 'ID', county: 'Kootenai County', latitude: 47.6734632, longitude: -116.7812225, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Sewall\\",
+      "stateCode": "FL",
+      "entries": [
+        {
+          "name": "Sewall\\",
+          "state": "Florida",
+          "stateCode": "FL",
+          "county": "St. Johns County",
+          "latitude": 30.1126936,
+          "longitude": -81.4280499,
+          "lineNumber": 122915,
+          "fullLine": "{ name: 'Sewall\\', state: 'Florida', stateCode: 'FL', county: 'St. Johns County', latitude: 30.1126936, longitude: -81.4280499, population: 50000, size: 'village', confidence: 'medium' },,"
+        },
+        {
+          "name": "Sewall\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Martin County",
+          "latitude": 27.1994926,
+          "longitude": -80.2022684,
+          "lineNumber": 149219,
+          "fullLine": "{ name: 'Sewall\\'s Point', state: 'FL', stateCode: 'FL', county: 'Martin County', latitude: 27.1994926, longitude: -80.2022684, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sewall\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Martin County",
+          "latitude": 27.1994926,
+          "longitude": -80.2022684,
+          "lineNumber": 149243,
+          "fullLine": "{ name: 'Sewall\\'s Point', state: 'FL', stateCode: 'FL', county: 'Martin County', latitude: 27.1994926, longitude: -80.2022684, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sewall\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Martin County",
+          "latitude": 27.1994926,
+          "longitude": -80.2022684,
+          "lineNumber": 149267,
+          "fullLine": "{ name: 'Sewall\\'s Point', state: 'FL', stateCode: 'FL', county: 'Martin County', latitude: 27.1994926, longitude: -80.2022684, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Sewall\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Martin County",
+          "latitude": 27.1994926,
+          "longitude": -80.2022684,
+          "lineNumber": 149291,
+          "fullLine": "{ name: 'Sewall\\'s Point', state: 'FL', stateCode: 'FL', county: 'Martin County', latitude: 27.1994926, longitude: -80.2022684, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary\\",
+      "stateCode": "AK",
+      "entries": [
+        {
+          "name": "St. Mary\\",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area County",
+          "latitude": 62.0484464,
+          "longitude": -163.1874199,
+          "lineNumber": 124061,
+          "fullLine": "{ name: 'St. Mary\\', state: 'Alaska', stateCode: 'AK', county: 'Kusilvak Census Area County', latitude: 62.0484464, longitude: -163.1874199, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area County",
+          "latitude": 62.0484464,
+          "longitude": -163.1874199,
+          "lineNumber": 132207,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'AK', stateCode: 'AK', county: 'Kusilvak Census Area County', latitude: 62.0484464, longitude: -163.1874199, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area County",
+          "latitude": 62.0484464,
+          "longitude": -163.1874199,
+          "lineNumber": 132225,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'AK', stateCode: 'AK', county: 'Kusilvak Census Area County', latitude: 62.0484464, longitude: -163.1874199, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area County",
+          "latitude": 62.0484464,
+          "longitude": -163.1874199,
+          "lineNumber": 132243,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'AK', stateCode: 'AK', county: 'Kusilvak Census Area County', latitude: 62.0484464, longitude: -163.1874199, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "AR",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Unknown County",
+          "latitude": 35.20105,
+          "longitude": -91.8318334,
+          "lineNumber": 124241,
+          "fullLine": "{ name: 'O\\', state: 'Arkansas', stateCode: 'AR', county: 'Unknown County', latitude: 35.20105, longitude: -91.8318334, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Randolph County",
+          "latitude": 36.167907,
+          "longitude": -90.8168366,
+          "lineNumber": 136024,
+          "fullLine": "{ name: 'O\\'Kean', state: 'AR', stateCode: 'AR', county: 'Randolph County', latitude: 36.167907, longitude: -90.8168366, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Randolph County",
+          "latitude": 36.167907,
+          "longitude": -90.8168366,
+          "lineNumber": 136027,
+          "fullLine": "{ name: 'O\\'Kean', state: 'AR', stateCode: 'AR', county: 'Randolph County', latitude: 36.167907, longitude: -90.8168366, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Randolph County",
+          "latitude": 36.167907,
+          "longitude": -90.8168366,
+          "lineNumber": 136029,
+          "fullLine": "{ name: 'O\\'Kean', state: 'AR', stateCode: 'AR', county: 'Randolph County', latitude: 36.167907, longitude: -90.8168366, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Randolph County",
+          "latitude": 36.167907,
+          "longitude": -90.8168366,
+          "lineNumber": 136031,
+          "fullLine": "{ name: 'O\\'Kean', state: 'AR', stateCode: 'AR', county: 'Randolph County', latitude: 36.167907, longitude: -90.8168366, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Clark\\",
+      "stateCode": "AK",
+      "entries": [
+        {
+          "name": "Clark\\",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Lake and Peninsula Borough",
+          "latitude": 60.20969410000001,
+          "longitude": -154.3815698,
+          "lineNumber": 124288,
+          "fullLine": "{ name: 'Clark\\', state: 'Alaska', stateCode: 'AK', county: 'Lake and Peninsula Borough', latitude: 60.20969410000001, longitude: -154.3815698, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Clark\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.837194,
+          "longitude": -158.5317848,
+          "lineNumber": 132201,
+          "fullLine": "{ name: 'Clark\\'s Point', state: 'AK', stateCode: 'AK', county: 'Dillingham Census Area County', latitude: 58.837194, longitude: -158.5317848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Clark\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.837194,
+          "longitude": -158.5317848,
+          "lineNumber": 132219,
+          "fullLine": "{ name: 'Clark\\'s Point', state: 'AK', stateCode: 'AK', county: 'Dillingham Census Area County', latitude: 58.837194, longitude: -158.5317848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Clark\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.837194,
+          "longitude": -158.5317848,
+          "lineNumber": 132237,
+          "fullLine": "{ name: 'Clark\\'s Point', state: 'AK', stateCode: 'AK', county: 'Dillingham Census Area County', latitude: 58.837194, longitude: -158.5317848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Clark\\",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.837194,
+          "longitude": -158.5317848,
+          "lineNumber": 132255,
+          "fullLine": "{ name: 'Clark\\'s Point', state: 'AK', stateCode: 'AK', county: 'Dillingham Census Area County', latitude: 58.837194, longitude: -158.5317848, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "O\\",
+      "stateCode": "IL",
+      "entries": [
+        {
+          "name": "O\\",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "St. Clair County",
+          "latitude": 38.592323,
+          "longitude": -89.910991,
+          "lineNumber": 132006,
+          "fullLine": "{ name: 'O\\', state: 'Illinois', stateCode: 'IL', county: 'St. Clair County', latitude: 38.592323, longitude: -89.910991, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "St. Clair County",
+          "latitude": 38.592323,
+          "longitude": -89.910991,
+          "lineNumber": 157675,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'IL', stateCode: 'IL', county: 'St. Clair County', latitude: 38.592323, longitude: -89.910991, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "St. Clair County",
+          "latitude": 38.592323,
+          "longitude": -89.910991,
+          "lineNumber": 157687,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'IL', stateCode: 'IL', county: 'St. Clair County', latitude: 38.592323, longitude: -89.910991, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "O\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "St. Clair County",
+          "latitude": 38.592323,
+          "longitude": -89.910991,
+          "lineNumber": 157699,
+          "fullLine": "{ name: 'O\\'Fallon', state: 'IL', stateCode: 'IL', county: 'St. Clair County', latitude: 38.592323, longitude: -89.910991, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Utqiagvik",
+      "stateCode": "AK",
+      "entries": [
+        {
+          "name": "Utqiagvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 71.29055559999999,
+          "longitude": -156.7886111,
+          "lineNumber": 132213,
+          "fullLine": "{ name: 'Utqiagvik', state: 'AK', stateCode: 'AK', county: 'North Slope Borough', latitude: 71.29055559999999, longitude: -156.7886111, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Utqiagvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 71.29055559999999,
+          "longitude": -156.7886111,
+          "lineNumber": 132231,
+          "fullLine": "{ name: 'Utqiagvik', state: 'AK', stateCode: 'AK', county: 'North Slope Borough', latitude: 71.29055559999999, longitude: -156.7886111, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Utqiagvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 71.29055559999999,
+          "longitude": -156.7886111,
+          "lineNumber": 132249,
+          "fullLine": "{ name: 'Utqiagvik', state: 'AK', stateCode: 'AK', county: 'North Slope Borough', latitude: 71.29055559999999, longitude: -156.7886111, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Utqiagvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "North Slope Borough",
+          "latitude": 71.29055559999999,
+          "longitude": -156.7886111,
+          "lineNumber": 132266,
+          "fullLine": "{ name: 'Utqiagvik', state: 'AK', stateCode: 'AK', county: 'North Slope Borough', latitude: 71.29055559999999, longitude: -156.7886111, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Kep\\",
+      "stateCode": "CA",
+      "entries": [
+        {
+          "name": "Kep\\",
+          "state": "CA",
+          "stateCode": "CA",
+          "county": "Humboldt County",
+          "latitude": 41.278863,
+          "longitude": -123.8334942,
+          "lineNumber": 138136,
+          "fullLine": "{ name: 'Kep\\'el', state: 'CA', stateCode: 'CA', county: 'Humboldt County', latitude: 41.278863, longitude: -123.8334942, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Kep\\",
+          "state": "CA",
+          "stateCode": "CA",
+          "county": "Humboldt County",
+          "latitude": 41.278863,
+          "longitude": -123.8334942,
+          "lineNumber": 138139,
+          "fullLine": "{ name: 'Kep\\'el', state: 'CA', stateCode: 'CA', county: 'Humboldt County', latitude: 41.278863, longitude: -123.8334942, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Kep\\",
+          "state": "CA",
+          "stateCode": "CA",
+          "county": "Humboldt County",
+          "latitude": 41.278863,
+          "longitude": -123.8334942,
+          "lineNumber": 138141,
+          "fullLine": "{ name: 'Kep\\'el', state: 'CA', stateCode: 'CA', county: 'Humboldt County', latitude: 41.278863, longitude: -123.8334942, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Kep\\",
+          "state": "CA",
+          "stateCode": "CA",
+          "county": "Humboldt County",
+          "latitude": 41.278863,
+          "longitude": -123.8334942,
+          "lineNumber": 138143,
+          "fullLine": "{ name: 'Kep\\'el', state: 'CA', stateCode: 'CA', county: 'Humboldt County', latitude: 41.278863, longitude: -123.8334942, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary\\",
+      "stateCode": "CO",
+      "entries": [
+        {
+          "name": "St. Mary\\",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.8174806,
+          "longitude": -105.6500504,
+          "lineNumber": 145714,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'CO', stateCode: 'CO', county: 'Clear Creek County', latitude: 39.8174806, longitude: -105.6500504, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.8174806,
+          "longitude": -105.6500504,
+          "lineNumber": 145726,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'CO', stateCode: 'CO', county: 'Clear Creek County', latitude: 39.8174806, longitude: -105.6500504, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.8174806,
+          "longitude": -105.6500504,
+          "lineNumber": 145738,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'CO', stateCode: 'CO', county: 'Clear Creek County', latitude: 39.8174806, longitude: -105.6500504, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "St. Mary\\",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.8174806,
+          "longitude": -105.6500504,
+          "lineNumber": 145750,
+          "fullLine": "{ name: 'St. Mary\\'s', state: 'CO', stateCode: 'CO', county: 'Clear Creek County', latitude: 39.8174806, longitude: -105.6500504, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Cañon City",
+      "stateCode": "CO",
+      "entries": [
+        {
+          "name": "Cañon City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4494063,
+          "longitude": -105.2253316,
+          "lineNumber": 145720,
+          "fullLine": "{ name: 'Cañon City', state: 'CO', stateCode: 'CO', county: 'Fremont County', latitude: 38.4494063, longitude: -105.2253316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cañon City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4494063,
+          "longitude": -105.2253316,
+          "lineNumber": 145732,
+          "fullLine": "{ name: 'Cañon City', state: 'CO', stateCode: 'CO', county: 'Fremont County', latitude: 38.4494063, longitude: -105.2253316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cañon City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4494063,
+          "longitude": -105.2253316,
+          "lineNumber": 145744,
+          "fullLine": "{ name: 'Cañon City', state: 'CO', stateCode: 'CO', county: 'Fremont County', latitude: 38.4494063, longitude: -105.2253316, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Cañon City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4494063,
+          "longitude": -105.2253316,
+          "lineNumber": 145756,
+          "fullLine": "{ name: 'Cañon City', state: 'CO', stateCode: 'CO', county: 'Fremont County', latitude: 38.4494063, longitude: -105.2253316, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Town \\",
+      "stateCode": "FL",
+      "entries": [
+        {
+          "name": "Town \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hillsborough County",
+          "latitude": 28.0105745,
+          "longitude": -82.57731930000001,
+          "lineNumber": 149201,
+          "fullLine": "{ name: 'Town \\'n\\' Country', state: 'FL', stateCode: 'FL', county: 'Hillsborough County', latitude: 28.0105745, longitude: -82.57731930000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Town \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hillsborough County",
+          "latitude": 28.0105745,
+          "longitude": -82.57731930000001,
+          "lineNumber": 149225,
+          "fullLine": "{ name: 'Town \\'n\\' Country', state: 'FL', stateCode: 'FL', county: 'Hillsborough County', latitude: 28.0105745, longitude: -82.57731930000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Town \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hillsborough County",
+          "latitude": 28.0105745,
+          "longitude": -82.57731930000001,
+          "lineNumber": 149249,
+          "fullLine": "{ name: 'Town \\'n\\' Country', state: 'FL', stateCode: 'FL', county: 'Hillsborough County', latitude: 28.0105745, longitude: -82.57731930000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Town \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hillsborough County",
+          "latitude": 28.0105745,
+          "longitude": -82.57731930000001,
+          "lineNumber": 149273,
+          "fullLine": "{ name: 'Town \\'n\\' Country', state: 'FL', stateCode: 'FL', county: 'Hillsborough County', latitude: 28.0105745, longitude: -82.57731930000001, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Land O\\",
+      "stateCode": "FL",
+      "entries": [
+        {
+          "name": "Land O\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Pasco County",
+          "latitude": 28.2188992,
+          "longitude": -82.45759380000001,
+          "lineNumber": 149207,
+          "fullLine": "{ name: 'Land O\\' Lakes', state: 'FL', stateCode: 'FL', county: 'Pasco County', latitude: 28.2188992, longitude: -82.45759380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Land O\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Pasco County",
+          "latitude": 28.2188992,
+          "longitude": -82.45759380000001,
+          "lineNumber": 149231,
+          "fullLine": "{ name: 'Land O\\' Lakes', state: 'FL', stateCode: 'FL', county: 'Pasco County', latitude: 28.2188992, longitude: -82.45759380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Land O\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Pasco County",
+          "latitude": 28.2188992,
+          "longitude": -82.45759380000001,
+          "lineNumber": 149255,
+          "fullLine": "{ name: 'Land O\\' Lakes', state: 'FL', stateCode: 'FL', county: 'Pasco County', latitude: 28.2188992, longitude: -82.45759380000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Land O\\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Pasco County",
+          "latitude": 28.2188992,
+          "longitude": -82.45759380000001,
+          "lineNumber": 149279,
+          "fullLine": "{ name: 'Land O\\' Lakes', state: 'FL', stateCode: 'FL', county: 'Pasco County', latitude: 28.2188992, longitude: -82.45759380000001, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Hill \\",
+      "stateCode": "FL",
+      "entries": [
+        {
+          "name": "Hill \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hernando County",
+          "latitude": 28.5229542,
+          "longitude": -82.2922719,
+          "lineNumber": 149213,
+          "fullLine": "{ name: 'Hill \\'n Dale', state: 'FL', stateCode: 'FL', county: 'Hernando County', latitude: 28.5229542, longitude: -82.2922719, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Hill \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hernando County",
+          "latitude": 28.5229542,
+          "longitude": -82.2922719,
+          "lineNumber": 149237,
+          "fullLine": "{ name: 'Hill \\'n Dale', state: 'FL', stateCode: 'FL', county: 'Hernando County', latitude: 28.5229542, longitude: -82.2922719, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Hill \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hernando County",
+          "latitude": 28.5229542,
+          "longitude": -82.2922719,
+          "lineNumber": 149261,
+          "fullLine": "{ name: 'Hill \\'n Dale', state: 'FL', stateCode: 'FL', county: 'Hernando County', latitude: 28.5229542, longitude: -82.2922719, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Hill \\",
+          "state": "FL",
+          "stateCode": "FL",
+          "county": "Hernando County",
+          "latitude": 28.5229542,
+          "longitude": -82.2922719,
+          "lineNumber": 149285,
+          "fullLine": "{ name: 'Hill \\'n Dale', state: 'FL', stateCode: 'FL', county: 'Hernando County', latitude: 28.5229542, longitude: -82.2922719, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Webster County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Webster County",
+          "latitude": 32.0129889,
+          "longitude": -84.56414699999999,
+          "lineNumber": 153397,
+          "fullLine": "{ name: 'Webster County', state: 'GA', stateCode: 'GA', county: 'Webster County', latitude: 32.0129889, longitude: -84.56414699999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Webster County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Webster County",
+          "latitude": 32.0129889,
+          "longitude": -84.56414699999999,
+          "lineNumber": 153409,
+          "fullLine": "{ name: 'Webster County', state: 'GA', stateCode: 'GA', county: 'Webster County', latitude: 32.0129889, longitude: -84.56414699999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Webster County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Webster County",
+          "latitude": 32.0129889,
+          "longitude": -84.56414699999999,
+          "lineNumber": 153421,
+          "fullLine": "{ name: 'Webster County', state: 'GA', stateCode: 'GA', county: 'Webster County', latitude: 32.0129889, longitude: -84.56414699999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Echols County",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Echols County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Echols County",
+          "latitude": 30.7503289,
+          "longitude": -82.95015579999999,
+          "lineNumber": 153403,
+          "fullLine": "{ name: 'Echols County', state: 'GA', stateCode: 'GA', county: 'Echols County', latitude: 30.7503289, longitude: -82.95015579999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Echols County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Echols County",
+          "latitude": 30.7503289,
+          "longitude": -82.95015579999999,
+          "lineNumber": 153415,
+          "fullLine": "{ name: 'Echols County', state: 'GA', stateCode: 'GA', county: 'Echols County', latitude: 30.7503289, longitude: -82.95015579999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Echols County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Echols County",
+          "latitude": 30.7503289,
+          "longitude": -82.95015579999999,
+          "lineNumber": 153427,
+          "fullLine": "{ name: 'Echols County', state: 'GA', stateCode: 'GA', county: 'Echols County', latitude: 30.7503289, longitude: -82.95015579999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Campbell\\",
+      "stateCode": "IL",
+      "entries": [
+        {
+          "name": "Campbell\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "Rock Island County",
+          "latitude": 41.5417092,
+          "longitude": -90.43019420000002,
+          "lineNumber": 157669,
+          "fullLine": "{ name: 'Campbell\\'s Island', state: 'IL', stateCode: 'IL', county: 'Rock Island County', latitude: 41.5417092, longitude: -90.43019420000002, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Campbell\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "Rock Island County",
+          "latitude": 41.5417092,
+          "longitude": -90.43019420000002,
+          "lineNumber": 157681,
+          "fullLine": "{ name: 'Campbell\\'s Island', state: 'IL', stateCode: 'IL', county: 'Rock Island County', latitude: 41.5417092, longitude: -90.43019420000002, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Campbell\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "Rock Island County",
+          "latitude": 41.5417092,
+          "longitude": -90.43019420000002,
+          "lineNumber": 157693,
+          "fullLine": "{ name: 'Campbell\\'s Island', state: 'IL', stateCode: 'IL', county: 'Rock Island County', latitude: 41.5417092, longitude: -90.43019420000002, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Campbell\\",
+          "state": "IL",
+          "stateCode": "IL",
+          "county": "Rock Island County",
+          "latitude": 41.5417092,
+          "longitude": -90.43019420000002,
+          "lineNumber": 157705,
+          "fullLine": "{ name: 'Campbell\\'s Island', state: 'IL', stateCode: 'IL', county: 'Rock Island County', latitude: 41.5417092, longitude: -90.43019420000002, population: 50000, size: 'small', confidence: 'medium' },"
+        }
+      ]
+    }
+  ],
+  "similarDuplicateList": [
+    {
+      "name": "Beverly Hills",
+      "stateCode": "CA",
+      "entries": [
+        {
+          "name": "Beverly Hills",
+          "state": "California",
+          "stateCode": "CA",
+          "county": "Los Angeles County",
+          "latitude": 34.0736,
+          "longitude": -118.4004,
+          "lineNumber": 145150,
+          "fullLine": "{ name: 'Beverly Hills', state: 'California', stateCode: 'CA', county: 'Los Angeles County', latitude: 34.0736, longitude: -118.4004, population: 35000, size: 'small', confidence: 'high' },"
+        },
+        {
+          "name": "Beverly Hills",
+          "state": "California",
+          "stateCode": "CA",
+          "county": "Los Angeles County",
+          "latitude": 34.0730715,
+          "longitude": -118.4016265,
+          "lineNumber": 145162,
+          "fullLine": "{ name: 'Beverly Hills', state: 'California', stateCode: 'CA', county: 'Los Angeles County', latitude: 34.0730715, longitude: -118.4016265, population: 30974, size: 'small', confidence: 'low' },"
+        }
+      ]
+    }
+  ],
+  "potentialDuplicateList": [
+    {
+      "name": "Norwood",
+      "stateCode": "NY",
+      "entries": [
+        {
+          "name": "Norwood",
+          "state": "NY",
+          "stateCode": "NY",
+          "county": "St. Lawrence County",
+          "latitude": 44.7514452,
+          "longitude": -74.9943641,
+          "lineNumber": 43312,
+          "fullLine": "{ name: 'Norwood', state: 'NY', stateCode: 'NY', county: 'St. Lawrence County', latitude: 44.7514452, longitude: -74.9943641, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Norwood",
+          "state": "New York",
+          "stateCode": "NY",
+          "county": "Bronx County",
+          "latitude": 40.8810341,
+          "longitude": -73.878486,
+          "lineNumber": 44883,
+          "fullLine": "{ name: 'Norwood', state: 'New York', stateCode: 'NY', county: 'Bronx County', latitude: 40.8810341, longitude: -73.878486, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Raub",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Raub",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Benton County",
+          "latitude": 40.727737,
+          "longitude": -87.48885299999999,
+          "lineNumber": 45270,
+          "fullLine": "{ name: 'Raub', state: 'IN', stateCode: 'IN', county: 'Benton County', latitude: 40.727737, longitude: -87.48885299999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Raub",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 3.8067653,
+          "longitude": 101.8536693,
+          "lineNumber": 49314,
+          "fullLine": "{ name: 'Raub', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 3.8067653, longitude: 101.8536693, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Scotland",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Scotland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Greene County",
+          "latitude": 38.9130043,
+          "longitude": -86.90419170000001,
+          "lineNumber": 45294,
+          "fullLine": "{ name: 'Scotland', state: 'IN', stateCode: 'IN', county: 'Greene County', latitude: 38.9130043, longitude: -86.90419170000001, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Scotland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 57.7470127655324,
+          "longitude": -4.687305781018138,
+          "lineNumber": 49335,
+          "fullLine": "{ name: 'Scotland', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 57.7470127655324, longitude: -4.687305781018138, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Ontario",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Ontario",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "LaGrange County",
+          "latitude": 41.7002529,
+          "longitude": -85.382767,
+          "lineNumber": 45389,
+          "fullLine": "{ name: 'Ontario', state: 'IN', stateCode: 'IN', county: 'LaGrange County', latitude: 41.7002529, longitude: -85.382767, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Ontario",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 51.253775,
+          "longitude": -85.3232139,
+          "lineNumber": 49418,
+          "fullLine": "{ name: 'Ontario', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 51.253775, longitude: -85.3232139, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Sardinia",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Sardinia",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Decatur County",
+          "latitude": 39.1539411,
+          "longitude": -85.6310848,
+          "lineNumber": 45761,
+          "fullLine": "{ name: 'Sardinia', state: 'IN', stateCode: 'IN', county: 'Decatur County', latitude: 39.1539411, longitude: -85.6310848, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Sardinia",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 40.1208752,
+          "longitude": 9.012892599999999,
+          "lineNumber": 49727,
+          "fullLine": "{ name: 'Sardinia', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 40.1208752, longitude: 9.012892599999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Riverwood",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Riverwood",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Hamilton County",
+          "latitude": 40.1005235,
+          "longitude": -85.9677457,
+          "lineNumber": 45815,
+          "fullLine": "{ name: 'Riverwood', state: 'IN', stateCode: 'IN', county: 'Hamilton County', latitude: 40.1005235, longitude: -85.9677457, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Riverwood",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": -33.94538,
+          "longitude": 151.0534022,
+          "lineNumber": 49773,
+          "fullLine": "{ name: 'Riverwood', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: -33.94538, longitude: 151.0534022, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Poland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Clay County",
+          "latitude": 39.4440938,
+          "longitude": -86.9507203,
+          "lineNumber": 45847,
+          "fullLine": "{ name: 'Poland', state: 'IN', stateCode: 'IN', county: 'Clay County', latitude: 39.4440938, longitude: -86.9507203, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Poland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 51.919438,
+          "longitude": 19.145136,
+          "lineNumber": 49795,
+          "fullLine": "{ name: 'Poland', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 51.919438, longitude: 19.145136, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Norway",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "White County",
+          "latitude": 40.7783726,
+          "longitude": -86.7594565,
+          "lineNumber": 45961,
+          "fullLine": "{ name: 'Norway', state: 'IN', stateCode: 'IN', county: 'White County', latitude: 40.7783726, longitude: -86.7594565, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Norway",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 60.47202399999999,
+          "longitude": 8.468945999999999,
+          "lineNumber": 49891,
+          "fullLine": "{ name: 'Norway', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 60.47202399999999, longitude: 8.468945999999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Mexico",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Miami County",
+          "latitude": 40.82226379999999,
+          "longitude": -86.1155497,
+          "lineNumber": 46087,
+          "fullLine": "{ name: 'Mexico', state: 'IN', stateCode: 'IN', county: 'Miami County', latitude: 40.82226379999999, longitude: -86.1155497, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Mexico",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 23.634501,
+          "longitude": -102.552784,
+          "lineNumber": 49992,
+          "fullLine": "{ name: 'Mexico', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 23.634501, longitude: -102.552784, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Canton",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Canton",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Washington County",
+          "latitude": 38.6253222,
+          "longitude": -86.035113,
+          "lineNumber": 46721,
+          "fullLine": "{ name: 'Canton', state: 'IN', stateCode: 'IN', county: 'Washington County', latitude: 38.6253222, longitude: -86.035113, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Canton",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 23.1290799,
+          "longitude": 113.26436,
+          "lineNumber": 50508,
+          "fullLine": "{ name: 'Canton', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 23.1290799, longitude: 113.26436, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Ireland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Dubois County",
+          "latitude": 38.4147739,
+          "longitude": -86.9994454,
+          "lineNumber": 46863,
+          "fullLine": "{ name: 'Ireland', state: 'IN', stateCode: 'IN', county: 'Dubois County', latitude: 38.4147739, longitude: -86.9994454, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Ireland",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 53.77975540000001,
+          "longitude": -7.3055309,
+          "lineNumber": 50615,
+          "fullLine": "{ name: 'Ireland', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 53.77975540000001, longitude: -7.3055309, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Lakeshore Resort",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Lakeshore Resort",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Franklin County",
+          "latitude": 39.5132334,
+          "longitude": -85.02204669999999,
+          "lineNumber": 46953,
+          "fullLine": "{ name: 'Lakeshore Resort', state: 'IN', stateCode: 'IN', county: 'Franklin County', latitude: 39.5132334, longitude: -85.02204669999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Lakeshore Resort",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 9.487287499999999,
+          "longitude": 76.3792656,
+          "lineNumber": 50698,
+          "fullLine": "{ name: 'Lakeshore Resort', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 9.487287499999999, longitude: 76.3792656, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Hamburg",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Hamburg",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Clark County",
+          "latitude": 38.384636,
+          "longitude": -85.764847,
+          "lineNumber": 47013,
+          "fullLine": "{ name: 'Hamburg', state: 'IN', stateCode: 'IN', county: 'Clark County', latitude: 38.384636, longitude: -85.764847, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Hamburg",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 53.5488282,
+          "longitude": 9.987170299999999,
+          "lineNumber": 50749,
+          "fullLine": "{ name: 'Hamburg', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 53.5488282, longitude: 9.987170299999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Borden",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Borden",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Clark County",
+          "latitude": 38.4670558,
+          "longitude": -85.9475441,
+          "lineNumber": 47412,
+          "fullLine": "{ name: 'Borden', state: 'IN', stateCode: 'IN', county: 'Clark County', latitude: 38.4670558, longitude: -85.9475441, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Borden",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 15.6107924,
+          "longitude": 73.9536163,
+          "lineNumber": 51081,
+          "fullLine": "{ name: 'Borden', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 15.6107924, longitude: 73.9536163, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Morocco",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Morocco",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Newton County",
+          "latitude": 40.9461457,
+          "longitude": -87.45336259999999,
+          "lineNumber": 47686,
+          "fullLine": "{ name: 'Morocco', state: 'IN', stateCode: 'IN', county: 'Newton County', latitude: 40.9461457, longitude: -87.45336259999999, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Morocco",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 31.791702,
+          "longitude": -7.092619999999999,
+          "lineNumber": 51288,
+          "fullLine": "{ name: 'Morocco', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 31.791702, longitude: -7.092619999999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Salem",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Salem",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Washington County",
+          "latitude": 38.6056131,
+          "longitude": -86.101089,
+          "lineNumber": 48465,
+          "fullLine": "{ name: 'Salem', state: 'IN', stateCode: 'IN', county: 'Washington County', latitude: 38.6056131, longitude: -86.101089, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Salem",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 11.664325,
+          "longitude": 78.1460142,
+          "lineNumber": 51904,
+          "fullLine": "{ name: 'Salem', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 11.664325, longitude: 78.1460142, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Dublin",
+      "stateCode": "IN",
+      "entries": [
+        {
+          "name": "Dublin",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Wayne County",
+          "latitude": 39.8122686,
+          "longitude": -85.2088541,
+          "lineNumber": 48749,
+          "fullLine": "{ name: 'Dublin', state: 'IN', stateCode: 'IN', county: 'Wayne County', latitude: 39.8122686, longitude: -85.2088541, population: 50000, size: 'small', confidence: 'medium' },"
+        },
+        {
+          "name": "Dublin",
+          "state": "IN",
+          "stateCode": "IN",
+          "county": "Unknown County",
+          "latitude": 53.3498053,
+          "longitude": -6.2603097,
+          "lineNumber": 52140,
+          "fullLine": "{ name: 'Dublin', state: 'IN', stateCode: 'IN', county: 'Unknown County', latitude: 53.3498053, longitude: -6.2603097, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "stateCode": "MO",
+      "entries": [
+        {
+          "name": "Mexico",
+          "state": "MO",
+          "stateCode": "MO",
+          "county": "Unknown County",
+          "latitude": 18.6813049,
+          "longitude": -99.1013498,
+          "lineNumber": 91168,
+          "fullLine": "{ name: 'Mexico', state: 'MO', stateCode: 'MO', county: 'Unknown County', latitude: 18.6813049, longitude: -99.1013498, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Mexico",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Audrain County",
+          "latitude": 39.1730652,
+          "longitude": -91.88729339999999,
+          "lineNumber": 91697,
+          "fullLine": "{ name: 'Mexico', state: 'Missouri', stateCode: 'MO', county: 'Audrain County', latitude: 39.1730652, longitude: -91.88729339999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Hartsville/Trousdale County",
+      "stateCode": "TN",
+      "entries": [
+        {
+          "name": "Hartsville/Trousdale County",
+          "state": "TN",
+          "stateCode": "TN",
+          "county": "Trousdale County",
+          "latitude": 36.3911079,
+          "longitude": -86.16610240000001,
+          "lineNumber": 102202,
+          "fullLine": "{ name: 'Hartsville/Trousdale County', state: 'TN', stateCode: 'TN', county: 'Trousdale County', latitude: 36.3911079, longitude: -86.16610240000001, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Hartsville/Trousdale County",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Trousdale County",
+          "latitude": 36.396385,
+          "longitude": -86.15482689999999,
+          "lineNumber": 102430,
+          "fullLine": "{ name: 'Hartsville/Trousdale County', state: 'Tennessee', stateCode: 'TN', county: 'Trousdale County', latitude: 36.396385, longitude: -86.15482689999999, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Harlan",
+      "stateCode": "KY",
+      "entries": [
+        {
+          "name": "Harlan",
+          "state": "KY",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8431441,
+          "longitude": -83.321848,
+          "lineNumber": 115145,
+          "fullLine": "{ name: 'Harlan', state: 'KY', stateCode: 'KY', county: 'Harlan County', latitude: 36.8431441, longitude: -83.321848, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Harlan",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Harlan County",
+          "latitude": 36.8890304,
+          "longitude": -83.2077645,
+          "lineNumber": 115906,
+          "fullLine": "{ name: 'Harlan', state: 'Kentucky', stateCode: 'KY', county: 'Harlan County', latitude: 36.8890304, longitude: -83.2077645, population: 50000, size: 'village', confidence: 'medium' },"
+        }
+      ]
+    },
+    {
+      "name": "Marion",
+      "stateCode": "AR",
+      "entries": [
+        {
+          "name": "Marion",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Crittenden County",
+          "latitude": 35.2144374,
+          "longitude": -90.19721899999999,
+          "lineNumber": 120155,
+          "fullLine": "{ name: 'Marion', state: 'Arkansas', stateCode: 'AR', county: 'Crittenden County', latitude: 35.2144374, longitude: -90.19721899999999, population: 50000, size: 'village', confidence: 'medium' },,"
+        },
+        {
+          "name": "Marion",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Marion County",
+          "latitude": 36.3194702,
+          "longitude": -92.6983868,
+          "lineNumber": 137683,
+          "fullLine": "{ name: 'Marion', state: 'Arkansas', stateCode: 'AR', county: 'Marion County', latitude: 36.3194702, longitude: -92.6983868, population: 13654, size: 'small', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Southside",
+      "stateCode": "AR",
+      "entries": [
+        {
+          "name": "Southside",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Independence County",
+          "latitude": 35.6976474,
+          "longitude": -91.6226143,
+          "lineNumber": 121851,
+          "fullLine": "{ name: 'Southside', state: 'Arkansas', stateCode: 'AR', county: 'Independence County', latitude: 35.6976474, longitude: -91.6226143, population: 50000, size: 'village', confidence: 'medium' },,"
+        },
+        {
+          "name": "Southside",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Van Buren County",
+          "latitude": 35.4264678,
+          "longitude": -92.38987809999999,
+          "lineNumber": 138025,
+          "fullLine": "{ name: 'Southside', state: 'Arkansas', stateCode: 'AR', county: 'Van Buren County', latitude: 35.4264678, longitude: -92.38987809999999, population: 4271, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Yuma",
+      "stateCode": "CO",
+      "entries": [
+        {
+          "name": "Yuma",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.1448234,
+          "longitude": -102.2547919,
+          "lineNumber": 122168,
+          "fullLine": "{ name: 'Yuma', state: 'Colorado', stateCode: 'CO', county: 'Yuma County', latitude: 40.1448234, longitude: -102.2547919, population: 50000, size: 'village', confidence: 'medium' },,"
+        },
+        {
+          "name": "Yuma",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.1222084,
+          "longitude": -102.7252096,
+          "lineNumber": 147862,
+          "fullLine": "{ name: 'Yuma', state: 'Colorado', stateCode: 'CO', county: 'Yuma County', latitude: 40.1222084, longitude: -102.7252096, population: 3401, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Centerville",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Centerville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Houston County",
+          "latitude": 32.630145,
+          "longitude": -83.6896285,
+          "lineNumber": 131283,
+          "fullLine": "{ name: 'Centerville', state: 'Georgia', stateCode: 'GA', county: 'Houston County', latitude: 32.630145, longitude: -83.6896285, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Centerville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.69485969999999,
+          "longitude": -84.45547549999999,
+          "lineNumber": 155911,
+          "fullLine": "{ name: 'Centerville', state: 'Georgia', stateCode: 'GA', county: 'Talbot County', latitude: 32.69485969999999, longitude: -84.45547549999999, population: 8470, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Jefferson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jackson County",
+          "latitude": 34.1170537,
+          "longitude": -83.5723876,
+          "lineNumber": 131317,
+          "fullLine": "{ name: 'Jefferson', state: 'Georgia', stateCode: 'GA', county: 'Jackson County', latitude: 34.1170537, longitude: -83.5723876, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Jefferson",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Jefferson County",
+          "latitude": 33.0740753,
+          "longitude": -82.4319405,
+          "lineNumber": 155522,
+          "fullLine": "{ name: 'Jefferson', state: 'Georgia', stateCode: 'GA', county: 'Jefferson County', latitude: 33.0740753, longitude: -82.4319405, population: 15756, size: 'small', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "stateCode": "FL",
+      "entries": [
+        {
+          "name": "Madison",
+          "state": "Florida",
+          "stateCode": "FL",
+          "county": "Madison County",
+          "latitude": 30.4693772,
+          "longitude": -83.41292539999999,
+          "lineNumber": 131608,
+          "fullLine": "{ name: 'Madison', state: 'Florida', stateCode: 'FL', county: 'Madison County', latitude: 30.4693772, longitude: -83.41292539999999, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Madison",
+          "state": "Florida",
+          "stateCode": "FL",
+          "county": "Madison County",
+          "latitude": 30.4586334,
+          "longitude": -83.5070203,
+          "lineNumber": 153004,
+          "fullLine": "{ name: 'Madison', state: 'Florida', stateCode: 'FL', county: 'Madison County', latitude: 30.4586334, longitude: -83.5070203, population: 3003, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Madison",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Morgan County",
+          "latitude": 33.5956813,
+          "longitude": -83.467944,
+          "lineNumber": 131831,
+          "fullLine": "{ name: 'Madison', state: 'Georgia', stateCode: 'GA', county: 'Morgan County', latitude: 33.5956813, longitude: -83.467944, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Madison",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Madison County",
+          "latitude": 34.0990245,
+          "longitude": -83.2077645,
+          "lineNumber": 155633,
+          "fullLine": "{ name: 'Madison', state: 'Georgia', stateCode: 'GA', county: 'Madison County', latitude: 34.0990245, longitude: -83.2077645, population: 4964, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln",
+      "stateCode": "AR",
+      "entries": [
+        {
+          "name": "Lincoln",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Washington County",
+          "latitude": 35.9475984,
+          "longitude": -94.4234685,
+          "lineNumber": 132120,
+          "fullLine": "{ name: 'Lincoln', state: 'Arkansas', stateCode: 'AR', county: 'Washington County', latitude: 35.9475984, longitude: -94.4234685, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Lincoln",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Lincoln County",
+          "latitude": 33.9185116,
+          "longitude": -91.714958,
+          "lineNumber": 137575,
+          "fullLine": "{ name: 'Lincoln', state: 'Arkansas', stateCode: 'AR', county: 'Lincoln County', latitude: 33.9185116, longitude: -91.714958, population: 2355, size: 'village', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Malibu",
+      "stateCode": "CA",
+      "entries": [
+        {
+          "name": "Malibu",
+          "state": "California",
+          "stateCode": "CA",
+          "county": "Los Angeles County",
+          "latitude": 34.0259,
+          "longitude": -118.7798,
+          "lineNumber": 145151,
+          "fullLine": "{ name: 'Malibu', state: 'California', stateCode: 'CA', county: 'Los Angeles County', latitude: 34.0259, longitude: -118.7798, population: 12000, size: 'small', confidence: 'high' },"
+        },
+        {
+          "name": "Malibu",
+          "state": "California",
+          "stateCode": "CA",
+          "county": "Los Angeles County",
+          "latitude": 34.0380585,
+          "longitude": -118.6923438,
+          "lineNumber": 145186,
+          "fullLine": "{ name: 'Malibu', state: 'California', stateCode: 'CA', county: 'Los Angeles County', latitude: 34.0380585, longitude: -118.6923438, population: 10277, size: 'small', confidence: 'low' },"
+        }
+      ]
+    },
+    {
+      "name": "Monroe",
+      "stateCode": "GA",
+      "entries": [
+        {
+          "name": "Monroe",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Walton County",
+          "latitude": 33.7948364,
+          "longitude": -83.713229,
+          "lineNumber": 153364,
+          "fullLine": "{ name: 'Monroe', state: 'Georgia', stateCode: 'GA', county: 'Walton County', latitude: 33.7948364, longitude: -83.713229, population: 50000, size: 'village', confidence: 'medium' },"
+        },
+        {
+          "name": "Monroe",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Monroe County",
+          "latitude": 32.9746846,
+          "longitude": -83.8897057,
+          "lineNumber": 155691,
+          "fullLine": "{ name: 'Monroe', state: 'Georgia', stateCode: 'GA', county: 'Monroe County', latitude: 32.9746846, longitude: -83.8897057, population: 15929, size: 'small', confidence: 'low' },"
+        }
+      ]
+    }
+  ]
+}

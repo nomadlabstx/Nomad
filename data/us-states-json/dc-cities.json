@@ -1,0 +1,22 @@
+{
+  "name": "District of Columbia",
+  "code": "DC",
+  "counties": [
+    {
+      "name": "District of Columbia County",
+      "cities": [
+        {
+          "name": "Washington",
+          "state": "District of Columbia",
+          "stateCode": "DC",
+          "county": "District of Columbia County",
+          "latitude": 38.9071923,
+          "longitude": -77.0368707,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

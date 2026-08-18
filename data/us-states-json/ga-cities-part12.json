@@ -1,0 +1,562 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Talbot County",
+      "cities": [
+        {
+          "name": "Box Springs",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.5326403,
+          "longitude": -84.6610372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Talbot County",
+      "cities": [
+        {
+          "name": "Centerville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.69485969999999,
+          "longitude": -84.45547549999999,
+          "population": 8470,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Easton",
+          "state": "Maryland",
+          "stateCode": "MD",
+          "county": "Talbot County",
+          "latitude": 38.7742826,
+          "longitude": -76.0763305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Geneva",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.579862,
+          "longitude": -84.5507559,
+          "population": 75,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Junction City",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.6034735,
+          "longitude": -84.4593646,
+          "population": 137,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Talbotton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.6776372,
+          "longitude": -84.5393664,
+          "population": 736,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Woodland",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Talbot County",
+          "latitude": 32.787356,
+          "longitude": -84.56186710000001,
+          "population": 299,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Taliaferro County",
+      "cities": []
+    },
+    {
+      "name": "Taliaferro County",
+      "cities": [
+        {
+          "name": "Sharon",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Taliaferro County",
+          "latitude": 33.5598553,
+          "longitude": -82.7948629,
+          "population": 111,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Tattnall County",
+      "cities": [
+        {
+          "name": "Mendes",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Tattnall County",
+          "latitude": 31.9988109,
+          "longitude": -81.9740068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tattnall County",
+      "cities": []
+    },
+    {
+      "name": "Tattnall County",
+      "cities": [
+        {
+          "name": "Cobbtown",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tattnall County",
+          "latitude": 32.2804623,
+          "longitude": -82.138731,
+          "population": 342,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Collins",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tattnall County",
+          "latitude": 32.1813013,
+          "longitude": -82.1090083,
+          "population": 540,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Manassas",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tattnall County",
+          "latitude": 32.1604689,
+          "longitude": -82.01956249999999,
+          "population": 62,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Reidsville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tattnall County",
+          "latitude": 32.0868611,
+          "longitude": -82.1178978,
+          "population": 2563,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Taylor County",
+      "cities": [
+        {
+          "name": "Howard",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Taylor County",
+          "latitude": 32.5960761,
+          "longitude": -84.38431419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Taylor County",
+      "cities": [
+        {
+          "name": "Reynolds",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Taylor County",
+          "latitude": 32.5598685,
+          "longitude": -84.09630039999999,
+          "population": 903,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Telfair County",
+      "cities": []
+    },
+    {
+      "name": "Telfair County",
+      "cities": [
+        {
+          "name": "Jacksonville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Telfair County",
+          "latitude": 31.8126838,
+          "longitude": -82.97903579999999,
+          "population": 106,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lumber City",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Telfair County",
+          "latitude": 31.92938239999999,
+          "longitude": -82.6794539,
+          "population": 954,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Milan",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Telfair County",
+          "latitude": 32.0173996,
+          "longitude": -83.0626489,
+          "population": 606,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Scotland",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Telfair County",
+          "latitude": 32.0487877,
+          "longitude": -82.8170863,
+          "population": 168,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Terrell County",
+      "cities": []
+    },
+    {
+      "name": "Terrell County",
+      "cities": [
+        {
+          "name": "Bronwood",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Terrell County",
+          "latitude": 31.8310001,
+          "longitude": -84.364358,
+          "population": 315,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Parrott",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Terrell County",
+          "latitude": 31.8934963,
+          "longitude": -84.51325,
+          "population": 106,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sasser",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Terrell County",
+          "latitude": 31.7206503,
+          "longitude": -84.3463045,
+          "population": 270,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Thomas County",
+      "cities": []
+    },
+    {
+      "name": "Thomas County",
+      "cities": [
+        {
+          "name": "Barwick",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Thomas County",
+          "latitude": 30.8901919,
+          "longitude": -83.7407217,
+          "population": 353,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Boston",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Thomas County",
+          "latitude": 30.7921393,
+          "longitude": -83.7900091,
+          "population": 1216,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Coolidge",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Thomas County",
+          "latitude": 31.0112991,
+          "longitude": -83.86628209999999,
+          "population": 529,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Meigs",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Thomas County",
+          "latitude": 31.0724085,
+          "longitude": -84.0890659,
+          "population": 928,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ochlocknee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Thomas County",
+          "latitude": 30.97379969999999,
+          "longitude": -84.0529518,
+          "population": 673,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Tift County",
+      "cities": [
+        {
+          "name": "Unionville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Tift County",
+          "latitude": 31.4349074,
+          "longitude": -83.50960839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tift County",
+      "cities": [
+        {
+          "name": "Phillipsburg",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Tift County",
+          "latitude": 31.4396295,
+          "longitude": -83.5193309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tift County",
+      "cities": []
+    },
+    {
+      "name": "Tift County",
+      "cities": [
+        {
+          "name": "Omega",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tift County",
+          "latitude": 31.3398292,
+          "longitude": -83.5958146,
+          "population": 1320,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ty Ty",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Tift County",
+          "latitude": 31.4718497,
+          "longitude": -83.6468362,
+          "population": 639,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Toombs County",
+      "cities": [
+        {
+          "name": "Ohoopee",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Toombs County",
+          "latitude": 32.1801904,
+          "longitude": -82.2195655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Toombs County",
+      "cities": []
+    },
+    {
+      "name": "Toombs County",
+      "cities": [
+        {
+          "name": "Lyons",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Toombs County",
+          "latitude": 32.2043546,
+          "longitude": -82.32179099999999,
+          "population": 4195,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Santa Claus",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Toombs County",
+          "latitude": 32.1715776,
+          "longitude": -82.3315138,
+          "population": 202,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Towns County",
+      "cities": [
+        {
+          "name": "Tate City",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Towns County",
+          "latitude": 34.98167,
+          "longitude": -83.55444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Towns County",
+      "cities": []
+    },
+    {
+      "name": "Towns County",
+      "cities": [
+        {
+          "name": "Young Harris",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Towns County",
+          "latitude": 34.9331453,
+          "longitude": -83.8471223,
+          "population": 804,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Treutlen County",
+      "cities": []
+    },
+    {
+      "name": "Treutlen County",
+      "cities": []
+    },
+    {
+      "name": "Troup County",
+      "cities": []
+    },
+    {
+      "name": "Troup County",
+      "cities": [
+        {
+          "name": "Hogansville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Troup County",
+          "latitude": 33.1730399,
+          "longitude": -84.91478359999999,
+          "population": 3234,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "West Point",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Troup County",
+          "latitude": 32.8779056,
+          "longitude": -85.18327459999999,
+          "population": 3605,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Turner County",
+      "cities": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Jacksons' Gap",
+    "stateCode": "AL",
+    "type": "CDP"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "AK",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Kean",
+    "stateCode": "AR",
+    "type": "CDP"
+  },
+  {
+    "name": "Kep'el",
+    "stateCode": "CA",
+    "type": "CDP"
+  },
+  {
+    "name": "CaÃ±on City",
+    "stateCode": "CO",
+    "type": "CDP"
+  },
+  {
+    "name": "St. Mary's",
+    "stateCode": "CO",
+    "type": "CDP"
+  },
+  {
+    "name": "Land O' Lakes",
+    "stateCode": "FL",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "IL",
+    "type": "CDP"
+  },
+  {
+    "name": "Campbell's Island",
+    "stateCode": "IL",
+    "type": "CDP"
+  },
+  {
+    "name": "Prince's Lakes",
+    "stateCode": "IN",
+    "type": "CDP"
+  },
+  {
+    "name": "D'Iberville",
+    "stateCode": "MS",
+    "type": "CDP"
+  },
+  {
+    "name": "Lee's Summit",
+    "stateCode": "MO",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Fallon",
+    "stateCode": "MO",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Neill",
+    "stateCode": "NE",
+    "type": "CDP"
+  },
+  {
+    "name": "Wilson's Mills",
+    "stateCode": "NC",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "OR",
+    "type": "CDP"
+  },
+  {
+    "name": "Sullivan's Island",
+    "stateCode": "SC",
+    "type": "CDP"
+  },
+  {
+    "name": "Bailey's Prairie",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Donnell",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "Morgan's Point Resort",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "O'Brien",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "Morgan's Point",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "D'Hanis",
+    "stateCode": "TX",
+    "type": "CDP"
+  },
+  {
+    "name": "Lake Land'Or",
+    "stateCode": "VA",
+    "type": "CDP"
+  },
+  {
+    "name": "The University of Virginia's College at Wise",
+    "stateCode": "VA",
+    "type": "CDP"
+  },
+  {
+    "name": "Chain O' Lakes",
+    "stateCode": "WI",
+    "type": "CDP"
+  }
+]

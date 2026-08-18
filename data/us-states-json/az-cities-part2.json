@@ -1,0 +1,572 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "LeChee",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.8616541,
+          "longitude": -111.4395128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leupp",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2980659,
+          "longitude": -111.0062528,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Kaibab Estates West",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2813999,
+          "longitude": -112.5006693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kaibito",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.5796354,
+          "longitude": -111.0942099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Kachina Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.0969581,
+          "longitude": -111.6926602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Greenehaven",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.9961074,
+          "longitude": -111.5557733,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Grand Canyon Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.0544445,
+          "longitude": -112.1401108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Fort Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2682026,
+          "longitude": -111.7279594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Forest Lakes",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 34.3421707,
+          "longitude": -110.8119498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Doney Park",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2695305,
+          "longitude": -111.5139799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Cameron",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.8758285,
+          "longitude": -111.4129207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Blue Ridge",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 34.6343963,
+          "longitude": -111.0818084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Bitter Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.6285991,
+          "longitude": -111.6543255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Bellemont",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2380657,
+          "longitude": -111.8334974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": []
+    },
+    {
+      "name": "Coconino County",
+      "cities": []
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Fredonia",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.945542,
+          "longitude": -112.5265889,
+          "population": 1302,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Page",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.91472220000001,
+          "longitude": -111.4558333,
+          "population": 7320,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tusayan",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.9735954,
+          "longitude": -112.1265569,
+          "population": 583,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Williams",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.24945659999999,
+          "longitude": -112.1910031,
+          "population": 3463,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Young",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.1014318,
+          "longitude": -110.9637358,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Whispering Pines",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3711421,
+          "longitude": -111.2834692,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Washington Park",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.42444,
+          "longitude": -111.26694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Tonto Basin",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.8502345,
+          "longitude": -111.3104752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tonto Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.316146,
+          "longitude": -111.1320764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Strawberry",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.4078783,
+          "longitude": -111.493259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Six Shooter Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3641691,
+          "longitude": -110.7658867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "San Carlos",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.3545086,
+          "longitude": -110.452479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Rock House",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.6343561,
+          "longitude": -110.9432125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roosevelt",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.6675484,
+          "longitude": -111.1342893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roosevelt Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.6222191,
+          "longitude": -111.0043126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Round Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.194039,
+          "longitude": -111.3115504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rye",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.1091168,
+          "longitude": -111.3537131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Pine",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3844739,
+          "longitude": -111.4551407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Peridot",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 33.2979821,
+          "longitude": -110.4572442,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Oxbow Estates",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.18306,
+          "longitude": -111.33972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Mesa del Caballo",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.2855599,
+          "longitude": -111.29444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Mead Ranch",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.3466639,
+          "longitude": -111.1417992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Kohls Ranch",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.32528,
+          "longitude": -111.09361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gila County",
+      "cities": [
+        {
+          "name": "Jakes Corner",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Gila County",
+          "latitude": 34.0105961,
+          "longitude": -111.3192999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

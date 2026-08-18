@@ -1,107 +1,114 @@
 /**
- * Recorder Tab - Dual Mode GPS Navigation
- * Supports both active navigation and passive trip recording
+ * GPS Tab — Maps, routing, and turn-by-turn navigation.
+ * Trip/path recording runs automatically in the background while navigating.
  */
 
 import * as Haptics from 'expo-haptics';
+import { Ionicons } from '@expo/vector-icons';
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { Alert, Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import { useLocalSearchParams, useFocusEffect } from 'expo-router';
-import { AITripPlanner, type ParsedTripPlan } from '../../components/ai-trip-planner';
+import { Alert, Dimensions, Linking, Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { useLocalSearchParams, useFocusEffect, useRouter } from 'expo-router';
 import { DestinationParkingPreview } from '../../components/destination-parking-preview';
 import DestinationSearch from '../../components/destination-search';
 import MaybeMapView, {
     PROVIDER_GOOGLE as MAYBE_PROVIDER_GOOGLE,
     PROVIDER_DEFAULT as MAYBE_PROVIDER_DEFAULT,
     Marker as MaybeMarker,
-    Polyline as MaybePolyline,
 } from '../../components/maybe-map';
 import { Platform } from 'react-native';
 import { MultiStopPlanner } from '../../components/multi-stop-planner';
 import NavigationUI from '../../components/navigation-ui';
 import { ParkingSuggestions } from '../../components/parking-suggestions';
-import RPGNavigationOverlay from '../../components/rpg-navigation-overlay';
-import RecorderHUD from '../../components/recorder-hud';
 import RouteSelector from '../../components/route-selector';
-import { RouteHistory } from '../../components/route-history';
+import RoutePreviewPolylines from '../../components/route-preview-polylines';
 import { OfflineIndicator } from '../../components/offline-indicator';
-import { Colors } from '../../constants/theme';
-import { useColorScheme } from '../../hooks/use-color-scheme';
+import GpsSimulatorPanel from '../../components/gps-simulator-panel';
+import { useAppTint } from '../../components/color-context';
 import { useAchievements } from '../../hooks/use-achievements';
 import { useNavigation } from '../../hooks/use-navigation';
 import { useTripTracking } from '../../hooks/use-trip-tracking';
+import { useGpsSimulator } from '../../hooks/use-gps-simulator';
+import { aiPlannerContextService } from '../../services/ai-planner-context';
 import { Coordinates, navigationService } from '../../services/navigation';
-import { reverseGeocodingService } from '../../services/reverse-geocoding';
-import { userPreferencesService } from '../../services/user-preferences';
-import type { RPGOverlaySettings } from '../../types/user-preferences';
-
-type RecorderMode = 'passive' | 'navigate';
+import { gpsSimulator, type GpsSimulatorPreset } from '../../utils/gps-simulator';
+import { getAccentFill, getOnAccentColor } from '../../utils/theme-helpers';
+import { formatTripName } from '../../utils/trip-names';
 
 const RecorderTab = memo(() => {
   // State
-  const [mode, setMode] = useState<RecorderMode>('passive');
-  const [unit, setUnit] = useState<'miles' | 'km'>('miles');
+  const [unit] = useState<'miles' | 'km'>('miles');
   const [showDestinationSearch, setShowDestinationSearch] = useState(false);
   const [showRouteSelector, setShowRouteSelector] = useState(false);
-  const [showRouteHistory, setShowRouteHistory] = useState(false);
-  const [showAIPlanner, setShowAIPlanner] = useState(false);
   const [showMultiStopPlanner, setShowMultiStopPlanner] = useState(false);
   const [destinationMarker, setDestinationMarker] = useState<Coordinates | null>(null);
-  const [currentCity, setCurrentCity] = useState<string>('Unknown');
-  const [currentState, setCurrentState] = useState<string>('Unknown');
   const [destinationName, setDestinationName] = useState<string>('');
   const [showParkingSuggestions, setShowParkingSuggestions] = useState(false);
-  const [rpgSettings, setRpgSettings] = useState<RPGOverlaySettings | null>(null);
 
   // Refs
   const navigationMapRef = useRef<any>(null);
-  const tripStartTimeRef = useRef<number | null>(null);
   const autoRecordingRef = useRef(false);
+  const tripNameRef = useRef('');
+  const inboundReplayRef = useRef<string | null>(null);
+  const hasInitialCenteredRef = useRef(false);
+  const [followsUser, setFollowsUser] = useState(false);
 
   // Hooks
-  const colorScheme = useColorScheme();
   const passiveTracking = useTripTracking();
   const navigation = useNavigation();
   const achievements = useAchievements();
-  
-  // Get tint color from theme
-  const tint = Colors[colorScheme ?? 'light'].tint;
+  const gpsSim = useGpsSimulator();
+  const { tint: themeTint } = useAppTint();
+  const tint = getAccentFill(themeTint);
+  const onAccent = getOnAccentColor(tint);
 
   // Get route params for navigation from planned trips
   const params = useLocalSearchParams();
-
-  // Load RPG overlay settings
-  useEffect(() => {
-    const loadSettings = async () => {
-      const settings = await userPreferencesService.getRPGOverlaySettings();
-      setRpgSettings(settings);
-    };
-    loadSettings();
-  }, []);
+  const router = useRouter();
 
   // Handle navigation from planned trips
   useFocusEffect(
     useCallback(() => {
       // Check if we arrived from a planned trip
+      if (params.applyAIPlan === 'true') {
+        const plan = aiPlannerContextService.consumePendingPlan();
+        if (plan) {
+          void (async () => {
+            await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+            achievements.recordAITripPlanned();
+            await navigation.calculateRoute(plan.finalDestination.location, {
+              waypoints: plan.stops.map(stop => stop.location),
+              ...plan.routeOptions,
+            }, undefined, plan.finalDestination.name);
+            setDestinationName(plan.finalDestination.name || '');
+            setDestinationMarker(plan.finalDestination.location);
+            setShowRouteSelector(true);
+          })();
+        }
+      }
+
       if (params.fromPlannedTrip === 'true' && params.destinationLat && params.destinationLng) {
         const destination: Coordinates = {
           latitude: parseFloat(params.destinationLat as string),
           longitude: parseFloat(params.destinationLng as string),
         };
-        const destinationName = (params.destinationName as string) || 'Destination';
-
-        // Set destination marker and name - this must happen first
-        setDestinationMarker(destination);
-        setDestinationName(destinationName);
-
-        // Show route selector if routes are already available
-        if (navigation.routes.length > 0) {
-          setShowRouteSelector(true);
+        const inboundName = (params.destinationName as string) || 'Destination';
+        const replayKey = `${params.replay || ''}:${destination.latitude}:${destination.longitude}:${inboundName}`;
+        if (
+          Number.isFinite(destination.latitude) &&
+          Number.isFinite(destination.longitude) &&
+          inboundReplayRef.current !== replayKey
+        ) {
+          inboundReplayRef.current = replayKey;
+          setDestinationMarker(destination);
+          setDestinationName(inboundName);
+          void (async () => {
+            await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+            await navigation.calculateRoute(destination, {}, undefined, inboundName);
+            setShowRouteSelector(true);
+          })();
         }
-        // Note: If routes aren't available yet, the useEffect below will handle showing
-        // the route selector when routes become available
       }
-    }, [params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, navigation.routes.length])
+    }, [params.applyAIPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
   );
 
   // Auto-show route selector when routes become available after planned trip navigation
@@ -113,21 +120,15 @@ const RecorderTab = memo(() => {
     }
   }, [navigation.routes.length, params.fromPlannedTrip, destinationMarker]);
 
-  // Track trip start time for navigation mode
-  useEffect(() => {
-    if (navigation.isNavigating && !tripStartTimeRef.current) {
-      tripStartTimeRef.current = Date.now();
-    } else if (!navigation.isNavigating && tripStartTimeRef.current) {
-      tripStartTimeRef.current = null;
-    }
-  }, [navigation.isNavigating]);
-
   /**
    * Auto-record trips when navigation is active
    */
   useEffect(() => {
     if (navigation.isNavigating) {
       if (!passiveTracking.tracking) {
+        tripNameRef.current = formatTripName(
+          destinationName || navigation.getDestinationLabel() || ''
+        );
         passiveTracking.start();
         autoRecordingRef.current = true;
       }
@@ -135,10 +136,12 @@ const RecorderTab = memo(() => {
     }
 
     if (autoRecordingRef.current) {
-      passiveTracking.stop();
+      passiveTracking.stop({
+        name: tripNameRef.current || destinationName || navigation.getDestinationLabel() || undefined,
+      });
       autoRecordingRef.current = false;
     }
-  }, [navigation.isNavigating, passiveTracking.tracking, passiveTracking.start, passiveTracking.stop]);
+  }, [navigation.isNavigating, navigation.getDestinationLabel, destinationName, passiveTracking.tracking, passiveTracking.start, passiveTracking.stop]);
 
   // Check achievements periodically during navigation
   useEffect(() => {
@@ -164,94 +167,66 @@ const RecorderTab = memo(() => {
   /**
    * Get current location for map center
    */
-  const currentLocation = mode === 'passive' 
-    ? passiveTracking.loc 
-    : navigation.currentLocation;
+  const currentLocation = navigation.currentLocation ?? passiveTracking.loc;
 
   /**
-   * Update current city and state from location
-   */
-  const updateCurrentLocationInfo = useCallback(async (location: { latitude: number; longitude: number } | null) => {
-    if (!location) return;
-    
-    try {
-      const locationInfo = await reverseGeocodingService.getLocationInfo(location);
-      setCurrentCity(locationInfo.city);
-      setCurrentState(locationInfo.stateCode);
-    } catch (error) {
-      console.warn('[Recorder] Failed to get location info:', error);
-    }
-  }, []);
-
-  /**
-   * Update location info when current location changes
+   * Center map once when location first becomes available.
    */
   useEffect(() => {
-    updateCurrentLocationInfo(currentLocation);
-  }, [currentLocation, updateCurrentLocationInfo]);
+    if (!currentLocation || hasInitialCenteredRef.current) return;
+
+    hasInitialCenteredRef.current = true;
+    navigationMapRef.current?.animateToRegion({
+      latitude: currentLocation.latitude,
+      longitude: currentLocation.longitude,
+      latitudeDelta: 0.01,
+      longitudeDelta: 0.01,
+    }, 500);
+  }, [currentLocation]);
 
   /**
-   * Keep map following the user location
+   * Follow user only while followsUser is enabled (after tapping recenter).
    */
   useEffect(() => {
-    if (!currentLocation) return;
-    const mapRef = mode === 'passive' ? passiveTracking.mapRef : navigationMapRef;
+    if (!followsUser || !currentLocation) return;
 
-    if (mapRef?.current) {
-      mapRef.current.animateToRegion({
-        latitude: currentLocation.latitude,
-        longitude: currentLocation.longitude,
-        latitudeDelta: 0.01,
-        longitudeDelta: 0.01,
-      }, 500);
-    }
-  }, [currentLocation, mode, passiveTracking.mapRef]);
+    navigationMapRef.current?.animateToRegion({
+      latitude: currentLocation.latitude,
+      longitude: currentLocation.longitude,
+      latitudeDelta: 0.01,
+      longitudeDelta: 0.01,
+    }, 300);
+  }, [currentLocation, followsUser]);
 
   /**
-   * Recenter map on user location
+   * Recenter map on user location and resume following GPS.
    */
   const handleRecenter = useCallback(() => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-    const mapRef = mode === 'passive' ? passiveTracking.mapRef : navigationMapRef;
-    
-    if (mapRef?.current && currentLocation) {
-      mapRef.current.animateToRegion({
+    setFollowsUser(true);
+
+    if (navigationMapRef.current && currentLocation) {
+      navigationMapRef.current.animateToRegion({
         latitude: currentLocation.latitude,
         longitude: currentLocation.longitude,
         latitudeDelta: 0.01,
         longitudeDelta: 0.01,
       }, 500);
     }
-  }, [mode, passiveTracking.mapRef, currentLocation]);
+  }, [currentLocation]);
 
-  /**
-   * Handle mode switch
-   */
-  const handleModeSwitch = useCallback((newMode: RecorderMode) => {
-    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-    
-    // Warn if switching modes while tracking
-    if (passiveTracking.tracking || navigation.isNavigating) {
+  const handleMapPan = useCallback(() => {
+    setFollowsUser(false);
+  }, []);
+
+  const handleOpenLocationSettings = useCallback(() => {
+    Linking.openSettings().catch(() => {
       Alert.alert(
-        'Switch Mode?',
-        'This will stop your current activity. Continue?',
-        [
-          { text: 'Cancel', style: 'cancel' },
-          {
-            text: 'Continue',
-            style: 'destructive',
-            onPress: () => {
-              if (passiveTracking.tracking) passiveTracking.stop();
-              if (navigation.isNavigating) navigation.stopNavigation();
-              setMode(newMode);
-            },
-          },
-        ]
+        'Open Settings Failed',
+        'Please open your device settings and enable location permission for Nomad.'
       );
-    } else {
-      setMode(newMode);
-    }
-  }, [passiveTracking, navigation]);
+    });
+  }, []);
 
   /**
    * Handle destination selection
@@ -265,7 +240,7 @@ const RecorderTab = memo(() => {
     setDestinationName(description);
 
     // Calculate route
-    await navigation.calculateRoute(coordinates);
+    await navigation.calculateRoute(coordinates, undefined, undefined, description);
     setShowRouteSelector(true);
   }, [navigation]);
 
@@ -277,7 +252,7 @@ const RecorderTab = memo(() => {
     if (parking.coordinates) {
       setDestinationMarker(parking.coordinates);
       setDestinationName(parking.name);
-      navigation.calculateRoute(parking.coordinates);
+      navigation.calculateRoute(parking.coordinates, undefined, undefined, parking.name);
     }
   }, [navigation]);
 
@@ -295,52 +270,57 @@ const RecorderTab = memo(() => {
     setShowRouteSelector(false);
     
     // Start passive trip recording in the background during navigation
-    if (!passiveTracking.tracking) {
-      passiveTracking.start();
-    }
-    
     navigation.startNavigation();
-  }, [navigation, passiveTracking]);
+    setFollowsUser(true);
+  }, [navigation]);
 
   /**
    * Handle stop navigation
    */
   const handleStopNavigation = useCallback(() => {
+    gpsSimulator.stop();
     navigation.stopNavigation();
     setDestinationMarker(null);
-    setMode('passive'); // Reset to passive mode (fixes UI state)
-    // Navigation completion is tracked in the useEffect above
   }, [navigation]);
 
-  /**
-   * Handle AI trip plan generated
-   */
-  const handleAITripPlanGenerated = useCallback(
-    async (plan: ParsedTripPlan) => {
-      await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-      
-      // Track AI trip planning achievement
-      achievements.recordAITripPlanned();
-      
-      // Calculate route with waypoints from AI plan
-      await navigation.calculateRoute(plan.finalDestination.location, {
-        waypoints: plan.stops.map(stop => stop.location),
-        ...plan.routeOptions,
-      });
+  const handleStartSimulation = useCallback((preset: GpsSimulatorPreset) => {
+    const route = navigation.selectedRoute;
+    if (!route) return;
 
-      setDestinationMarker(plan.finalDestination.location);
-      setShowRouteSelector(true);
-    },
-    [navigation, achievements]
-  );
+    let path = navigationService.getDetailedRoutePath(route);
+    if (path.length < 2) {
+      path = navigationService.decodePolyline(route.overviewPolyline);
+    }
+    const destination = route.legs[route.legs.length - 1]?.endLocation;
+    if (destination) {
+      path = [...path, destination];
+    }
+
+    const started = gpsSimulator.start(path, preset);
+    if (!started) {
+      Alert.alert('Simulate drive', 'Could not build a path from this route.');
+      return;
+    }
+
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+    setFollowsUser(true);
+    setShowRouteSelector(false);
+
+    if (!navigation.isNavigating) {
+      navigation.startNavigation();
+    }
+  }, [navigation]);
 
   /**
    * Handle multi-stop route planning
    */
   const handleMultiStopRoute = useCallback(
-    async (destination: Coordinates, options: any) => {
+    async (destination: Coordinates, options: any, destName?: string) => {
       setShowMultiStopPlanner(false);
-      await navigation.calculateRoute(destination, options);
+      if (destName) {
+        setDestinationName(destName);
+      }
+      await navigation.calculateRoute(destination, options, undefined, destName || undefined);
       setDestinationMarker(destination);
       setShowRouteSelector(true);
     },
@@ -357,92 +337,89 @@ const RecorderTab = memo(() => {
     longitudeDelta: 0.01, // Closer zoom (was 0.08)
   }), [currentLocation?.latitude, currentLocation?.longitude]);
 
-  /**
-   * Memoize polyline coordinates (for passive mode)
-   */
-  const passivePolyline = useMemo(() => {
-    if (mode !== 'passive' || passiveTracking.path.length <= 1) return [];
-    
-    let points = passiveTracking.path;
-    if (points.length > 500) {
-      points = points.filter((_, index) => index % 3 === 0 || index === points.length - 1);
-    } else if (points.length > 200) {
-      points = points.filter((_, index) => index % 2 === 0 || index === points.length - 1);
+  const previewRoutes = useMemo(() => {
+    if (navigation.isNavigating) {
+      return navigation.selectedRoute ? [navigation.selectedRoute] : [];
     }
-    
-    return points.map((p) => ({ latitude: p.latitude, longitude: p.longitude }));
-  }, [mode, passiveTracking.path]);
+    if (navigation.routes.length > 0) {
+      return navigation.routes;
+    }
+    return navigation.selectedRoute ? [navigation.selectedRoute] : [];
+  }, [navigation.isNavigating, navigation.routes, navigation.selectedRoute]);
 
   /**
-   * Memoize navigation polyline (for navigate mode)
+   * Pull the camera back so the whole route is visible while picking a path.
    */
-  const navigationPolyline = useMemo(() => {
-    if (mode !== 'navigate' || !navigation.selectedRoute) return [];
-    
-    try {
-      // Decode overview polyline from Google Directions
-      const decoded = navigationService.decodePolyline(navigation.selectedRoute.overviewPolyline);
-      
-      // Simplify if too many points (performance optimization)
-      if (decoded.length > 500) {
-        return decoded.filter((_, index) => index % 3 === 0 || index === decoded.length - 1);
-      }
-      
-      return decoded;
-    } catch (error) {
-      console.error('Failed to decode route polyline:', error);
-      return [];
+  useEffect(() => {
+    if (!showRouteSelector || navigation.routes.length === 0) {
+      return;
     }
-  }, [mode, navigation.selectedRoute]);
+
+    setFollowsUser(false);
+
+    const points = navigation.routes.flatMap((route) => {
+      try {
+        const detailed = navigationService.getDetailedRoutePath(route);
+        return detailed.length >= 2
+          ? detailed
+          : navigationService.decodePolyline(route.overviewPolyline);
+      } catch {
+        return [];
+      }
+    });
+    if (currentLocation) {
+      points.push(currentLocation);
+    }
+    if (destinationMarker) {
+      points.push(destinationMarker);
+    }
+    if (points.length < 2) {
+      return;
+    }
+
+    const bottomPad = Math.round(Dimensions.get('window').height * 0.42);
+    const timer = setTimeout(() => {
+      navigationMapRef.current?.fitToCoordinates(points, {
+        edgePadding: { top: 72, right: 40, bottom: bottomPad, left: 40 },
+        animated: true,
+      });
+    }, 250);
+
+    return () => clearTimeout(timer);
+  }, [showRouteSelector, navigation.routes, currentLocation, destinationMarker]);
 
   return (
     <View style={styles.container}>
-      {/* Map */}
       <MaybeMapView
-        ref={mode === 'passive' ? passiveTracking.mapRef : navigationMapRef}
-        style={StyleSheet.absoluteFill}
+        ref={navigationMapRef}
+        style={styles.map}
         provider={Platform.OS === 'ios' ? MAYBE_PROVIDER_DEFAULT : MAYBE_PROVIDER_GOOGLE}
-        showsUserLocation
-        followsUserLocation
+        showsUserLocation={!gpsSim.running}
+        followsUserLocation={followsUser && !gpsSim.running}
+        onRegionChangeComplete={(_, details) => {
+          if (details?.isGesture) {
+            handleMapPan();
+          }
+        }}
+        scrollEnabled
+        zoomEnabled
+        zoomTapEnabled
+        rotateEnabled={false}
+        pitchEnabled={false}
         showsMyLocationButton={false}
         initialRegion={initialRegion}
         mapType="standard"
-        pitchEnabled={false}
-        rotateEnabled={false}
-        loadingEnabled
-        loadingIndicatorColor="#888"
         moveOnMarkerPress={false}
-        // Performance optimizations
-        showsCompass={false}
-        showsScale={false}
-        showsTraffic={false}
-        showsIndoors={false}
-        showsBuildings={false}
-        showsPointsOfInterest={false}
-        cacheEnabled={Platform.OS === 'android'}
-        loadingBackgroundColor="#f5f5f5"
+        toolbarEnabled={false}
       >
-        {/* Passive mode polyline */}
-        {mode === 'passive' && passivePolyline.length > 0 && (
-          <MaybePolyline
-            coordinates={passivePolyline}
-            strokeWidth={4}
-            strokeColor="#007AFF"
+        {previewRoutes.length > 0 && (
+          <RoutePreviewPolylines
+            routes={previewRoutes}
+            selectedRouteId={navigation.selectedRoute?.id || null}
+            onSelectRoute={showRouteSelector ? navigation.selectRoute : undefined}
           />
         )}
 
-        {/* Navigation mode polyline */}
-        {mode === 'navigate' && navigationPolyline.length > 0 && (
-          <MaybePolyline
-            coordinates={navigationPolyline}
-            strokeWidth={6}
-            strokeColor={tint}
-            lineCap="round"
-            lineJoin="round"
-          />
-        )}
-
-        {/* Destination marker */}
         {destinationMarker && (
           <MaybeMarker
             coordinate={destinationMarker}
@@ -450,84 +427,72 @@ const RecorderTab = memo(() => {
             pinColor="red"
           />
         )}
+
+        {gpsSim.running && currentLocation && (
+          <MaybeMarker
+            coordinate={currentLocation}
+            title="Simulated position"
+            pinColor="#007AFF"
+          />
+        )}
       </MaybeMapView>
 
-      {/* Mode Switcher - Only show when not tracking/navigating */}
-      {!passiveTracking.tracking && !navigation.isNavigating && (
-        <View style={styles.modeSwitcher}>
-          <TouchableOpacity
-            style={[styles.modeButton, mode === 'passive' && styles.modeButtonActive]}
-            onPress={() => handleModeSwitch('passive')}
-          >
-            <Text style={[styles.modeButtonText, mode === 'passive' && styles.modeButtonTextActive]}>
-              🎥 Record
-            </Text>
-          </TouchableOpacity>
-          <TouchableOpacity
-            style={[styles.modeButton, mode === 'navigate' && styles.modeButtonActive]}
-            onPress={() => handleModeSwitch('navigate')}
-          >
-            <Text style={[styles.modeButtonText, mode === 'navigate' && styles.modeButtonTextActive]}>
-              🧭 Navigate
-            </Text>
-          </TouchableOpacity>
+      {!navigation.isNavigating &&
+        passiveTracking.permissionStatus !== 'denied' &&
+        passiveTracking.permissionError && (
+        <View style={styles.permissionInlineError}>
+          <Text style={styles.permissionInlineErrorText}>{passiveTracking.permissionError}</Text>
         </View>
       )}
 
-      {/* Passive Mode UI */}
-      {mode === 'passive' && (
-        <RecorderHUD
-          meters={passiveTracking.meters}
-          elapsedMs={passiveTracking.elapsedMs}
-          tracking={passiveTracking.tracking}
-          paused={passiveTracking.paused}
-          start={passiveTracking.start}
-          stop={passiveTracking.stop}
-          pause={passiveTracking.pause}
-          resume={passiveTracking.resume}
-          unit={unit}
-          setUnit={setUnit}
-        />
+      {!navigation.isNavigating && passiveTracking.permissionStatus === 'denied' && (
+        <View style={styles.permissionBanner}>
+          <Text style={styles.permissionTitle}>Location Permission Required</Text>
+          <Text style={styles.permissionBody}>
+            GPS and navigation need location access. Enable permission in settings, then tap Retry.
+          </Text>
+          <View style={styles.permissionActions}>
+            <TouchableOpacity style={styles.permissionSecondaryBtn} onPress={handleOpenLocationSettings}>
+              <Text style={styles.permissionSecondaryBtnText}>Open Settings</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={[styles.permissionPrimaryBtn, { backgroundColor: tint }]}
+              onPress={passiveTracking.requestLocationPermission}
+            >
+              <Text style={[styles.permissionPrimaryBtnText, { color: onAccent }]}>Retry</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
       )}
 
-      {/* Navigate Mode UI */}
-      {mode === 'navigate' && (
-        <>
-          {/* Show "Where to?" button when not navigating */}
-          {!navigation.isNavigating && !showRouteSelector && (
-            <View style={styles.navigationControls}>
+      {!navigation.isNavigating && !showRouteSelector && (
+        <View style={styles.navigationControls} pointerEvents="box-none">
               <TouchableOpacity
                 style={styles.whereToButton}
                 onPress={() => setShowDestinationSearch(true)}
               >
-                <Text style={styles.whereToText}>📍 Search Destination</Text>
-              </TouchableOpacity>
-              
-              <TouchableOpacity
-                style={[styles.planButton, { backgroundColor: tint }]}
-                onPress={() => setShowAIPlanner(true)}
-              >
-                <Text style={styles.planButtonText}>🧠 Plan Trip with AI</Text>
+                <Text style={styles.whereToText}>Search Destination</Text>
               </TouchableOpacity>
 
-              <TouchableOpacity
-                style={styles.multiStopButton}
-                onPress={() => setShowMultiStopPlanner(true)}
-              >
-                <Text style={styles.multiStopButtonText}>🗺️ Multi-Stop Route</Text>
-              </TouchableOpacity>
+              <View style={styles.quickActions}>
+                <TouchableOpacity
+                  style={styles.quickActionButton}
+                  onPress={() => router.push('/(tabs)/ai-assistant?mode=planner&source=navigate')}
+                >
+                  <Text style={styles.quickActionText}>Pathfinder</Text>
+                </TouchableOpacity>
 
-              <TouchableOpacity
-                style={styles.historyButton}
-                onPress={() => setShowRouteHistory(true)}
-              >
-                <Text style={styles.historyButtonText}>📚 Route History</Text>
-              </TouchableOpacity>
+                <TouchableOpacity
+                  style={styles.quickActionButton}
+                  onPress={() => setShowMultiStopPlanner(true)}
+                >
+                  <Text style={styles.quickActionText}>Multi-Stop</Text>
+                </TouchableOpacity>
+              </View>
             </View>
           )}
 
-          {/* Show navigation UI when navigating */}
-          {navigation.isNavigating && navigation.navigationState && navigation.currentLocation && (
+      {navigation.isNavigating && navigation.navigationState && navigation.currentLocation && (
             <>
               <NavigationUI
                 nextInstruction={navigation.navigationState.nextInstruction}
@@ -537,9 +502,7 @@ const RecorderTab = memo(() => {
                 currentManeuver={navigation.navigationState.currentManeuver}
                 lanes={navigation.navigationState.lanes}
                 voiceEnabled={navigation.voiceEnabled}
-                showCurrentSpeed={navigation.showCurrentSpeed}
                 onToggleVoice={navigation.toggleVoice}
-                onToggleSpeedDisplay={navigation.toggleSpeedDisplay}
                 onStopNavigation={handleStopNavigation}
                 unit={unit}
                 currentLocation={navigation.currentLocation}
@@ -549,32 +512,10 @@ const RecorderTab = memo(() => {
                 currentStepIndex={navigation.navigationState.currentStepIndex}
                 cameraAlerts={navigation.cameraAlerts}
               />
-              
-              {/* RPG Overlay */}
-              {rpgSettings && (
-                <RPGNavigationOverlay
-                  currentCity={currentCity}
-                  currentState={currentState}
-                  currentLocation={navigation.currentLocation}
-                  distanceTraveled={navigation.selectedRoute && navigation.navigationState.distanceRemaining > 0
-                    ? navigation.selectedRoute.totalDistance - navigation.navigationState.distanceRemaining
-                    : 0}
-                  timeElapsed={tripStartTimeRef.current ? Math.floor((Date.now() - tripStartTimeRef.current) / 1000) : 0}
-                  routeProgress={navigation.selectedRoute && navigation.navigationState.distanceRemaining > 0
-                    ? ((navigation.selectedRoute.totalDistance - navigation.navigationState.distanceRemaining) / navigation.selectedRoute.totalDistance) * 100
-                    : undefined}
-                  newlyUnlockedAchievements={achievements.newlyUnlocked}
-                  onClearAchievements={achievements.clearNewlyUnlocked}
-                  settings={rpgSettings}
-                  unit={unit}
-                  currentSpeed={navigation.currentSpeed}
-                />
-              )}
             </>
           )}
 
-          {/* Route Selector */}
-          {showRouteSelector && !navigation.isNavigating && (
+      {showRouteSelector && !navigation.isNavigating && (
             <RouteSelector
               routes={navigation.routes}
               selectedRouteId={navigation.selectedRoute?.id || null}
@@ -584,37 +525,51 @@ const RecorderTab = memo(() => {
             />
           )}
 
-          {/* Parking Preview */}
-          {showRouteSelector && destinationMarker && destinationName && !navigation.isNavigating && (
-            <DestinationParkingPreview
-              destination={destinationMarker}
-              destinationName={destinationName}
-              onViewParking={handleViewParking}
-              tintColor={tint}
-            />
-          )}
-
-          {/* Error Display */}
-          {navigation.error && (
-            <View style={styles.errorContainer}>
-              <Text style={styles.errorText}>{navigation.error}</Text>
-              <TouchableOpacity onPress={navigation.clearError}>
-                <Text style={styles.errorDismiss}>Dismiss</Text>
-              </TouchableOpacity>
+      {showRouteSelector && destinationMarker && destinationName && !navigation.isNavigating && (
+            <View style={styles.parkingPreviewOverlay} pointerEvents="box-none">
+              <DestinationParkingPreview
+                destination={destinationMarker}
+                destinationName={destinationName}
+                onViewParking={handleViewParking}
+                tintColor={tint}
+              />
             </View>
           )}
-        </>
+
+      {navigation.error && (
+        <View style={styles.errorContainer}>
+          <Text style={styles.errorText}>{navigation.error}</Text>
+          <TouchableOpacity onPress={navigation.clearError}>
+            <Text style={styles.errorDismiss}>Dismiss</Text>
+          </TouchableOpacity>
+        </View>
       )}
 
-      {/* Offline Indicator */}
       <OfflineIndicator />
+
+      {__DEV__ && navigation.selectedRoute && (
+        <GpsSimulatorPanel
+          tintColor={tint}
+          canStart={Boolean(navigation.selectedRoute)}
+          raised={showRouteSelector && !navigation.isNavigating}
+          navigating={navigation.isNavigating}
+          onSimulateDrive={handleStartSimulation}
+          onStopSimulation={handleStopNavigation}
+        />
+      )}
 
       {/* Recenter Button */}
       <TouchableOpacity
-        style={styles.recenterButton}
+        style={[
+          styles.recenterButton,
+          followsUser && styles.recenterButtonActive,
+          showRouteSelector && styles.recenterButtonAboveRouteSheet,
+        ]}
         onPress={handleRecenter}
+        accessibilityRole="button"
+        accessibilityLabel="Center map on my location"
       >
-        <Text style={styles.recenterIcon}>🎯</Text>
+        <Ionicons name="locate" size={22} color={followsUser ? '#fff' : '#007AFF'} />
       </TouchableOpacity>
 
       {/* Destination Search Modal */}
@@ -624,22 +579,11 @@ const RecorderTab = memo(() => {
         presentationStyle="fullScreen"
       >
         <DestinationSearch
-          currentLocation={navigation.currentLocation}
+          currentLocation={currentLocation ?? navigation.currentLocation}
           onSelectDestination={handleSelectDestination}
           onClose={() => setShowDestinationSearch(false)}
         />
       </Modal>
-
-      {/* AI Trip Planner Modal */}
-      <AITripPlanner
-        visible={showAIPlanner}
-        onClose={() => setShowAIPlanner(false)}
-        currentLocation={currentLocation}
-        currentCity={currentCity}
-        currentState={currentState}
-        onPlanGenerated={handleAITripPlanGenerated}
-        tintColor={tint}
-      />
 
       {/* Multi-Stop Planner Modal */}
       <MultiStopPlanner
@@ -661,21 +605,6 @@ const RecorderTab = memo(() => {
           tintColor={tint}
         />
       )}
-
-      {/* Route History Modal */}
-      <RouteHistory
-        visible={showRouteHistory}
-        onClose={() => setShowRouteHistory(false)}
-        onSelectRoute={async (savedRoute) => {
-          // Set destination and calculate route
-          setDestinationMarker(savedRoute.destination);
-          setDestinationName(savedRoute.name);
-          await navigation.calculateRoute(savedRoute.destination, {
-            waypoints: savedRoute.waypoints,
-          });
-          setShowRouteSelector(true);
-        }}
-      />
     </View>
   );
 });
@@ -688,53 +617,28 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  modeSwitcher: {
-    position: 'absolute',
-    top: 60,
-    left: 16,
-    flexDirection: 'row',
-    backgroundColor: 'rgba(255, 255, 255, 0.95)',
-    borderRadius: 12,
-    padding: 4,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.15,
-    shadowRadius: 4,
-    elevation: 5,
-  },
-  modeButton: {
-    paddingHorizontal: 16,
-    paddingVertical: 10,
-    borderRadius: 8,
-  },
-  modeButtonActive: {
-    backgroundColor: '#007AFF',
-  },
-  modeButtonText: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: '#888',
-  },
-  modeButtonTextActive: {
-    color: '#fff',
+  map: {
+    flex: 1,
   },
   navigationControls: {
     position: 'absolute',
-    top: 120,
+    top: 60,
     left: 16,
     right: 16,
-    gap: 12,
+    gap: 8,
   },
   whereToButton: {
     backgroundColor: '#fff',
-    paddingVertical: 16,
+    paddingVertical: 14,
     paddingHorizontal: 20,
     borderRadius: 12,
+    borderWidth: 1,
+    borderColor: 'rgba(0, 0, 0, 0.15)',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.15,
+    shadowOpacity: 0.2,
     shadowRadius: 4,
-    elevation: 5,
+    elevation: 6,
   },
   whereToText: {
     fontSize: 16,
@@ -742,52 +646,26 @@ const styles = StyleSheet.create({
     color: '#333',
     textAlign: 'center',
   },
-  planButton: {
-    paddingVertical: 18,
-    paddingHorizontal: 20,
-    borderRadius: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.15,
-    shadowRadius: 4,
-    elevation: 5,
+  quickActions: {
+    flexDirection: 'row',
+    gap: 8,
   },
-  planButtonText: {
-    fontSize: 18,
-    fontWeight: '700',
-    color: '#fff',
-    textAlign: 'center',
-  },
-  multiStopButton: {
-    backgroundColor: '#f0f0f0',
-    paddingVertical: 14,
-    paddingHorizontal: 20,
-    borderRadius: 12,
+  quickActionButton: {
+    flex: 1,
+    backgroundColor: '#fff',
+    paddingVertical: 10,
+    paddingHorizontal: 8,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: 'rgba(0, 0, 0, 0.15)',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
+    shadowOpacity: 0.12,
     shadowRadius: 2,
-    elevation: 3,
+    elevation: 4,
   },
-  multiStopButtonText: {
-    fontSize: 15,
-    fontWeight: '600',
-    color: '#333',
-    textAlign: 'center',
-  },
-  historyButton: {
-    backgroundColor: '#f0f0f0',
-    paddingVertical: 14,
-    paddingHorizontal: 20,
-    borderRadius: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 3,
-  },
-  historyButtonText: {
-    fontSize: 15,
+  quickActionText: {
+    fontSize: 12,
     fontWeight: '600',
     color: '#333',
     textAlign: 'center',
@@ -819,19 +697,97 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: 120,
     right: 16,
-    width: 56,
-    height: 56,
-    borderRadius: 28,
+    width: 48,
+    height: 48,
+    borderRadius: 24,
     backgroundColor: '#fff',
     justifyContent: 'center',
     alignItems: 'center',
+    borderWidth: 1,
+    borderColor: 'rgba(0, 0, 0, 0.15)',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.25,
     shadowRadius: 4,
-    elevation: 5,
+    elevation: 8,
+    zIndex: 30,
   },
-  recenterIcon: {
-    fontSize: 24,
+  recenterButtonActive: {
+    backgroundColor: '#007AFF',
+    borderColor: '#007AFF',
+  },
+  recenterButtonAboveRouteSheet: {
+    bottom: '52%',
+  },
+  parkingPreviewOverlay: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: '50%',
+    zIndex: 25,
+  },
+  permissionBanner: {
+    position: 'absolute',
+    left: 16,
+    right: 16,
+    top: 60,
+    backgroundColor: 'rgba(255, 255, 255, 0.97)',
+    borderRadius: 12,
+    padding: 14,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.12,
+    shadowRadius: 4,
+    elevation: 4,
+    zIndex: 20,
+  },
+  permissionTitle: {
+    fontSize: 15,
+    fontWeight: '700',
+    color: '#111',
+  },
+  permissionBody: {
+    marginTop: 6,
+    fontSize: 13,
+    color: '#333',
+  },
+  permissionActions: {
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
+    gap: 8,
+    marginTop: 10,
+  },
+  permissionSecondaryBtn: {
+    backgroundColor: '#f1f1f1',
+    borderRadius: 8,
+    paddingVertical: 9,
+    paddingHorizontal: 12,
+  },
+  permissionSecondaryBtnText: {
+    color: '#333',
+    fontWeight: '600',
+  },
+  permissionPrimaryBtn: {
+    borderRadius: 8,
+    paddingVertical: 9,
+    paddingHorizontal: 12,
+  },
+  permissionPrimaryBtnText: {
+    color: '#fff',
+    fontWeight: '700',
+  },
+  permissionInlineError: {
+    position: 'absolute',
+    left: 16,
+    right: 16,
+    bottom: 190,
+    backgroundColor: 'rgba(255, 59, 48, 0.93)',
+    borderRadius: 10,
+    paddingVertical: 8,
+    paddingHorizontal: 10,
+  },
+  permissionInlineErrorText: {
+    color: '#fff',
+    fontSize: 12,
   },
 });

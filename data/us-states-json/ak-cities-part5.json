@@ -1,0 +1,605 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Hope",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.91830499999999,
+          "longitude": -149.6453896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Halibut Cove",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.5965782,
+          "longitude": -151.2266308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Happy Valley",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.9351742,
+          "longitude": -151.7381373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Fox River",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.8211267,
+          "longitude": -151.1124981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fritz Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.6914617,
+          "longitude": -151.374324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Funny River",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.5021734,
+          "longitude": -150.7649418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Diamond Ridge",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.67849870000001,
+          "longitude": -151.6567995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Crown Point",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.4305878,
+          "longitude": -149.3718104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Cooper Landing",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.48791370000001,
+          "longitude": -149.8380455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Clam Gulch",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.22625609999999,
+          "longitude": -151.401731,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cohoe",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.3720069,
+          "longitude": -151.319648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Beluga",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 61.1845058,
+          "longitude": -151.0338768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Bear Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.18007960000001,
+          "longitude": -149.3824633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Anchor Point",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.7796135,
+          "longitude": -151.842265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": []
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Homer",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.64808550000001,
+          "longitude": -151.5299245,
+          "population": 6040,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kachemak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.6745851,
+          "longitude": -151.4462719,
+          "population": 591,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Seldovia",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.43853000000001,
+          "longitude": -151.7150486,
+          "population": 248,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Seward",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.1047739,
+          "longitude": -149.4421037,
+          "population": 2735,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Soldotna",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.48638289999999,
+          "longitude": -151.0571796,
+          "population": 4577,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Ketchikan Gateway Borough",
+      "cities": [
+        {
+          "name": "Loring",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Ketchikan Gateway Borough",
+          "latitude": 55.6026594,
+          "longitude": -131.636267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ketchikan Gateway Borough",
+      "cities": []
+    },
+    {
+      "name": "Ketchikan Gateway Borough",
+      "cities": [
+        {
+          "name": "Saxman",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Ketchikan Gateway Borough",
+          "latitude": 55.3170355,
+          "longitude": -131.594222,
+          "population": 382,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Womens Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.71073,
+          "longitude": -152.5784127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Mill Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.81598899999999,
+          "longitude": -152.365803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Kodiak Station",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.75756509999999,
+          "longitude": -152.513998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Karluk",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.56265639999999,
+          "longitude": -154.4381814,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Chiniak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.6178773,
+          "longitude": -152.2149784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Aleneva",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 58.00625899999999,
+          "longitude": -152.7708402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": []
+    },
+    {
+      "name": "Kodiak Island Borough",
+      "cities": [
+        {
+          "name": "Akhiok",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 56.9451884,
+          "longitude": -154.1680075,
+          "population": 64,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Larsen Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.53678489999999,
+          "longitude": -153.9818971,
+          "population": 33,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Old Harbor",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.20415999999999,
+          "longitude": -153.3045379,
+          "population": 207,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ouzinkie",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.92332200000001,
+          "longitude": -152.5019368,
+          "population": 102,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Port Lions",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kodiak Island Borough",
+          "latitude": 57.8674157,
+          "longitude": -152.8831903,
+          "population": 165,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Kusilvak Census Area",
+      "cities": [
+        {
+          "name": "Alakanuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 62.6845398,
+          "longitude": -164.6464474,
+          "population": 723,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chevak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 61.5277895,
+          "longitude": -165.5887686,
+          "population": 908,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Emmonak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 62.7774255,
+          "longitude": -164.529331,
+          "population": 787,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kotlik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 63.03330899999999,
+          "longitude": -163.5459273,
+          "population": 628,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Marshall",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 61.87785119999999,
+          "longitude": -162.0837725,
+          "population": 471,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mountain Village",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 62.0853556,
+          "longitude": -163.7292306,
+          "population": 594,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nunam Iqua",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 62.5309434,
+          "longitude": -164.8504455,
+          "population": 209,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pilot Station",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 61.9369353,
+          "longitude": -162.8837757,
+          "population": 592,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Russian Mission",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 61.7849233,
+          "longitude": -161.326347,
+          "population": 404,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Scammon Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Kusilvak Census Area",
+          "latitude": 61.8425811,
+          "longitude": -165.5802341,
+          "population": 578,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Kusilvak Census Area County",
+      "cities": []
+    }
+  ]
+}

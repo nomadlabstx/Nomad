@@ -1,0 +1,477 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Haines Borough",
+      "cities": [
+        {
+          "name": "Lutak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 59.32391819999999,
+          "longitude": -135.5594151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haines Borough",
+      "cities": [
+        {
+          "name": "Haines",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 59.2351471,
+          "longitude": -135.447332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haines Borough",
+      "cities": [
+        {
+          "name": "Excursion Inlet",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 58.4186817,
+          "longitude": -135.4422896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haines Borough",
+      "cities": [
+        {
+          "name": "Covenant Life",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 59.3947093,
+          "longitude": -135.9909222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area",
+      "cities": [
+        {
+          "name": "Angoon",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area",
+          "latitude": 57.5004523,
+          "longitude": -134.582314,
+          "population": 335,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gustavus",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area",
+          "latitude": 58.4126017,
+          "longitude": -135.7389018,
+          "population": 612,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pelican",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area",
+          "latitude": 57.9603567,
+          "longitude": -136.2300465,
+          "population": 92,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tenakee Springs",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area",
+          "latitude": 57.78006979999999,
+          "longitude": -135.2193111,
+          "population": 111,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": [
+        {
+          "name": "Whitestone Logging Camp",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area County",
+          "latitude": 58.08220490000001,
+          "longitude": -135.4372588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": [
+        {
+          "name": "Klukwan",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area County",
+          "latitude": 59.39880780000001,
+          "longitude": -135.8893539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": [
+        {
+          "name": "Game Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area County",
+          "latitude": 58.0763574,
+          "longitude": -135.4853805,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": [
+        {
+          "name": "Elfin Cove",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Hoonah-Angoon Census Area County",
+          "latitude": 58.19386770000001,
+          "longitude": -136.3450188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Hoonah-Angoon Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Juneau City and Borough",
+      "cities": [
+        {
+          "name": "Juneau",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Juneau City and Borough",
+          "latitude": 58.30049329999999,
+          "longitude": -134.4201306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Juneau City and Borough",
+      "cities": []
+    },
+    {
+      "name": "Juneau City and Borough",
+      "cities": []
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Tyonek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 61.0687259,
+          "longitude": -151.1442174,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Sunrise",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.886022,
+          "longitude": -149.425407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Sterling",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.5360118,
+          "longitude": -150.7943244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Seldovia Village",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.46892839999999,
+          "longitude": -151.6569162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Ridgeway",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.50563810000001,
+          "longitude": -151.0818729,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salamatof",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.617871,
+          "longitude": -151.3332085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Primrose",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.3387349,
+          "longitude": -149.3694694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Port Graham",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.35032340000001,
+          "longitude": -151.8350124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Point Possession",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.92230369999999,
+          "longitude": -150.6962796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Ninilchik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.0397037,
+          "longitude": -151.6672334,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Nikiski",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.7068804,
+          "longitude": -151.2636363,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nikolaevsk",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.8109356,
+          "longitude": -151.6014112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Nanwalek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 59.3567669,
+          "longitude": -151.9216875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Moose Pass",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.48704859999999,
+          "longitude": -149.3707873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Lowell Point",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.07060019999999,
+          "longitude": -149.4363157,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Kasilof",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.32197069999999,
+          "longitude": -151.2555625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kenai Peninsula Borough",
+      "cities": [
+        {
+          "name": "Kalifornsky",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Kenai Peninsula Borough",
+          "latitude": 60.4877143,
+          "longitude": -151.1551882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Katherine",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.2222207,
+          "longitude": -114.5619097,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Kaibab",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 36.896652,
+          "longitude": -112.7407596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Hackberry",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.3691614,
+          "longitude": -113.7271643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Grand Canyon West",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.9792183,
+          "longitude": -113.8204678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Golden Shores",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 34.7862833,
+          "longitude": -114.4741201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.2233311,
+          "longitude": -114.2230108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Fort Mohave",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.0224848,
+          "longitude": -114.5892703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Dolan Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.5910486,
+          "longitude": -114.2730295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Desert Hills",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 34.5493576,
+          "longitude": -114.3678646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Crozier",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.425903,
+          "longitude": -113.649727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crystal Beach",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 34.5700482,
+          "longitude": -114.3915627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Clacks Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.2195883,
+          "longitude": -114.0739459,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Chloride",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.4139585,
+          "longitude": -114.1985922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Centennial Park",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 36.955866,
+          "longitude": -112.9803489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Cane Beds",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 36.948189,
+          "longitude": -112.896004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Beaver Dam",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 36.9071085,
+          "longitude": -113.9313642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Arizona Village",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 34.8530597,
+          "longitude": -114.5844085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Antares",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.420208,
+          "longitude": -113.808312,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mohave County",
+      "cities": []
+    },
+    {
+      "name": "Mohave County",
+      "cities": []
+    },
+    {
+      "name": "Mohave County",
+      "cities": [
+        {
+          "name": "Bullhead City",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.1359386,
+          "longitude": -114.5285981,
+          "population": 43302,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Colorado City",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 36.9902621,
+          "longitude": -112.9757702,
+          "population": 2734,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kingman",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Mohave County",
+          "latitude": 35.1912977,
+          "longitude": -114.0522845,
+          "population": 35334,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Woodruff",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.7814188,
+          "longitude": -110.0434504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "White Mountain Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.359074,
+          "longitude": -109.9816927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whiteriver",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.8369944,
+          "longitude": -109.9642664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Whitecone",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.605904,
+          "longitude": -110.067711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Wagon Wheel",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.199597,
+          "longitude": -110.0300778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Turkey Creek",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.801871,
+          "longitude": -109.9467087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Tees Toh",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.49818,
+          "longitude": -110.40593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Sun Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.966785,
+          "longitude": -110.0330554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Seven Mile",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.78528,
+          "longitude": -109.95611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shongopovi",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.8180604,
+          "longitude": -110.5345792,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shonto",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.5882755,
+          "longitude": -110.6586087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shumway",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 34.4060977,
+          "longitude": -110.0728531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Seba Dalkai",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.4994889,
+          "longitude": -110.448441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Second Mesa",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 35.79333870000001,
+          "longitude": -110.505134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Rainbow City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 33.8740553,
+          "longitude": -109.9794596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Navajo County",
+      "cities": [
+        {
+          "name": "Pinon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Navajo County",
+          "latitude": 36.1008342,
+          "longitude": -110.2259609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1747 @@
+{
+  "name": "Maine",
+  "code": "ME",
+  "counties": [
+    {
+      "name": "Androscoggin County",
+      "cities": [
+        {
+          "name": "Lewiston",
+          "state": "Maine",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.100351,
+          "longitude": -70.21477639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.0978509,
+          "longitude": -70.2311655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greene",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.189794,
+          "longitude": -70.14033119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lisbon",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.0316013,
+          "longitude": -70.1043704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lisbon Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.0141255,
+          "longitude": -70.05791289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livermore Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.4752929,
+          "longitude": -70.18808109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mechanic Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.1117418,
+          "longitude": -70.3917985,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sabattus",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.1152935,
+          "longitude": -70.1031247,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turner",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Androscoggin County",
+          "latitude": 44.2564588,
+          "longitude": -70.2561671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Aroostook County",
+      "cities": [
+        {
+          "name": "Woodland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.8822935,
+          "longitude": -68.1209284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washburn",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.7882172,
+          "longitude": -68.1567015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van Buren",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 47.1572963,
+          "longitude": -67.9353035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.1006431,
+          "longitude": -68.1587191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mapleton",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.6818041,
+          "longitude": -68.1616248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mars Hill",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.5153817,
+          "longitude": -67.86611309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madawaska",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 47.355203,
+          "longitude": -68.3214902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Limestone",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.90860230000001,
+          "longitude": -67.825816,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Island Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.0092191,
+          "longitude": -68.2714149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Houlton",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.1252782,
+          "longitude": -67.8416649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Isle",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 47.3053186,
+          "longitude": -68.1519797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Fairfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.77274,
+          "longitude": -67.8357406,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Kent",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 47.2586502,
+          "longitude": -68.589491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Lake",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 47.0400396,
+          "longitude": -68.5894891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blaine",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.5047594,
+          "longitude": -67.8686274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.6609983,
+          "longitude": -68.3895277,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Presque Isle",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.68115299999999,
+          "longitude": -68.0158615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caribou",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Aroostook County",
+          "latitude": 46.8639995,
+          "longitude": -67.9980365,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cumberland County",
+      "cities": [
+        {
+          "name": "Yarmouth",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.8010951,
+          "longitude": -70.1879253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Windham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7365686,
+          "longitude": -70.4217196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Standish",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7355927,
+          "longitude": -70.5509356,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steep Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7934433,
+          "longitude": -70.6507352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Windham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.8342433,
+          "longitude": -70.4383871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Naples",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.9692083,
+          "longitude": -70.6035512,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.732034,
+          "longitude": -70.42781819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Littlejohn Island",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.75508139999999,
+          "longitude": -70.1344927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gray",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.8851273,
+          "longitude": -70.3306563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gorham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.6797054,
+          "longitude": -70.4429309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Freeport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.8573338,
+          "longitude": -70.1027576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falmouth",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7435343,
+          "longitude": -70.2601759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falmouth Foreside",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7348031,
+          "longitude": -70.2078262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunstan",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.57387629999999,
+          "longitude": -70.3884188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cousins Island",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7663291,
+          "longitude": -70.1381517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cumberland Center",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.7964354,
+          "longitude": -70.2584705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Casco",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 44.0060517,
+          "longitude": -70.52257759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brunswick",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.91461400000001,
+          "longitude": -69.96490539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridgton",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 44.0538342,
+          "longitude": -70.7145395,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westbrook",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.6770252,
+          "longitude": -70.3711617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Portland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Cumberland County",
+          "latitude": 43.6414716,
+          "longitude": -70.2408811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Wilton",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Franklin County",
+          "latitude": 44.5926953,
+          "longitude": -70.2280983,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rangeley",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Franklin County",
+          "latitude": 44.9656821,
+          "longitude": -70.6427102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Franklin County",
+          "latitude": 44.9592231,
+          "longitude": -70.1539542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Franklin County",
+          "latitude": 44.67049979999999,
+          "longitude": -70.1512169,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chisholm",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Franklin County",
+          "latitude": 44.4855798,
+          "longitude": -70.19476159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": [
+        {
+          "name": "Winter Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.3948984,
+          "longitude": -68.084125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Southwest Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.27976719999999,
+          "longitude": -68.32596509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northeast Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.2918968,
+          "longitude": -68.2926043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castine",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.3888609,
+          "longitude": -68.7989582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bucksport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.6289696,
+          "longitude": -68.7701225,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Hill",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.4130216,
+          "longitude": -68.5883185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bar Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Hancock County",
+          "latitude": 44.3875617,
+          "longitude": -68.2042989,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kennebec County",
+      "cities": [
+        {
+          "name": "Winthrop",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.3053896,
+          "longitude": -69.9771957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winslow",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.5472922,
+          "longitude": -69.6253279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Randolph",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.2306461,
+          "longitude": -69.7666546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.5478606,
+          "longitude": -69.71310799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmingdale",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.2441292,
+          "longitude": -69.77081510000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.63782800000001,
+          "longitude": -69.5031267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardiner",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.2300698,
+          "longitude": -69.77532219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Augusta",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.31649609999999,
+          "longitude": -69.7681096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hallowell",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.2859022,
+          "longitude": -69.7908786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterville",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Kennebec County",
+          "latitude": 44.5520105,
+          "longitude": -69.6317121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Knox County",
+      "cities": [
+        {
+          "name": "Thomaston",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Knox County",
+          "latitude": 44.0789574,
+          "longitude": -69.1816955,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camden",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Knox County",
+          "latitude": 44.2097928,
+          "longitude": -69.0647838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Wiscasset",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 44.0028921,
+          "longitude": -69.665583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waldoboro",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 44.0952725,
+          "longitude": -69.37560169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Hill",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 43.8950808,
+          "longitude": -69.6800458,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newcastle",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 44.0365242,
+          "longitude": -69.53861859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Damariscotta",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 44.0318909,
+          "longitude": -69.5295474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boothbay Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Lincoln County",
+          "latitude": 43.8523045,
+          "longitude": -69.62810139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oxford County",
+      "cities": [
+        {
+          "name": "South Paris",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.223681,
+          "longitude": -70.5133929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rumford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.5539111,
+          "longitude": -70.5510382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oxford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.4906897,
+          "longitude": -70.7840564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norway",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.2129856,
+          "longitude": -70.5400085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mexico",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.5571093,
+          "longitude": -70.5433579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fryeburg",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.02135579999999,
+          "longitude": -70.97490669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.5313932,
+          "longitude": -70.4563367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethel",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Oxford County",
+          "latitude": 44.4044586,
+          "longitude": -70.7898806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Penobscot County",
+      "cities": [
+        {
+          "name": "Veazie",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.8357865,
+          "longitude": -68.7087927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Patten",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.9964392,
+          "longitude": -68.4461424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orono",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.8832066,
+          "longitude": -68.6722911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.8370741,
+          "longitude": -69.28528589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.946216,
+          "longitude": -68.6439667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millinocket",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.6573651,
+          "longitude": -68.70915029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mattawamkeag",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.5136701,
+          "longitude": -68.35446689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.3622104,
+          "longitude": -68.5045947,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.2431227,
+          "longitude": -68.6588563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampden",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.744742,
+          "longitude": -68.8376456,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Millinocket",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.6283853,
+          "longitude": -68.5725796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dexter",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 45.0242304,
+          "longitude": -69.2899381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corinna",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.921174,
+          "longitude": -69.2617131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradley",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.9167519,
+          "longitude": -68.6276101,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Town",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.934829,
+          "longitude": -68.64571409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brewer",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.7967378,
+          "longitude": -68.7614246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bangor",
+          "state": "Maine",
+          "stateCode": "ME",
+          "county": "Penobscot County",
+          "latitude": 44.8016128,
+          "longitude": -68.7712257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Piscataquis County",
+      "cities": [
+        {
+          "name": "Milo",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Piscataquis County",
+          "latitude": 45.2533339,
+          "longitude": -68.986263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenville",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Piscataquis County",
+          "latitude": 45.45948629999999,
+          "longitude": -69.59058150000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guilford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Piscataquis County",
+          "latitude": 45.1689375,
+          "longitude": -69.3844783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dover-Foxcroft",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Piscataquis County",
+          "latitude": 45.1833421,
+          "longitude": -69.22708209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownville Junction",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Piscataquis County",
+          "latitude": 45.35037,
+          "longitude": -69.0524302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sagadahoc County",
+      "cities": [
+        {
+          "name": "Topsham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Sagadahoc County",
+          "latitude": 43.9370617,
+          "longitude": -69.966509,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richmond",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Sagadahoc County",
+          "latitude": 44.08812229999999,
+          "longitude": -69.802916,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowdoinham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Sagadahoc County",
+          "latitude": 44.0091821,
+          "longitude": -69.8968927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bath",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Sagadahoc County",
+          "latitude": 43.9106353,
+          "longitude": -69.82060229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Somerset County",
+      "cities": [
+        {
+          "name": "Skowhegan",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.76525119999999,
+          "longitude": -69.719497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pittsfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.783103,
+          "longitude": -69.38209719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norridgewock",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.7129519,
+          "longitude": -69.789175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Anson",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.8564574,
+          "longitude": -69.8973948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Madison",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.7975466,
+          "longitude": -69.8797486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartland",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.8965211,
+          "longitude": -69.5128531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.5884052,
+          "longitude": -69.59864689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bingham",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 45.0586793,
+          "longitude": -69.88230589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anson",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Somerset County",
+          "latitude": 44.7983618,
+          "longitude": -69.8892408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Waldo County",
+      "cities": [
+        {
+          "name": "Winterport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Waldo County",
+          "latitude": 44.63839249999999,
+          "longitude": -68.8450048,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unity",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Waldo County",
+          "latitude": 44.6113028,
+          "longitude": -69.33418999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Searsport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Waldo County",
+          "latitude": 44.4584657,
+          "longitude": -68.92565619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belfast",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Waldo County",
+          "latitude": 44.4259092,
+          "longitude": -69.0064234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Vanceboro",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 45.56779299999999,
+          "longitude": -67.4300093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milbridge",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 44.538475,
+          "longitude": -67.88279109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lubec",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 44.8580113,
+          "longitude": -66.98705129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Machias",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 44.71507889999999,
+          "longitude": -67.461376,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonesport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 44.5288399,
+          "longitude": -67.6212699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danforth",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 45.659843,
+          "longitude": -67.8671164,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eastport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "Washington County",
+          "latitude": 44.9057728,
+          "longitude": -66.9848938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "York County",
+      "cities": [
+        {
+          "name": "York Harbor",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.1367551,
+          "longitude": -70.6456077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Kennebunk",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.40869550000001,
+          "longitude": -70.5814425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Berwick",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.2345292,
+          "longitude": -70.80950179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Eliot",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.10814329999999,
+          "longitude": -70.77755429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Orchard Beach",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.5177659,
+          "longitude": -70.3772911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Berwick",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.3056051,
+          "longitude": -70.73850110000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kittery",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.0875776,
+          "longitude": -70.74965279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kittery Point",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.0834222,
+          "longitude": -70.7078301,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Arrowhead",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.661859,
+          "longitude": -70.72853529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kennebunk",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.384549,
+          "longitude": -70.54364640000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kennebunkport",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.36172639999999,
+          "longitude": -70.4767957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kezar Falls",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.8064891,
+          "longitude": -70.8862248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornish",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.80479769999999,
+          "longitude": -70.8011731,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cape Neddick",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.17252329999999,
+          "longitude": -70.6124482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berwick",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.26831989999999,
+          "longitude": -70.8635506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alfred",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.4764994,
+          "longitude": -70.7161687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.438809,
+          "longitude": -70.7750575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Biddeford",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.4925843,
+          "longitude": -70.45338439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saco",
+          "state": "ME",
+          "stateCode": "ME",
+          "county": "York County",
+          "latitude": 43.5009176,
+          "longitude": -70.4428286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Quitman County",
+      "cities": [
+        {
+          "name": "Georgetown",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Quitman County",
+          "latitude": 31.88764029999999,
+          "longitude": -85.1086727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Quitman County",
+      "cities": [
+        {
+          "name": "Georgetown-Quitman County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Quitman County",
+          "latitude": 31.88764029999999,
+          "longitude": -85.1086727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Quitman County",
+      "cities": []
+    },
+    {
+      "name": "Quitman County",
+      "cities": []
+    },
+    {
+      "name": "Rabun County",
+      "cities": []
+    },
+    {
+      "name": "Rabun County",
+      "cities": [
+        {
+          "name": "Dillard",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Rabun County",
+          "latitude": 34.9700911,
+          "longitude": -83.3871006,
+          "population": 334,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mountain City",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Rabun County",
+          "latitude": 34.9181473,
+          "longitude": -83.38543589999999,
+          "population": 939,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sky Valley",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Rabun County",
+          "latitude": 34.9853902,
+          "longitude": -83.32415979999999,
+          "population": 487,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tallulah Falls",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Rabun County",
+          "latitude": 34.736723,
+          "longitude": -83.39273639999999,
+          "population": 206,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tiger",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Rabun County",
+          "latitude": 34.8470372,
+          "longitude": -83.4329398,
+          "population": 429,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Randolph County",
+      "cities": [
+        {
+          "name": "Coleman",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Randolph County",
+          "latitude": 31.6729444,
+          "longitude": -84.8890905,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Randolph County",
+      "cities": [
+        {
+          "name": "Shellman",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Randolph County",
+          "latitude": 31.7562765,
+          "longitude": -84.6151965,
+          "population": 824,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Richmond County",
+      "cities": []
+    },
+    {
+      "name": "Richmond County",
+      "cities": []
+    },
+    {
+      "name": "Richmond County",
+      "cities": [
+        {
+          "name": "Blythe",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Richmond County",
+          "latitude": 33.2926427,
+          "longitude": -82.2015103,
+          "population": 770,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hephzibah",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Richmond County",
+          "latitude": 33.3140311,
+          "longitude": -82.0967857,
+          "population": 3815,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Rockdale County",
+      "cities": [
+        {
+          "name": "Milstead",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Rockdale County",
+          "latitude": 33.6855462,
+          "longitude": -83.9916207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rockdale County",
+      "cities": [
+        {
+          "name": "Lakeview Estates",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Rockdale County",
+          "latitude": 33.706776,
+          "longitude": -84.03157999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rockdale County",
+      "cities": []
+    },
+    {
+      "name": "Rockdale County",
+      "cities": []
+    },
+    {
+      "name": "Schley County",
+      "cities": []
+    },
+    {
+      "name": "Schley County",
+      "cities": []
+    },
+    {
+      "name": "Screven County",
+      "cities": []
+    },
+    {
+      "name": "Screven County",
+      "cities": [
+        {
+          "name": "Hiltonia",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Screven County",
+          "latitude": 32.883494,
+          "longitude": -81.658166,
+          "population": 314,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Newington",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Screven County",
+          "latitude": 32.5901748,
+          "longitude": -81.503996,
+          "population": 295,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oliver",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Screven County",
+          "latitude": 32.5215666,
+          "longitude": -81.533163,
+          "population": 218,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rocky Ford",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Screven County",
+          "latitude": 32.6635006,
+          "longitude": -81.8295571,
+          "population": 167,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Seminole County",
+      "cities": [
+        {
+          "name": "Iron City",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Seminole County",
+          "latitude": 31.0135189,
+          "longitude": -84.8129778,
+          "population": 306,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Spalding County",
+      "cities": [
+        {
+          "name": "Sunnyside",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Spalding County",
+          "latitude": 33.3406695,
+          "longitude": -84.2907566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spalding County",
+      "cities": [
+        {
+          "name": "Experiment",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Spalding County",
+          "latitude": 33.278776,
+          "longitude": -84.2752831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spalding County",
+      "cities": [
+        {
+          "name": "East Griffin",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Spalding County",
+          "latitude": 33.2437254,
+          "longitude": -84.2288114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spalding County",
+      "cities": []
+    },
+    {
+      "name": "Spalding County",
+      "cities": [
+        {
+          "name": "Orchard Hill",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Spalding County",
+          "latitude": 33.1865071,
+          "longitude": -84.2113095,
+          "population": 233,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sunny Side",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Spalding County",
+          "latitude": 33.3406695,
+          "longitude": -84.2907566,
+          "population": 212,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Stephens County",
+      "cities": []
+    },
+    {
+      "name": "Stephens County",
+      "cities": [
+        {
+          "name": "Avalon",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Stephens County",
+          "latitude": 34.5020454,
+          "longitude": -83.1951567,
+          "population": 238,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Duncan",
+          "state": "Oklahoma",
+          "stateCode": "OK",
+          "county": "Stephens County",
+          "latitude": 34.5023028,
+          "longitude": -97.9578128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Stephens County",
+          "latitude": 34.4870458,
+          "longitude": -83.18487809999999,
+          "population": 344,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Stewart County",
+      "cities": []
+    },
+    {
+      "name": "Stewart County",
+      "cities": [
+        {
+          "name": "Dover",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Stewart County",
+          "latitude": 36.4878291,
+          "longitude": -87.83835669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lumpkin",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Stewart County",
+          "latitude": 32.0509895,
+          "longitude": -84.7990901,
+          "population": 919,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Sumter County",
+      "cities": [
+        {
+          "name": "Andersonville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Sumter County",
+          "latitude": 32.1959947,
+          "longitude": -84.13990849999999,
+          "population": 234,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "De Soto",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Sumter County",
+          "latitude": 31.9536688,
+          "longitude": -84.0616709,
+          "population": 120,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Leslie",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Sumter County",
+          "latitude": 31.9554475,
+          "longitude": -84.0865706,
+          "population": 337,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Plains",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Sumter County",
+          "latitude": 32.0340508,
+          "longitude": -84.3926912,
+          "population": 552,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

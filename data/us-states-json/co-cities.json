@@ -1,0 +1,4367 @@
+{
+  "name": "Colorado",
+  "code": "CO",
+  "counties": [
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "Westminster",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8366528,
+          "longitude": -105.0372046,
+          "population": 114875,
+          "size": "medium",
+          "confidence": "medium"
+        },
+        {
+          "name": "Commerce City",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8083196,
+          "longitude": -104.9338675,
+          "population": 68245,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Brighton",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.9852617,
+          "longitude": -104.8205283,
+          "population": 42477,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Northglenn",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8961821,
+          "longitude": -104.9811468,
+          "population": 38164,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Federal Heights",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8598956,
+          "longitude": -105.0160712,
+          "population": 13943,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Bennett",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.7588736,
+          "longitude": -104.4274609,
+          "population": 3549,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Berkley",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8128394,
+          "longitude": -105.0253166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Derby",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8417751,
+          "longitude": -104.9217936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Washington",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8072085,
+          "longitude": -104.9788693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shaw Heights",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8558854,
+          "longitude": -105.0396687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sherrelwood",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8377636,
+          "longitude": -105.0013701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Todd Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.9780398,
+          "longitude": -104.8733084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watkins",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.7435442,
+          "longitude": -104.6080353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Welby",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Adams County",
+          "latitude": 39.8417528,
+          "longitude": -104.9590647,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Alamosa County",
+      "cities": [
+        {
+          "name": "Alamosa East",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Alamosa County",
+          "latitude": 37.4728985,
+          "longitude": -105.8573839,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hooper",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Alamosa County",
+          "latitude": 37.7427775,
+          "longitude": -105.8752987,
+          "population": 79,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Arapahoe County",
+      "cities": [
+        {
+          "name": "Strasburg",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.7383163,
+          "longitude": -104.3232924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peoria",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.679626,
+          "longitude": -104.118996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inverness",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.5748542,
+          "longitude": -104.8658936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holly Hills",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6700916,
+          "longitude": -104.9199043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Four Square Mile",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6757444,
+          "longitude": -104.8863279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dove Valley",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.5767786,
+          "longitude": -104.8305167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Comanche Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6116487,
+          "longitude": -104.3210095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Byers",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.7102023,
+          "longitude": -104.2233886,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brick Center",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.5998438,
+          "longitude": -104.4548621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arapahoe",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.62031,
+          "longitude": -104.332644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aetna Estates",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.7381479,
+          "longitude": -104.6726295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centennial",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.5807452,
+          "longitude": -104.8771726,
+          "population": 106883,
+          "size": "medium",
+          "confidence": "medium"
+        },
+        {
+          "name": "Littleton",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.613321,
+          "longitude": -105.0166498,
+          "population": 44451,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Englewood",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6477653,
+          "longitude": -104.9877597,
+          "population": 34275,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Greenwood Village",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6172101,
+          "longitude": -104.9508141,
+          "population": 15205,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Cherry Hills Village",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6416544,
+          "longitude": -104.9594253,
+          "population": 6273,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sheridan",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6469319,
+          "longitude": -105.025261,
+          "population": 5908,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Glendale",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.7049873,
+          "longitude": -104.9335904,
+          "population": 4447,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Columbine Valley",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6010988,
+          "longitude": -105.032206,
+          "population": 1677,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Deer Trail",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.6149821,
+          "longitude": -104.0444033,
+          "population": 1513,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bow Mar",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.628321,
+          "longitude": -105.0499841,
+          "population": 823,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Foxfield",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Arapahoe County",
+          "latitude": 39.5916552,
+          "longitude": -104.7924749,
+          "population": 735,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Archuleta County",
+      "cities": [
+        {
+          "name": "Piedra",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Archuleta County",
+          "latitude": 37.2236144,
+          "longitude": -107.3408813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arboles",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Archuleta County",
+          "latitude": 37.0280607,
+          "longitude": -107.4192149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Baca County",
+      "cities": [
+        {
+          "name": "Walsh",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Baca County",
+          "latitude": 37.3861271,
+          "longitude": -102.2782394,
+          "population": 512,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pritchett",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Baca County",
+          "latitude": 37.3702934,
+          "longitude": -102.8596463,
+          "population": 108,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Campo",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Baca County",
+          "latitude": 37.105019,
+          "longitude": -102.5796377,
+          "population": 97,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Vilas",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Baca County",
+          "latitude": 37.3747495,
+          "longitude": -102.44738,
+          "population": 94,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Two Buttes",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Baca County",
+          "latitude": 37.5611244,
+          "longitude": -102.3976887,
+          "population": 32,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bent County",
+      "cities": [
+        {
+          "name": "McClave",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Bent County",
+          "latitude": 38.1375236,
+          "longitude": -102.8498351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hasty",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Bent County",
+          "latitude": 38.1085629,
+          "longitude": -102.9579459,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boulder County",
+      "cities": [
+        {
+          "name": "Valmont",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.031944,
+          "longitude": -105.213889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tall Timber",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.01443039999999,
+          "longitude": -105.3516594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sugarloaf",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.016944,
+          "longitude": -105.406667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunshine",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0615668,
+          "longitude": -105.3687404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seven Hills",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.03722,
+          "longitude": -105.3325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Ann Highlands",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.986931,
+          "longitude": -105.4561073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Brook Hill",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.05,
+          "longitude": -105.31417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paragon Estates",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9814827,
+          "longitude": -105.1814554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Niwot",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.103874,
+          "longitude": -105.1708193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain Meadows",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0238749,
+          "longitude": -105.3805493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leyner",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.050352,
+          "longitude": -105.1068925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lazy Acres",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.09333000000001,
+          "longitude": -105.33222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hidden Lake",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.11,
+          "longitude": -105.47806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gunbarrel",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0611612,
+          "longitude": -105.1668326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gold Hill",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0633019,
+          "longitude": -105.4096183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eldora",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9494543,
+          "longitude": -105.5702333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eldorado Springs",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9324862,
+          "longitude": -105.2769348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crisman",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0408192,
+          "longitude": -105.3613819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dakota Ridge",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.06406459999999,
+          "longitude": -105.2853144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonanza Mountain Estates",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9766535,
+          "longitude": -105.4802747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bark Ranch",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.1175,
+          "longitude": -105.43889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Altona",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.13339999999999,
+          "longitude": -105.282494,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Allenspark",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.1944294,
+          "longitude": -105.5255549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Longmont",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.1672068,
+          "longitude": -105.1019275,
+          "population": 98630,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Lafayette",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9935959,
+          "longitude": -105.0897058,
+          "population": 30439,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Louisville",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.977763,
+          "longitude": -105.1319296,
+          "population": 20390,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Superior",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.95276339999999,
+          "longitude": -105.1685977,
+          "population": 13361,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Lyons",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.2247075,
+          "longitude": -105.271378,
+          "population": 2151,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nederland",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 39.9613759,
+          "longitude": -105.5108312,
+          "population": 1488,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jamestown",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.1155412,
+          "longitude": -105.3886051,
+          "population": 245,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ward",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Boulder County",
+          "latitude": 40.0722083,
+          "longitude": -105.5083316,
+          "population": 126,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Broomfield County",
+      "cities": []
+    },
+    {
+      "name": "Chaffee County",
+      "cities": [
+        {
+          "name": "Smeltertown",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.5474971,
+          "longitude": -106.0144583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nathrop",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.7472183,
+          "longitude": -106.0755712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maysville",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.5386086,
+          "longitude": -106.1902979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson Village",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.8108291,
+          "longitude": -106.1066835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buena Vista",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.8422178,
+          "longitude": -106.1311288,
+          "population": 3080,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Poncha Springs",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Chaffee County",
+          "latitude": 38.5127752,
+          "longitude": -106.0772384,
+          "population": 1287,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Cheyenne County",
+      "cities": []
+    },
+    {
+      "name": "Clear Creek County",
+      "cities": [
+        {
+          "name": "St. George",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.8174806,
+          "longitude": -105.6500504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upper Bear Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6269656,
+          "longitude": -105.4119736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upper Witter Gulch",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6574936,
+          "longitude": -105.4214515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Valley",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6893174,
+          "longitude": -105.4097365,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Floyd Hill",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.7235177,
+          "longitude": -105.4360963,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Echo Hills",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6744689,
+          "longitude": -105.4170583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Downieville-Lawson-Dumont",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.7655744,
+          "longitude": -105.6163281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Valley",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6983247,
+          "longitude": -105.491758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Georgetown",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.70609839999999,
+          "longitude": -105.6975041,
+          "population": 1257,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Empire",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.76137629999999,
+          "longitude": -105.6844479,
+          "population": 327,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Silver Plume",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Clear Creek County",
+          "latitude": 39.6960983,
+          "longitude": -105.7258386,
+          "population": 194,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Conejos County",
+      "cities": [
+        {
+          "name": "Conejos",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.2689711,
+          "longitude": -106.2522143,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Capulin",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.2834232,
+          "longitude": -106.1111988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanford",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.2583426,
+          "longitude": -105.9047442,
+          "population": 892,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "La Jara",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.2750084,
+          "longitude": -105.960301,
+          "population": 716,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Antonito",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.079179,
+          "longitude": -106.0086329,
+          "population": 622,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Romeo",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Conejos County",
+          "latitude": 37.1722327,
+          "longitude": -105.9853004,
+          "population": 307,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Costilla County",
+      "cities": [
+        {
+          "name": "San Acacio",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Costilla County",
+          "latitude": 37.2139025,
+          "longitude": -105.5644584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Garland",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Costilla County",
+          "latitude": 37.4288973,
+          "longitude": -105.4338999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanca",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Costilla County",
+          "latitude": 37.4380633,
+          "longitude": -105.515846,
+          "population": 336,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Crowley County",
+      "cities": [
+        {
+          "name": "Olney Springs",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Crowley County",
+          "latitude": 38.1661162,
+          "longitude": -103.9446792,
+          "population": 294,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sugar City",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Crowley County",
+          "latitude": 38.2319494,
+          "longitude": -103.6630011,
+          "population": 245,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Crowley",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Crowley County",
+          "latitude": 38.1930606,
+          "longitude": -103.8560646,
+          "population": 159,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Custer County",
+      "cities": []
+    },
+    {
+      "name": "Delta County",
+      "cities": [
+        {
+          "name": "Lazear",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Delta County",
+          "latitude": 38.7799842,
+          "longitude": -107.7817267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denver County",
+      "cities": [
+        {
+          "name": "Cherry Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Denver County",
+          "latitude": 39.7177954,
+          "longitude": -104.950215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dolores County",
+      "cities": [
+        {
+          "name": "Rico",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Dolores County",
+          "latitude": 37.6927729,
+          "longitude": -108.0303502,
+          "population": 332,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Westcreek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.1524911,
+          "longitude": -105.1636015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Pinery",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.4552671,
+          "longitude": -104.7344187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stepping Stone",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5151684,
+          "longitude": -104.8191965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sterling Ranch",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5043393,
+          "longitude": -105.0367563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stonegate",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5305,
+          "longitude": -104.8054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sierra Ridge",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.529275,
+          "longitude": -104.8177375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sedalia",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.4369336,
+          "longitude": -104.9597046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roxborough Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.4591655,
+          "longitude": -105.0786091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perry Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.2566575,
+          "longitude": -104.9924844,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meridian",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5468937,
+          "longitude": -104.8395768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meridian Village",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5295924,
+          "longitude": -104.8250329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Louviers",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.4777665,
+          "longitude": -105.0072061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highlands Ranch",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5480789,
+          "longitude": -104.9739333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand View Estates",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5435998,
+          "longitude": -104.8210877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Franktown",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.3913788,
+          "longitude": -104.752753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castle Pines Village",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.4416111,
+          "longitude": -104.8980058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Acres Green",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Douglas County",
+          "latitude": 39.5566551,
+          "longitude": -104.8960903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Eagle County",
+      "cities": [
+        {
+          "name": "Wolcott",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.7024819,
+          "longitude": -106.6786192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCoy",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.9157424,
+          "longitude": -106.7258611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fulford",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.515,
+          "longitude": -106.65583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Jebel",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.3949838,
+          "longitude": -107.0903259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edwards",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.644986,
+          "longitude": -106.5942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dotsero",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.6449951,
+          "longitude": -107.0674361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.6542086,
+          "longitude": -106.8265908,
+          "population": 7391,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Avon",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.6350534,
+          "longitude": -106.5221255,
+          "population": 5954,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Vail",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.6433243,
+          "longitude": -106.3780801,
+          "population": 4521,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Basalt",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.37248110000001,
+          "longitude": -107.0785013,
+          "population": 4005,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Minturn",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.5878615,
+          "longitude": -106.4307274,
+          "population": 967,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Red Cliff",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Eagle County",
+          "latitude": 39.5129953,
+          "longitude": -106.3679262,
+          "population": 243,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "El Paso County",
+      "cities": [
+        {
+          "name": "Woodmoor",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 39.10138080000001,
+          "longitude": -104.8474794,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stratmoor",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.7743897,
+          "longitude": -104.7795861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Security-Widefield",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.7640957,
+          "longitude": -104.7404269,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock Creek Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.701919,
+          "longitude": -104.8352471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peyton",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 39.0284685,
+          "longitude": -104.4841284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gleneagle",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 39.0453205,
+          "longitude": -104.8277214,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Carson",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.7374943,
+          "longitude": -104.7888615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ellicott",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.8383279,
+          "longitude": -104.3869093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cimarron Hills",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.8679842,
+          "longitude": -104.7013553,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascade-Chipita Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.9204464,
+          "longitude": -104.9972562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Forest",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 39.0130484,
+          "longitude": -104.7008083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Air Force Academy",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "El Paso County",
+          "latitude": 38.9983573,
+          "longitude": -104.8617533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Elbert County",
+      "cities": [
+        {
+          "name": "Ponderosa Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Elbert County",
+          "latitude": 39.408322,
+          "longitude": -104.651083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Matheson",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Elbert County",
+          "latitude": 39.1705842,
+          "longitude": -103.9738648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elbert",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Elbert County",
+          "latitude": 39.35370040000001,
+          "longitude": -104.1930918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fremont County",
+      "cities": [
+        {
+          "name": "Cañon City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4494063,
+          "longitude": -105.2253316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portland",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.3911118,
+          "longitude": -105.0249852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Penrose",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4250001,
+          "longitude": -105.0227624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park Center",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4802348,
+          "longitude": -105.2253316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4291649,
+          "longitude": -105.2199896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howard",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4458922,
+          "longitude": -105.8392176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cotopaxi",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.3731692,
+          "longitude": -105.6867122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coaldale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.36555329999999,
+          "longitude": -105.7577836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.3902777,
+          "longitude": -105.1185988,
+          "population": 3862,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Williamsburg",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.3819441,
+          "longitude": -105.151933,
+          "population": 765,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rockvale",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.36972220000001,
+          "longitude": -105.1638889,
+          "population": 533,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Brookside",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Fremont County",
+          "latitude": 38.4152765,
+          "longitude": -105.1919336,
+          "population": 243,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Garfield County",
+      "cities": [
+        {
+          "name": "No Name",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.5593592,
+          "longitude": -107.2925007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mulford",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.3999835,
+          "longitude": -107.1519944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garfield",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.6584775,
+          "longitude": -107.763621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catherine",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.4072057,
+          "longitude": -107.1528278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cattle Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.4583159,
+          "longitude": -107.2625532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chacra",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.575259,
+          "longitude": -107.4467208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Battlement Mesa",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.441367,
+          "longitude": -108.0250738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carbonate",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Garfield County",
+          "latitude": 39.746755,
+          "longitude": -107.3405354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gilpin County",
+      "cities": [
+        {
+          "name": "Rollinsville",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Gilpin County",
+          "latitude": 39.9172094,
+          "longitude": -105.5011084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Hawk",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Gilpin County",
+          "latitude": 39.7969322,
+          "longitude": -105.4938853,
+          "population": 128,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Grand County",
+      "cities": [
+        {
+          "name": "Tabernash",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Grand County",
+          "latitude": 39.9935977,
+          "longitude": -105.8430661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parshall",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Grand County",
+          "latitude": 40.0571839,
+          "longitude": -106.1757043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gunnison County",
+      "cities": [
+        {
+          "name": "Somerset",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Gunnison County",
+          "latitude": 38.9261928,
+          "longitude": -107.4698928,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crested Butte",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Gunnison County",
+          "latitude": 38.8697146,
+          "longitude": -106.9878231,
+          "population": 1658,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mount Crested Butte",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Gunnison County",
+          "latitude": 38.9121756,
+          "longitude": -106.9624239,
+          "population": 961,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Marble",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Gunnison County",
+          "latitude": 39.0722106,
+          "longitude": -107.1889377,
+          "population": 132,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pitkin",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Gunnison County",
+          "latitude": 38.6091612,
+          "longitude": -106.5166957,
+          "population": 75,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Hinsdale County",
+      "cities": [
+        {
+          "name": "Cathedral",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Hinsdale County",
+          "latitude": 38.09583,
+          "longitude": -107.03333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Huerfano County",
+      "cities": [
+        {
+          "name": "Gardner",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Huerfano County",
+          "latitude": 37.7833397,
+          "longitude": -105.1655542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Veta",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Huerfano County",
+          "latitude": 37.5058127,
+          "longitude": -105.0090854,
+          "population": 878,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": []
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "West Pleasant View",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.7327579,
+          "longitude": -105.1790573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kittredge",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.6547101,
+          "longitude": -105.2997139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ken Caryl",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.5758213,
+          "longitude": -105.1122088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idledale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.6659845,
+          "longitude": -105.243887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indian Hills",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.6166545,
+          "longitude": -105.2372124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Genesee",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.689746,
+          "longitude": -105.2691599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evergreen",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.634584,
+          "longitude": -105.3155562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairmount",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.7899435,
+          "longitude": -105.1668326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Pleasant View",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.7278873,
+          "longitude": -105.1569918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbine",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.5877657,
+          "longitude": -105.0694295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aspen Park",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.542748,
+          "longitude": -105.295922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Applewood",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.74739539999999,
+          "longitude": -105.128202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arvada",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.8027644,
+          "longitude": -105.0874842,
+          "population": 121414,
+          "size": "medium",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheat Ridge",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.766098,
+          "longitude": -105.0772063,
+          "population": 31804,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Golden",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.755543,
+          "longitude": -105.2210997,
+          "population": 20242,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Edgewater",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.75304250000001,
+          "longitude": -105.0641503,
+          "population": 4882,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mountain View",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.7744311,
+          "longitude": -105.0555389,
+          "population": 519,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Morrison",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.6535988,
+          "longitude": -105.1910996,
+          "population": 388,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Coal Creek",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.910144,
+          "longitude": -105.3549395,
+          "population": 367,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lakeside",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Jefferson County",
+          "latitude": 39.77908050000001,
+          "longitude": -105.057631,
+          "population": 16,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Kiowa County",
+      "cities": [
+        {
+          "name": "Towner",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Kiowa County",
+          "latitude": 38.4708492,
+          "longitude": -102.0796258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandon",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Kiowa County",
+          "latitude": 38.4463998,
+          "longitude": -102.4396334,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kit Carson County",
+      "cities": [
+        {
+          "name": "Stratton",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.3033276,
+          "longitude": -102.6046454,
+          "population": 646,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Flagler",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.2930463,
+          "longitude": -103.0671582,
+          "population": 573,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kit Carson",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.3844507,
+          "longitude": -102.5298028,
+          "population": 250,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bethune",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.3041624,
+          "longitude": -102.4246395,
+          "population": 181,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Seibert",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.2991591,
+          "longitude": -102.8690977,
+          "population": 176,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Vona",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Kit Carson County",
+          "latitude": 39.3036044,
+          "longitude": -102.7429831,
+          "population": 90,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "La Plata County",
+      "cities": [
+        {
+          "name": "Southern Ute",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "La Plata County",
+          "latitude": 37.0786428,
+          "longitude": -107.5875747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marvel",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "La Plata County",
+          "latitude": 37.1125001,
+          "longitude": -108.1267413,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayfield",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "La Plata County",
+          "latitude": 37.2255593,
+          "longitude": -107.5981123,
+          "population": 2872,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ignacio",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "La Plata County",
+          "latitude": 37.1150037,
+          "longitude": -107.633113,
+          "population": 845,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "cities": [
+        {
+          "name": "Twin Lakes",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Lake County",
+          "latitude": 39.0820493,
+          "longitude": -106.38228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leadville North",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Lake County",
+          "latitude": 39.2590681,
+          "longitude": -106.3051766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Larimer County",
+      "cities": [
+        {
+          "name": "Red Feather Lakes",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.802481,
+          "longitude": -105.5916629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laporte",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.62637110000001,
+          "longitude": -105.1377578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loveland",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.395451,
+          "longitude": -105.0745837,
+          "population": 79352,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Berthoud",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.3083174,
+          "longitude": -105.0810924,
+          "population": 13238,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Wellington",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.70387119999999,
+          "longitude": -105.0085856,
+          "population": 12078,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Timnath",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.5291491,
+          "longitude": -104.9852533,
+          "population": 9991,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Estes Park",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Larimer County",
+          "latitude": 40.3772059,
+          "longitude": -105.5216651,
+          "population": 5824,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Las Animas County",
+      "cities": [
+        {
+          "name": "Weston",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.1327981,
+          "longitude": -104.8488835,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valdez",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.1241974,
+          "longitude": -104.6908517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stonewall Gap",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.1514082,
+          "longitude": -105.0386133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Segundo",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.12228,
+          "longitude": -104.723198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynn",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.423286,
+          "longitude": -104.6442073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jansen",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.1494638,
+          "longitude": -104.5388752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoehne",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.28101729999999,
+          "longitude": -104.3817679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Moro",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.220516,
+          "longitude": -104.466965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aguilar",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.402793,
+          "longitude": -104.6533187,
+          "population": 449,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Cokedale",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.1452975,
+          "longitude": -104.6210994,
+          "population": 127,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Starkville",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.115298,
+          "longitude": -104.5241533,
+          "population": 65,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kim",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.2466855,
+          "longitude": -103.3521611,
+          "population": 63,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Branson",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Las Animas County",
+          "latitude": 37.0175227,
+          "longitude": -103.8844083,
+          "population": 57,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Hugo",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Lincoln County",
+          "latitude": 39.1361003,
+          "longitude": -103.4699447,
+          "population": 774,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Arriba",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Lincoln County",
+          "latitude": 39.2860997,
+          "longitude": -103.2754955,
+          "population": 201,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Genoa",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Lincoln County",
+          "latitude": 39.2783208,
+          "longitude": -103.5002239,
+          "population": 153,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Logan County",
+      "cities": [
+        {
+          "name": "Padroni",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.7777652,
+          "longitude": -103.1727037,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atwood",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.5477619,
+          "longitude": -103.2696574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fleming",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.6799914,
+          "longitude": -102.8393627,
+          "population": 422,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Merino",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.48248239999999,
+          "longitude": -103.3513279,
+          "population": 282,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Iliff",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.759156,
+          "longitude": -103.0665894,
+          "population": 241,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Peetz",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.9627642,
+          "longitude": -103.1124241,
+          "population": 205,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Crook",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Logan County",
+          "latitude": 40.8588799,
+          "longitude": -102.8010264,
+          "population": 125,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Mesa County",
+      "cities": [
+        {
+          "name": "Redlands",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.1038308,
+          "longitude": -108.6828838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orchard Mesa",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.0455715,
+          "longitude": -108.5017948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loma",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.1958139,
+          "longitude": -108.813158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruitvale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.0947694,
+          "longitude": -108.4780523,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clifton",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.0919256,
+          "longitude": -108.4489784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruita",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.1588696,
+          "longitude": -108.7289882,
+          "population": 13816,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Palisade",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.1102587,
+          "longitude": -108.3509193,
+          "population": 2602,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "De Beque",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.3344233,
+          "longitude": -108.2150816,
+          "population": 477,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Collbran",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Mesa County",
+          "latitude": 39.2405343,
+          "longitude": -107.9611808,
+          "population": 366,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Mineral County",
+      "cities": []
+    },
+    {
+      "name": "Moffat County",
+      "cities": [
+        {
+          "name": "Maybell",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Moffat County",
+          "latitude": 40.5163366,
+          "longitude": -108.0880245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dinosaur",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Moffat County",
+          "latitude": 40.2422471,
+          "longitude": -109.0066844,
+          "population": 246,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Montezuma County",
+      "cities": [
+        {
+          "name": "Towaoc",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Montezuma County",
+          "latitude": 37.2044387,
+          "longitude": -108.7295415,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewis",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Montezuma County",
+          "latitude": 37.4997136,
+          "longitude": -108.6692637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mancos",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Montezuma County",
+          "latitude": 37.344996,
+          "longitude": -108.2892487,
+          "population": 1248,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dolores",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Montezuma County",
+          "latitude": 37.7530272,
+          "longitude": -108.5225709,
+          "population": 923,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Montrose County",
+      "cities": [
+        {
+          "name": "Redvale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Montrose County",
+          "latitude": 38.1749906,
+          "longitude": -108.4173088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olathe",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Montrose County",
+          "latitude": 38.6049853,
+          "longitude": -107.9822884,
+          "population": 1962,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nucla",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Montrose County",
+          "latitude": 38.2694347,
+          "longitude": -108.5478691,
+          "population": 583,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Naturita",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Montrose County",
+          "latitude": 38.21832390000001,
+          "longitude": -108.5687033,
+          "population": 474,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Weldona",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.34629959999999,
+          "longitude": -103.9696224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trail Side",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.24925700000001,
+          "longitude": -103.8411323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snyder",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.3291471,
+          "longitude": -103.5963357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saddle Ridge",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.3126406,
+          "longitude": -103.800664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orchard",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.3310766,
+          "longitude": -104.1180962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morgan Heights",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.288419,
+          "longitude": -103.8267344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackson Lake",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.3687184,
+          "longitude": -104.079806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Sky",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.29973529999999,
+          "longitude": -103.8039793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brush",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.2588686,
+          "longitude": -103.6238367,
+          "population": 5268,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wiggins",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.2305363,
+          "longitude": -104.0727278,
+          "population": 1796,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Log Lane Village",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.2705364,
+          "longitude": -103.8296732,
+          "population": 902,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hillrose",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Morgan County",
+          "latitude": 40.3258129,
+          "longitude": -103.521889,
+          "population": 309,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Otero County",
+      "cities": [
+        {
+          "name": "North La Junta",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Otero County",
+          "latitude": 37.9969533,
+          "longitude": -103.5318872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Junta Gardens",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Otero County",
+          "latitude": 37.9994533,
+          "longitude": -103.5535548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ouray County",
+      "cities": [
+        {
+          "name": "Loghill Village",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Ouray County",
+          "latitude": 38.1952677,
+          "longitude": -107.7795043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colona",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Ouray County",
+          "latitude": 38.3249881,
+          "longitude": -107.7797816,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ouray",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Ouray County",
+          "latitude": 38.0227716,
+          "longitude": -107.6714487,
+          "population": 920,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Park County",
+      "cities": [
+        {
+          "name": "Hartsel",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Park County",
+          "latitude": 39.0216594,
+          "longitude": -105.7958419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guffey",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Park County",
+          "latitude": 38.7510722,
+          "longitude": -105.521369,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Phillips County",
+      "cities": [
+        {
+          "name": "Amherst",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Phillips County",
+          "latitude": 40.6829603,
+          "longitude": -102.1659801,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haxtun",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Phillips County",
+          "latitude": 40.6411022,
+          "longitude": -102.6268584,
+          "population": 969,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Paoli",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Phillips County",
+          "latitude": 40.6122133,
+          "longitude": -102.4726893,
+          "population": 48,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pitkin County",
+      "cities": [
+        {
+          "name": "Woody Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pitkin County",
+          "latitude": 39.2730915,
+          "longitude": -106.8866312,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redstone",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pitkin County",
+          "latitude": 39.1808189,
+          "longitude": -107.2397727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norrie",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pitkin County",
+          "latitude": 39.3247087,
+          "longitude": -106.6555894,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snowmass Village",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Pitkin County",
+          "latitude": 39.2130418,
+          "longitude": -106.9378207,
+          "population": 3011,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Prowers County",
+      "cities": [
+        {
+          "name": "Holly",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Prowers County",
+          "latitude": 38.0522337,
+          "longitude": -102.122685,
+          "population": 822,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Granada",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Prowers County",
+          "latitude": 38.0638981,
+          "longitude": -102.3104673,
+          "population": 438,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wiley",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Prowers County",
+          "latitude": 38.1541748,
+          "longitude": -102.7196403,
+          "population": 432,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hartman",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Prowers County",
+          "latitude": 38.1202879,
+          "longitude": -102.2199104,
+          "population": 54,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Pueblo County",
+      "cities": [
+        {
+          "name": "Vineland",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.2455583,
+          "longitude": -104.4594147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salt Creek",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.241124,
+          "longitude": -104.5859219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pueblo West",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.3324119,
+          "longitude": -104.7404269,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colorado City",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 37.9452861,
+          "longitude": -104.8352628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blende",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.2458362,
+          "longitude": -104.5685844,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beulah Valley",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.075258,
+          "longitude": -104.9872389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avondale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.2375025,
+          "longitude": -104.3510792,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boone",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 38.248613,
+          "longitude": -104.2569104,
+          "population": 309,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rye",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Pueblo County",
+          "latitude": 37.9236194,
+          "longitude": -104.9302662,
+          "population": 203,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Rio Blanco County",
+      "cities": [
+        {
+          "name": "Rangely",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Rio Blanco County",
+          "latitude": 40.0874759,
+          "longitude": -108.8048292,
+          "population": 2286,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Rio Grande County",
+      "cities": [
+        {
+          "name": "Gerrard",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Rio Grande County",
+          "latitude": 37.676853,
+          "longitude": -106.590645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Rio Grande County",
+          "latitude": 37.6891702,
+          "longitude": -106.58893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Del Norte",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Rio Grande County",
+          "latitude": 37.6786462,
+          "longitude": -106.3519088,
+          "population": 1413,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "South Fork",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Rio Grande County",
+          "latitude": 37.6694235,
+          "longitude": -106.6395661,
+          "population": 507,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Routt County",
+      "cities": [
+        {
+          "name": "Phippsburg",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Routt County",
+          "latitude": 40.2321831,
+          "longitude": -106.9433926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayden",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Routt County",
+          "latitude": 40.4894302,
+          "longitude": -107.2636842,
+          "population": 1919,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oak Creek",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Routt County",
+          "latitude": 40.2749806,
+          "longitude": -106.9583829,
+          "population": 858,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Yampa",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Routt County",
+          "latitude": 40.1524837,
+          "longitude": -106.9086582,
+          "population": 394,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Saguache County",
+      "cities": [
+        {
+          "name": "Bonanza",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Saguache County",
+          "latitude": 38.2947216,
+          "longitude": -106.1422425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saguache",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Saguache County",
+          "latitude": 38.0875,
+          "longitude": -106.1419671,
+          "population": 533,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Crestone",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Saguache County",
+          "latitude": 37.9963881,
+          "longitude": -105.6997332,
+          "population": 139,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Moffat",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Saguache County",
+          "latitude": 37.9988882,
+          "longitude": -105.9100156,
+          "population": 107,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "San Juan County",
+      "cities": []
+    },
+    {
+      "name": "San Miguel County",
+      "cities": [
+        {
+          "name": "Placerville",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "San Miguel County",
+          "latitude": 38.0166587,
+          "longitude": -108.0534031,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sedgwick County",
+      "cities": []
+    },
+    {
+      "name": "Summit County",
+      "cities": [
+        {
+          "name": "Keystone",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Summit County",
+          "latitude": 39.5791675,
+          "longitude": -105.9347384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heeney",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Summit County",
+          "latitude": 39.8724857,
+          "longitude": -106.3011389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Copper Mountain",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Summit County",
+          "latitude": 39.501419,
+          "longitude": -106.1516265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Teller County",
+      "cities": [
+        {
+          "name": "Midland",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.8452131,
+          "longitude": -105.1580595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goldfield",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.71776690000001,
+          "longitude": -105.126091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florissant",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.946154,
+          "longitude": -105.2893555,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Divide",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.9422556,
+          "longitude": -105.1576396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cripple Creek",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.7466555,
+          "longitude": -105.1783149,
+          "population": 1117,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Victor",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Teller County",
+          "latitude": 38.70998960000001,
+          "longitude": -105.1399807,
+          "population": 364,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Cope",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Washington County",
+          "latitude": 39.6638755,
+          "longitude": -102.8507483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Otis",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Washington County",
+          "latitude": 40.1488722,
+          "longitude": -102.9629927,
+          "population": 521,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Weld County",
+      "cities": [
+        {
+          "name": "Briggsdale",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.634449,
+          "longitude": -104.3272043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aristocrat Ranchettes",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.1086122,
+          "longitude": -104.7621375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Windsor",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.4774818,
+          "longitude": -104.9013617,
+          "population": 40349,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Erie",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.0502623,
+          "longitude": -105.0499817,
+          "population": 35269,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Evans",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.3763701,
+          "longitude": -104.6921874,
+          "population": 22326,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Johnstown",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.3369272,
+          "longitude": -104.9121967,
+          "population": 19511,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Firestone",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.1124839,
+          "longitude": -104.9366436,
+          "population": 18589,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Frederick",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.0991506,
+          "longitude": -104.9371993,
+          "population": 17676,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Severance",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.5241479,
+          "longitude": -104.8510819,
+          "population": 10820,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Fort Lupton",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.0847055,
+          "longitude": -104.8130275,
+          "population": 9447,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Milliken",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.3294268,
+          "longitude": -104.85525,
+          "population": 9084,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lochbuie",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.00720560000001,
+          "longitude": -104.7160792,
+          "population": 8336,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dacono",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.0847062,
+          "longitude": -104.9394216,
+          "population": 6595,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mead",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.2333174,
+          "longitude": -104.9985899,
+          "population": 6450,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Eaton",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.5194046,
+          "longitude": -104.702515,
+          "population": 5832,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Platteville",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.2149829,
+          "longitude": -104.8227494,
+          "population": 2898,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ault",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.5824804,
+          "longitude": -104.7319112,
+          "population": 2666,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "La Salle",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.3488703,
+          "longitude": -104.7019102,
+          "population": 2301,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Keenesburg",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.1083158,
+          "longitude": -104.5199585,
+          "population": 2050,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hudson",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.0735941,
+          "longitude": -104.6430199,
+          "population": 1617,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kersey",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.387481,
+          "longitude": -104.5616256,
+          "population": 1491,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pierce",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.63553599999999,
+          "longitude": -104.7552458,
+          "population": 1080,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gilcrest",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.2819266,
+          "longitude": -104.7777471,
+          "population": 1020,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nunn",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.7035916,
+          "longitude": -104.7808024,
+          "population": 531,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Garden City",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.39387,
+          "longitude": -104.6894093,
+          "population": 250,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Grover",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.8713729,
+          "longitude": -104.2252275,
+          "population": 153,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Raymer (New Raymer)",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Weld County",
+          "latitude": 40.609427,
+          "longitude": -103.8411294,
+          "population": 111,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Yuma County",
+      "cities": [
+        {
+          "name": "Vernon",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 39.946379,
+          "longitude": -102.3154743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laird",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.0822939,
+          "longitude": -102.1011103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kirk",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 39.6128529,
+          "longitude": -102.5920293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joes",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 39.6559319,
+          "longitude": -102.678386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idalia",
+          "state": "CO",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 39.7038813,
+          "longitude": -102.2938052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yuma",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.1222084,
+          "longitude": -102.7252096,
+          "population": 3401,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wray",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.0758231,
+          "longitude": -102.2232495,
+          "population": 2315,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Eckley",
+          "state": "Colorado",
+          "stateCode": "CO",
+          "county": "Yuma County",
+          "latitude": 40.1138772,
+          "longitude": -102.4907576,
+          "population": 230,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

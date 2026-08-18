@@ -1,0 +1,561 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Gresham Park",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7040448,
+          "longitude": -84.3161186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Druid Hills",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7751627,
+          "longitude": -84.3415564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Candler-McAfee",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7254622,
+          "longitude": -84.2752831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Belvedere Park",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7500738,
+          "longitude": -84.26403859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeKalb County",
+      "cities": [
+        {
+          "name": "Avondale Estates",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7714939,
+          "longitude": -84.26714439999999,
+          "population": 3524,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Brookhaven",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8650186,
+          "longitude": -84.33712659999999,
+          "population": 57945,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Chamblee",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8920468,
+          "longitude": -84.29881259999999,
+          "population": 31841,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Clarkston",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8095487,
+          "longitude": -84.23964339999999,
+          "population": 14396,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Decatur",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7748275,
+          "longitude": -84.2963123,
+          "population": 24307,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Doraville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8981579,
+          "longitude": -84.2832564,
+          "population": 10780,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Dunwoody",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.9462125,
+          "longitude": -84.3346473,
+          "population": 51713,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Lithonia",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7123305,
+          "longitude": -84.1051939,
+          "population": 2583,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pine Lake",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.7937162,
+          "longitude": -84.2060309,
+          "population": 749,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Stone Mountain",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8081608,
+          "longitude": -84.17019599999999,
+          "population": 6553,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tucker",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "DeKalb County",
+          "latitude": 33.8545479,
+          "longitude": -84.2171424,
+          "population": 36975,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Dodge County",
+      "cities": [
+        {
+          "name": "Empire",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Dodge County",
+          "latitude": 32.3404437,
+          "longitude": -83.2962703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dodge County",
+      "cities": []
+    },
+    {
+      "name": "Dodge County",
+      "cities": [
+        {
+          "name": "Beaver Dam",
+          "state": "Wisconsin",
+          "stateCode": "WI",
+          "county": "Dodge County",
+          "latitude": 43.4577692,
+          "longitude": -88.837329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chauncey",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dodge County",
+          "latitude": 32.1046197,
+          "longitude": -83.0645928,
+          "population": 287,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chester",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dodge County",
+          "latitude": 32.3937787,
+          "longitude": -83.15292989999999,
+          "population": 1477,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Fremont",
+          "state": "Nebraska",
+          "stateCode": "NE",
+          "county": "Dodge County",
+          "latitude": 41.4333909,
+          "longitude": -96.49814669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kasson",
+          "state": "Minnesota",
+          "stateCode": "MN",
+          "county": "Dodge County",
+          "latitude": 44.0295675,
+          "longitude": -92.7509042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhine",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dodge County",
+          "latitude": 31.98962289999999,
+          "longitude": -83.2001537,
+          "population": 291,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Dooly County",
+      "cities": []
+    },
+    {
+      "name": "Dooly County",
+      "cities": [
+        {
+          "name": "Byromville",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dooly County",
+          "latitude": 32.2021071,
+          "longitude": -83.9085132,
+          "population": 335,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Dooling",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dooly County",
+          "latitude": 32.2304391,
+          "longitude": -83.927959,
+          "population": 64,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lilly",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dooly County",
+          "latitude": 32.1471098,
+          "longitude": -83.8773999,
+          "population": 128,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Vienna",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Dooly County",
+          "latitude": 32.0915577,
+          "longitude": -83.7954518,
+          "population": 2845,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Dougherty County",
+      "cities": [
+        {
+          "name": "Putney",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Dougherty County",
+          "latitude": 31.4701766,
+          "longitude": -84.117684,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dougherty County",
+      "cities": []
+    },
+    {
+      "name": "Dougherty County",
+      "cities": []
+    },
+    {
+      "name": "Dougherty County",
+      "cities": []
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Lithia Springs",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Douglas County",
+          "latitude": 33.7939953,
+          "longitude": -84.6604899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Fairplay",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Douglas County",
+          "latitude": 33.6234434,
+          "longitude": -84.85993870000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": []
+    },
+    {
+      "name": "Early County",
+      "cities": [
+        {
+          "name": "Cedar Springs",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Early County",
+          "latitude": 31.1837614,
+          "longitude": -85.0372144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Early County",
+      "cities": []
+    },
+    {
+      "name": "Early County",
+      "cities": [
+        {
+          "name": "Damascus",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Early County",
+          "latitude": 31.2990682,
+          "longitude": -84.7188077,
+          "population": 203,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Jakin",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Early County",
+          "latitude": 31.0910162,
+          "longitude": -84.98214999999999,
+          "population": 128,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Echols County",
+      "cities": [
+        {
+          "name": "Echols County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Echols County",
+          "latitude": 30.7503289,
+          "longitude": -82.95015579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Echols County",
+      "cities": []
+    },
+    {
+      "name": "Echols County",
+      "cities": []
+    },
+    {
+      "name": "Echols County",
+      "cities": []
+    },
+    {
+      "name": "Echols County",
+      "cities": []
+    },
+    {
+      "name": "Echols County",
+      "cities": []
+    },
+    {
+      "name": "Effingham County",
+      "cities": []
+    },
+    {
+      "name": "Effingham County",
+      "cities": [
+        {
+          "name": "Effingham",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Effingham County",
+          "latitude": 39.1200418,
+          "longitude": -88.5433829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guyton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Effingham County",
+          "latitude": 32.3421597,
+          "longitude": -81.3921781,
+          "population": 2925,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Springfield",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Effingham County",
+          "latitude": 32.3642241,
+          "longitude": -81.30418,
+          "population": 3284,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Elbert County",
+      "cities": [
+        {
+          "name": "Dewy Rose",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Elbert County",
+          "latitude": 34.1698309,
+          "longitude": -82.95291979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Elbert County",
+      "cities": [
+        {
+          "name": "Bowman",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Elbert County",
+          "latitude": 34.2048295,
+          "longitude": -83.0307002,
+          "population": 873,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

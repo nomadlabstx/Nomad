@@ -1,0 +1,3748 @@
+{
+  "name": "Utah",
+  "code": "UT",
+  "counties": [
+    {
+      "name": "Beaver County",
+      "cities": [
+        {
+          "name": "Minersville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Beaver County",
+          "latitude": 38.2141363,
+          "longitude": -112.9235621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Beaver County",
+          "latitude": 38.2769149,
+          "longitude": -112.6410518,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milford",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Beaver County",
+          "latitude": 38.3969108,
+          "longitude": -113.0107892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Box Elder County",
+      "cities": [
+        {
+          "name": "Thatcher",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.69381660000001,
+          "longitude": -112.2941236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Willard",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.36208180000001,
+          "longitude": -112.035481,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverside",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.7922275,
+          "longitude": -112.1494959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bear River City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.61465339999999,
+          "longitude": -112.1266165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elwood",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.6694828,
+          "longitude": -112.1409032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snowville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.9654754,
+          "longitude": -112.7097012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fielding",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.81464889999999,
+          "longitude": -112.1160644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tremonton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.71187279999999,
+          "longitude": -112.1655079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Honeyville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.638542,
+          "longitude": -112.0793935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mantua",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.4957692,
+          "longitude": -111.9438329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plymouth",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.8754813,
+          "longitude": -112.1441223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portage",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.9756457,
+          "longitude": -112.2375166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Willard",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.4127699,
+          "longitude": -112.0408891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brigham City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.5102129,
+          "longitude": -112.0155015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corinne",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.5510441,
+          "longitude": -112.1102262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deweyville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.7104845,
+          "longitude": -112.0902281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garland",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.7410387,
+          "longitude": -112.1616194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howell",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.7960354,
+          "longitude": -112.4444112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perry",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Box Elder County",
+          "latitude": 41.4609689,
+          "longitude": -112.0366907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cache County",
+      "cities": [
+        {
+          "name": "Peter",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7682472,
+          "longitude": -111.9814324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cove",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9635383,
+          "longitude": -111.8060575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cache",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7560026,
+          "longitude": -111.7614661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benson",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7458581,
+          "longitude": -111.9283263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.532991,
+          "longitude": -111.8132743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paradise",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.5688234,
+          "longitude": -111.8379975,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarkston",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9202033,
+          "longitude": -112.0499536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellsville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.6385432,
+          "longitude": -111.9338342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewiston",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9757598,
+          "longitude": -111.8563372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amalga",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.861039,
+          "longitude": -111.8957808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornish",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9754811,
+          "longitude": -111.9532848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hyde Park",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7991057,
+          "longitude": -111.8193052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hyrum",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.6340996,
+          "longitude": -111.8521653,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mendon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7099297,
+          "longitude": -111.977725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.6815987,
+          "longitude": -111.8229982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.8627046,
+          "longitude": -111.9907837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nibley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.6743765,
+          "longitude": -111.8329984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Logan",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7693747,
+          "longitude": -111.8046654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Providence",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7063204,
+          "longitude": -111.817165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richmond",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9227056,
+          "longitude": -111.8135571,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "River Heights",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7215978,
+          "longitude": -111.821332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithfield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.8382622,
+          "longitude": -111.8327229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trenton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.9177042,
+          "longitude": -111.94245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logan",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Cache County",
+          "latitude": 41.7369803,
+          "longitude": -111.8338359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carbon County",
+      "cities": [
+        {
+          "name": "West Wood",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.6053858,
+          "longitude": -110.8424256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Glen",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.6594085,
+          "longitude": -110.8534942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenilworth",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.688297,
+          "longitude": -110.8057149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clear Creek",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.645833,
+          "longitude": -111.151667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carbonville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.629551,
+          "longitude": -110.848511,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Carbon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.53829229999999,
+          "longitude": -110.4321671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Price",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.5994095,
+          "longitude": -110.8107148,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scofield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.7241288,
+          "longitude": -111.1607272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellington",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.5424105,
+          "longitude": -110.7340924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helper",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Carbon County",
+          "latitude": 39.6841304,
+          "longitude": -110.8546053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Daggett County",
+      "cities": [
+        {
+          "name": "Flaming Gorge",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Daggett County",
+          "latitude": 40.8897647,
+          "longitude": -109.474959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manila",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Daggett County",
+          "latitude": 40.98801419999999,
+          "longitude": -109.7226498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dutch John",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Daggett County",
+          "latitude": 40.9291264,
+          "longitude": -109.3909685,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Davis County",
+      "cities": [
+        {
+          "name": "Centerville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.9180005,
+          "longitude": -111.8721601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearfield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.1107771,
+          "longitude": -112.0260538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.139666,
+          "longitude": -112.0504983,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruit Heights",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.0321662,
+          "longitude": -111.9021622,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woods Cross",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.8716119,
+          "longitude": -111.89216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Syracuse",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.0893878,
+          "longitude": -112.0646657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Bountiful",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.8938339,
+          "longitude": -111.9018828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Point",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.1182767,
+          "longitude": -112.08411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunset",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.1398658,
+          "longitude": -112.0308126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bountiful",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.8893895,
+          "longitude": -111.880771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.9804999,
+          "longitude": -111.8874392,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kaysville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.0352216,
+          "longitude": -111.9385521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Layton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.0602216,
+          "longitude": -111.9710529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Salt Lake",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 40.8485564,
+          "longitude": -111.9068824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Weber",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Davis County",
+          "latitude": 41.1324438,
+          "longitude": -111.9302184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Duchesne County",
+      "cities": [
+        {
+          "name": "Neola",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.4332885,
+          "longitude": -110.0298752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluebell",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.3594438,
+          "longitude": -110.2183786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Myton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.1944043,
+          "longitude": -110.0618168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tabiona",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.3547191,
+          "longitude": -110.7107566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Altamont",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.359398,
+          "longitude": -110.2862683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duchesne",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.1632913,
+          "longitude": -110.4029329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roosevelt",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Duchesne County",
+          "latitude": 40.299403,
+          "longitude": -109.9887605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Emery County",
+      "cities": [
+        {
+          "name": "Cleveland",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.3488582,
+          "longitude": -110.8515521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castle Dale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.212192,
+          "longitude": -111.019613,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emery",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 38.9230307,
+          "longitude": -111.2487809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ferron",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.0935829,
+          "longitude": -111.1332247,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green River",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 38.9955607,
+          "longitude": -110.1596352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntington",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.3266354,
+          "longitude": -110.9646113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orangeville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.227191,
+          "longitude": -111.0535024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elmo",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.389691,
+          "longitude": -110.8151613,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clawson",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Emery County",
+          "latitude": 39.1330266,
+          "longitude": -111.0971135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Garfield County",
+      "cities": [
+        {
+          "name": "Escalante",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.7702663,
+          "longitude": -111.602119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bryce Canyon City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.6739665,
+          "longitude": -112.1564018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boulder",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.90813139999999,
+          "longitude": -111.4242702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antimony",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 38.1169284,
+          "longitude": -111.99964,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cannonville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.5669286,
+          "longitude": -112.0538005,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tropic",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.6252615,
+          "longitude": -112.0821359,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henrieville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.5627625,
+          "longitude": -111.9943535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hatch",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Garfield County",
+          "latitude": 37.6497018,
+          "longitude": -112.4343738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grand County",
+      "cities": [
+        {
+          "name": "Thompson Springs",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Grand County",
+          "latitude": 38.9710823,
+          "longitude": -109.713735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castle Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Grand County",
+          "latitude": 38.6394278,
+          "longitude": -109.4090056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Iron County",
+      "cities": [
+        {
+          "name": "Summit",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.801087,
+          "longitude": -112.9363354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newcastle",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.6672286,
+          "longitude": -113.5491639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Modena",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.7988558,
+          "longitude": -113.9241411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Highlands",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.6380374,
+          "longitude": -113.039919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beryl Junction",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.7094169,
+          "longitude": -113.6560767,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kanarraville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.5388676,
+          "longitude": -113.1841166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paragonah",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.8858079,
+          "longitude": -112.7752206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.6773637,
+          "longitude": -113.0617596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parowan",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.8421975,
+          "longitude": -112.8279996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brian Head",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.6927551,
+          "longitude": -112.8507766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enoch",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Iron County",
+          "latitude": 37.7733096,
+          "longitude": -113.0243929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Juab County",
+      "cities": [
+        {
+          "name": "Rocky Ridge",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Juab County",
+          "latitude": 39.9249543,
+          "longitude": -111.8271568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nephi",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Juab County",
+          "latitude": 39.7102336,
+          "longitude": -111.8363216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eureka",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Juab County",
+          "latitude": 39.9541166,
+          "longitude": -112.1202235,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Levan",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Juab County",
+          "latitude": 39.5585686,
+          "longitude": -111.8618734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mona",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Juab County",
+          "latitude": 39.8161861,
+          "longitude": -111.8552307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kane County",
+      "cities": [
+        {
+          "name": "Big Water",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Kane County",
+          "latitude": 37.0824856,
+          "longitude": -111.6643335,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orderville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Kane County",
+          "latitude": 37.27599319999999,
+          "longitude": -112.6386803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Kane County",
+          "latitude": 37.4377602,
+          "longitude": -112.4827077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Kane County",
+          "latitude": 37.3177609,
+          "longitude": -112.5971542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Millard County",
+      "cities": [
+        {
+          "name": "Sutherland",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.3888429,
+          "longitude": -112.6335609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oasis",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.2938455,
+          "longitude": -112.6282819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deseret",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.286901,
+          "longitude": -112.652727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scipio",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.24496,
+          "longitude": -112.1041015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kanosh",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 38.8013558,
+          "longitude": -112.4374387,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.3749562,
+          "longitude": -112.3354978,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 38.8857984,
+          "longitude": -112.4104943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delta",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.3521777,
+          "longitude": -112.57717,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fillmore",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 38.9638553,
+          "longitude": -112.3397377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hinckley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.3249554,
+          "longitude": -112.6710613,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holden",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.0988507,
+          "longitude": -112.2707709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leamington",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.5346744,
+          "longitude": -112.2835549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynndyl",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Millard County",
+          "latitude": 39.519119,
+          "longitude": -112.3757785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Mountain Green",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Morgan County",
+          "latitude": 41.1429987,
+          "longitude": -111.7916042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Piute County",
+      "cities": [
+        {
+          "name": "Marysvale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Piute County",
+          "latitude": 38.4494204,
+          "longitude": -112.2302024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingston",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Piute County",
+          "latitude": 38.2083129,
+          "longitude": -112.1877018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Circleville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Piute County",
+          "latitude": 38.1716447,
+          "longitude": -112.2704819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Junction",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Piute County",
+          "latitude": 38.2374788,
+          "longitude": -112.2199252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rich County",
+      "cities": [
+        {
+          "name": "Garden",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Rich County",
+          "latitude": 41.8920732,
+          "longitude": -111.374906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laketown",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Rich County",
+          "latitude": 41.8254935,
+          "longitude": -111.3224256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodruff",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Rich County",
+          "latitude": 41.52188779999999,
+          "longitude": -111.1624159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Randolph",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Rich County",
+          "latitude": 41.6657759,
+          "longitude": -111.1821409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garden City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Rich County",
+          "latitude": 41.946878,
+          "longitude": -111.3935397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake County",
+      "cities": [
+        {
+          "name": "Salt Lake City",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7605601,
+          "longitude": -111.8881397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brighton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.60384,
+          "longitude": -111.5821429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millcreek",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6870846,
+          "longitude": -111.8655332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Valley City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6916132,
+          "longitude": -112.0010501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Draper",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5246711,
+          "longitude": -111.8638226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Jordan",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6096698,
+          "longitude": -111.9391031,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandy",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5649781,
+          "longitude": -111.8389726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alta",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5888394,
+          "longitude": -111.6379793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluffdale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.4896711,
+          "longitude": -111.9388244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Herriman",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5141147,
+          "longitude": -112.0329938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Midvale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6110589,
+          "longitude": -111.8999353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.521893,
+          "longitude": -111.9391023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Jordan",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5621704,
+          "longitude": -111.929658,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Salt Lake",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7188354,
+          "longitude": -111.8882691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murray",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6668916,
+          "longitude": -111.8879909,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holladay",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6688363,
+          "longitude": -111.8246557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylorsville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6531536,
+          "longitude": -111.9578509,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottonwood Heights",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6183158,
+          "longitude": -111.8162931,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emigration Canyon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7667008,
+          "longitude": -111.7666791,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5657817,
+          "longitude": -111.8643784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Copperton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5646688,
+          "longitude": -112.0974407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kearns",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6599468,
+          "longitude": -111.9963275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Magna",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7091121,
+          "longitude": -112.1016088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Granite",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5686443,
+          "longitude": -111.7897859,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kearns metro township",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.6599468,
+          "longitude": -111.9963275,
+          "population": 37767,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Magna metro township",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7091121,
+          "longitude": -112.1016088,
+          "population": 30087,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White City metro township",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5657817,
+          "longitude": -111.8643784,
+          "population": 5676,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emigration Canyon metro township",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.7667008,
+          "longitude": -111.7666791,
+          "population": 1506,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Copperton metro township",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Salt Lake County",
+          "latitude": 40.5646688,
+          "longitude": -112.0974407,
+          "population": 852,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "San Juan County",
+      "cities": [
+        {
+          "name": "White Mesa",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.4658339,
+          "longitude": -109.4676202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tselakai Dezza",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.2030565,
+          "longitude": -109.6065087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spanish Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 38.4944807,
+          "longitude": -109.4553765,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Navajo Mountain",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.0168528,
+          "longitude": -110.7953051,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montezuma Creek",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.259367,
+          "longitude": -109.3010902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mexican Hat",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.151946,
+          "longitude": -109.8670664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Sal",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 38.3112621,
+          "longitude": -109.2565308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halchita",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.125835,
+          "longitude": -109.888455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halls Crossing",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.4569357,
+          "longitude": -110.7129205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aneth",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.216108,
+          "longitude": -109.187057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluff",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.2844448,
+          "longitude": -109.5517877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monticello",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "San Juan County",
+          "latitude": 37.8713829,
+          "longitude": -109.3428948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sanpete County",
+      "cities": [
+        {
+          "name": "Centerfield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.1252392,
+          "longitude": -111.8190914,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.626351,
+          "longitude": -111.4396325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fayette",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.2252386,
+          "longitude": -111.8565932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fountain Green",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.6299598,
+          "longitude": -111.635199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ephraim",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.3596841,
+          "longitude": -111.5863052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sterling",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.1935732,
+          "longitude": -111.69242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Pleasant",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.5469073,
+          "longitude": -111.4554659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gunnison",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.1552391,
+          "longitude": -111.8182582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.482463,
+          "longitude": -111.4960236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manti",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.2682951,
+          "longitude": -111.6368627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayfield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.1141292,
+          "longitude": -111.7107536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moroni",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.5249615,
+          "longitude": -111.5904725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wales",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sanpete County",
+          "latitude": 39.4869056,
+          "longitude": -111.6351961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sevier County",
+      "cities": [
+        {
+          "name": "Central Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.7038587,
+          "longitude": -112.0988148,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenwood",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.7633008,
+          "longitude": -111.9902025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joseph",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.6263608,
+          "longitude": -112.2171496,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elsinore",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.6827482,
+          "longitude": -112.14826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monroe",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.6299724,
+          "longitude": -112.1207573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Koosharem",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.5102559,
+          "longitude": -111.8813011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redmond",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 39.0060727,
+          "longitude": -111.8618705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salina",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.9577407,
+          "longitude": -111.859925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sigurd",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.840521,
+          "longitude": -111.9677038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Annabella",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.7091363,
+          "longitude": -112.0599249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aurora",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Sevier County",
+          "latitude": 38.9221856,
+          "longitude": -111.9340936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Summit County",
+      "cities": [
+        {
+          "name": "Woodland",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.5813406,
+          "longitude": -111.2271206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wanship",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.8118925,
+          "longitude": -111.4074184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summit Park",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7457117,
+          "longitude": -111.6131415,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Samak",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.6424616,
+          "longitude": -111.2427701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Summit",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7601592,
+          "longitude": -111.5110576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snyderville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7020685,
+          "longitude": -111.5110576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peoa",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7251704,
+          "longitude": -111.3418293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.6774508,
+          "longitude": -111.2810185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoytsville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.8743922,
+          "longitude": -111.3804732,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Basin",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7344046,
+          "longitude": -111.469323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Echo",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.97789849999999,
+          "longitude": -111.4413165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coalville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.9177251,
+          "longitude": -111.3993634,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Francis",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.6105505,
+          "longitude": -111.2807185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henefer",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 41.0170302,
+          "longitude": -111.4983684,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kamas",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.643007,
+          "longitude": -111.2807384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Summit County",
+          "latitude": 40.7148864,
+          "longitude": -111.3002796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tooele County",
+      "cities": [
+        {
+          "name": "Stansbury Park",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.63772170000001,
+          "longitude": -112.2960589,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ophir",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.3694987,
+          "longitude": -112.2555398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dugway",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.22105320000001,
+          "longitude": -112.7444097,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erda",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.6127217,
+          "longitude": -112.3043923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wendover",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.7371524,
+          "longitude": -114.0375102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grantsville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.5999425,
+          "longitude": -112.4643988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rush Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.36299959999999,
+          "longitude": -112.4505084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stockton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.4518551,
+          "longitude": -112.3625069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vernon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.0921678,
+          "longitude": -112.4335642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Point",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.6807773,
+          "longitude": -112.2630024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tooele",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Tooele County",
+          "latitude": 40.53077760000001,
+          "longitude": -112.29828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Uintah County",
+      "cities": [
+        {
+          "name": "Whiterocks",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.46801139999999,
+          "longitude": -109.9307062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Randlett",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.232739,
+          "longitude": -109.8076438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maeser",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.4771815,
+          "longitude": -109.5868057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lapoint",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.4021637,
+          "longitude": -109.7958521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jensen",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.3696849,
+          "longitude": -109.3348516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Duchesne",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.2880155,
+          "longitude": -109.8545901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonanza",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.021078,
+          "longitude": -109.1773388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ballard",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.3023462,
+          "longitude": -109.9539825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Naples",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.4269052,
+          "longitude": -109.4993022,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vernal",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Uintah County",
+          "latitude": 40.4555157,
+          "longitude": -109.5287479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Utah County",
+      "cities": [
+        {
+          "name": "West Mountain",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0556093,
+          "longitude": -111.7874564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sundance",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3934222,
+          "longitude": -111.5887709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Lake",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0010276,
+          "longitude": -111.7464739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palmyra",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.140351,
+          "longitude": -111.6990389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Shore",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.1218985,
+          "longitude": -111.7304843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hobble Creek",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.2377895,
+          "longitude": -111.46038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elberta",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 39.9549678,
+          "longitude": -111.95523,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benjamin",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0982875,
+          "longitude": -111.731318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.1652335,
+          "longitude": -111.6107526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santaquin",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 39.9755101,
+          "longitude": -111.7852106,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Fort",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3272439,
+          "longitude": -112.1023832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elk Ridge",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0113439,
+          "longitude": -111.6768698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfield",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.2621714,
+          "longitude": -112.0929961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goshen",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 39.9530088,
+          "longitude": -111.9007716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lindon",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3432857,
+          "longitude": -111.7207608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "American Fork",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3768954,
+          "longitude": -111.7957645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mapleton",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.1302338,
+          "longitude": -111.5785281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vineyard",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3056601,
+          "longitude": -111.7495419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodland Hills",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0124001,
+          "longitude": -111.6472606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Hills",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.41411739999999,
+          "longitude": -111.7585414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Genola",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 39.9965971,
+          "longitude": -111.8432689,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orem",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.2968979,
+          "longitude": -111.6946475,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0530105,
+          "longitude": -111.673536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Mountain",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.31411689999999,
+          "longitude": -112.006882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saratoga Springs",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3301898,
+          "longitude": -111.9044877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highland",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.4248665,
+          "longitude": -111.7979285,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spanish Fork",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.114955,
+          "longitude": -111.654923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lehi",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3916172,
+          "longitude": -111.8507662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Grove",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.3641184,
+          "longitude": -111.73854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.4532833,
+          "longitude": -111.7779865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Payson",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Utah County",
+          "latitude": 40.0436099,
+          "longitude": -111.7322824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wasatch County",
+      "cities": [
+        {
+          "name": "Timber Lakes",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.4793496,
+          "longitude": -111.2528474,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hideout",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.6416751,
+          "longitude": -111.3977787,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Independence",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.463484,
+          "longitude": -111.3776666,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Daniel",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.47081780000001,
+          "longitude": -111.4144498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Interlaken",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.5417772,
+          "longitude": -111.4714862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Midway",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.5121849,
+          "longitude": -111.4724332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charleston",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.4633857,
+          "longitude": -111.4613804,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heber",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.492847,
+          "longitude": -111.4132897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallsburg",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wasatch County",
+          "latitude": 40.3877164,
+          "longitude": -111.4227333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Veyo",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.3378932,
+          "longitude": -113.6931998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.3911899,
+          "longitude": -113.5137821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enterprise",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.5735867,
+          "longitude": -113.7191329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dammeron Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.3045087,
+          "longitude": -113.6720186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.4166853,
+          "longitude": -113.6246009,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Virgin",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.208316,
+          "longitude": -113.1882792,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hildale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.0035953,
+          "longitude": -112.9668812,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ivins",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1685907,
+          "longitude": -113.6794057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Verkin",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.2051385,
+          "longitude": -113.2721584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leeds",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.2385931,
+          "longitude": -113.3591167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santa Clara",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1330355,
+          "longitude": -113.6541266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springdale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1888713,
+          "longitude": -112.9985515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toquerville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.2533157,
+          "longitude": -113.2846707,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Apple Valley",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1043977,
+          "longitude": -113.1265466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurricane",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1752607,
+          "longitude": -113.2899484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Harmony",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.4794243,
+          "longitude": -113.3096739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washington",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1305373,
+          "longitude": -113.5082867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Washington County",
+          "latitude": 37.1610939,
+          "longitude": -113.0382745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Teasdale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.28591249999999,
+          "longitude": -111.4774629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fremont",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.4574783,
+          "longitude": -111.6196278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bicknell",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.3408133,
+          "longitude": -111.5440702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyman",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.3969236,
+          "longitude": -111.589627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Torrey",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.2988691,
+          "longitude": -111.4190654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanksville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Wayne County",
+          "latitude": 38.3730379,
+          "longitude": -110.7140391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Weber County",
+      "cities": [
+        {
+          "name": "Wolf Creek",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.3332735,
+          "longitude": -111.8271618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Liberty",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.3335516,
+          "longitude": -111.8635514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eden",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.3007423,
+          "longitude": -111.8127212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Uintah",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.1441104,
+          "longitude": -111.9232738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washington Terrace",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.172722,
+          "longitude": -111.9766083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Haven",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2029998,
+          "longitude": -112.0510533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hooper",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.1638323,
+          "longitude": -112.1224431,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntsville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2607744,
+          "longitude": -111.7699379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marriott-Slaterville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.25179989999999,
+          "longitude": -112.0251795,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plain City",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2979981,
+          "longitude": -112.0860538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant View",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.3182755,
+          "longitude": -111.9921649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverdale",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.1768888,
+          "longitude": -112.0038311,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Ogden",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.1761798,
+          "longitude": -111.9600418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrisville",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2813323,
+          "longitude": -111.9882754,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Ogden",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.3071645,
+          "longitude": -111.9602196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farr West",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2971651,
+          "longitude": -112.0277203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roy",
+          "state": "UT",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.1616108,
+          "longitude": -112.0263313,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ogden",
+          "state": "Utah",
+          "stateCode": "UT",
+          "county": "Weber County",
+          "latitude": 41.2185625,
+          "longitude": -111.97051,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

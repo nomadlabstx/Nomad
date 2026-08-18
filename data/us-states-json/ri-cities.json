@@ -1,0 +1,404 @@
+{
+  "name": "Rhode Island",
+  "code": "RI",
+  "counties": [
+    {
+      "name": "Bristol County",
+      "cities": []
+    },
+    {
+      "name": "Kent County",
+      "cities": [
+        {
+          "name": "Greene",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Kent County",
+          "latitude": 41.6914168,
+          "longitude": -71.7454266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Newport County",
+      "cities": [
+        {
+          "name": "Tiverton",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Newport County",
+          "latitude": 41.6355823,
+          "longitude": -71.20770499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport East",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Newport County",
+          "latitude": 41.5079803,
+          "longitude": -71.2877073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melville",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Newport County",
+          "latitude": 41.5870465,
+          "longitude": -71.28338289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Providence County",
+      "cities": [
+        {
+          "name": "Providence",
+          "state": "Rhode Island",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.8245558,
+          "longitude": -71.414199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Providence",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.8137116,
+          "longitude": -71.3700545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woonsocket",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 42.00287609999999,
+          "longitude": -71.51478390000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cranston",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.7798226,
+          "longitude": -71.4372796,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central Falls",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.8906553,
+          "longitude": -71.3922785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pawtucket",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.878711,
+          "longitude": -71.38255579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chepachet",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.9152194,
+          "longitude": -71.6714162,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clayville",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.7771389,
+          "longitude": -71.6761982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cumberland Hill",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.9745431,
+          "longitude": -71.4670043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Foster Center",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.7883478,
+          "longitude": -71.7266827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenville",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.8712103,
+          "longitude": -71.5520069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harmony",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.8878147,
+          "longitude": -71.5965037,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrisville",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.96565390000001,
+          "longitude": -71.6745112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pascoag",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.9556539,
+          "longitude": -71.70228990000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley Falls",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Providence County",
+          "latitude": 41.9067663,
+          "longitude": -71.3906119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Wakefield-Peace Dale",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.4418228,
+          "longitude": -71.4990383,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watch Hill",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.3131906,
+          "longitude": -71.8514495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weekapaug",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.3309804,
+          "longitude": -71.7550054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westerly",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.3766798,
+          "longitude": -71.8288077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wyoming",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.5150037,
+          "longitude": -71.70030030000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quonochontaug",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.335494,
+          "longitude": -71.7066428,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Misquamicut",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.32399900000001,
+          "longitude": -71.8185895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Narragansett Pier",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.4293846,
+          "longitude": -71.4657292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hope Valley",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.5075996,
+          "longitude": -71.71617839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hopkinton",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.4615127,
+          "longitude": -71.7779742,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingston",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.48037910000001,
+          "longitude": -71.52255980000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashaway",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.4234329,
+          "longitude": -71.78562380000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradford",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.3988609,
+          "longitude": -71.7470256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carolina",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.46382970000001,
+          "longitude": -71.66137549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlestown",
+          "state": "RI",
+          "stateCode": "RI",
+          "county": "Washington County",
+          "latitude": 41.3832162,
+          "longitude": -71.64187439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

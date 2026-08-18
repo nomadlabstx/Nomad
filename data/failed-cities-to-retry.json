@@ -1,0 +1,8602 @@
+[
+  {
+    "name": "Fort Worth",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "San Francisco",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Washington",
+    "state": "District of Columbia",
+    "stateCode": "DC"
+  },
+  {
+    "name": "Baltimore",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Colorado Springs",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Raleigh",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Bakersfield",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Aurora",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Urban Honolulu",
+    "state": "Hawaii",
+    "stateCode": "HI"
+  },
+  {
+    "name": "Anaheim",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Stockton",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Riverside",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Corpus Christi",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "St. Paul",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Pittsburgh",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Greensboro",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Durham",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Lincoln",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Jersey City",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Plano",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Anchorage",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Madison",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Reno",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  {
+    "name": "Buffalo",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Fort Wayne",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Lubbock",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "St. Petersburg",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Laredo",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Port St. Lucie",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Boise City",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Spokane",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Huntsville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "San Bernardino",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Modesto",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Salt Lake City",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Yonkers",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Sioux Falls",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Little Rock",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Tallahassee",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Augusta-Richmond County consolidated government (balance)",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Oxnard",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Birmingham",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Montgomery",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Providence",
+    "state": "Rhode Island",
+    "stateCode": "RI"
+  },
+  {
+    "name": "Fort Lauderdale",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Mobile",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Shreveport",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Aurora",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Santa Rosa",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Fort Collins",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Salinas",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Roseville",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Denton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Paterson",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Charleston",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Springfield",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "Joliet",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Naperville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Bridgeport",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Savannah",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Rockford",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Gainesville",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Syracuse",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Visalia",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Thornton",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Waco",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Jackson",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Warren",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Stamford",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Cedar Rapids",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Palm Bay",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "New Haven",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Pearland",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Topeka",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "College Station",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Allentown",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "West Palm Beach",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Vallejo",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Wilmington",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Rochester",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Concord",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Lafayette",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Billings",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Hartford",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Ann Arbor",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Cambridge",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "League City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Odessa",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Evansville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Waterbury",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Las Cruces",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Nampa",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Provo",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Greeley",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Springfield",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Lansing",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Tuscaloosa",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Everett",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Pueblo",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "New Braunfels",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Rio Rancho",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Peoria",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Concord",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Santa Maria",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Sugar Land",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Boulder",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Bend",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Lee\\",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "South Bend",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Palm Coast",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Quincy",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "San Mateo",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Chico",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Lynn",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "Albany",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Yuma",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "New Bedford",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "San Angelo",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Deltona",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Kenosha",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Yakima",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Asheville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Reading",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Bellingham",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Merced",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Redding",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Greenville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Fort Smith",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Champaign",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Santa Fe",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "North Port",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Duluth",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Troy",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Ogden",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Frederick",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Sioux City",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Gastonia",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Longview",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Auburn",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Castle Rock",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Kissimmee",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Jonesboro",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Flint",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Lake Charles",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Bloomington",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Missoula",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Napa",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Broomfield",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Racine",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Flagstaff",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Lakeville",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Scranton",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Bismarck",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Appleton",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Rogers",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Blaine",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Kalamazoo",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Greenville",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "St. Charles",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Wilmington",
+    "state": "Delaware",
+    "stateCode": "DE"
+  },
+  {
+    "name": "San Marcos",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Dothan",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Lafayette",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Maricopa",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "St. Cloud",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Eau Claire",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Conway",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Grand Junction",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Yuba City",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Schenectady",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Madera",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Idaho Falls",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Albany",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Waterloo",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Davis",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Victoria",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ames",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Sanford",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Lorain",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Cheyenne",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Muncie",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Bellevue",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Kenner",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Marietta",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Bossier City",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Council Bluffs",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Great Falls",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Burlington",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Hanford",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "San Rafael",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Lake Havasu City",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Youngstown",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Grand Forks",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Dubuque",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Casper",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Terre Haute",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Decatur",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Pocatello",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Spring Hill",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Bowie",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Bradenton",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Coeur d\\",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Logan",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Twin Falls",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Rocky Mount",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Mooresville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Manhattan",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Elkhart",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Rockwall",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "La Crosse",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Newark",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Troy",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Prescott Valley",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Harrisburg",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Barnstable Town",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "Sheboygan",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Stillwater",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Leesburg",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Goose Creek",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "San Luis Obispo",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Hattiesburg",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Middletown",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Niagara Falls",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Minot",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Gainesville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Roswell",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Charleston",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Binghamton",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Monroe",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Mankato",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Hackensack",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Huntington",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Newnan",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Hollister",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Concord",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Burlington",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Sierra Vista",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Hickory",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Fond du Lac",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Wilkes-Barre",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "El Centro",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Alexandria",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Saginaw",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Pittsfield",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "Altoona",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Midland",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Jefferson City",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Florence",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Peachtree Corners",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Moline",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Lancaster",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Covington",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Crystal Lake",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "State College",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Florence",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Annapolis",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Cape Girardeau",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Amherst Town",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  {
+    "name": "Wausau",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Lake Oswego",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Dover",
+    "state": "Delaware",
+    "stateCode": "DE"
+  },
+  {
+    "name": "Norwich",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Myrtle Beach",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Hutchinson",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Hobbs",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Prattville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Tooele",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Grants Pass",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Spartanburg",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Warren",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Copperas Cove",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Portage",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Atlantic City",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Phenix City",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Lewiston",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Rome",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Weatherford",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hot Springs",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Longview",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Clovis",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Benton",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Muskegon",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Oswego",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Plainfield",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Leavenworth",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Muskogee",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Texarkana",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Butte-Silver Bow (balance)",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Panama City",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Torrington",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Wenatchee",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Forney",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Mount Vernon",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Brunswick",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Lewiston",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Del Rio",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Manitowoc",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Dalton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Helena",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Statesboro",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "McMinnville",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Kearney",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Lufkin",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Alabaster",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Rochester",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Walla Walla",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Gadsden",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Salisbury",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Spring Valley",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Aiken",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Pullman",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Long Branch",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Ithaca",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Greenville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Nicholasville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "LaGrange",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "New Bern",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Nacogdoches",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Morristown",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Fairbanks",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Poughkeepsie",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Houma",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Michigan City",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Bangor",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Juneau city and",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Carlsbad",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Pekin",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Athens",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Leland",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Morgantown",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Bowling Green",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Daphne",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Enterprise",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Clayton",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Kalispell",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Russellville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Crestview",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Texarkana",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Galesburg",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Chaska",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Saratoga Springs",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Slidell",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Eagle Pass",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Danville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Pearl",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Williston",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Kent",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Williamsport",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Thomasville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Garden City",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Cabot",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "New Iberia",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Mason City",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Sebastian",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Paducah",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Owatonna",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Yukon",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Moscow",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Lebanon",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Elmira",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Winona",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Auburn",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Eureka",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Corsicana",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Mequon",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Starkville",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Ottumwa",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Cartersville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Herndon",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Kerrville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Lexington",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Newport",
+    "state": "Rhode Island",
+    "stateCode": "RI"
+  },
+  {
+    "name": "Athens",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Zanesville",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Kingsville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Brookings",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Ponca City",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Van Buren",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Griffin",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Oak Harbor",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Glassboro",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Searcy",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Kingston",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Burlington",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Kankakee",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Muscatine",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Watertown",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Freeport",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Albertville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Sapulpa",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Rock Springs",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Keene",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Portsmouth",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Hammond",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Biddeford",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Ruston",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Sedalia",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Oxford",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Stephenville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Chillicothe",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Klamath Falls",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Junction City",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Willmar",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Montrose",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Ashland",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "South Lake Tahoe",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Marquette",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Hays",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Culpeper",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Zephyrhills",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Mount Pleasant",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Elko",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  {
+    "name": "Murrysville",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Gallup",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Rolla",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Claremore",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Kingsland",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Adrian",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Punta Gorda",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Port Angeles",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Brigham City",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Cullman",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Boone",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Naples",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Nogales",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Winder",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Durango",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Conyers",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Hermiston",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Stuart",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Point Pleasant",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Kinston",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Forest Park",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Madisonville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Lumberton",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Augusta",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Los Lunas",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Liberal",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Elizabeth City",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Calhoun",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Ottawa",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Cumberland",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Ashland",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Ellensburg",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Thomasville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Heber",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Richmond Hill",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Pinehurst",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Farmington",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Albert Lea",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Newton",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "McAlester",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Gainesville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Murray",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Aberdeen",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Johnstown",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Troy",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Ashtabula",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Alice",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Bay City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Portsmouth",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Danville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Millbrook",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Tifton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Cortland",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Ca�on City",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Muscle Shoals",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Natchitoches",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Laconia",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Defiance",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Charleston",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Oswego",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Aberdeen",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Huntington",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Fort Thomas",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Albemarle",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "El Dorado",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Marion",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Jasper",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Red Wing",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Dickson",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Payson",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Selma",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Beckley",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Clearlake",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Canyon",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Warsaw",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Ukiah",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Mount Pleasant",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Dublin",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Elkton",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Dyersburg",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Scottsboro",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Fremont",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "The Dalles",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Bemidji",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Traverse City",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Jamestown",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Thibodaux",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Yankton",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Rutland",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Mitchell",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "St. Augustine",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Hudson",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Mineral Wells",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Uvalde",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Lebanon",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Brunswick",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Opelousas",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Lebanon",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Glasgow",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Rio Grande City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Fort Payne",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Henderson",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Macomb",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Talladega",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Hereford",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Athens",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Hutchinson",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Roanoke Rapids",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Huron",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Deming",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Owosso",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Moultrie",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Brainerd",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Morris",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Sterling",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Alexander City",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Circleville",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Jasper",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Coldwater",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Bainbridge",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Red Bluff",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Great Bend",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Ozark",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Scottsbluff",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Indiana",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Corinth",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Fergus Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "North Mankato",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Newcastle",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Pell City",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "McPherson",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Clarksdale",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Bardstown",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Gonzales",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Waycross",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Olean",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Fernandina Beach",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Worthington",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Steamboat Springs",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Andrews",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Henderson",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Greenwood",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Harrison",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Pottsville",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Sault Ste. Marie",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Milford",
+    "state": "Delaware",
+    "stateCode": "DE"
+  },
+  {
+    "name": "Orangeburg",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Mountain Home",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Beeville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Cambridge",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Jerome",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Blackfoot",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Branson",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Greenville",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Susanville",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Marysville",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Granbury",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "West Plains",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Blytheville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Cloquet",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Baraboo",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Levelland",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Washington",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Forrest City",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Fulton",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Eufaula",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Geneva",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Elgin",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hartsville/Trousdale County",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Grenada",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Beatrice",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Ionia",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Show Low",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Burley",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "El Campo",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ontario",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Picayune",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Evanston",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "North Branch",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Lenoir City",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Woodward",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Prineville",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Salem",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Rincon",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Sebring",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Fredericksburg",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Batesville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Mexico",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Oskaloosa",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Storm Lake",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Okmulgee",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Elk City",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Crowley",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Grand Rapids",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Minden",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Ocean City",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Pleasanton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Snyder",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Coshocton",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Malvern",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Marinette",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Van Wert",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Pontiac",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Martin",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Milton",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Union City",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Peru",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Rockport",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Abbeville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "La Plata",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Morgan City",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Newberry",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Coweta",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Magnolia",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Vidalia",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Palatka",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Russellville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Atchison",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Waynesville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Le Mars",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Mount Airy",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Fort Oglethorpe",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Rifle",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Waverly",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Vernal",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Cambridge",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Bluffton",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Espa�ola",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Cadillac",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "La Grange",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Bogalusa",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Maryville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Valley",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Sweetwater",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Safford",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Arkadelphia",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Taylorville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Kendallville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Warrenton",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Camden",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Raymondville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Alpena",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Columbia City",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Kennett",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Massena",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Jesup",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Sandpoint",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Burlington",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Cairo",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Astoria",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Cambridge",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Town of Pecos",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wasilla",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Alamosa",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Thomaston",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Bristol",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Cordele",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Morehead City",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Sturgeon Bay",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Hailey",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Brooksville",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Vernon",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wapakoneta",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Yazoo City",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Mayfield",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Washington",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Anaconda-Deer Lodge County",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Pryor Creek",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Clarksville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Delta",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "DeRidder",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Fallon",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  {
+    "name": "Sunbury",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Grinnell",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Cumming",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Berlin",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  {
+    "name": "Angola",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Oil City",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Jennings",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Alma",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Parsons",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Denham Springs",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Havre",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Rochelle",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Toccoa",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Shawano",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Waseca",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Lapeer",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Clanton",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Little Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Booneville",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Poteau",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Craig",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Cortez",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Middlesborough",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Rice Lake",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Indianola",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Grants",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Bastrop",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Greenville",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Smithfield",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Oxford",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Navasota",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Pearsall",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Fitzgerald",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Fort Valley",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Parkville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Bath",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Andalusia",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Gypsum",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Thief River Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Graham",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Tuskegee",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Georgetown",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Presque Isle",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "Helena-West Helena",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Cusseta-Chattahoochee County unified government",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Brownfield",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Sallisaw",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Payette",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Dunn",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Hope",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Sioux Center",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Olney",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Houghton",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Emmett",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Prairie View",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Chanute",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Camden",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Lewistown",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Princeton",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Socorro",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Dalhart",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hood River",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Clinton",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Atmore",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Eaton",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Senatobia",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Sitka city and",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Pulaski",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Jerseyville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Nevada",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Perryton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Trinidad",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Roxboro",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Menominee",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Cuero",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Monticello",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Wytheville",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Orland",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Fort Stockton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ketchikan",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Alliance",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Vinton",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Paris",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Macclenny",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Decatur",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wynne",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Hillsdale",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Antigo",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Quincy",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Big Rapids",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Dexter",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Woodland Park",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Inverness",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Lampasas",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Brevard",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Arcadia",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Ashland",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Yreka",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Stuttgart",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Boonville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Kill Devil Hills",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Kenai",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Bremen",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Princeton",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Swainsboro",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "London",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Dahlonega",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Decorah",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Marble Falls",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wellington",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Ilion",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Fort Scott",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "King",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Bradford",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Addis",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Lamar",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Hastings",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Breaux Bridge",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Marion",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Farmville",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Nebraska City",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Trumann",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Hartsville",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Forest City",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Dayton",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Batesville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Batesville",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "DuBois",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Perry",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Strasburg",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "McCook",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Sealy",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Clarkston",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Clewiston",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Church Hill",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Seminole",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Flatwoods",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Roosevelt",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Gonzales",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Mammoth Lakes",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Logan",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Nephi",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Live Oak",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Morrilton",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Belfast",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  {
+    "name": "La Junta",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Greenville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Oneonta",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Greenville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Newport",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Idabel",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Hamilton",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Pacific",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Ocean City",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Clinton",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Huntingdon",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Thomson",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Kosciusko",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Demopolis",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Gunnison",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Freeport",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Mount Carmel",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Morehead",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "St. Gabriel",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Norwich",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Boonville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Upper Sandusky",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Hillsboro",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Aspen",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "North Vernon",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Valley City",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Pratt",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Litchfield",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Bennettsville",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Schuyler",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Colusa",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Chesapeake Beach",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Leitchfield",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Douglas",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Milford",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Oakdale",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Taos",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Mount Vernon",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Rupert",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Dillon",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Bethel",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Manistee",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Kingston",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Torrington",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Princeton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Rushville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Independence",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Ville Platte",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Lewistown",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Mocksville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Ephraim",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Crystal City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Martins Ferry",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Pauls Valley",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Alpine",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Watford City",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "De Queen",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Monticello",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Erwin",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Hartford City",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Richmond",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Kermit",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Starke",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Holdenville",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Dumfries",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Medina",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Salida",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Pontotoc",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Estherville",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Dunlap",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Central City",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Tallulah",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Metropolis",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Childress",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Littlefield",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Berryville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Beardstown",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Monroeville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Adel",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Mena",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Marion",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Crescent City",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Berlin",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Waynesboro",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "International Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Okeechobee",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Rockdale",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ashland City",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Eastman",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Marlin",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Selinsgrove",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Spirit Lake",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Carlinville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Anadarko",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Walterboro",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Sylvester",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Ione",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Sheldon",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Leesville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Roanoke",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Kodiak",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Centerville",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Algona",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Ripley",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Headland",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Salem",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Lake City",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Princeton",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Vinita",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Cornelia",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Clarinda",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Hamilton",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Glennville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Tipton",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Chardon",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Caruthersville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Blakely",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Warren",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Sheridan",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Tillamook",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Lawrenceburg",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Eureka",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Glenwood",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Allegan",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Chadron",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Bolivar",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Tucumcari",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Gilmer",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Camilla",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "New Martinsville",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Horseshoe Bay",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Penn Yan",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Redwood Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Kingfisher",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Ste. Genevieve",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Concordia",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Omak",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Cheraw",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Wahoo",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Denton",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Alva",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Leonardtown",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Muleshoe",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Brady",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ironwood",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Baxley",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Wauchula",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Breckenridge",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Cherokee Village",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Wadesboro",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Luverne",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Sonora",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Flemington",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  {
+    "name": "Chatsworth",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Abbeville",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Cheboygan",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Wamego",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Marksville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Carthage",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Windom",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Worland",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "American Falls",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Surf City",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Morgan\\",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "McRae-Helena",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Cochran",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Centreville",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Canton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Salem",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Waterloo",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "St. James",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Folkston",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Crystal Springs",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Ogallala",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Whiteville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Ahoskie",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Hartwell",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Carrizo Springs",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Dawsonville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Oconto",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Breese",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Fremont",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Caldwell",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Crossett",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Barnwell",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Mansfield",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Raeford",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Fulton",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "California",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Pittsburg",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Watseka",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Dardanelle",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Edenton",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Selmer",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Cobleskill",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Eagar",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Summerville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Tulia",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Goodland",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Gaylord",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Paxton",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "New Roads",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Wadena",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Park Rapids",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Haleyville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Clarion",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Chariton",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Sullivan",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Caro",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Waverly",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Butler",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Sullivan",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Danielson",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  {
+    "name": "Jacksboro",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Geneva",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Unalaska",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Dawson",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Ashburn",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Dillon",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Mauston",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Ashdown",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Jena",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Danville",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Fayette",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Pipestone",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Hazlehurst",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Dimmitt",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Monte Vista",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "McCall",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Grafton",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Friona",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Edgefield",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Lancaster",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Falls City",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Livingston",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Quitman",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Jonesboro",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Cisco",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Metter",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Clyde",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Coleman",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Chilton",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Magee",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Winnfield",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Ely",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  {
+    "name": "Kittanning",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Vidalia",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Boyne City",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Booneville",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Grayson",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Valdez",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Gooding",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Manning",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Arcadia",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Mora",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Lewisburg",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Centre",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Clifton",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Waukon",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Port St. Joe",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Angels",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Bishop",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Delta",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Pine City",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Echols County consolidated government",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Hardin",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Larned",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Dumas",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Blackshear",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Nome",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Watkinsville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Warsaw",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Emmetsburg",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Grangeville",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Hugoton",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Cotulla",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hot Springs",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Knox",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Thomasville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Ballinger",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Aledo",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Eagle Grove",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Nowata",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Teague",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "West Point",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Princess Anne",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Mount Gilead",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Manchester",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Moundville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Gray",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Heflin",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Lyons",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Post",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Goldendale",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Alma",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Wallace",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "West Point",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Benson",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Moulton",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "New Hampton",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Frederick",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Kenedy",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Parker",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  {
+    "name": "Water Valley",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Crane",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Waldron",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Evergreen",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Williamsburg",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Blackstone",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Breckenridge",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Newcastle",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Orofino",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Hodgenville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Salmon",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Farmerville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Gallipolis",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Clare",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Chincoteague",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Shelby",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Elizabethtown",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Galena",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Windsor",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Attica",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Rayville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Mobridge",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Algoma",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Williston",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Garnett",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Lake Providence",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Stanton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Soda Springs",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Unadilla",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Corydon",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Blue Earth",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Union Springs",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Livingston",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Homedale",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Minden",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Ellsworth",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Burlington",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Gladwin",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "San Saba",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Presidio",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Denmark",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Central City",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Walsenburg",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Iuka",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Kingstree",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Bean Station",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Saluda",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Lucedale",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Tipton",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Okemah",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Tama",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Spearman",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Iron River",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Yadkinville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Cut Bank",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Prescott",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Lakeland",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Chatfield",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Flemingsburg",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Kotzebue",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Bad Axe",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Licking",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Millen",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Kingwood",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Atoka",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Ocilla",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Mountain View",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Rushville",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Lutcher",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Winner",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Rogers City",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Soperton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Kingman",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Glen Rose",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Clarksville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Manistique",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Woodbury",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Marietta",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Monticello",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Williamson",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Bedford",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Havana",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Bonifay",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Onawa",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Osage City",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Alamo",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Owensville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Bloomfield",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Santa Rosa",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Bellows Falls",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Portageville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Jasper",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Eutaw",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Refugio",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hallettsville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Big Lake",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Thermopolis",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Mangum",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Lagrange",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "New Town",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "New Cordell",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Montpelier",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Cadiz",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Burns",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Rock Rapids",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Centreville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Bonners Ferry",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Roseau",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Follansbee",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Luverne",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Sandusky",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "East Tawas",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Norton",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Fairview",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Alturas",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Valentine",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Sylvania",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Homer",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Red Lodge",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Hampton",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Santa Claus",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Burlington",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Rockville",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Hayward",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Arcadia",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Seymour",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Vergennes",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Horseshoe Bend",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Junction",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Telluride",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Wolf Point",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Dermott",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Many",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Sabetha",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Chamberlain",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Allendale",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Moorefield",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Lineville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Elizabeth",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Bells",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Claxton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "St. Maries",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Spooner",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Spencer",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Mount Vernon",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Macon",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Kellogg",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Trinity",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hardinsburg",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Tahoka",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Tutwiler",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Sisseton",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Woodville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Conrad",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Sonora",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Las Animas",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Park Falls",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Meeker",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Walters",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "West Branch",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Flandreau",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Panhandle",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Malad City",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Webster County unified government",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Morrisville",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Homerville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Gaylord",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Coudersport",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "St. Ignace",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Wilburton",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Olivia",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Victor",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Irvine",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Georgetown-Quitman County unified government",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Eureka",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Granby",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Kalkaska",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Greensburg",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Elkton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Rising Sun",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Trenton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Wautoma",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Newport",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Falmouth",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Canadian",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Lordsburg",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Petersburg",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Neodesha",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Antlers",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Trenton",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Kimball",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Noel",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Fort Pierre",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Shelby",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Lisbon",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Bottineau",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "George West",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Middleport",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Aitkin",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Hinton",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Townsend",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Redfield",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Enterprise",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Jackson",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Dillingham",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Council Grove",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Portola",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Lakin",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Mountain Lake Park",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Amherst",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Carlisle",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "McCormick",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  {
+    "name": "Jamestown",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Anthony",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Wrangell city and",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Clayton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Aliceville",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Colstrip",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Johnson City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Pinedale",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Greenfield",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Sac City",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Mount Sterling",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Wapello",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Moriarty",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Carrington",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Shepherd",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Liberty",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Yanceyville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Audubon",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Cimarron",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Appomattox",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Ida Grove",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Belleville",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Sigourney",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Ortonville",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Huntington",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Hertford",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Uniontown",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Munising",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Van Horn",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Roundup",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Ellijay",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Center",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Albany",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Baraga",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Springfield",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Thayer",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Sparta",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Augusta",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Pikeville",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Warrenton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Albion",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "San Augustine",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Clarendon",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Emporium",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Harlan",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Vernon",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Langdon",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Ludowici",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Des Arc",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Durand",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Pocahontas",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Eden",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Superior",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Pearson",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Wellington",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Mayville",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Elkhart",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Baker",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Lovelock",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  {
+    "name": "Jenkins",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Cross City",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Vevay",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Pagosa Springs",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Butler",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Belzoni",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Oakes",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Hamilton",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "St. Marys",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Forest City",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Victoria",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "WaKeeney",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Gordon",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "McArthur",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  {
+    "name": "Hollis",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "McCamey",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Tekamah",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Camden",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Idaho Springs",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Medicine Lodge",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Edmonton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Albany",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "North Bennington",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Ada",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Plainville",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Webster",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Big Timber",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Goliad",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Darien",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Coushatta",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Morton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Coalgate",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Moore Haven",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Holliday",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Homer",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Jefferson",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Mount Ayr",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Burnsville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Stevenson",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Jonesville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Eagle River",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Salem",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Owingsville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Elk Rapids",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Akutan",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Smith Center",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Guthrie Center",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  {
+    "name": "Ralls",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Salisbury",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Cairo",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Harrisville",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Eldorado",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Norwood",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  {
+    "name": "Parkston",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Ellaville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Helena",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Salyersville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "St. Francisville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Neligh",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Bryson City",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Rolling Fork",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Wakefield",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Madison",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Thompson Falls",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Tylertown",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Standish",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Bridgeport",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Lusk",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  {
+    "name": "Meade",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Leoti",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Wagner",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Stuart",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Fort Benton",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Newberry",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Bowman",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Fairview Park",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  {
+    "name": "Richland",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Colfax",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Hebron",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Belle",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Neoga",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Marble Hill",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Oak Grove",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Emory",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Booker",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Sublette",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Grantsburg",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  {
+    "name": "Wheaton",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Clintwood",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Red Lake Falls",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Salem",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Johnson City",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Brackettville",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Yates Center",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Miller",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Sparta",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Marshall",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Ness City",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Clinton",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Rotan",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hooper Bay",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Osborne",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Springfield",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Courtland",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Parsons",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Gretna",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Ontonagon",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Frankfort",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Beaver",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Wyoming",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Goodwater",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Wathena",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Ridgway",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Atwood",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Julesburg",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Blue Ridge",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Eagle Butte",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Cavalier",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Gregory",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Fullerton",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Stamps",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Lyndonville",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Mahnomen",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Buchanan",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Hoxie",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Kamiah",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "St. John",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Port Gibson",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Rolla",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Fort Deposit",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Sterling City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Grant",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Banner Elk",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Boise City",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Augusta",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Oquawka",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Ordway",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Cambridge",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Chatom",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Pender",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Cando",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "De Smet",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Linton",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Craig",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Clarks",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Robert Lee",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Glasgow",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Crosby",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Hemphill",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Nahunta",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Bayboro",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "White Sulphur Springs",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Republic",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Mound City",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Hiawassee",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Shawneetown",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Sedan",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Roscommon",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Scobey",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Winona",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Gaston",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "New London",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Manassa",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Cooperstown",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Delta Junction",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Rosiclare",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  {
+    "name": "Harlowton",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Hoonah",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Quinter",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Ipswich",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Rison",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "Dighton",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Woodstock",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Baudette",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Martin\\",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  {
+    "name": "Martin",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Jeffersonville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Prentiss",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Bristol",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Gwinner",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Philipsburg",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Craigsville",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Killdeer",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Tunica",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Brownsville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Crawford",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Bandera",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Hallock",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  {
+    "name": "Fort Sumner",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "La Center",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Gloster",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Cottonwood Falls",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Chappell",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Lake City",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "De Kalb",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Horseshoe Bend",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Sutton",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Howard",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Spur",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Curtis",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Faulkton",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Alma",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Mifflintown",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Mankato",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Byrdstown",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  {
+    "name": "Newellton",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Plankinton",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Point Hope",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Central",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Aspermont",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Gainesville",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Ellington",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Oshkosh",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Benkelman",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Estelline",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Mertzon",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Throckmorton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wessington Springs",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "LaMoure",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Philip",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Jacksons\\",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  {
+    "name": "Sharon Springs",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Crowell",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Jetmore",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Fairplay",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Cheyenne",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  {
+    "name": "Loyalton",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  {
+    "name": "Cheyenne Wells",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Condon",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  {
+    "name": "Silverton",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Tribune",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Garden City",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Silver Cliff",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Elizabeth",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Bardwell",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Dove Creek",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Flovilla",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "New England",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Coldwater",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Onida",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Hindman",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Hillman",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Alexandria",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Steele",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Woonsocket",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "West Union",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  {
+    "name": "Hermitage",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  {
+    "name": "Elwood",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Eads",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Highmore",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Gibson",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Silverton",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Greensburg",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Sandy Hook",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "San Luis",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Frenchburg",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Alburgh",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  {
+    "name": "Columbia",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Cathlamet",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  {
+    "name": "Milton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Suttons Bay",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Center",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Circle",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Howard",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  {
+    "name": "Circleville",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "McLaughlin",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Matador",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Scottsville",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Jasper",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  {
+    "name": "White River",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Culbertson",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Napoleonville",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  {
+    "name": "Camp Wood",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Ephesus",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Crawfordville",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Tignall",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  {
+    "name": "Fairfield",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  {
+    "name": "Broadus",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Sopchoppy",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  {
+    "name": "Presho",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  {
+    "name": "Mullen",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "McKenney",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Galena",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Wibaux",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Harrisville",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Dillwyn",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Lake City",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Leeds",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Tionesta",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  {
+    "name": "Stanford",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Mayersville",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  {
+    "name": "Mount Olivet",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Manila",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  {
+    "name": "Reserve",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Campton",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Hyden",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "City of Creede",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  {
+    "name": "Hysham",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Dell City",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Wagon Mound",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Channing",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  {
+    "name": "Gatesville",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  {
+    "name": "Springview",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Ryegate",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Hayes Center",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Winnett",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  {
+    "name": "Roy",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  {
+    "name": "Anderson",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Booneville",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  {
+    "name": "Medora",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Newhalen",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  {
+    "name": "Taylor",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Ahmeek",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  {
+    "name": "Arthur",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  {
+    "name": "Marmarth",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  {
+    "name": "Washington",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  {
+    "name": "Batesland",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  }
+]

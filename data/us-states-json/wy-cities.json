@@ -1,0 +1,2255 @@
+{
+  "name": "Wyoming",
+  "code": "WY",
+  "counties": [
+    {
+      "name": "Albany County",
+      "cities": [
+        {
+          "name": "Woods Landing-Jelm",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Albany County",
+          "latitude": 41.135335,
+          "longitude": -105.9978032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fox Park",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Albany County",
+          "latitude": 41.0794185,
+          "longitude": -106.1525152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centennial",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Albany County",
+          "latitude": 41.2983055,
+          "longitude": -106.1416774,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albany",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Albany County",
+          "latitude": 41.638448,
+          "longitude": -105.5943388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock River",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Albany County",
+          "latitude": 41.7413561,
+          "longitude": -105.9747251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Big Horn County",
+      "cities": [
+        {
+          "name": "Shell",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.5355158,
+          "longitude": -107.7798127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hyattville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.2457932,
+          "longitude": -107.60286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greybull",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.4891239,
+          "longitude": -108.0562132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manderson",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.26940219999999,
+          "longitude": -107.963986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Basin",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.3799574,
+          "longitude": -108.0389895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Byron",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.7963411,
+          "longitude": -108.5065095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowley",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.8832856,
+          "longitude": -108.4695651,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burlington",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.4471774,
+          "longitude": -108.4323364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deaver",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Big Horn County",
+          "latitude": 44.8885625,
+          "longitude": -108.5979033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Campbell County",
+      "cities": [
+        {
+          "name": "Sleepy Hollow",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Campbell County",
+          "latitude": 44.2303455,
+          "longitude": -105.4292434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gillette",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Campbell County",
+          "latitude": 44.2931097,
+          "longitude": -105.494199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wright",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Campbell County",
+          "latitude": 43.75188319999999,
+          "longitude": -105.4913345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carbon County",
+      "cities": [
+        {
+          "name": "Ryan Park",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.32135660000001,
+          "longitude": -106.5089151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.5946899,
+          "longitude": -106.2083459,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sinclair",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.7749592,
+          "longitude": -107.113103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baggs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.0357978,
+          "longitude": -107.6575694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dixon",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.0332981,
+          "longitude": -107.5356211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elk Mountain",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.6893961,
+          "longitude": -106.4140868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanna",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.8699622,
+          "longitude": -106.5619718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Medicine Bow",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.8955212,
+          "longitude": -106.2047385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rawlins",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.7910697,
+          "longitude": -107.2386627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saratoga",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.4549621,
+          "longitude": -106.8064263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Encampment",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.2060709,
+          "longitude": -106.8001396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverside",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Carbon County",
+          "latitude": 41.21746539999999,
+          "longitude": -106.7789281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Converse County",
+      "cities": [
+        {
+          "name": "Orin",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.6533015,
+          "longitude": -105.1924778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Esterbrook",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.4116352,
+          "longitude": -105.3608182,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Douglas",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.7596897,
+          "longitude": -105.3822069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lost Springs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.7655233,
+          "longitude": -104.9252467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenrock",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.8613552,
+          "longitude": -105.8722264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolling Hills",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Converse County",
+          "latitude": 42.90274429999999,
+          "longitude": -105.8441696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crook County",
+      "cities": [
+        {
+          "name": "Beulah",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Crook County",
+          "latitude": 44.5444299,
+          "longitude": -104.089102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hulett",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Crook County",
+          "latitude": 44.6827619,
+          "longitude": -104.6016274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Haven",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Crook County",
+          "latitude": 44.3577603,
+          "longitude": -104.8105257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moorcroft",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Crook County",
+          "latitude": 44.2633149,
+          "longitude": -104.9502538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fremont County",
+      "cities": [
+        {
+          "name": "Jeffrey City",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.4946782,
+          "longitude": -107.8273018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnstown",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.1182917,
+          "longitude": -108.7015063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Washakie",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.006346,
+          "longitude": -108.882346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ethete",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.0249581,
+          "longitude": -108.7726205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crowheart",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.30967920000001,
+          "longitude": -109.1940222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boulder Flats",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.9127357,
+          "longitude": -108.7990093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atlantic City",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.4966221,
+          "longitude": -108.7306677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arapahoe",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.9621822,
+          "longitude": -108.4898309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pavillion",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.2446803,
+          "longitude": -108.6901165,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lander",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.833014,
+          "longitude": -108.7306725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shoshoni",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.2357915,
+          "longitude": -108.1103719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dubois",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 43.533565,
+          "longitude": -109.6304335,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hudson",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Fremont County",
+          "latitude": 42.90607079999999,
+          "longitude": -108.5834454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Goshen County",
+      "cities": [
+        {
+          "name": "Veteran",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 41.96441189999999,
+          "longitude": -104.3805119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntley",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 41.9327444,
+          "longitude": -104.1460625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hawk Springs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 41.786082,
+          "longitude": -104.2646783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lingle",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 42.13635439999999,
+          "longitude": -104.345508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Laramie",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 42.2127448,
+          "longitude": -104.5171788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yoder",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 41.9169123,
+          "longitude": -104.2957882,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Torrington",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 42.0624646,
+          "longitude": -104.1843942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "LaGrange",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Goshen County",
+          "latitude": 41.6402516,
+          "longitude": -104.1638436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hot Springs County",
+      "cities": [
+        {
+          "name": "Owl Creek",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Hot Springs County",
+          "latitude": 43.7810666,
+          "longitude": -108.567057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lucerne",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Hot Springs County",
+          "latitude": 43.7349553,
+          "longitude": -108.1764872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Thermopolis",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Hot Springs County",
+          "latitude": 43.6463449,
+          "longitude": -108.198154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kirby",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Hot Springs County",
+          "latitude": 43.80439980000001,
+          "longitude": -108.1814879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thermopolis",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Hot Springs County",
+          "latitude": 43.6460672,
+          "longitude": -108.2120432,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Johnson County",
+      "cities": [
+        {
+          "name": "Kaycee",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Johnson County",
+          "latitude": 43.7102499,
+          "longitude": -106.6389338,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Laramie County",
+      "cities": [
+        {
+          "name": "Cheyenne",
+          "state": "Wyoming",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.1347435,
+          "longitude": -104.8211901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burns",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.1927591,
+          "longitude": -104.3591244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Bluffs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.1819261,
+          "longitude": -104.0691174,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albin",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.4177559,
+          "longitude": -104.0982866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carpenter",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.04573000000001,
+          "longitude": -104.3644652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fox Farm-College",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.1159913,
+          "longitude": -104.7812654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsdale",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.2115335,
+          "longitude": -104.4784222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ranchettes",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.21859140000001,
+          "longitude": -104.7902455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Greeley",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.0969263,
+          "longitude": -104.806357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warren AFB",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Laramie County",
+          "latitude": 41.1446846,
+          "longitude": -104.8629746,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Turnerville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.8588149,
+          "longitude": -110.9018696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylor",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.0698693,
+          "longitude": -110.9894099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smoot",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.6204847,
+          "longitude": -110.9143626,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osmond",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.6783626,
+          "longitude": -110.9333353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakley",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 41.7519021,
+          "longitude": -110.5282497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nordic",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 43.07949740000001,
+          "longitude": -110.9919214,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grover",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.7915938,
+          "longitude": -110.9365932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Freedom",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.9825783,
+          "longitude": -111.0437503,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fontenelle",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 41.9849489,
+          "longitude": -110.0590425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Etna",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 43.0332545,
+          "longitude": -111.0110456,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.68853980000001,
+          "longitude": -110.982426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.79214930000001,
+          "longitude": -111.0032647,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bedford",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.8993692,
+          "longitude": -110.9332615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine Northeast",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 43.1945756,
+          "longitude": -111.006205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine Northwest",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 43.1722195,
+          "longitude": -111.0184913,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Opal",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 41.7691159,
+          "longitude": -110.3259951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thayne",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.9207567,
+          "longitude": -111.0021556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Star Valley Ranch",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.9713889,
+          "longitude": -110.9555556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Afton",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.7249282,
+          "longitude": -110.9318687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 43.1610946,
+          "longitude": -111.0164822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cokeville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.0824368,
+          "longitude": -110.9551867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Barge",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 42.2618865,
+          "longitude": -110.1946046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Diamondville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Lincoln County",
+          "latitude": 41.7793918,
+          "longitude": -110.5385026,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Natrona County",
+      "cities": [
+        {
+          "name": "Vista West",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.8630634,
+          "longitude": -106.434394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Butte",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.8060757,
+          "longitude": -106.4341976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powder River",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 43.0321863,
+          "longitude": -106.9872785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow Acres",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.85774350000001,
+          "longitude": -106.0933477,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homa Hills",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.9799661,
+          "longitude": -106.3608619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartrandt",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.89454780000001,
+          "longitude": -106.3446087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Casper Mountain",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.7330199,
+          "longitude": -106.3266921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brookhurst",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.8574654,
+          "longitude": -106.2364105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bessemer Bend",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.7580196,
+          "longitude": -106.5203123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antelope Hills",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 43.0816341,
+          "longitude": -106.3241933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcova",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.5521842,
+          "longitude": -106.7164296,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgerton",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 43.4130961,
+          "longitude": -106.2471248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evansville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.8619159,
+          "longitude": -106.2707678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Midwest",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 43.4111766,
+          "longitude": -106.2799639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bar Nunn",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.9140065,
+          "longitude": -106.3422691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mills",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Natrona County",
+          "latitude": 42.8520151,
+          "longitude": -106.3853416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Niobrara County",
+      "cities": [
+        {
+          "name": "Lance Creek",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Niobrara County",
+          "latitude": 43.03246790000001,
+          "longitude": -104.6419032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lusk",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Niobrara County",
+          "latitude": 42.7624668,
+          "longitude": -104.4521747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Niobrara County",
+          "latitude": 42.7791337,
+          "longitude": -104.6177362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van Tassell",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Niobrara County",
+          "latitude": 42.6627438,
+          "longitude": -104.0882725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Park County",
+      "cities": [
+        {
+          "name": "Ralston",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.7160632,
+          "longitude": -108.8645788,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mammoth",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.97241349999999,
+          "longitude": -110.6902895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garland",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.7796741,
+          "longitude": -108.6604043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meeteetse",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.1571766,
+          "longitude": -108.8715193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powell",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.7538408,
+          "longitude": -108.7573524,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frannie",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Park County",
+          "latitude": 44.9691175,
+          "longitude": -108.6215163,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Platte County",
+      "cities": [
+        {
+          "name": "Y-O Ranch",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.0308031,
+          "longitude": -104.939972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westview Circle",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.0641368,
+          "longitude": -105.064698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whiting",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.0100955,
+          "longitude": -104.9680914,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slater",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 41.87302649999999,
+          "longitude": -104.8199683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview North",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.0959988,
+          "longitude": -104.959329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "El Rancho",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.2678519,
+          "longitude": -105.0469743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chugcreek",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.0480253,
+          "longitude": -104.9183046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chugwater",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 41.7566391,
+          "longitude": -104.8216351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendo",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.5027467,
+          "longitude": -105.0260832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guernsey",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.2696908,
+          "longitude": -104.7416308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartville",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Platte County",
+          "latitude": 42.32746849999999,
+          "longitude": -104.7252411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sheridan County",
+      "cities": [
+        {
+          "name": "Story",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.574694,
+          "longitude": -106.8867261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powder Horn",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.6911709,
+          "longitude": -106.9664282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parkman",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.9573161,
+          "longitude": -107.331624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Horn",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.6811687,
+          "longitude": -106.9920851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arvada",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.6535934,
+          "longitude": -106.1311391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.8752464,
+          "longitude": -107.2623021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ranchester",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.9088588,
+          "longitude": -107.1634106,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheridan",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.7971939,
+          "longitude": -106.9561791,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearmont",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sheridan County",
+          "latitude": 44.6402571,
+          "longitude": -106.3808739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sublette County",
+      "cities": [
+        {
+          "name": "Daniel",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.8643854,
+          "longitude": -110.070994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cora",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.9547905,
+          "longitude": -109.9913694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bondurant",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 43.2029911,
+          "longitude": -110.4087919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boulder",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.74616109999999,
+          "longitude": -109.7205643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Piney",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.5382753,
+          "longitude": -110.114325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marbleton",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.55355309999999,
+          "longitude": -110.109325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinedale",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sublette County",
+          "latitude": 42.8678809,
+          "longitude": -109.8633501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sweetwater County",
+      "cities": [
+        {
+          "name": "Washam",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.0061805,
+          "longitude": -109.6936906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Table Rock",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.6141279,
+          "longitude": -108.3878781,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reliance",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.6691306,
+          "longitude": -109.1970701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Purple Sage",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5507979,
+          "longitude": -109.3240196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Point of Rocks",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.6802397,
+          "longitude": -108.785668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Rock Springs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.6437155,
+          "longitude": -109.2649131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McKinnon",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.0353911,
+          "longitude": -109.9377769,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little America",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5436165,
+          "longitude": -109.8574615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "James Town",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5552418,
+          "longitude": -109.5168028,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farson",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 42.1120397,
+          "longitude": -109.4427035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eden",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 42.05078959999999,
+          "longitude": -109.4370744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearview Acres",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5805201,
+          "longitude": -109.2767958,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arrowhead Springs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.506909,
+          "longitude": -109.1576254,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bairoil",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 42.244401,
+          "longitude": -107.5595141,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Granger",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5935669,
+          "longitude": -109.9687582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green River",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.5294083,
+          "longitude": -109.4655283,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock Springs",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.58746439999999,
+          "longitude": -109.2029043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Superior",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.7643329,
+          "longitude": -108.9676445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wamsutter",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Sweetwater County",
+          "latitude": 41.6730144,
+          "longitude": -107.9792489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Teton County",
+      "cities": [
+        {
+          "name": "Wilson",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.5007599,
+          "longitude": -110.8752112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Teton Village",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.5873149,
+          "longitude": -110.8269876,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Park",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.4221501,
+          "longitude": -110.793261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rafter J Ranch",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.4322737,
+          "longitude": -110.7923605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moose Wilson Road",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.5252053,
+          "longitude": -110.844655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kelly",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.6215511,
+          "longitude": -110.6239355,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoback",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.3224362,
+          "longitude": -110.7305603,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alta",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Teton County",
+          "latitude": 43.7538103,
+          "longitude": -111.0368866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Uinta County",
+      "cities": [
+        {
+          "name": "Urie",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.3160616,
+          "longitude": -110.3362676,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Robertson",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.1852267,
+          "longitude": -110.4132149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain View",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.2688392,
+          "longitude": -110.3398785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lonetree",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.054395,
+          "longitude": -110.1540419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Bridger",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.3166168,
+          "longitude": -110.3843251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carter",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.4377278,
+          "longitude": -110.4284946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evanston",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.2682794,
+          "longitude": -110.9632373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyman",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.327451,
+          "longitude": -110.2929325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bear River",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Uinta County",
+          "latitude": 41.3841121,
+          "longitude": -111.026297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washakie County",
+      "cities": [
+        {
+          "name": "Worland",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Washakie County",
+          "latitude": 44.01690139999999,
+          "longitude": -107.9553721,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ten Sleep",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Washakie County",
+          "latitude": 44.0341262,
+          "longitude": -107.4511871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Weston County",
+      "cities": [
+        {
+          "name": "Osage",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Weston County",
+          "latitude": 43.9808134,
+          "longitude": -104.4218951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hill View Heights",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Weston County",
+          "latitude": 43.8258111,
+          "longitude": -104.1599385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newcastle",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Weston County",
+          "latitude": 43.8547003,
+          "longitude": -104.2049408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upton",
+          "state": "WY",
+          "stateCode": "WY",
+          "county": "Weston County",
+          "latitude": 44.0997037,
+          "longitude": -104.6280156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

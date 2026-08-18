@@ -1,0 +1,521 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Bristol Bay Borough",
+      "cities": [
+        {
+          "name": "King Salmon",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bristol Bay Borough",
+          "latitude": 58.6887106,
+          "longitude": -156.6627525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chugach Census Area",
+      "cities": [
+        {
+          "name": "Cordova",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Chugach Census Area",
+          "latitude": 60.5424087,
+          "longitude": -145.7525414,
+          "population": 2473,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Whittier",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Chugach Census Area",
+          "latitude": 60.7745903,
+          "longitude": -148.6858408,
+          "population": 263,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Chugach Census Area County",
+      "cities": [
+        {
+          "name": "Tatitlek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Chugach Census Area County",
+          "latitude": 60.8660812,
+          "longitude": -146.6778023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chugach Census Area County",
+      "cities": [
+        {
+          "name": "Chenega",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Chugach Census Area County",
+          "latitude": 60.0649332,
+          "longitude": -148.0111525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chugach Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Chugach Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Willow Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.80184079999999,
+          "longitude": -145.1923783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Tolsona",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.0993501,
+          "longitude": -146.043383,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tonsina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.6611826,
+          "longitude": -145.18324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Tazlina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.04897,
+          "longitude": -145.4114341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Slana",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.70763239999999,
+          "longitude": -143.9745203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Silver Springs",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.0097169,
+          "longitude": -145.3353736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Paxson",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 63.0292198,
+          "longitude": -145.496241,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Nelchina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.9907007,
+          "longitude": -146.7743542,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Nabesna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.37061599999999,
+          "longitude": -143.0123445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Mendeltna",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.06279679999999,
+          "longitude": -146.4569702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mentasta Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.92457889999999,
+          "longitude": -143.6430091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "McCarthy",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.4330692,
+          "longitude": -142.9229248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Kenny Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.7358583,
+          "longitude": -144.9485582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Gulkana",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.207475,
+          "longitude": -145.4430469,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Glennallen",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.1081204,
+          "longitude": -145.5340116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Gakona",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.3037599,
+          "longitude": -145.2828059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Copper Center",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.9538719,
+          "longitude": -145.304892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copper River Census Area County",
+      "cities": [
+        {
+          "name": "Chisana",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.06667419999999,
+          "longitude": -142.042194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chistochina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 62.56774069999999,
+          "longitude": -144.6647237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chitina",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Copper River Census Area County",
+          "latitude": 61.5156419,
+          "longitude": -144.4410584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denali Borough",
+      "cities": [
+        {
+          "name": "Healy",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Denali Borough",
+          "latitude": 63.8697384,
+          "longitude": -149.0215109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denali Borough",
+      "cities": [
+        {
+          "name": "Ferry",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Denali Borough",
+          "latitude": 64.01690289999999,
+          "longitude": -149.1157865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denali Borough",
+      "cities": [
+        {
+          "name": "Denali Park",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Denali Borough",
+          "latitude": 63.65460410000001,
+          "longitude": -148.8339521,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denali Borough",
+      "cities": [
+        {
+          "name": "Cantwell",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Denali Borough",
+          "latitude": 63.3904815,
+          "longitude": -148.9017864,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Denali Borough",
+      "cities": []
+    },
+    {
+      "name": "Denali Borough",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area",
+      "cities": [
+        {
+          "name": "Aleknagik",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area",
+          "latitude": 59.27942090000001,
+          "longitude": -158.6210674,
+          "population": 199,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ekwok",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area",
+          "latitude": 59.35000729999999,
+          "longitude": -157.474768,
+          "population": 103,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Manokotak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area",
+          "latitude": 58.98070569999999,
+          "longitude": -159.0571547,
+          "population": 464,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "New Stuyahok",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area",
+          "latitude": 59.4514032,
+          "longitude": -157.3143897,
+          "population": 491,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Togiak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area",
+          "latitude": 59.0618127,
+          "longitude": -160.3769037,
+          "population": 778,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

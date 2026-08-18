@@ -1,0 +1,5285 @@
+{
+  "name": "South Carolina",
+  "code": "SC",
+  "counties": [
+    {
+      "name": "Abbeville County",
+      "cities": [
+        {
+          "name": "Lake Secession",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.2868818,
+          "longitude": -82.6000641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antreville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.3039983,
+          "longitude": -82.5423502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abbeville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.1781719,
+          "longitude": -82.3790147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowndesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.21261,
+          "longitude": -82.6495759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calhoun Falls",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.0923375,
+          "longitude": -82.5956875,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Donalds",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.377059,
+          "longitude": -82.3473448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Due West",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Abbeville County",
+          "latitude": 34.3334469,
+          "longitude": -82.387902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Aiken County",
+      "cities": [
+        {
+          "name": "Warrenville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5509706,
+          "longitude": -81.80399980000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Langley",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5179148,
+          "longitude": -81.8440011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Graniteville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5633311,
+          "longitude": -81.80816220000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gloverville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5259704,
+          "longitude": -81.8301117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearwater",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.4968035,
+          "longitude": -81.89205790000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beech Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.4273614,
+          "longitude": -81.8909472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belvedere",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5309691,
+          "longitude": -81.9448369,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burnettown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5091608,
+          "longitude": -81.8561826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Augusta",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.4923509,
+          "longitude": -81.9714545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perry",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.6268478,
+          "longitude": -81.31193789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salley",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.565585,
+          "longitude": -81.3037782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Windsor",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.4805303,
+          "longitude": -81.5127466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jackson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.3329091,
+          "longitude": -81.78520089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Ellenton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.4217829,
+          "longitude": -81.6855516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wagener",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.6509558,
+          "longitude": -81.3622197,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aiken",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Aiken County",
+          "latitude": 33.5605335,
+          "longitude": -81.7194963,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Allendale County",
+      "cities": [
+        {
+          "name": "Fairfax",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Allendale County",
+          "latitude": 32.95904820000001,
+          "longitude": -81.23649499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Allendale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Allendale County",
+          "latitude": 33.0079345,
+          "longitude": -81.3084405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ulmer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Allendale County",
+          "latitude": 33.0973788,
+          "longitude": -81.20816099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sycamore",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Allendale County",
+          "latitude": 33.0357128,
+          "longitude": -81.2220507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Anderson County",
+      "cities": [
+        {
+          "name": "Sandy Springs",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.595384,
+          "longitude": -82.7498602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powdersville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.7917845,
+          "longitude": -82.4929054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piedmont",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.7023389,
+          "longitude": -82.4645714,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northlake",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.5611262,
+          "longitude": -82.6881262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La France",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.6123983,
+          "longitude": -82.7652841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homeland Park",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.4706614,
+          "longitude": -82.6706892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centerville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.5320501,
+          "longitude": -82.7040243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Honea Path",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.4465018,
+          "longitude": -82.3915121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pendleton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.6517733,
+          "longitude": -82.7837514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Starr",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.3770509,
+          "longitude": -82.6956891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Pelzer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.644837,
+          "longitude": -82.4701271,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.6184471,
+          "longitude": -82.4779053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iva",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.3064966,
+          "longitude": -82.663743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pelzer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.6462737,
+          "longitude": -82.45914429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anderson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.5034394,
+          "longitude": -82.6501332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Anderson County",
+          "latitude": 34.5228881,
+          "longitude": -82.49429479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bamberg County",
+      "cities": [
+        {
+          "name": "Govan",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Bamberg County",
+          "latitude": 33.2223777,
+          "longitude": -81.1762146,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bamberg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Bamberg County",
+          "latitude": 33.2971012,
+          "longitude": -81.0348202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olar",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Bamberg County",
+          "latitude": 33.1804338,
+          "longitude": -81.185382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Denmark",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Bamberg County",
+          "latitude": 33.3226546,
+          "longitude": -81.1423236,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ehrhardt",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Bamberg County",
+          "latitude": 33.0968264,
+          "longitude": -81.01426810000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Barnwell County",
+      "cities": [
+        {
+          "name": "Hilda",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.273487,
+          "longitude": -81.24704969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kline",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.1259873,
+          "longitude": -81.34260689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snelling",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.2398708,
+          "longitude": -81.4559409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elko",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.3804267,
+          "longitude": -81.3795504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blackville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.3579297,
+          "longitude": -81.2706606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barnwell",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.2448733,
+          "longitude": -81.3587177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Barnwell County",
+          "latitude": 33.4026477,
+          "longitude": -81.4201063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Beaufort County",
+      "cities": [
+        {
+          "name": "Sheldon",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.6015723,
+          "longitude": -80.79316209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shell Point",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.3723584,
+          "longitude": -80.7491563,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seabrook",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.5279652,
+          "longitude": -80.7664952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lobeco",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.5526863,
+          "longitude": -80.7434394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Laurel Bay",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.4646282,
+          "longitude": -80.7824012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harbor Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.387971,
+          "longitude": -80.452883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fripp Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.317001,
+          "longitude": -80.4966062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Daufuskie Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.1188537,
+          "longitude": -80.8644492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.556575,
+          "longitude": -80.68982799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.4357481,
+          "longitude": -80.72399539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluffton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.2371465,
+          "longitude": -80.8603868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaufort",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.4315813,
+          "longitude": -80.6698286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hilton Head Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.216316,
+          "longitude": -80.752608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Royal",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Beaufort County",
+          "latitude": 32.3790843,
+          "longitude": -80.6926069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley County",
+      "cities": [
+        {
+          "name": "Sangaree",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.03528,
+          "longitude": -80.12805999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Russellville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.397112,
+          "longitude": -79.9717447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinopolis",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.2275932,
+          "longitude": -80.0375571,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pimlico",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.0973931,
+          "longitude": -79.9603599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonneau Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.31935470000001,
+          "longitude": -79.99199949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonneau",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.305446,
+          "longitude": -79.95785649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanahan",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 32.9305786,
+          "longitude": -80.0031833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moncks Corner",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.1960027,
+          "longitude": -80.01313739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamestown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.2860005,
+          "longitude": -79.6925715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Stephen",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 33.405202,
+          "longitude": -79.92515159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goose Creek",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Berkeley County",
+          "latitude": 32.9810059,
+          "longitude": -80.03258670000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Calhoun County",
+      "cities": [
+        {
+          "name": "Cameron",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Calhoun County",
+          "latitude": 33.561281,
+          "longitude": -80.7126424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Charleston County",
+      "cities": [
+        {
+          "name": "Charleston",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7833163,
+          "longitude": -79.9319664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollywood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7345203,
+          "longitude": -80.2412684,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "James Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7274065,
+          "longitude": -79.9482678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Charleston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.8745076,
+          "longitude": -80.0106768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Isle of Palms",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.798653,
+          "longitude": -79.75838069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kiawah Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.6106838,
+          "longitude": -80.0510848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincolnville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 33.0091568,
+          "longitude": -80.1545887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McClellanville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 33.087871,
+          "longitude": -79.4614012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Pleasant",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7906369,
+          "longitude": -79.8780297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ravenel",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7759475,
+          "longitude": -80.25005279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.6010277,
+          "longitude": -80.1945544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seabrook Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.5926586,
+          "longitude": -80.1628976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van Wyck",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Folly Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.6549463,
+          "longitude": -79.9405323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Awendaw",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.9905691,
+          "longitude": -79.6461092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meggett",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.71792730000001,
+          "longitude": -80.2392246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adams Run",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7207342,
+          "longitude": -80.34815619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edisto",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.5404612,
+          "longitude": -80.2910505,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ladson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.9857275,
+          "longitude": -80.1098123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sullivan\\",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Charleston County",
+          "latitude": 32.7629024,
+          "longitude": -79.8362471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cherokee County",
+      "cities": [
+        {
+          "name": "East Gaffney",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Cherokee County",
+          "latitude": 35.08012799999999,
+          "longitude": -81.6328743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cherokee Falls",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Cherokee County",
+          "latitude": 35.0648519,
+          "longitude": -81.54231519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blacksburg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Cherokee County",
+          "latitude": 35.1212408,
+          "longitude": -81.51592459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chester County",
+      "cities": [
+        {
+          "name": "Gayle Mill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.7020833,
+          "longitude": -81.2400904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eureka Mill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.7176391,
+          "longitude": -81.1936996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Great Falls",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.5751447,
+          "longitude": -80.9020237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowrys",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.8040264,
+          "longitude": -81.2392529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richburg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.7159745,
+          "longitude": -81.0195262,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Lawn",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chester County",
+          "latitude": 34.70208890000001,
+          "longitude": -80.89479779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chesterfield County",
+      "cities": [
+        {
+          "name": "Cash",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.6210765,
+          "longitude": -79.8884819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.6501547,
+          "longitude": -80.3889566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McBee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.4690418,
+          "longitude": -80.2559033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Croghan",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.7698774,
+          "longitude": -80.227841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Patrick",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.5745999,
+          "longitude": -80.0459001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruby",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.7451553,
+          "longitude": -80.1828414,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cheraw",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.6976564,
+          "longitude": -79.8833971,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chesterfield",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.7359889,
+          "longitude": -80.0881194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pageland",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Chesterfield County",
+          "latitude": 34.7732102,
+          "longitude": -80.39173149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clarendon County",
+      "cities": [
+        {
+          "name": "Wyboo",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.5763589,
+          "longitude": -80.2209773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Foreston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.6318309,
+          "longitude": -80.0617444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcolu",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.7519922,
+          "longitude": -80.22179179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paxville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.7387724,
+          "longitude": -80.3573043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summerton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.60821840000001,
+          "longitude": -80.3511953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manning",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.6951627,
+          "longitude": -80.2109134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turbeville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Clarendon County",
+          "latitude": 33.8907158,
+          "longitude": -80.0184063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Colleton County",
+      "cities": [
+        {
+          "name": "Islandton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 32.9087886,
+          "longitude": -80.93513560000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacksonboro",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 32.7701774,
+          "longitude": -80.4545471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smoaks",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 33.0896069,
+          "longitude": -80.8139879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walterboro",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 32.9051704,
+          "longitude": -80.6667688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edisto Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 32.4793551,
+          "longitude": -80.33482289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lodge",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 33.0679387,
+          "longitude": -80.9537124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottageville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 32.936838,
+          "longitude": -80.480935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williams",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Colleton County",
+          "latitude": 33.0346074,
+          "longitude": -80.8426004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Darlington County",
+      "cities": [
+        {
+          "name": "North Hartsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.3937654,
+          "longitude": -80.06951169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lydia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.2890427,
+          "longitude": -80.1122898,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dovesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.4023774,
+          "longitude": -79.8950643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lamar",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.1686866,
+          "longitude": -80.06258840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Society Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.5126567,
+          "longitude": -79.8508976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Darlington",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.3003526,
+          "longitude": -79.8757116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Darlington County",
+          "latitude": 34.3742857,
+          "longitude": -80.07333129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dillon County",
+      "cities": [
+        {
+          "name": "Newtown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.4000879,
+          "longitude": -79.3550041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Rock",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.4765512,
+          "longitude": -79.4031024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.4773478,
+          "longitude": -79.3296565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Floydale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.3237717,
+          "longitude": -79.3361584,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dillon",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.4165505,
+          "longitude": -79.3711579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake View",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.3457189,
+          "longitude": -79.16559459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Latta",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dillon County",
+          "latitude": 34.3371047,
+          "longitude": -79.4311616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dorchester County",
+      "cities": [
+        {
+          "name": "Grover",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.1051646,
+          "longitude": -80.5948212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summerville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.0188816,
+          "longitude": -80.1758171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. George",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.1859958,
+          "longitude": -80.57565330000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reevesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.2057173,
+          "longitude": -80.64787489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harleyville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.2146069,
+          "longitude": -80.4478745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Dorchester County",
+          "latitude": 33.095723,
+          "longitude": -80.3153738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Edgefield County",
+      "cities": [
+        {
+          "name": "Murphys Estates",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Edgefield County",
+          "latitude": 33.601246,
+          "longitude": -81.9442811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgefield",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Edgefield County",
+          "latitude": 33.7895774,
+          "longitude": -81.9295582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Edgefield County",
+          "latitude": 33.83208,
+          "longitude": -81.8009424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trenton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Edgefield County",
+          "latitude": 33.7440246,
+          "longitude": -81.84066609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield County",
+      "cities": [
+        {
+          "name": "Winnsboro Mills",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Fairfield County",
+          "latitude": 34.3602405,
+          "longitude": -81.0783202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeway",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Fairfield County",
+          "latitude": 34.307647,
+          "longitude": -80.9603643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jenkinsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Fairfield County",
+          "latitude": 34.2678691,
+          "longitude": -81.2879803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Florence County",
+      "cities": [
+        {
+          "name": "Danwood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 34.0854363,
+          "longitude": -79.76506499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake City",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.8709958,
+          "longitude": -79.7553451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quinby",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 34.2294339,
+          "longitude": -79.7369614,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coward",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.9698273,
+          "longitude": -79.7490682,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnsonville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.8179432,
+          "longitude": -79.4492228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olanta",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.9354381,
+          "longitude": -79.9325705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pamplico",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.9959952,
+          "longitude": -79.5700598,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scranton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 33.9176621,
+          "longitude": -79.7439557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Timmonsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 34.1348782,
+          "longitude": -79.93978849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Florence County",
+          "latitude": 34.1973393,
+          "longitude": -79.7660945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Georgetown County",
+      "cities": [
+        {
+          "name": "North Santee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.2299999,
+          "longitude": -79.37694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Murrells Inlet",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.5510021,
+          "longitude": -79.0414261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Litchfield Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.4668348,
+          "longitude": -79.0997632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunbar",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.5349675,
+          "longitude": -79.3550041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "DeBordieu Colony",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.3690565,
+          "longitude": -79.1517111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pawleys Island",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.4332236,
+          "longitude": -79.12143130000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Georgetown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.376834,
+          "longitude": -79.2944964,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Andrews",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Georgetown County",
+          "latitude": 33.45127799999999,
+          "longitude": -79.56089709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenville County",
+      "cities": [
+        {
+          "name": "Welcome",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8265067,
+          "longitude": -82.43901319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ware Place",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.6278936,
+          "longitude": -82.3909565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wade Hampton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.9037282,
+          "longitude": -82.3331733,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylors",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.9203946,
+          "longitude": -82.2962268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Cliffs Valley",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 35.1497228,
+          "longitude": -82.4481944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tigerville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 35.06997680000001,
+          "longitude": -82.36904109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slater-Marietta",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 35.0283349,
+          "longitude": -82.5002761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sans Souci",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8778952,
+          "longitude": -82.4240114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parker",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8521906,
+          "longitude": -82.4516426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Judson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8331733,
+          "longitude": -82.42762359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Grove",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.7340068,
+          "longitude": -82.4437372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gantt",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.7743829,
+          "longitude": -82.40484230000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Five Forks",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.80484149999999,
+          "longitude": -82.2295589,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunean",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8213083,
+          "longitude": -82.4158641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conestee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.7681744,
+          "longitude": -82.3498434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "City View",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.8615064,
+          "longitude": -82.43151209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caesars Head",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 35.105556,
+          "longitude": -82.6275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berea",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.885395,
+          "longitude": -82.45595709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.9387279,
+          "longitude": -82.2270568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simpsonville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.7370639,
+          "longitude": -82.25428339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fountain Inn",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.6890095,
+          "longitude": -82.19566789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Travelers Rest",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.9676167,
+          "longitude": -82.4434548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mauldin",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenville County",
+          "latitude": 34.77873,
+          "longitude": -82.310119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenwood County",
+      "cities": [
+        {
+          "name": "Promised Land",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.1323269,
+          "longitude": -82.2363299,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coronaca",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.2598459,
+          "longitude": -82.0942855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cokesbury",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.2892865,
+          "longitude": -82.2078987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradley",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.0492887,
+          "longitude": -82.24456909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenwood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.1954001,
+          "longitude": -82.1617883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hodges",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.2876186,
+          "longitude": -82.2442889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ninety Six",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.1751267,
+          "longitude": -82.024007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Troy",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 33.9876224,
+          "longitude": -82.297904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ware Shoals",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Greenwood County",
+          "latitude": 34.3984511,
+          "longitude": -82.2467853,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hampton County",
+      "cities": [
+        {
+          "name": "Luray",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.8137771,
+          "longitude": -81.2398256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.8779425,
+          "longitude": -81.12760519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scotia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.6810063,
+          "longitude": -81.2434363,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Varnville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.8504445,
+          "longitude": -81.07927219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gifford",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.8596083,
+          "longitude": -81.2389932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brunson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.9254394,
+          "longitude": -81.1873276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.754891,
+          "longitude": -81.2420467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Furman",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.6815627,
+          "longitude": -81.1881597,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yemassee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Hampton County",
+          "latitude": 32.6884817,
+          "longitude": -80.85152120000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Horry County",
+      "cities": [
+        {
+          "name": "Socastee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.683504,
+          "longitude": -78.9983676,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.8207264,
+          "longitude": -79.01892389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Live Oak",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 34.0557254,
+          "longitude": -78.9386404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little River",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.8765316,
+          "longitude": -78.6141488,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ketchuptown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 34.10194000000001,
+          "longitude": -79.15556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Homewood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.886667,
+          "longitude": -79.05499999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Sea",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 34.1263765,
+          "longitude": -78.9757984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garden City",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.5929472,
+          "longitude": -79.0086464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forestbrook",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.7223935,
+          "longitude": -78.9580872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Finklea",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 34.0982247,
+          "longitude": -78.9783643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carolina Forest",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.7605668,
+          "longitude": -78.8593423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bucksport",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.6660724,
+          "longitude": -79.10565179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Briarcliffe Acres",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.7848947,
+          "longitude": -78.7425186,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Surfside Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.6060031,
+          "longitude": -78.97308869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aynor",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.9998881,
+          "longitude": -79.1994874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Atlantic Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.8026725,
+          "longitude": -78.7164064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loris",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 34.0562812,
+          "longitude": -78.89030439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conway",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.8360034,
+          "longitude": -79.0478143,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Myrtle Beach",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.8160058,
+          "longitude": -78.680016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Myrtle Beach",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Horry County",
+          "latitude": 33.6954218,
+          "longitude": -78.8802094,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jasper County",
+      "cities": [
+        {
+          "name": "Gillisonville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Jasper County",
+          "latitude": 32.612323,
+          "longitude": -81.0009199,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coosawhatchie",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Jasper County",
+          "latitude": 32.5887936,
+          "longitude": -80.92732989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeland",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Jasper County",
+          "latitude": 32.4807435,
+          "longitude": -80.980386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kershaw County",
+      "cities": [
+        {
+          "name": "Lugoff",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.2273712,
+          "longitude": -80.6892486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elgin",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.17098259999999,
+          "longitude": -80.794252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Camden",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.2613268,
+          "longitude": -80.57161990000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boykin",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.116819,
+          "longitude": -80.5814709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abney Crossroads",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.5087667,
+          "longitude": -80.5139621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camden",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.24653929999999,
+          "longitude": -80.6070237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethune",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Kershaw County",
+          "latitude": 34.4148762,
+          "longitude": -80.348683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lancaster County",
+      "cities": [
+        {
+          "name": "Tradesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.76876430000001,
+          "longitude": -80.5470105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unity",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.8007631,
+          "longitude": -80.6964905,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irwin",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.6908982,
+          "longitude": -80.81965530000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buford",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.74444,
+          "longitude": -80.61694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heath Springs",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.5932062,
+          "longitude": -80.6753495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van Wyck",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.8584802,
+          "longitude": -80.84590539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kershaw",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lancaster County",
+          "latitude": 34.5518201,
+          "longitude": -80.5836836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Laurens County",
+      "cities": [
+        {
+          "name": "Watts Mills",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.5162662,
+          "longitude": -81.9807529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Princeton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.4970603,
+          "longitude": -82.28706199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.3629042,
+          "longitude": -81.9676061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joanna",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.4148532,
+          "longitude": -81.81121750000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cross Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.3048489,
+          "longitude": -81.9828892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gray Court",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.6081774,
+          "longitude": -82.113438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterloo",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.3512225,
+          "longitude": -82.0590919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clinton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Laurens County",
+          "latitude": 34.4726276,
+          "longitude": -81.88065619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lee County",
+      "cities": [
+        {
+          "name": "Wisacky",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.14821120000001,
+          "longitude": -80.19340559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Charles",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.0665454,
+          "longitude": -80.2181305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.154044,
+          "longitude": -80.3034083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elliott",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.1071005,
+          "longitude": -80.1636836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Browntown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.2057179,
+          "longitude": -80.3185252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashwood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.1090442,
+          "longitude": -80.31646529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lynchburg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lee County",
+          "latitude": 34.0523795,
+          "longitude": -80.06090429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lexington County",
+      "cities": [
+        {
+          "name": "White Knoll",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.891045,
+          "longitude": -81.2353612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springdale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.959319,
+          "longitude": -81.10898399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seven Oaks",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 34.0487617,
+          "longitude": -81.1464842,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Bank",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9320929,
+          "longitude": -81.2384331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Ridge",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9147349,
+          "longitude": -81.1030573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9857352,
+          "longitude": -81.1474925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview Crossroads",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.75634120000001,
+          "longitude": -81.3674389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edmund",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.8615392,
+          "longitude": -81.2000987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Congaree",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9109851,
+          "longitude": -81.1356517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Swansea",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.7382088,
+          "longitude": -81.0978734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gaston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.8170974,
+          "longitude": -81.1009286,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilbert",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9243121,
+          "longitude": -81.3937131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pelion",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.7632063,
+          "longitude": -81.2448227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cayce",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.96570910000001,
+          "longitude": -81.0739827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chapin",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 34.1659795,
+          "longitude": -81.3498211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irmo",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 34.0859829,
+          "longitude": -81.1831513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Columbia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9934867,
+          "longitude": -81.0739825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Batesburg-Leesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9101425,
+          "longitude": -81.5373261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summit",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.924867,
+          "longitude": -81.42204679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lexington",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Lexington County",
+          "latitude": 33.9815369,
+          "longitude": -81.2362107,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Zion",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.2576774,
+          "longitude": -79.31134569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rains",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.0949926,
+          "longitude": -79.3212058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Daviston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 33.8871095,
+          "longitude": -79.3761634,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centenary",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.03099650000001,
+          "longitude": -79.3556057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mullins",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.2057166,
+          "longitude": -79.25449019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sellers",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.28377040000001,
+          "longitude": -79.47283070000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nichols",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marion County",
+          "latitude": 34.2337747,
+          "longitude": -79.1486503,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marlboro County",
+      "cities": [
+        {
+          "name": "Wallace",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.7198151,
+          "longitude": -79.84160229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bennettsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.6173803,
+          "longitude": -79.68478139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blenheim",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.5107147,
+          "longitude": -79.6528354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clio",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.5796052,
+          "longitude": -79.54644119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McColl",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.6687714,
+          "longitude": -79.5453297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tatum",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Marlboro County",
+          "latitude": 34.6440487,
+          "longitude": -79.586443,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McCormick County",
+      "cities": [
+        {
+          "name": "Willington",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.9720653,
+          "longitude": -82.4667968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Carmel",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 34.0073417,
+          "longitude": -82.5070757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Modoc",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.7334635,
+          "longitude": -82.20567679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarks Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.6709653,
+          "longitude": -82.17289819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCormick",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.9134577,
+          "longitude": -82.29345850000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plum Branch",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.8487376,
+          "longitude": -82.259846,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parksville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "McCormick County",
+          "latitude": 33.7862398,
+          "longitude": -82.2195665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Newberry County",
+      "cities": [
+        {
+          "name": "Helena",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2815791,
+          "longitude": -81.64460489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Mountain",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.1962557,
+          "longitude": -81.41232289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peak",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2407033,
+          "longitude": -81.32343010000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pomaria",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2684778,
+          "longitude": -81.4198227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prosperity",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2093079,
+          "longitude": -81.5331602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silverstreet",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2179142,
+          "longitude": -81.71538699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitmire",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.5029145,
+          "longitude": -81.6114932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newberry",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Newberry County",
+          "latitude": 34.2745833,
+          "longitude": -81.6187178,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oconee County",
+      "cities": [
+        {
+          "name": "Utica",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.6781566,
+          "longitude": -82.931536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tamassee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.8803697,
+          "longitude": -83.01959380000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Union",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.55121159999999,
+          "longitude": -83.05181739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newry",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.7250476,
+          "longitude": -82.9093058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Longcreek",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.7734262,
+          "longitude": -83.2590482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keowee Key",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.8270036,
+          "longitude": -82.9125036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fair Play",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.5113246,
+          "longitude": -82.9855583,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chickasaw Point",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.53914750000001,
+          "longitude": -83.0737195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walhalla",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.7648176,
+          "longitude": -83.06404169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.8898161,
+          "longitude": -82.9765364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westminster",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.6648197,
+          "longitude": -83.0965425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Union",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Oconee County",
+          "latitude": 34.759818,
+          "longitude": -83.04293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Orangeburg County",
+      "cities": [
+        {
+          "name": "Wilkinson Heights",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4927149,
+          "longitude": -80.82947469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brookdale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.50682,
+          "longitude": -80.8234248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.6157083,
+          "longitude": -81.10204139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norway",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4518194,
+          "longitude": -81.1253773,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cope",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.3779336,
+          "longitude": -81.0070403,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodford",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.667375,
+          "longitude": -81.1092633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowman",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.347625,
+          "longitude": -80.6810933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elloree",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.5309936,
+          "longitude": -80.5720319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neeses",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.5321214,
+          "longitude": -81.1232471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Livingston",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.5534855,
+          "longitude": -81.11870929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orangeburg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4918203,
+          "longitude": -80.8556476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Santee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4751634,
+          "longitude": -80.4864764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vance",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4337744,
+          "longitude": -80.4228665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Branchville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.251271,
+          "longitude": -80.8156518,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eutawville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.3946078,
+          "longitude": -80.34731149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holly Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.3226624,
+          "longitude": -80.41370370000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rowesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.3698789,
+          "longitude": -80.8370386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4968163,
+          "longitude": -81.2792711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cordova",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Orangeburg County",
+          "latitude": 33.4354328,
+          "longitude": -80.92092720000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pickens County",
+      "cities": [
+        {
+          "name": "Dacusville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.93528,
+          "longitude": -82.55888999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clemson University",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.6834382,
+          "longitude": -82.8373654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cateechee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.7706653,
+          "longitude": -82.77375210000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arial",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.8459487,
+          "longitude": -82.641522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Liberty",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.78789100000001,
+          "longitude": -82.69235909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pickens",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.8834489,
+          "longitude": -82.7073573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.7242749,
+          "longitude": -82.7812526,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norris",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.7601106,
+          "longitude": -82.7537516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Six Mile",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.8073296,
+          "longitude": -82.8206976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clemson",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Pickens County",
+          "latitude": 34.6834382,
+          "longitude": -82.8373654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Richland County",
+      "cities": [
+        {
+          "name": "Woodfield",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.0593202,
+          "longitude": -80.9309225,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Andrews",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.0466274,
+          "longitude": -81.0920218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olympia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.9788448,
+          "longitude": -81.03406009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Murray of Richland",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.1196956,
+          "longitude": -81.26289609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hopkins",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.9043212,
+          "longitude": -80.8770342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gadsden",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.8457093,
+          "longitude": -80.7659223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dentsville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.0640426,
+          "longitude": -80.9581451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Capitol View",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.9740441,
+          "longitude": -80.9295344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arthurtown",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.9615448,
+          "longitude": -81.00009109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arcadia Lakes",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.0537651,
+          "longitude": -80.9612008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Acres",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.019322,
+          "longitude": -80.98981280000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.0008322,
+          "longitude": -81.035147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blythewood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 34.2143159,
+          "longitude": -80.97397699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eastover",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Richland County",
+          "latitude": 33.876821,
+          "longitude": -80.6928654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Saluda County",
+      "cities": [
+        {
+          "name": "Ridge Spring",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Saluda County",
+          "latitude": 33.8454176,
+          "longitude": -81.6617723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monetta",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Saluda County",
+          "latitude": 33.8501416,
+          "longitude": -81.6095493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saluda",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Saluda County",
+          "latitude": 34.0015232,
+          "longitude": -81.77205219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ward",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Saluda County",
+          "latitude": 33.857915,
+          "longitude": -81.729829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spartanburg County",
+      "cities": [
+        {
+          "name": "Whitney",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.983385,
+          "longitude": -81.9300188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley Falls",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0159531,
+          "longitude": -81.9748278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Startex",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9362804,
+          "longitude": -82.094489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Southern Shops",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9859531,
+          "longitude": -81.9945498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saxon",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9564836,
+          "longitude": -81.97114189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roebuck",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.8795683,
+          "longitude": -81.9662139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pauline",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.83325,
+          "longitude": -81.87227229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayo",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0840114,
+          "longitude": -81.85982589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inman Mills",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0415061,
+          "longitude": -82.1042757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hilltop",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9730465,
+          "longitude": -81.9562091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gramling",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0767831,
+          "longitude": -82.1326102,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9447689,
+          "longitude": -81.83700809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenn Springs",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.8123515,
+          "longitude": -81.83982309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fingerville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.1340066,
+          "longitude": -82.00649659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairforest",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9566544,
+          "longitude": -82.0104452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enoree",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.6565154,
+          "longitude": -81.9650977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drayton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9679008,
+          "longitude": -81.9064927,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cross Anchor",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.6429073,
+          "longitude": -81.857878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Converse",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9918503,
+          "longitude": -81.83438939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clifton",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9795699,
+          "longitude": -81.8178806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camp Croft",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9106819,
+          "longitude": -81.85288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boiling Springs",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.046508,
+          "longitude": -81.9817726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ben Avon",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9365137,
+          "longitude": -81.8792696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arkwright",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9117118,
+          "longitude": -81.939842,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arcadia",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9570143,
+          "longitude": -81.9941468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inman",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0486525,
+          "longitude": -82.0908175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reidville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.8634502,
+          "longitude": -82.1141959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodruff",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.7397623,
+          "longitude": -82.0371919,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowpens",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.0169984,
+          "longitude": -81.8041408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duncan",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9376504,
+          "longitude": -82.1395442,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central Pacolet",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9098596,
+          "longitude": -81.7530847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Landrum",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.1748883,
+          "longitude": -82.18929779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellford",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9509517,
+          "longitude": -82.1053895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pacolet",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.8966545,
+          "longitude": -81.7602641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Campobello",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.1152092,
+          "longitude": -82.15043759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyman",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9556663,
+          "longitude": -82.1276099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chesnee",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 35.1486476,
+          "longitude": -81.8603364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spartanburg",
+          "state": "South Carolina",
+          "stateCode": "SC",
+          "county": "Spartanburg County",
+          "latitude": 34.9515959,
+          "longitude": -81.9327167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sumter County",
+      "cities": [
+        {
+          "name": "Wedgefield",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.8926563,
+          "longitude": -80.5181403,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stateburg",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.9576546,
+          "longitude": -80.53480689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Sumter",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.8870613,
+          "longitude": -80.3352364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shiloh",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.9401594,
+          "longitude": -80.0409061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rembert",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 34.0957087,
+          "longitude": -80.53341499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Privateer",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.8170125,
+          "longitude": -80.3936994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oswego",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 34.0073786,
+          "longitude": -80.2875782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakland",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.988072,
+          "longitude": -80.4966062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mulberry",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.9521013,
+          "longitude": -80.3328578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakewood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.8468258,
+          "longitude": -80.35008119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Sumter",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.9254358,
+          "longitude": -80.2961904,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dalzell",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 34.0168212,
+          "longitude": -80.4300818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cherryvale",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.955711,
+          "longitude": -80.45813869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cane Savannah",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.8868437,
+          "longitude": -80.4382153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.9876575,
+          "longitude": -80.20813190000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinewood",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Sumter County",
+          "latitude": 33.7404382,
+          "longitude": -80.4634176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Monarch Mill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Union County",
+          "latitude": 34.7184931,
+          "longitude": -81.5963293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Union County",
+          "latitude": 34.7256894,
+          "longitude": -81.68343349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlisle",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Union County",
+          "latitude": 34.5929168,
+          "longitude": -81.4625992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonesville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Union County",
+          "latitude": 34.8359651,
+          "longitude": -81.6809327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lockhart",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Union County",
+          "latitude": 34.7865238,
+          "longitude": -81.46204019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Williamsburg County",
+      "cities": [
+        {
+          "name": "Stuckey",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Williamsburg County",
+          "latitude": 33.7318326,
+          "longitude": -79.5125596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greeleyville",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Williamsburg County",
+          "latitude": 33.5809988,
+          "longitude": -79.9889654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hemingway",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Williamsburg County",
+          "latitude": 33.7537774,
+          "longitude": -79.4475566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingstree",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Williamsburg County",
+          "latitude": 33.6676643,
+          "longitude": -79.83062640000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lane",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "Williamsburg County",
+          "latitude": 33.5215547,
+          "longitude": -79.87868499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "York County",
+      "cities": [
+        {
+          "name": "Riverview",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.0080468,
+          "longitude": -80.9807198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.9898644,
+          "longitude": -81.10090919999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lesslie",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.8905673,
+          "longitude": -80.95661419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Wylie",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.108476,
+          "longitude": -81.0428538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "India Hook",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.009655,
+          "longitude": -81.0368211,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Catawba",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.8529233,
+          "longitude": -80.9111862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baxter Village",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.0252951,
+          "longitude": -80.9740501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Mill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.0073697,
+          "longitude": -80.94507589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "York",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.9943021,
+          "longitude": -81.24201750000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clover",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.1112478,
+          "longitude": -81.2264646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory Grove",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.9831881,
+          "longitude": -81.4164751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McConnells",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.8685343,
+          "longitude": -81.2278757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sharon",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.9509674,
+          "longitude": -81.3409156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tega Cay",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.02431200000001,
+          "longitude": -81.0278546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smyrna",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 35.0426324,
+          "longitude": -81.4061959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock Hill",
+          "state": "SC",
+          "stateCode": "SC",
+          "county": "York County",
+          "latitude": 34.9237871,
+          "longitude": -81.0281674,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

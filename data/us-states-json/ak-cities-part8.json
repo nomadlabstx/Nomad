@@ -1,0 +1,530 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Petersburg Borough",
+      "cities": [
+        {
+          "name": "Hobart Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Petersburg Borough",
+          "latitude": 57.45271219999999,
+          "longitude": -133.3053839,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Petersburg Borough",
+      "cities": [
+        {
+          "name": "Wrangell",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Petersburg Borough",
+          "latitude": 56.4706104,
+          "longitude": -132.3815263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Petersburg Borough",
+      "cities": []
+    },
+    {
+      "name": "Petersburg Borough",
+      "cities": []
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area",
+      "cities": [
+        {
+          "name": "Coffman Cove",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 56.0122776,
+          "longitude": -132.8215663,
+          "population": 125,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Edna Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 55.9573084,
+          "longitude": -133.6593223,
+          "population": 25,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hydaburg",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 55.2074214,
+          "longitude": -132.8275439,
+          "population": 375,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kake",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 56.97669380000001,
+          "longitude": -133.9461823,
+          "population": 537,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kasaan",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 55.5399652,
+          "longitude": -132.4008829,
+          "population": 30,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Klawock",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 55.5520852,
+          "longitude": -133.081983,
+          "population": 710,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Port Alexander",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 56.2466758,
+          "longitude": -134.6476147,
+          "population": 73,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Thorne Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 55.6867672,
+          "longitude": -132.5232037,
+          "population": 470,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Whale Pass",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area",
+          "latitude": 56.1185103,
+          "longitude": -133.1295036,
+          "population": 86,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Port Protection",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 56.32089500000001,
+          "longitude": -133.6102171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Point Baker",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 56.35133099999999,
+          "longitude": -133.6203795,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Naukati Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 55.8695034,
+          "longitude": -133.2027355,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Metlakatla",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 55.12878600000001,
+          "longitude": -131.5744824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Hyder",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 55.91772539999999,
+          "longitude": -130.02768,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": [
+        {
+          "name": "Hollis",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Prince of Wales-Hyder Census Area County",
+          "latitude": 55.4862705,
+          "longitude": -132.6393743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Prince of Wales-Hyder Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Sitka City and Borough",
+      "cities": [
+        {
+          "name": "Sitka",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Sitka City and Borough",
+          "latitude": 57.05321929999999,
+          "longitude": -135.3345513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sitka City and Borough",
+      "cities": []
+    },
+    {
+      "name": "Sitka City and Borough",
+      "cities": []
+    },
+    {
+      "name": "Skagway Municipality County",
+      "cities": [
+        {
+          "name": "Skagway",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Skagway Municipality County",
+          "latitude": 59.45717800000001,
+          "longitude": -135.3145346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area",
+      "cities": [
+        {
+          "name": "Eagle",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area",
+          "latitude": 64.7871056,
+          "longitude": -141.2026613,
+          "population": 85,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Whitestone",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.1510311,
+          "longitude": -145.9148487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Tetlin",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.1372222,
+          "longitude": -142.5161111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tok",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.3359266,
+          "longitude": -142.9877015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Tanacross",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.37757389999999,
+          "longitude": -143.3574533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Northway",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 62.9684941,
+          "longitude": -141.9029937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Healy Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.00014469999999,
+          "longitude": -144.7333826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Fort Greely",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.9611807,
+          "longitude": -145.7112137,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Dot Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.6612945,
+          "longitude": -144.0690901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dot Lake Village",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.6503137,
+          "longitude": -144.0481124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dry Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 63.67738420000001,
+          "longitude": -144.6032239,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Village",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.74793919999999,
+          "longitude": -141.0413501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Deltana",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.0558168,
+          "longitude": -145.5519274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Chicken",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.07313359999999,
+          "longitude": -141.9384285,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Big Delta",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 64.1535083,
+          "longitude": -145.8410538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Fairbanks Census Area County",
+      "cities": [
+        {
+          "name": "Alcan Border",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Southeast Fairbanks Census Area County",
+          "latitude": 62.68503,
+          "longitude": -141.1247059,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

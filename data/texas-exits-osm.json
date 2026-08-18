@@ -1,0 +1,66 @@
+{
+  "interstate-10": [],
+  "interstate-20": [],
+  "interstate-27": [],
+  "interstate-30": [],
+  "interstate-40": [],
+  "interstate-45": [],
+  "interstate-69": [],
+  "interstate-110": [],
+  "interstate-345": [],
+  "interstate-410": [],
+  "interstate-635": [],
+  "interstate-820": [],
+  "us-highway-67": [],
+  "us-highway-69": [],
+  "us-highway-75": [],
+  "us-highway-77": [],
+  "us-highway-79": [],
+  "us-highway-80": [],
+  "us-highway-84": [],
+  "us-highway-87": [],
+  "us-highway-90": [],
+  "us-highway-96": [],
+  "us-highway-175": [],
+  "us-highway-277": [],
+  "us-highway-281": [],
+  "us-highway-287": [
+    {
+      "exitNumber": "Unknown",
+      "description": "Unknown",
+      "coordinates": {
+        "latitude": 32.472277,
+        "longitude": -97.014107
+      },
+      "osmId": 82060820,
+      "highwayRef": "US 287",
+      "highwayType": "us-highway",
+      "highwayNumber": "287"
+    },
+    {
+      "exitNumber": "Unknown",
+      "description": "Ft Worth;Waxahachie",
+      "coordinates": {
+        "latitude": 32.470317,
+        "longitude": -97.019619
+      },
+      "osmId": 82207934,
+      "highwayRef": "US 287",
+      "highwayType": "us-highway",
+      "highwayNumber": "287"
+    },
+    {
+      "exitNumber": "Unknown",
+      "description": "Ft Worth",
+      "coordinates": {
+        "latitude": 32.4756698,
+        "longitude": -97.0103133
+      },
+      "osmId": 472505216,
+      "highwayRef": "US 287",
+      "highwayType": "us-highway",
+      "highwayNumber": "287"
+    }
+  ],
+  "us-highway-290": []
+}

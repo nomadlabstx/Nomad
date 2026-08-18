@@ -1,0 +1,437 @@
+{
+  "totalCities": 54,
+  "cities": [
+    {
+      "name": "Washington",
+      "state": "District of Columbia",
+      "stateCode": "DC",
+      "latitude": 38.9071923,
+      "longitude": -77.0368707,
+      "county": null
+    },
+    {
+      "name": "Baltimore",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "latitude": 39.2905023,
+      "longitude": -76.6104072,
+      "county": null
+    },
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.8516437,
+      "longitude": -75.97921939999999,
+      "county": null
+    },
+    {
+      "name": "Lincoln",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "latitude": 40.9338037,
+      "longitude": -100.8000051,
+      "county": null
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "latitude": 38.62742799999999,
+      "longitude": -90.1982439,
+      "county": null
+    },
+    {
+      "name": "Chesapeake",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.7682088,
+      "longitude": -76.2874927,
+      "county": null
+    },
+    {
+      "name": "Norfolk",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.8507689,
+      "longitude": -76.28587259999999,
+      "county": null
+    },
+    {
+      "name": "Richmond",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.5407246,
+      "longitude": -77.4360481,
+      "county": null
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.0870821,
+      "longitude": -76.4730122,
+      "county": null
+    },
+    {
+      "name": "Alexandria",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.804693,
+      "longitude": -77.0435257,
+      "county": null
+    },
+    {
+      "name": "Hampton",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.0298687,
+      "longitude": -76.34522179999999,
+      "county": null
+    },
+    {
+      "name": "Stamford",
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "latitude": 41.0527986,
+      "longitude": -73.5394821,
+      "county": null
+    },
+    {
+      "name": "Suffolk",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.7282054,
+      "longitude": -76.5835621,
+      "county": null
+    },
+    {
+      "name": "Roanoke",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.2709116,
+      "longitude": -79.94494949999999,
+      "county": null
+    },
+    {
+      "name": "Portsmouth",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.8354258,
+      "longitude": -76.2982742,
+      "county": null
+    },
+    {
+      "name": "Lynchburg",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.4148819,
+      "longitude": -79.1422071,
+      "county": null
+    },
+    {
+      "name": "Carson",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "latitude": 39.1637984,
+      "longitude": -119.7674034,
+      "county": null
+    },
+    {
+      "name": "Harrisonburg",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.4460017,
+      "longitude": -78.8697826,
+      "county": null
+    },
+    {
+      "name": "Charlottesville",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.0301826,
+      "longitude": -78.4769353,
+      "county": null
+    },
+    {
+      "name": "Manassas",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.7512726,
+      "longitude": -77.4706769,
+      "county": null
+    },
+    {
+      "name": "Danville",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.5859718,
+      "longitude": -79.39502279999999,
+      "county": null
+    },
+    {
+      "name": "Petersburg",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.2279279,
+      "longitude": -77.40192669999999,
+      "county": null
+    },
+    {
+      "name": "Fredericksburg",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.3003751,
+      "longitude": -77.4588059,
+      "county": null
+    },
+    {
+      "name": "Winchester",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 39.1856597,
+      "longitude": -78.1633341,
+      "county": null
+    },
+    {
+      "name": "Tumwater",
+      "state": "Washington",
+      "stateCode": "WA",
+      "latitude": 47.0073187,
+      "longitude": -122.9093063,
+      "county": null
+    },
+    {
+      "name": "Staunton",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.1494226,
+      "longitude": -79.0737047,
+      "county": null
+    },
+    {
+      "name": "Salem",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.2934681,
+      "longitude": -80.05476259999999,
+      "county": null
+    },
+    {
+      "name": "Fairfax",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.8459879,
+      "longitude": -77.3053035,
+      "county": null
+    },
+    {
+      "name": "Waynesboro",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.0684692,
+      "longitude": -78.8894682,
+      "county": null
+    },
+    {
+      "name": "Hopewell",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.3043154,
+      "longitude": -77.28720009999999,
+      "county": null
+    },
+    {
+      "name": "Colonial Heights",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.244039,
+      "longitude": -77.4102607,
+      "county": null
+    },
+    {
+      "name": "Radford",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.13179239999999,
+      "longitude": -80.5764477,
+      "county": null
+    },
+    {
+      "name": "Bristol",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.6159085,
+      "longitude": -82.1659243,
+      "county": null
+    },
+    {
+      "name": "Manassas Park",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.7840035,
+      "longitude": -77.4697111,
+      "county": null
+    },
+    {
+      "name": "Williamsburg",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.2757305,
+      "longitude": -76.7098049,
+      "county": null
+    },
+    {
+      "name": "Falls Church",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 38.88233400000001,
+      "longitude": -77.1710914,
+      "county": null
+    },
+    {
+      "name": "Martinsville",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.6915262,
+      "longitude": -79.8725386,
+      "county": null
+    },
+    {
+      "name": "Poquoson",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.1223664,
+      "longitude": -76.3457773,
+      "county": null
+    },
+    {
+      "name": "Lexington",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.78402080000001,
+      "longitude": -79.4428157,
+      "county": null
+    },
+    {
+      "name": "Galax",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.6612387,
+      "longitude": -80.9239671,
+      "county": null
+    },
+    {
+      "name": "Litchfield",
+      "state": "Illinois",
+      "stateCode": "IL",
+      "latitude": 39.176356,
+      "longitude": -89.6554379,
+      "county": null
+    },
+    {
+      "name": "Buena Vista",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.7343004,
+      "longitude": -79.35392379999999,
+      "county": null
+    },
+    {
+      "name": "Los Ranchos de Albuquerque",
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "latitude": 35.1619885,
+      "longitude": -106.6428038,
+      "county": null
+    },
+    {
+      "name": "Covington",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 37.7934585,
+      "longitude": -79.99394629999999,
+      "county": null
+    },
+    {
+      "name": "Emporia",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.6859829,
+      "longitude": -77.5424809,
+      "county": null
+    },
+    {
+      "name": "Utqia?vik",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "latitude": 63.588753,
+      "longitude": -154.4930619,
+      "county": null
+    },
+    {
+      "name": "Norton",
+      "state": "Virginia",
+      "stateCode": "VA",
+      "latitude": 36.933433,
+      "longitude": -82.6290459,
+      "county": null
+    },
+    {
+      "name": "Drew",
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "latitude": 33.809558,
+      "longitude": -90.5264813,
+      "county": null
+    },
+    {
+      "name": "Oceana",
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "latitude": 37.6920553,
+      "longitude": -81.6239985,
+      "county": null
+    },
+    {
+      "name": "Grant",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "latitude": 41.86377540000001,
+      "longitude": -101.7979613,
+      "county": null
+    },
+    {
+      "name": "Fairfield",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "latitude": 40.6454809,
+      "longitude": -101.0938079,
+      "county": null
+    },
+    {
+      "name": "De Soto",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "latitude": 43.4230306,
+      "longitude": -91.1990204,
+      "county": null
+    },
+    {
+      "name": "Union",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "latitude": 40.4018262,
+      "longitude": -99.79017809999999,
+      "county": null
+    },
+    {
+      "name": "Marydel",
+      "state": "Maryland",
+      "stateCode": "MD",
+      "latitude": 39.1128904,
+      "longitude": -75.7457651,
+      "county": null
+    }
+  ]
+}

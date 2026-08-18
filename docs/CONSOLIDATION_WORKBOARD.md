@@ -11,15 +11,12 @@ Use this as the active queue during the 14-day consolidation sprint.
 
 ## In Progress
 
-- [ ] (none)
+- [ ] Verify route failure fallback behavior
 
 ## Next Up
 
-- [ ] Validate Home -> GPS -> Travel Log golden path
-- [ ] Verify location permission deny/recover behavior
-- [ ] Verify route failure fallback behavior
-- [ ] Verify trip save/read reliability after app restart
-- [ ] Align README with current MVP scope
+- [ ] Verify weak/offline network state is visible and usable
+- [ ] Verify background/foreground stability during active navigation
 
 ## Blocked
 
@@ -27,10 +24,28 @@ Use this as the active queue during the 14-day consolidation sprint.
 
 ## Done
 
+- [x] Created `docs/PRIORITY_BUCKETS.md` (2026-06-20 planning session)
+- [x] Run #2 logged in `docs/MVP_TEST_RUN_LOG.md` (desktop/web smoke)
+- [x] Reconciled doc drift (`docs/README.md`, master list, travel-stats plan)
 - [x] Created `docs/CONSOLIDATION_PLAN.md`
 - [x] Created `docs/STATE_OF_UNION.md`
 - [x] Created `docs/MVP_RELEASE_GATE.md`
 - [x] Created `docs/MVP_TEST_RUN_LOG.md`
+- [x] Aligned `README.md` with MVP consolidation scope
+- [x] Verified location permission deny/recover behavior
+- [x] Verified trip save/read reliability after app restart
+
+## Validation Session Notes (Items 18-22)
+
+- [x] Home -> GPS -> Travel Log golden path
+  - Code check: Home "Travel Log" action now routes to `/(tabs)/travel-log`.
+  - Manual evidence: saved trip still present after reload/restart.
+- [x] Location permission deny/recover behavior
+  - Manual evidence: denied permission now shows explicit recovery UI; recording is no longer a silent no-op.
+- [ ] Route failure fallback behavior
+  - Still required: simulate route/API failure and verify retry/dismiss recovery behavior.
+- [x] Trip save/read reliability after app restart
+  - Manual evidence: travel log entry remains accessible after reload.
 
 ## Deferred (Post-v0.1)
 

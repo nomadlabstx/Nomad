@@ -1,0 +1,1023 @@
+{
+  "name": "Arkansas",
+  "code": "AR",
+  "counties": [
+    {
+      "name": "Arkansas County",
+      "cities": [
+        {
+          "name": "Almyra",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Arkansas County",
+          "latitude": 34.4061761,
+          "longitude": -91.41001469999999,
+          "population": 249,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "DeWitt",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Arkansas County",
+          "latitude": 34.293215,
+          "longitude": -91.3351283,
+          "population": 2893,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gillett",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Arkansas County",
+          "latitude": 34.1174845,
+          "longitude": -91.37617469999999,
+          "population": 599,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Charles",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Arkansas County",
+          "latitude": 34.3733705,
+          "longitude": -91.136556,
+          "population": 194,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Ashley County",
+      "cities": [
+        {
+          "name": "West Crossett",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.1409551,
+          "longitude": -91.9940214,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ashley County",
+      "cities": [
+        {
+          "name": "North Crossett",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.1656769,
+          "longitude": -91.9415204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ashley County",
+      "cities": []
+    },
+    {
+      "name": "Ashley County",
+      "cities": [
+        {
+          "name": "Fountain Hill",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.3577299,
+          "longitude": -91.8504916,
+          "population": 106,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Hamburg",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.225724,
+          "longitude": -91.79755449999999,
+          "population": 2413,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Montrose",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.2978869,
+          "longitude": -91.4935213,
+          "population": 232,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Parkdale",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.1213139,
+          "longitude": -91.54653200000001,
+          "population": 170,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Portland",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.2364782,
+          "longitude": -91.5121856,
+          "population": 311,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wilmot",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Ashley County",
+          "latitude": 33.0597686,
+          "longitude": -91.5732709,
+          "population": 395,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Baxter County",
+      "cities": [
+        {
+          "name": "Henderson",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.3806216,
+          "longitude": -92.2276564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Baxter County",
+      "cities": [
+        {
+          "name": "Gamaliel",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.4567317,
+          "longitude": -92.23321279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Baxter County",
+      "cities": [
+        {
+          "name": "Buffalo City",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.167732,
+          "longitude": -92.442703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Baxter County",
+      "cities": []
+    },
+    {
+      "name": "Baxter County",
+      "cities": [
+        {
+          "name": "Big Flat",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.0052292,
+          "longitude": -92.4043792,
+          "population": 89,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Briarcliff",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.272855,
+          "longitude": -92.29276229999999,
+          "population": 247,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Cotter",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.2689041,
+          "longitude": -92.5359398,
+          "population": 944,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gassville",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.28727629999999,
+          "longitude": -92.48171839999999,
+          "population": 2223,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lakeview",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.3689367,
+          "longitude": -92.5448416,
+          "population": 786,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Midway",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.3853444,
+          "longitude": -92.4618277,
+          "population": 371,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Norfork",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.2105781,
+          "longitude": -92.2865535,
+          "population": 474,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Salesville",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Baxter County",
+          "latitude": 36.2455025,
+          "longitude": -92.2656445,
+          "population": 512,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Prairie Creek",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3420189,
+          "longitude": -94.06186850000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Maysville",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.403689,
+          "longitude": -94.60188769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Lost Bridge Village",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3884058,
+          "longitude": -93.90686459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Cherokee City",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.293438,
+          "longitude": -94.578476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": []
+    },
+    {
+      "name": "Benton County",
+      "cities": []
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Avoca",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.40201589999999,
+          "longitude": -94.0724896,
+          "population": 482,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bella Vista",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.475798,
+          "longitude": -94.2475489,
+          "population": 32368,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Bentonville",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3723561,
+          "longitude": -94.21021410000002,
+          "population": 59471,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Cave Springs",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.2647805,
+          "longitude": -94.2320402,
+          "population": 6081,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Centerton",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3585128,
+          "longitude": -94.28494309999999,
+          "population": 23953,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Decatur",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3357841,
+          "longitude": -94.46069949999999,
+          "population": 1727,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Garfield",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.4476858,
+          "longitude": -93.97075079999999,
+          "population": 610,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gateway",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.4902677,
+          "longitude": -93.9315812,
+          "population": 444,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gentry",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.2675615,
+          "longitude": -94.4848789,
+          "population": 4449,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Gravette",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.4222948,
+          "longitude": -94.4518839,
+          "population": 3750,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Highfill",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.2615594,
+          "longitude": -94.3505591,
+          "population": 2417,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kennewick",
+          "state": "Washington",
+          "stateCode": "WA",
+          "county": "Benton County",
+          "latitude": 46.2086683,
+          "longitude": -119.119948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Flock",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.3772694,
+          "longitude": -94.1380246,
+          "population": 3037,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lowell",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.2541286,
+          "longitude": -94.1368255,
+          "population": 11466,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Pea Ridge",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.453844,
+          "longitude": -94.1151555,
+          "population": 8680,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Siloam Springs",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.1859196,
+          "longitude": -94.54156429999999,
+          "population": 19336,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Springtown",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.25950479999999,
+          "longitude": -94.4242285,
+          "population": 90,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sulphur Springs",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.4822665,
+          "longitude": -94.458458,
+          "population": 468,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "West Point",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Benton County",
+          "latitude": 36.25285849999999,
+          "longitude": -94.5663299,
+          "population": 171,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Boone County",
+      "cities": [
+        {
+          "name": "Batavia",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.2550706,
+          "longitude": -93.22267970000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boone County",
+      "cities": []
+    },
+    {
+      "name": "Boone County",
+      "cities": [
+        {
+          "name": "Alpena",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.2940722,
+          "longitude": -93.2974531,
+          "population": 385,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bellefonte",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.200586,
+          "longitude": -93.04829389999999,
+          "population": 426,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Belvidere",
+          "state": "Illinois",
+          "stateCode": "IL",
+          "county": "Boone County",
+          "latitude": 42.2639098,
+          "longitude": -88.84426739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bergman",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.3127134,
+          "longitude": -93.0150867,
+          "population": 440,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Columbia",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Boone County",
+          "latitude": 38.951768,
+          "longitude": -92.32829319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Diamond City",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.4645437,
+          "longitude": -92.92007559999999,
+          "population": 822,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Everton",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.155546,
+          "longitude": -92.9067828,
+          "population": 104,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Florence",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Boone County",
+          "latitude": 38.9989499,
+          "longitude": -84.62661109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lead Hill",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.419704,
+          "longitude": -92.91419789999999,
+          "population": 284,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Omaha",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.4524342,
+          "longitude": -93.1883687,
+          "population": 128,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "South Lead Hill",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.3948114,
+          "longitude": -92.9103667,
+          "population": 86,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Valley Springs",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.1563344,
+          "longitude": -92.99297539999999,
+          "population": 190,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Zinc",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Boone County",
+          "latitude": 36.2855311,
+          "longitude": -92.91409829999999,
+          "population": 99,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Zionsville",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Boone County",
+          "latitude": 39.9500433,
+          "longitude": -86.27889479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bradley County",
+      "cities": []
+    },
+    {
+      "name": "Bradley County",
+      "cities": [
+        {
+          "name": "Banks",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Bradley County",
+          "latitude": 33.5761723,
+          "longitude": -92.2679675,
+          "population": 81,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Cleveland",
+          "state": "Tennessee",
+          "stateCode": "TN",
+          "county": "Bradley County",
+          "latitude": 35.1595182,
+          "longitude": -84.8766115,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hermitage",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Bradley County",
+          "latitude": 33.445584,
+          "longitude": -92.17418029999999,
+          "population": 506,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Calhoun County",
+      "cities": [
+        {
+          "name": "Harrell",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Calhoun County",
+          "latitude": 33.5112307,
+          "longitude": -92.4002235,
+          "population": 204,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Thornton",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Calhoun County",
+          "latitude": 33.777389,
+          "longitude": -92.49080479999999,
+          "population": 329,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tinsman",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Calhoun County",
+          "latitude": 33.629952,
+          "longitude": -92.354963,
+          "population": 51,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": []
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Beaver",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.4749376,
+          "longitude": -93.7705574,
+          "population": 67,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Blue Eye",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.4969585,
+          "longitude": -93.3974216,
+          "population": 44,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Carroll",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Carroll County",
+          "latitude": 42.0655986,
+          "longitude": -94.86727929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carrollton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Carroll County",
+          "latitude": 33.5801103,
+          "longitude": -85.0766113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eureka Springs",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.4006499,
+          "longitude": -93.7392889,
+          "population": 2190,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Green Forest",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.33541659999999,
+          "longitude": -93.43598759999999,
+          "population": 3160,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Holiday Island",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.4853478,
+          "longitude": -93.73213779999999,
+          "population": 2415,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Carroll County",
+          "latitude": 36.4561544,
+          "longitude": -93.4360761,
+          "population": 387,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Westminster",
+          "state": "Maryland",
+          "stateCode": "MD",
+          "county": "Carroll County",
+          "latitude": 39.5753791,
+          "longitude": -76.9958149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chicot County",
+      "cities": []
+    },
+    {
+      "name": "Chicot County",
+      "cities": [
+        {
+          "name": "Eudora",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Chicot County",
+          "latitude": 33.1101502,
+          "longitude": -91.2619325,
+          "population": 1601,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lake Village",
+          "state": "Arkansas",
+          "stateCode": "AR",
+          "county": "Chicot County",
+          "latitude": 33.3314055,
+          "longitude": -91.2840738,
+          "population": 1912,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": [
+        {
+          "name": "Beirne",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Clark County",
+          "latitude": 33.8887161,
+          "longitude": -93.2040588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": [
+        {
+          "name": "Alpine",
+          "state": "AR",
+          "stateCode": "AR",
+          "county": "Clark County",
+          "latitude": 34.2289863,
+          "longitude": -93.3790695,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

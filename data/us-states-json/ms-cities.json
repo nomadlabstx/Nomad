@@ -1,0 +1,4572 @@
+{
+  "name": "Mississippi",
+  "code": "MS",
+  "counties": [
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "Cloverdale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Adams County",
+          "latitude": 31.497945,
+          "longitude": -91.42067139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Alcorn County",
+      "cities": [
+        {
+          "name": "Jacinto",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.7598139,
+          "longitude": -88.4283813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Biggersville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.8356462,
+          "longitude": -88.55866139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corinth",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.9342548,
+          "longitude": -88.5222702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.9305984,
+          "longitude": -88.4582738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kossuth",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.8720349,
+          "longitude": -88.6458856,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rienzi",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.7659252,
+          "longitude": -88.52671699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Alcorn County",
+          "latitude": 34.8591215,
+          "longitude": -88.4288655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Amite County",
+      "cities": [
+        {
+          "name": "Crosby",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Amite County",
+          "latitude": 31.2837829,
+          "longitude": -91.06316009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gloster",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Amite County",
+          "latitude": 31.1973959,
+          "longitude": -91.02177030000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Liberty",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Amite County",
+          "latitude": 31.1582312,
+          "longitude": -90.8123243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Attala County",
+      "cities": [
+        {
+          "name": "Kosciusko",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Attala County",
+          "latitude": 33.0576295,
+          "longitude": -89.58757639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCool",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Attala County",
+          "latitude": 33.2020707,
+          "longitude": -89.34507029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ethel",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Attala County",
+          "latitude": 33.1204062,
+          "longitude": -89.46590619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sallis",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Attala County",
+          "latitude": 33.0223518,
+          "longitude": -89.7653598,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Lamar",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Benton County",
+          "latitude": 34.91290499999999,
+          "longitude": -89.31557869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory Flat",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Benton County",
+          "latitude": 34.6159327,
+          "longitude": -89.188404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Snow Lake Shores",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Benton County",
+          "latitude": 34.824539,
+          "longitude": -89.2395159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bolivar County",
+      "cities": [
+        {
+          "name": "Symonds",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.8339997,
+          "longitude": -90.8903811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Skene",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.7037245,
+          "longitude": -90.79426509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scott",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.5930808,
+          "longitude": -91.0760049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolivar",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.6598339,
+          "longitude": -91.0531635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gunnison",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.9442751,
+          "longitude": -90.94510640000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mound Bayou",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.8781674,
+          "longitude": -90.7273204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pace",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.7915006,
+          "longitude": -90.85704609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Renova",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.7787241,
+          "longitude": -90.72148570000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosedale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.85372419999999,
+          "longitude": -91.0276367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shelby",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.9509439,
+          "longitude": -90.76787809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shaw",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.6017815,
+          "longitude": -90.7737075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alligator",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 34.0895533,
+          "longitude": -90.7195452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benoit",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.6515013,
+          "longitude": -91.0095508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beulah",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.7867774,
+          "longitude": -90.9798285,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boyle",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.7040028,
+          "longitude": -90.7264849,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merigold",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.8390012,
+          "longitude": -90.7262088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duncan",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 34.0445538,
+          "longitude": -90.74482300000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winstonville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Bolivar County",
+          "latitude": 33.9101112,
+          "longitude": -90.75148809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Calhoun County",
+      "cities": [
+        {
+          "name": "Calhoun City",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.8553915,
+          "longitude": -89.31146129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vardaman",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.8756685,
+          "longitude": -89.1772897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Slate Springs",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.7446093,
+          "longitude": -89.37484590000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Derma",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.8556691,
+          "longitude": -89.2845159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Creek",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.8526146,
+          "longitude": -89.4111867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pittsboro",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Calhoun County",
+          "latitude": 33.9403898,
+          "longitude": -89.33757419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Carroll County",
+      "cities": [
+        {
+          "name": "Carrollton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Carroll County",
+          "latitude": 33.5081773,
+          "longitude": -89.9203608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Carrollton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Carroll County",
+          "latitude": 33.5181771,
+          "longitude": -89.9206387,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Chickasaw County",
+      "cities": [
+        {
+          "name": "Van Vleet",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Chickasaw County",
+          "latitude": 33.9870552,
+          "longitude": -88.9003345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Houston",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Chickasaw County",
+          "latitude": 33.8984461,
+          "longitude": -88.99922670000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Houlka",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Chickasaw County",
+          "latitude": 34.03812360000001,
+          "longitude": -89.02107889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Okolona",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Chickasaw County",
+          "latitude": 34.001778,
+          "longitude": -88.7553293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Chickasaw County",
+          "latitude": 33.7787271,
+          "longitude": -89.05145069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Choctaw County",
+      "cities": [
+        {
+          "name": "Weir",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Choctaw County",
+          "latitude": 33.2667917,
+          "longitude": -89.29090219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "French Camp",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Choctaw County",
+          "latitude": 33.293181,
+          "longitude": -89.3995159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Claiborne County",
+      "cities": [
+        {
+          "name": "Pattison",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Claiborne County",
+          "latitude": 31.8890989,
+          "longitude": -90.8881297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hermanville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Claiborne County",
+          "latitude": 31.9593248,
+          "longitude": -90.8401027,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcorn State University",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Claiborne County",
+          "latitude": 31.877778,
+          "longitude": -91.139167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Gibson",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Claiborne County",
+          "latitude": 31.9607734,
+          "longitude": -90.98173249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clarke County",
+      "cities": [
+        {
+          "name": "De Soto",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clarke County",
+          "latitude": 31.973611,
+          "longitude": -88.71333299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shubuta",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clarke County",
+          "latitude": 31.8601554,
+          "longitude": -88.69948509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enterprise",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clarke County",
+          "latitude": 32.174314,
+          "longitude": -88.8314379,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stonewall",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clarke County",
+          "latitude": 32.1318149,
+          "longitude": -88.7933808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pachuta",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clarke County",
+          "latitude": 32.0404284,
+          "longitude": -88.8847725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clay County",
+      "cities": [
+        {
+          "name": "Pheba",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Clay County",
+          "latitude": 33.5847365,
+          "longitude": -88.9495943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coahoma County",
+      "cities": [
+        {
+          "name": "Rena Lara",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.1498294,
+          "longitude": -90.7803813,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farrell",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.264273,
+          "longitude": -90.6723247,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dublin",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.0723334,
+          "longitude": -90.490651,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bobo",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.132053,
+          "longitude": -90.67565610000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarksdale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.2001086,
+          "longitude": -90.5709323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coahoma",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.3667731,
+          "longitude": -90.52315610000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Friars Point",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.3667717,
+          "longitude": -90.63760409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonestown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.3195524,
+          "longitude": -90.4556535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lula",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.453161,
+          "longitude": -90.4787116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Coahoma County",
+          "latitude": 34.2178865,
+          "longitude": -90.54204290000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Copiah County",
+      "cities": [
+        {
+          "name": "Georgetown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Copiah County",
+          "latitude": 31.8715484,
+          "longitude": -90.1645303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wesson",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Copiah County",
+          "latitude": 31.701277,
+          "longitude": -90.3975928,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beauregard",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Copiah County",
+          "latitude": 31.7218319,
+          "longitude": -90.3823144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crystal Springs",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Copiah County",
+          "latitude": 31.987378,
+          "longitude": -90.35703529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hazlehurst",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Copiah County",
+          "latitude": 31.8604382,
+          "longitude": -90.39592549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Covington County",
+      "cities": [
+        {
+          "name": "Seminary",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Covington County",
+          "latitude": 31.5623892,
+          "longitude": -89.4975669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Olive",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Covington County",
+          "latitude": 31.7611592,
+          "longitude": -89.65502090000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "DeSoto County",
+      "cities": [
+        {
+          "name": "Lynchburg",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.9624545,
+          "longitude": -90.1089902,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.988983,
+          "longitude": -90.13981570000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eudora",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.8303761,
+          "longitude": -90.1492605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridgetown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.8899711,
+          "longitude": -89.91130520000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walls",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.9578727,
+          "longitude": -90.1517605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hernando",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.823987,
+          "longitude": -89.9937018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olive Branch",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.9617604,
+          "longitude": -89.8295315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Horn Lake",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "DeSoto County",
+          "latitude": 34.9553719,
+          "longitude": -90.03481389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Forrest County",
+      "cities": [
+        {
+          "name": "Rawls Springs",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Forrest County",
+          "latitude": 31.380728,
+          "longitude": -89.37145249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Forrest County",
+          "latitude": 31.3646175,
+          "longitude": -89.3061728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Petal",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Forrest County",
+          "latitude": 31.3465627,
+          "longitude": -89.2600605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Franklin County",
+      "cities": [
+        {
+          "name": "Meadville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Franklin County",
+          "latitude": 31.4723928,
+          "longitude": -90.8967682,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roxie",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Franklin County",
+          "latitude": 31.5046128,
+          "longitude": -91.0689929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "George County",
+      "cities": [
+        {
+          "name": "Benndale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "George County",
+          "latitude": 30.8715775,
+          "longitude": -88.80697889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Agricola",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "George County",
+          "latitude": 30.807689,
+          "longitude": -88.5200194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lucedale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "George County",
+          "latitude": 30.9251869,
+          "longitude": -88.5900235,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greene County",
+      "cities": [
+        {
+          "name": "Leaf",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Greene County",
+          "latitude": 31.025742,
+          "longitude": -88.7955915,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McLain",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Greene County",
+          "latitude": 31.1087958,
+          "longitude": -88.8272599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grenada County",
+      "cities": [
+        {
+          "name": "Holcomb",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Grenada County",
+          "latitude": 33.761056,
+          "longitude": -89.97514319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elliott",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Grenada County",
+          "latitude": 33.6837433,
+          "longitude": -89.7495696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grenada",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Grenada County",
+          "latitude": 33.7690049,
+          "longitude": -89.8084192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": [
+        {
+          "name": "Pearlington",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hancock County",
+          "latitude": 30.2465843,
+          "longitude": -89.61116729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kiln",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hancock County",
+          "latitude": 30.4090829,
+          "longitude": -89.43505189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waveland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hancock County",
+          "latitude": 30.2868632,
+          "longitude": -89.37615869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Diamondhead",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hancock County",
+          "latitude": 30.3946392,
+          "longitude": -89.3639378,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harrison County",
+      "cities": [
+        {
+          "name": "D\\",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.4263092,
+          "longitude": -88.89086379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saucier",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.6357481,
+          "longitude": -89.13504490000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyman",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.5033915,
+          "longitude": -89.13687619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson Point",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.308808,
+          "longitude": -89.28698879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "DeLisle",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.3793624,
+          "longitude": -89.26448909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Beach",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.35047509999999,
+          "longitude": -89.15281759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Biloxi",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.3954269,
+          "longitude": -88.88704589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pass Christian",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.3157527,
+          "longitude": -89.2475429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gulfport",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Harrison County",
+          "latitude": 30.3674198,
+          "longitude": -89.0928155,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hinds County",
+      "cities": [
+        {
+          "name": "Jackson",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.2981392,
+          "longitude": -90.18065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Learned",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.196817,
+          "longitude": -90.5473202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raymond",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.2593146,
+          "longitude": -90.4225951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edwards",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.3301465,
+          "longitude": -90.6056548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Byram",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.1793163,
+          "longitude": -90.2453671,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.3493122,
+          "longitude": -90.46009579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terry",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.0962632,
+          "longitude": -90.2942566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Utica",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Hinds County",
+          "latitude": 32.1095975,
+          "longitude": -90.62343229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Holmes County",
+      "cities": [
+        {
+          "name": "Goodman",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 32.9701306,
+          "longitude": -89.9123058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lexington",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 33.1131833,
+          "longitude": -90.0531408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pickens",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 32.8837433,
+          "longitude": -89.9714731,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tchula",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 33.18290340000001,
+          "longitude": -90.2228629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 33.1970719,
+          "longitude": -89.77730509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cruger",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Holmes County",
+          "latitude": 33.3209564,
+          "longitude": -90.2323062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Humphreys County",
+      "cities": [
+        {
+          "name": "Silver City",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Humphreys County",
+          "latitude": 33.0965153,
+          "longitude": -90.4967573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Isola",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Humphreys County",
+          "latitude": 33.2620664,
+          "longitude": -90.5923138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belzoni",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Humphreys County",
+          "latitude": 33.1842911,
+          "longitude": -90.4892562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Louise",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Humphreys County",
+          "latitude": 32.9823505,
+          "longitude": -90.5887048,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Issaquena County",
+      "cities": [
+        {
+          "name": "Valley Park",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Issaquena County",
+          "latitude": 32.6334691,
+          "longitude": -90.8667691,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grace",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Issaquena County",
+          "latitude": 32.9995694,
+          "longitude": -90.95649189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayersville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Issaquena County",
+          "latitude": 32.9020717,
+          "longitude": -91.0512171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Itawamba County",
+      "cities": [
+        {
+          "name": "Kirkville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Itawamba County",
+          "latitude": 34.4514894,
+          "longitude": -88.4897716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mantachie",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Itawamba County",
+          "latitude": 34.3242707,
+          "longitude": -88.4911595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tremont",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Itawamba County",
+          "latitude": 34.2348253,
+          "longitude": -88.2586546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fulton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Itawamba County",
+          "latitude": 34.2739933,
+          "longitude": -88.40921329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Wade",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.6422953,
+          "longitude": -88.5665678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vancleave",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.5404745,
+          "longitude": -88.6875237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Martin",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4430261,
+          "longitude": -88.86647669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Latimer",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4993283,
+          "longitude": -88.86382359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurley",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.6610264,
+          "longitude": -88.4941838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helena",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4946428,
+          "longitude": -88.4958486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gulf Hills",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4389145,
+          "longitude": -88.8143715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gulf Park Estates",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.3918658,
+          "longitude": -88.76113649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escatawpa",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.482056,
+          "longitude": -88.5503639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Point",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.58754009999999,
+          "longitude": -88.48215330000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pascagoula",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.3657552,
+          "longitude": -88.5561272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gautier",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.385755,
+          "longitude": -88.6116854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moss Point",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4115881,
+          "longitude": -88.53446009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ocean Springs",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jackson County",
+          "latitude": 30.4113097,
+          "longitude": -88.8278057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jasper County",
+      "cities": [
+        {
+          "name": "Montrose",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jasper County",
+          "latitude": 32.1243161,
+          "longitude": -89.2356169,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Louin",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jasper County",
+          "latitude": 32.0712619,
+          "longitude": -89.26089499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heidelberg",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jasper County",
+          "latitude": 31.8868224,
+          "longitude": -88.98394189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": []
+    },
+    {
+      "name": "Jefferson Davis County",
+      "cities": [
+        {
+          "name": "Prentiss",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jefferson Davis County",
+          "latitude": 31.5985012,
+          "longitude": -89.8670229,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bassfield",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jefferson Davis County",
+          "latitude": 31.4965591,
+          "longitude": -89.7395195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jones County",
+      "cities": [
+        {
+          "name": "Ovett",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.4854475,
+          "longitude": -89.0328346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moselle",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.5023903,
+          "longitude": -89.2789495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eastabuchie",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.4354483,
+          "longitude": -89.28339419999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandersville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.7865478,
+          "longitude": -89.0322762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ellisville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.6040538,
+          "longitude": -89.1956142,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Soso",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Jones County",
+          "latitude": 31.7568268,
+          "longitude": -89.2742269,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kemper County",
+      "cities": [
+        {
+          "name": "Porterville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Kemper County",
+          "latitude": 32.6870577,
+          "longitude": -88.47119070000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Kemper County",
+          "latitude": 32.6743017,
+          "longitude": -88.56448540000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "De Kalb",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Kemper County",
+          "latitude": 32.7676329,
+          "longitude": -88.6508784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scooba",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Kemper County",
+          "latitude": 32.8281868,
+          "longitude": -88.4764273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lafayette County",
+      "cities": [
+        {
+          "name": "University",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lafayette County",
+          "latitude": 34.3662492,
+          "longitude": -89.5379687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tula",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lafayette County",
+          "latitude": 34.2328859,
+          "longitude": -89.36229840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paris",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lafayette County",
+          "latitude": 34.1787205,
+          "longitude": -89.45980170000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abbeville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lafayette County",
+          "latitude": 34.5031591,
+          "longitude": -89.5031367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylor",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lafayette County",
+          "latitude": 34.2723303,
+          "longitude": -89.5886948,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lamar County",
+      "cities": [
+        {
+          "name": "West Hattiesburg",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lamar County",
+          "latitude": 31.3190633,
+          "longitude": -89.3750639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baxterville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lamar County",
+          "latitude": 31.083889,
+          "longitude": -89.590278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arnold Line",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lamar County",
+          "latitude": 31.3383632,
+          "longitude": -89.37721479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lumberton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lamar County",
+          "latitude": 31.0012942,
+          "longitude": -89.45228700000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Purvis",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lamar County",
+          "latitude": 31.1432351,
+          "longitude": -89.40978659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lauderdale County",
+      "cities": [
+        {
+          "name": "Toomsuba",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.4184448,
+          "longitude": -88.50698679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nellieburg",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.4068092,
+          "longitude": -88.7772698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meridian Station",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.5516455,
+          "longitude": -88.60934569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lauderdale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.4401578,
+          "longitude": -88.7108964,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collinsville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.4979183,
+          "longitude": -88.8458832,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lauderdale County",
+          "latitude": 32.4193175,
+          "longitude": -88.6517944,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence County",
+      "cities": [
+        {
+          "name": "New Hebron",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lawrence County",
+          "latitude": 31.7309975,
+          "longitude": -89.97869209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silver Creek",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lawrence County",
+          "latitude": 31.605168,
+          "longitude": -89.9984156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Leake County",
+      "cities": [
+        {
+          "name": "Standing Pine",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leake County",
+          "latitude": 32.6774036,
+          "longitude": -89.45058019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redwater",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leake County",
+          "latitude": 32.7907336,
+          "longitude": -89.55448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carthage",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leake County",
+          "latitude": 32.7326356,
+          "longitude": -89.5361825,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lena",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leake County",
+          "latitude": 32.5960038,
+          "longitude": -89.5945502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walnut Grove",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leake County",
+          "latitude": 32.5904165,
+          "longitude": -89.4584016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lee County",
+      "cities": [
+        {
+          "name": "Mooreville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.2667021,
+          "longitude": -88.5754515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verona",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.1942746,
+          "longitude": -88.7197745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shannon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.1162203,
+          "longitude": -88.7117181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plantersville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.2134407,
+          "longitude": -88.66449569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guntown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.4402197,
+          "longitude": -88.65789679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Saltillo",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lee County",
+          "latitude": 34.3764923,
+          "longitude": -88.68172009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Leflore County",
+      "cities": [
+        {
+          "name": "Mississippi Valley State University",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.5191296,
+          "longitude": -90.34424489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenwood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.5162315,
+          "longitude": -90.1795281,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Itta Bena",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.49512,
+          "longitude": -90.3198067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morgan City",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.38067720000001,
+          "longitude": -90.35036319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Schlater",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.6406729,
+          "longitude": -90.34814220000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sidon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Leflore County",
+          "latitude": 33.4080413,
+          "longitude": -90.20864069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": []
+    },
+    {
+      "name": "Lowndes County",
+      "cities": [
+        {
+          "name": "New Hope",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lowndes County",
+          "latitude": 33.446728,
+          "longitude": -88.32636029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbus AFB",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lowndes County",
+          "latitude": 33.6274603,
+          "longitude": -88.4476565,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Artesia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lowndes County",
+          "latitude": 33.4153994,
+          "longitude": -88.64393659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caledonia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lowndes County",
+          "latitude": 33.6828918,
+          "longitude": -88.3244811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crawford",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Lowndes County",
+          "latitude": 33.301512,
+          "longitude": -88.6147687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Madison County",
+      "cities": [
+        {
+          "name": "Sharon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.65847,
+          "longitude": -89.9361935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kearney Park",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.58889,
+          "longitude": -90.31528,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flora",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.5431957,
+          "longitude": -90.30925739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.4284761,
+          "longitude": -90.1323087,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.6126381,
+          "longitude": -90.0367512,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gluckstadt",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Madison County",
+          "latitude": 32.5165294,
+          "longitude": -90.10091899999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Morgantown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marion County",
+          "latitude": 31.3123978,
+          "longitude": -89.9159153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kokomo",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marion County",
+          "latitude": 31.1974002,
+          "longitude": -90.0028627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Foxworth",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marion County",
+          "latitude": 31.23443709999999,
+          "longitude": -89.871724,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marshall County",
+      "cities": [
+        {
+          "name": "Waterford",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.6475997,
+          "longitude": -89.4573013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Victoria",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.84620700000001,
+          "longitude": -89.6181378,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Banks",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.8281516,
+          "longitude": -89.5645253,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Pleasant",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.95592610000001,
+          "longitude": -89.5159118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethlehem",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.5784341,
+          "longitude": -89.3275754,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Potts Camp",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.6462101,
+          "longitude": -89.30535230000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Byhalia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Marshall County",
+          "latitude": 34.8723179,
+          "longitude": -89.6906396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "New Hamilton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 33.7362589,
+          "longitude": -88.446243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamilton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 33.740225,
+          "longitude": -88.41168809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hatley",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 33.9767761,
+          "longitude": -88.4205975,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 34.0701074,
+          "longitude": -88.391154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gattman",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 33.8853865,
+          "longitude": -88.2353142,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aberdeen",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 33.8251139,
+          "longitude": -88.5436553,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nettleton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Monroe County",
+          "latitude": 34.0889981,
+          "longitude": -88.6222708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Montgomery County",
+      "cities": [
+        {
+          "name": "Stewart",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Montgomery County",
+          "latitude": 33.4506793,
+          "longitude": -89.43618339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kilmichael",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Montgomery County",
+          "latitude": 33.4434573,
+          "longitude": -89.57174309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Duck Hill",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Montgomery County",
+          "latitude": 33.6331751,
+          "longitude": -89.7111937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Neshoba County",
+      "cities": [
+        {
+          "name": "Tucker",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Neshoba County",
+          "latitude": 32.7088472,
+          "longitude": -89.0418249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pearl River",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Neshoba County",
+          "latitude": 32.783467,
+          "longitude": -89.22784229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bogue Chitto",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Neshoba County",
+          "latitude": 32.8433575,
+          "longitude": -88.92701819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Newton County",
+      "cities": [
+        {
+          "name": "Conehatta",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Newton County",
+          "latitude": 32.4512523,
+          "longitude": -89.2853407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Decatur",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Newton County",
+          "latitude": 32.4390303,
+          "longitude": -89.1083912,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hickory",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Newton County",
+          "latitude": 32.3176441,
+          "longitude": -89.02561130000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Union",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Newton County",
+          "latitude": 32.5715272,
+          "longitude": -89.1214478,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chunky",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Newton County",
+          "latitude": 32.3256996,
+          "longitude": -88.9281082,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Noxubee County",
+      "cities": [
+        {
+          "name": "Shuqualak",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Noxubee County",
+          "latitude": 32.9784616,
+          "longitude": -88.57004289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brooksville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Noxubee County",
+          "latitude": 33.2345685,
+          "longitude": -88.5822673,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Macon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Noxubee County",
+          "latitude": 33.1054039,
+          "longitude": -88.5608767,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oktibbeha County",
+      "cities": [
+        {
+          "name": "Mississippi State",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Oktibbeha County",
+          "latitude": 33.4555279,
+          "longitude": -88.7903868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Longview",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Oktibbeha County",
+          "latitude": 33.4040119,
+          "longitude": -88.92116879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maben",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Oktibbeha County",
+          "latitude": 33.5553988,
+          "longitude": -89.08478490000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sturgis",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Oktibbeha County",
+          "latitude": 33.3445684,
+          "longitude": -89.0453397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Starkville",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Oktibbeha County",
+          "latitude": 33.4503998,
+          "longitude": -88.81838719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Panola County",
+      "cities": [
+        {
+          "name": "Sardis",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Panola County",
+          "latitude": 34.4370511,
+          "longitude": -89.9159227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Courtland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Panola County",
+          "latitude": 34.2409437,
+          "longitude": -89.9428679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Batesville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Panola County",
+          "latitude": 34.3114982,
+          "longitude": -89.9442567,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Como",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Panola County",
+          "latitude": 34.5104169,
+          "longitude": -89.9402834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pope",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Panola County",
+          "latitude": 34.2151108,
+          "longitude": -89.94786789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pearl River County",
+      "cities": [
+        {
+          "name": "Nicholson",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pearl River County",
+          "latitude": 30.4771364,
+          "longitude": -89.6936748,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hide-A-Way Lake",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pearl River County",
+          "latitude": 30.56503339999999,
+          "longitude": -89.640328,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Picayune",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pearl River County",
+          "latitude": 30.5292629,
+          "longitude": -89.6855013,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poplarville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pearl River County",
+          "latitude": 30.8401863,
+          "longitude": -89.53423149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Perry County",
+      "cities": [
+        {
+          "name": "Runnelstown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Perry County",
+          "latitude": 31.3757295,
+          "longitude": -89.1117235,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Augusta",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Perry County",
+          "latitude": 31.2034761,
+          "longitude": -89.0348818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaumont",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Perry County",
+          "latitude": 31.1691001,
+          "longitude": -88.9198861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pike County",
+      "cities": [
+        {
+          "name": "Fernwood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pike County",
+          "latitude": 31.1854546,
+          "longitude": -90.4489861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osyka",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pike County",
+          "latitude": 31.0068453,
+          "longitude": -90.4723178,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Magnolia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pike County",
+          "latitude": 31.1432328,
+          "longitude": -90.4587081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summit",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pike County",
+          "latitude": 31.2837867,
+          "longitude": -90.4684315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pontotoc County",
+      "cities": [
+        {
+          "name": "Randolph",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.1814965,
+          "longitude": -89.168402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pontotoc",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.2478831,
+          "longitude": -88.998673,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toccopola",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.2564961,
+          "longitude": -89.23562729999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ecru",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.3531594,
+          "longitude": -89.0231192,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sherman",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.3590625,
+          "longitude": -88.83960549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thaxton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.3075188,
+          "longitude": -89.17969060000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Algoma",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Pontotoc County",
+          "latitude": 34.1762183,
+          "longitude": -89.03302459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Prentiss County",
+      "cities": [
+        {
+          "name": "Wheeler",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.5803932,
+          "longitude": -88.6076484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Site",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.5592637,
+          "longitude": -88.40949230000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Booneville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.6581596,
+          "longitude": -88.5667036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jumpertown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.7109278,
+          "longitude": -88.66394319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marietta",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.5020432,
+          "longitude": -88.4689382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baldwyn",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Prentiss County",
+          "latitude": 34.509544,
+          "longitude": -88.63533129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Quitman County",
+      "cities": [
+        {
+          "name": "Darling",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.3589978,
+          "longitude": -90.2742605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walnut",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.14889,
+          "longitude": -90.39889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crenshaw",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.5026059,
+          "longitude": -90.1987043,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lambert",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.2017783,
+          "longitude": -90.2834261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sledge",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.4320519,
+          "longitude": -90.2209265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crowder",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.1734453,
+          "longitude": -90.1375911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falcon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Quitman County",
+          "latitude": 34.393164,
+          "longitude": -90.25648249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rankin County",
+      "cities": [
+        {
+          "name": "Robinhood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.204437,
+          "longitude": -89.96784389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cleary",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.16528,
+          "longitude": -90.18056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.1544162,
+          "longitude": -90.1239399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Puckett",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.0814661,
+          "longitude": -89.7759998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.2392201,
+          "longitude": -90.1653535,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flowood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.3380521,
+          "longitude": -90.0927549,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandon",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.2788733,
+          "longitude": -90.001384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pelahatchie",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.3125394,
+          "longitude": -89.8047306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pearl",
+          "state": "Mississippi",
+          "stateCode": "MS",
+          "county": "Rankin County",
+          "latitude": 32.2662515,
+          "longitude": -90.13426079999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Scott County",
+      "cities": [
+        {
+          "name": "Hillsboro",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Scott County",
+          "latitude": 32.4593085,
+          "longitude": -89.5114581,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harperville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Scott County",
+          "latitude": 32.4943075,
+          "longitude": -89.489513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Scott County",
+          "latitude": 32.3431999,
+          "longitude": -89.3286753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Scott County",
+          "latitude": 32.3537557,
+          "longitude": -89.65451709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sebastopol",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Scott County",
+          "latitude": 32.5729163,
+          "longitude": -89.33506489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sharkey County",
+      "cities": [
+        {
+          "name": "Panther Burn",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 33.06641,
+          "longitude": -90.8683655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nitta Yuma",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 33.024292,
+          "longitude": -90.84926659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delta City",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 33.0739997,
+          "longitude": -90.795127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cary",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 32.8059635,
+          "longitude": -90.9267694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anguilla",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 32.97401550000001,
+          "longitude": -90.82454369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolling Fork",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sharkey County",
+          "latitude": 32.9065168,
+          "longitude": -90.87815669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Simpson County",
+      "cities": [
+        {
+          "name": "Magee",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.8737712,
+          "longitude": -89.7336852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mendenhall",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 31.9618236,
+          "longitude": -89.87007799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Braxton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Simpson County",
+          "latitude": 32.0251542,
+          "longitude": -89.9703588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Smith County",
+      "cities": [
+        {
+          "name": "Sylvarena",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Smith County",
+          "latitude": 32.0109872,
+          "longitude": -89.38062049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mize",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Smith County",
+          "latitude": 31.8684927,
+          "longitude": -89.5559023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raleigh",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Smith County",
+          "latitude": 32.033488,
+          "longitude": -89.52229109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Polkville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Smith County",
+          "latitude": 32.1937606,
+          "longitude": -89.69257309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stone County",
+      "cities": [
+        {
+          "name": "Bond",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Stone County",
+          "latitude": 30.894167,
+          "longitude": -89.168611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sunflower County",
+      "cities": [
+        {
+          "name": "Ruleville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.7259478,
+          "longitude": -90.55148059999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Doddsville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.65761579999999,
+          "longitude": -90.52481209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Indianola",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.4509513,
+          "longitude": -90.6550917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inverness",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.35373149999999,
+          "longitude": -90.5925907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moorhead",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.4501195,
+          "longitude": -90.5056427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunflower",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Sunflower County",
+          "latitude": 33.5428954,
+          "longitude": -90.5370327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tallahatchie County",
+      "cities": [
+        {
+          "name": "Charleston",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tallahatchie County",
+          "latitude": 34.00678,
+          "longitude": -90.05675629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sumner",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tallahatchie County",
+          "latitude": 33.9709464,
+          "longitude": -90.3687028,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendora",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tallahatchie County",
+          "latitude": 33.8292817,
+          "longitude": -90.2931437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tutwiler",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tallahatchie County",
+          "latitude": 34.0148345,
+          "longitude": -90.43176020000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Webb",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tallahatchie County",
+          "latitude": 33.9473356,
+          "longitude": -90.34425759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tate County",
+      "cities": [
+        {
+          "name": "Strayhorn",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tate County",
+          "latitude": 34.6123257,
+          "longitude": -90.1439819,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Independence",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tate County",
+          "latitude": 34.70510040000001,
+          "longitude": -89.8089763,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arkabutla",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tate County",
+          "latitude": 34.6989904,
+          "longitude": -90.1223152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Senatobia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tate County",
+          "latitude": 34.6176032,
+          "longitude": -89.96870109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coldwater",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tate County",
+          "latitude": 34.6917684,
+          "longitude": -89.9773124,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tippah County",
+      "cities": [
+        {
+          "name": "Chalybeate",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tippah County",
+          "latitude": 34.9303685,
+          "longitude": -88.86811399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dumas",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tippah County",
+          "latitude": 34.6403752,
+          "longitude": -88.8439482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ripley",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tippah County",
+          "latitude": 34.7298181,
+          "longitude": -88.9506181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falkner",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tippah County",
+          "latitude": 34.8420376,
+          "longitude": -88.93422799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Mountain",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tippah County",
+          "latitude": 34.670931,
+          "longitude": -89.0264538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tishomingo County",
+      "cities": [
+        {
+          "name": "Dennis",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.5587071,
+          "longitude": -88.2261547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.48843069999999,
+          "longitude": -88.18865389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iuka",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.8117565,
+          "longitude": -88.19004149999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paden",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.6598159,
+          "longitude": -88.2658776,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burnsville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.8382821,
+          "longitude": -88.3205213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belmont",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.5098192,
+          "longitude": -88.20921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tishomingo",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tishomingo County",
+          "latitude": 34.6367608,
+          "longitude": -88.23171029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tunica County",
+      "cities": [
+        {
+          "name": "White Oak",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.6458299,
+          "longitude": -90.35417000000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tunica Resorts",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.8173207,
+          "longitude": -90.31620869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Tunica",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.7009341,
+          "longitude": -90.3781547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dundee",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.5246012,
+          "longitude": -90.45587619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Austin",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.6406573,
+          "longitude": -90.44926749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tunica",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Tunica County",
+          "latitude": 34.6845455,
+          "longitude": -90.3828769,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Myrtle",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Union County",
+          "latitude": 34.5584338,
+          "longitude": -89.1192349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blue Springs",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Union County",
+          "latitude": 34.4017697,
+          "longitude": -88.8728369,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walthall County",
+      "cities": [
+        {
+          "name": "Tylertown",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Walthall County",
+          "latitude": 31.1159284,
+          "longitude": -90.1415576,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Warren County",
+      "cities": [
+        {
+          "name": "Redwood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Warren County",
+          "latitude": 32.4776415,
+          "longitude": -90.8037138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Bend",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Warren County",
+          "latitude": 32.520278,
+          "longitude": -91.0066669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bovina",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Warren County",
+          "latitude": 32.3520904,
+          "longitude": -90.73482399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beechwood",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Warren County",
+          "latitude": 32.3312529,
+          "longitude": -90.822479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "Winterville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.501781,
+          "longitude": -91.05844019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stoneville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.4240055,
+          "longitude": -90.9151014,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Allan",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.0240129,
+          "longitude": -91.0301052,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elizabeth",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.4268404,
+          "longitude": -90.87943109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arcola",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.2698419,
+          "longitude": -90.8798226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollandale",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.1690109,
+          "longitude": -90.8539887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.4053949,
+          "longitude": -90.89760070000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Metcalfe",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Washington County",
+          "latitude": 33.4540044,
+          "longitude": -91.0073273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Clara",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Wayne County",
+          "latitude": 31.580441,
+          "longitude": -88.6964273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buckatunna",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Wayne County",
+          "latitude": 31.5409154,
+          "longitude": -88.5274468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "State Line",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Wayne County",
+          "latitude": 31.4362794,
+          "longitude": -88.4744659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Walthall",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Webster County",
+          "latitude": 33.6073419,
+          "longitude": -89.27729099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mathiston",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Webster County",
+          "latitude": 33.5401213,
+          "longitude": -89.12423059999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mantee",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Webster County",
+          "latitude": 33.731506,
+          "longitude": -89.0553396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wilkinson County",
+      "cities": [
+        {
+          "name": "Woodville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Wilkinson County",
+          "latitude": 31.104619,
+          "longitude": -91.29955509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Winston County",
+      "cities": [
+        {
+          "name": "Noxapater",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Winston County",
+          "latitude": 32.9923505,
+          "longitude": -89.0661736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yalobusha County",
+      "cities": [
+        {
+          "name": "Oakland",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yalobusha County",
+          "latitude": 34.0556679,
+          "longitude": -89.91647809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Water Valley",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yalobusha County",
+          "latitude": 34.1514989,
+          "longitude": -89.63147359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coffeeville",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yalobusha County",
+          "latitude": 33.9767792,
+          "longitude": -89.675641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tillatoba",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yalobusha County",
+          "latitude": 33.98483520000001,
+          "longitude": -89.89675539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yazoo County",
+      "cities": [
+        {
+          "name": "Benton",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yazoo County",
+          "latitude": 32.8250914,
+          "longitude": -90.266699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bentonia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yazoo County",
+          "latitude": 32.6409711,
+          "longitude": -90.3648139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Satartia",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yazoo County",
+          "latitude": 32.6709701,
+          "longitude": -90.5442623,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yazoo City",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yazoo County",
+          "latitude": 32.8551326,
+          "longitude": -90.4056468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eden",
+          "state": "MS",
+          "stateCode": "MS",
+          "county": "Yazoo County",
+          "latitude": 32.9848517,
+          "longitude": -90.3234226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

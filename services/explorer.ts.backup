@@ -1,0 +1,741 @@
+/**
+ * Explorer Service
+ * Handles location tracking, geocoding, and explorer data management
+ */
+
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import { ALL_TEXAS_HIGHWAYS } from '../data/texas-highways-complete';
+import { ALL_CITIES_CENSUS } from '../data/us-cities-census';
+import type {
+    ExplorerCountry,
+    ExplorerCounty,
+    ExplorerData,
+    ExplorerHighway,
+    ExplorerState
+} from '../types/explorer';
+
+const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
+const EXPLORER_DATA_KEY = '@nomad_explorer_data';
+
+interface GeocodingResult {
+  country: string;
+  countryCode: string;
+  state?: string;
+  county?: string;
+  city?: string;
+  neighborhood?: string;
+  street?: string;
+  route?: string;
+}
+
+class ExplorerService {
+  private explorerData: ExplorerData | null = null;
+  private lastVisitTimestamps: Map<string, number> = new Map(); // Track last visit time per location
+  private readonly VISIT_DEBOUNCE_MS = 300000; // 5 minutes - only count as new visit if 5+ min since last
+
+  /**
+   * Initialize ALL Texas highways (pre-populated, not visited)
+   */
+  private initializeAllTexasHighways(): ExplorerHighway[] {
+    return ALL_TEXAS_HIGHWAYS.map(hw => ({
+      id: hw.id,
+      name: hw.name,
+      type: 'highway',
+      highwayType: hw.highwayType,
+      number: hw.number,
+      fullName: hw.fullName,
+      states: hw.states,
+      totalExits: hw.totalExits,
+      exits: [], // Exits will be populated as discovered
+      visited: false,
+      visitedExits: 0,
+      completionPercent: 0,
+      visitCount: 0,
+    }));
+  }
+
+  /**
+   * Initialize ALL Texas locations (pre-populated from census data)
+   */
+  private initializeAllTexasLocations(): ExplorerCountry[] {
+    // Create United States country
+    const unitedStates: ExplorerCountry = {
+      id: 'country-US',
+      name: 'United States',
+      type: 'country',
+      isoCode: 'US',
+      visited: false,
+      visitCount: 0,
+      states: [],
+      completionPercent: 0,
+    };
+
+    // Create Texas state with all counties and cities
+    const texasState: ExplorerState = {
+      id: 'state-US-TX',
+      name: 'Texas',
+      type: 'state',
+      countryId: unitedStates.id,
+      visited: false,
+      visitCount: 0,
+      counties: [],
+      highways: [], // Will be populated with ALL Texas highways by initialize()
+      completionPercent: 0,
+    };
+
+    // FIXED: Remove alphabetical grouping - create single county with all cities for proper GPS matching
+    // This allows reverse geocoding to find cities by name and coordinates
+    const texasCities = ALL_CITIES_CENSUS.filter(city => city.stateCode === 'TX');
+    console.log('[ExplorerService] Creating single county with', texasCities.length, 'Texas cities');
+
+    // Create a single "Texas Cities" county with all cities
+    const allCitiesCounty: ExplorerCounty = {
+      id: 'county-tx-all-cities',
+      name: 'Texas Cities',
+      type: 'county',
+      stateId: texasState.id,
+      visited: false,
+      visitCount: 0,
+      cities: texasCities.map((city, index) => ({
+        id: `city-${city.stateCode}-${city.name.replace(/\s+/g, '-').toLowerCase()}-${city.coordinates.latitude.toFixed(6)}-${city.coordinates.longitude.toFixed(6)}-${index}`,
+        name: city.name,
+        type: 'city',
+        countyId: 'county-tx-all-cities',
+        visited: false,
+        visitCount: 0,
+        coordinates: city.coordinates,
+        population: city.population,
+        streets: [],
+        landmarks: [],
+        completionPercent: 0,
+      })),
+      completionPercent: 0,
+    };
+
+    texasState.counties = [allCitiesCounty];
+    unitedStates.states = [texasState];
+
+    return [unitedStates];
+  }
+
+  /**
+   * Initialize explorer data from storage
+   */
+  async initialize(): Promise<void> {
+    try {
+      const stored = await AsyncStorage.getItem(EXPLORER_DATA_KEY);
+      console.log('[ExplorerService] Initializing... stored data:', stored ? 'EXISTS' : 'NONE');
+      
+      if (stored) {
+        this.explorerData = JSON.parse(stored);
+        console.log('[ExplorerService] Loaded data - countries:', this.explorerData.countries?.length || 0);
+        
+        // Migration: If countries are empty, initialize them
+        if (!this.explorerData.countries || this.explorerData.countries.length === 0) {
+          console.log('[ExplorerService] Countries empty, initializing...');
+          const countries = this.initializeAllTexasLocations();
+          const texasState = countries[0]?.states[0];
+          if (texasState) {
+            texasState.highways = this.initializeAllTexasHighways();
+            console.log('[ExplorerService] Added', texasState.highways.length, 'highways to Texas');
+          }
+          this.explorerData.countries = countries;
+        } else {
+          // Migration: If Texas state exists but has no highways, add them
+          const texasState = this.explorerData.countries
+            .find(c => c.isoCode === 'US')
+            ?.states.find(s => s.id === 'state-US-TX');
+          
+          if (texasState && (!texasState.highways || texasState.highways.length === 0)) {
+            texasState.highways = this.initializeAllTexasHighways();
+            console.log('[ExplorerService] Added', texasState.highways.length, 'highways to existing Texas state');
+          }
+        }
+        
+        await this.save();
+      } else {
+        // Initialize with ALL Texas data pre-populated
+        console.log('[ExplorerService] No stored data, creating fresh...');
+        const texasCities = ALL_CITIES_CENSUS.filter(city => city.stateCode === 'TX');
+        console.log('[ExplorerService] Found', texasCities.length, 'Texas cities');
+        
+        // Initialize with Texas highways nested under Texas state
+        const countries = this.initializeAllTexasLocations();
+        console.log('[ExplorerService] Created countries:', countries.length);
+        
+        const texasState = countries[0]?.states[0];
+        if (texasState) {
+          texasState.highways = this.initializeAllTexasHighways();
+          console.log('[ExplorerService] Added', texasState.highways.length, 'highways to Texas');
+          console.log('[ExplorerService] Texas has', texasState.counties.length, 'counties');
+          console.log('[ExplorerService] Texas counties have', texasState.counties[0]?.cities.length || 0, 'cities');
+        }
+
+        this.explorerData = {
+          countries,
+          landmarks: [], // Will be populated as discovered
+          lastUpdated: Date.now(),
+          totalLocations: texasCities.length + 118, // Cities + Highways
+          visitedLocations: 0,
+          globalCompletionPercent: 0,
+          filters: {
+            streets: { enabled: true, minSignificance: 'major' },
+            landmarks: {
+              enabled: true,
+              excludeChains: true,
+              minRating: 4.0,
+              categories: {
+                naturalFeatures: true,
+                historicSites: true,
+                governmentBuildings: true,
+                universities: true,
+                hospitals: true,
+                stadiums: true,
+                airports: true,
+                attractions: true,
+              },
+            },
+            display: {
+              visibilityMode: 'all' as const, // Show both discovered and undiscovered
+              showVisitCounts: true,
+              groupByCategory: true,
+              sortBy: 'name' as const,
+            },
+          },
+        };
+        await this.save();
+      }
+    } catch (error) {
+      console.error('Failed to initialize explorer data:', error);
+      throw error;
+    }
+  }
+
+  /**
+   * Save explorer data to storage
+   */
+  private async save(): Promise<void> {
+    if (!this.explorerData) return;
+
+    try {
+      this.explorerData.lastUpdated = Date.now();
+      await AsyncStorage.setItem(EXPLORER_DATA_KEY, JSON.stringify(this.explorerData));
+    } catch (error) {
+      console.error('Failed to save explorer data:', error);
+    }
+  }
+
+  /**
+   * Get all explorer data
+   */
+  getData(): ExplorerData | null {
+    return this.explorerData;
+  }
+
+  /**
+   * Reverse geocode coordinates to location hierarchy
+   */
+  async reverseGeocode(latitude: number, longitude: number): Promise<GeocodingResult | null> {
+    if (!GOOGLE_MAPS_API_KEY) {
+      console.warn('Google Maps API key not configured');
+      return null;
+    }
+
+    try {
+      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}&result_type=street_address|route|neighborhood|locality|administrative_area_level_2|administrative_area_level_1|country`;
+
+      const response = await fetch(url);
+      const data = await response.json();
+
+      if (data.status !== 'OK' || !data.results || data.results.length === 0) {
+        return null;
+      }
+
+      // Parse address components
+      const result = data.results[0];
+      const components = result.address_components;
+
+      const geocodingResult: GeocodingResult = {
+        country: '',
+        countryCode: '',
+      };
+
+      for (const component of components) {
+        const types = component.types;
+
+        if (types.includes('country')) {
+          geocodingResult.country = component.long_name;
+          geocodingResult.countryCode = component.short_name;
+        } else if (types.includes('administrative_area_level_1')) {
+          geocodingResult.state = component.long_name;
+        } else if (types.includes('administrative_area_level_2')) {
+          geocodingResult.county = component.long_name;
+        } else if (types.includes('locality')) {
+          geocodingResult.city = component.long_name;
+        } else if (types.includes('neighborhood') || types.includes('sublocality')) {
+          geocodingResult.neighborhood = component.long_name;
+        } else if (types.includes('route')) {
+          geocodingResult.street = component.long_name;
+        }
+      }
+
+      return geocodingResult;
+    } catch (error) {
+      console.error('Geocoding error:', error);
+      return null;
+    }
+  }
+
+  /**
+   * Record a location visit
+   */
+  async recordVisit(latitude: number, longitude: number): Promise<boolean> {
+    if (!this.explorerData) {
+      await this.initialize();
+    }
+
+    try {
+      // Reverse geocode the location
+      const location = await this.reverseGeocode(latitude, longitude);
+      if (!location || !location.country) {
+        return false;
+      }
+
+      // Update explorer data hierarchy
+      this.updateHierarchy(location);
+
+      // Check and record highway visit
+      const highwayId = await this.detectHighway(latitude, longitude);
+      if (highwayId) {
+        await this.recordHighwayVisit(highwayId);
+      }
+
+      // Save changes
+      await this.save();
+
+      return true;
+    } catch (error) {
+      console.error('Failed to record visit:', error);
+      return false;
+    }
+  }
+
+  /**
+   * Update explorer hierarchy with new visit
+   */
+  private updateHierarchy(location: GeocodingResult): void {
+    if (!this.explorerData) return;
+
+    const timestamp = Date.now();
+
+    // Find or create country
+    let country = this.explorerData.countries.find(
+      (c) => c.isoCode === location.countryCode
+    );
+
+    if (!country) {
+      country = {
+        id: `country-${location.countryCode}`,
+        name: location.country,
+        type: 'country',
+        isoCode: location.countryCode,
+        visited: true,
+        firstVisited: timestamp,
+        lastVisited: timestamp,
+        visitCount: 1,
+        states: [],
+        completionPercent: 0,
+      };
+      this.explorerData.countries.push(country);
+    } else {
+      country.visited = true;
+      country.lastVisited = timestamp;
+      country.visitCount++;
+    }
+
+    // Handle state if available
+    if (location.state) {
+      let state = country.states.find((s) => s.name === location.state);
+
+      if (!state) {
+        state = {
+          id: `state-${location.countryCode}-${location.state.replace(/\s+/g, '-')}`,
+          name: location.state,
+          type: 'state',
+          countryId: country.id,
+          visited: true,
+          firstVisited: timestamp,
+          lastVisited: timestamp,
+          visitCount: 1,
+          counties: [],
+          completionPercent: 0,
+        };
+        country.states.push(state);
+      } else {
+        state.visited = true;
+        state.lastVisited = timestamp;
+        state.visitCount++;
+      }
+
+      // Handle county if available
+      if (location.county) {
+        let county = state.counties.find((c) => c.name === location.county);
+
+        if (!county) {
+          county = {
+            id: `county-${state.id}-${location.county.replace(/\s+/g, '-')}`,
+            name: location.county,
+            type: 'county',
+            stateId: state.id,
+            visited: true,
+            firstVisited: timestamp,
+            lastVisited: timestamp,
+            visitCount: 1,
+            cities: [],
+            completionPercent: 0,
+          };
+          state.counties.push(county);
+        } else {
+          county.visited = true;
+          county.lastVisited = timestamp;
+          county.visitCount++;
+        }
+
+        // Handle city if available
+        if (location.city) {
+          let city = county.cities.find((c) => c.name === location.city);
+
+          if (!city) {
+            city = {
+              id: `city-${county.id}-${location.city.replace(/\s+/g, '-')}`,
+              name: location.city,
+              type: 'city',
+              countyId: county.id,
+              visited: true,
+              firstVisited: timestamp,
+              lastVisited: timestamp,
+              visitCount: 1,
+              streets: [],
+              landmarks: [],
+              completionPercent: 0,
+            };
+            county.cities.push(city);
+          } else {
+            city.visited = true;
+            city.lastVisited = timestamp;
+            city.visitCount++;
+          }
+
+          // Handle street if available
+          if (location.street) {
+            let street = city.streets.find((s) => s.name === location.street);
+
+            if (!street) {
+              street = {
+                id: `street-${city.id}-${location.street.replace(/\s+/g, '-')}`,
+                name: location.street,
+                type: 'street',
+                cityId: city.id,
+                visited: true,
+                firstVisited: timestamp,
+                lastVisited: timestamp,
+                visitCount: 1,
+                significance: 'Auto-detected',
+              };
+              city.streets.push(street);
+              this.lastVisitTimestamps.set(street.id, timestamp);
+            } else {
+              street.visited = true;
+              street.lastVisited = timestamp;
+              
+              // Only increment visit count if it's been 5+ minutes since last visit
+              const lastVisit = this.lastVisitTimestamps.get(street.id) || 0;
+              if (timestamp - lastVisit >= this.VISIT_DEBOUNCE_MS) {
+                street.visitCount++;
+                this.lastVisitTimestamps.set(street.id, timestamp);
+              }
+            }
+          }
+        }
+      }
+    }
+
+    // Recalculate statistics
+    this.recalculateStats();
+  }
+
+  /**
+   * Recalculate completion statistics
+   */
+  private recalculateStats(): void {
+    if (!this.explorerData) return;
+
+    let totalLocations = 0;
+    let visitedLocations = 0;
+
+    for (const country of this.explorerData.countries) {
+      totalLocations++;
+      if (country.visited) visitedLocations++;
+
+      for (const state of country.states) {
+        totalLocations++;
+        if (state.visited) visitedLocations++;
+
+        for (const county of state.counties) {
+          totalLocations++;
+          if (county.visited) visitedLocations++;
+
+          for (const city of county.cities) {
+            totalLocations++;
+            if (city.visited) visitedLocations++;
+
+            for (const street of city.streets) {
+              totalLocations++;
+              if (street.visited) visitedLocations++;
+            }
+          }
+        }
+      }
+    }
+
+    this.explorerData.totalLocations = totalLocations;
+    this.explorerData.visitedLocations = visitedLocations;
+    this.explorerData.globalCompletionPercent =
+      totalLocations > 0 ? Math.round((visitedLocations / totalLocations) * 100) : 0;
+  }
+
+  /**
+   * Clear all explorer data
+   */
+  async clearAll(): Promise<void> {
+    this.explorerData = {
+      countries: [],
+      lastUpdated: Date.now(),
+      totalLocations: 0,
+      visitedLocations: 0,
+      globalCompletionPercent: 0,
+    };
+    await this.save();
+  }
+
+  /**
+   * Get statistics for display
+   */
+  getStats(): {
+    totalLocations: number;
+    visitedLocations: number;
+    completionPercent: number;
+    countriesVisited: number;
+    statesVisited: number;
+    citiesVisited: number;
+  } {
+    if (!this.explorerData) {
+      return {
+        totalLocations: 0,
+        visitedLocations: 0,
+        completionPercent: 0,
+        countriesVisited: 0,
+        statesVisited: 0,
+        citiesVisited: 0,
+      };
+    }
+
+    let countriesVisited = 0;
+    let statesVisited = 0;
+    let citiesVisited = 0;
+
+    for (const country of this.explorerData.countries) {
+      if (country.visited) countriesVisited++;
+
+      for (const state of country.states) {
+        if (state.visited) statesVisited++;
+
+        for (const county of state.counties) {
+          for (const city of county.cities) {
+            if (city.visited) citiesVisited++;
+          }
+        }
+      }
+    }
+
+    return {
+      totalLocations: this.explorerData.totalLocations,
+      visitedLocations: this.explorerData.visitedLocations,
+      completionPercent: this.explorerData.globalCompletionPercent,
+      countriesVisited,
+      statesVisited,
+      citiesVisited,
+    };
+  }
+
+  /**
+   * Check if current location is on a highway
+   * Returns highway ID if on highway, null otherwise
+   */
+  async detectHighway(latitude: number, longitude: number): Promise<string | null> {
+    const geocodingResult = await this.reverseGeocode(latitude, longitude);
+    if (!geocodingResult || !geocodingResult.route) return null;
+
+    const route = geocodingResult.route.toUpperCase();
+    
+    // Check for interstate
+    if (route.includes('I-') || route.includes('INTERSTATE')) {
+      const match = route.match(/(?:I-|INTERSTATE\s+)(\d+)/);
+      if (match) return `interstate-${match[1]}`;
+    }
+    
+    // Check for US highway
+    if (route.includes('US') || route.includes('HIGHWAY')) {
+      const match = route.match(/(?:US|HIGHWAY)\s+(\d+)/);
+      if (match) return `us-${match[1]}`;
+    }
+    
+    // Check for TX highways
+    if (route.includes('TX') || route.includes('SH')) {
+      const match = route.match(/(?:TX|SH)\s+(\d+)/);
+      if (match) return `tx-${match[1]}`;
+    }
+    
+    // Check for FM roads
+    if (route.includes('FM') || route.includes('FARM')) {
+      const match = route.match(/(?:FM|FARM)\s+(\d+)/);
+      if (match) return `fm-${match[1]}`;
+    }
+    
+    return null;
+  }
+
+  /**
+   * Record highway visit
+   */
+  async recordHighwayVisit(highwayId: string): Promise<void> {
+    if (!this.explorerData) await this.initialize();
+    if (!this.explorerData) return;
+
+    // Find the Texas state (all our highways are under Texas for now)
+    const texasState = this.explorerData.countries
+      .find(c => c.isoCode === 'US')
+      ?.states.find(s => s.id === 'state-us-tx');
+    
+    if (!texasState) return;
+
+    // Initialize highways array if not exists
+    if (!texasState.highways) {
+      texasState.highways = [];
+    }
+
+    // Find or create highway
+    let highway = texasState.highways.find(h => h.id === highwayId);
+    
+    if (!highway) {
+      // Import highway data
+      const { getHighwayById } = await import('../data/us-highways');
+      const highwayData = getHighwayById(highwayId);
+      
+      if (!highwayData) return;
+
+      highway = {
+        ...highwayData,
+        visited: false,
+        visitCount: 0,
+        exits: [],
+        visitedExits: 0,
+        completionPercent: 0,
+      };
+      
+      texasState.highways.push(highway);
+    }
+
+    // Update visit data
+    const now = Date.now();
+    if (!highway.visited) {
+      highway.visited = true;
+      highway.firstVisited = now;
+      this.explorerData.visitedLocations++;
+    }
+    highway.lastVisited = now;
+    highway.visitCount++;
+
+    await this.save();
+  }
+
+  /**
+   * Get all highways (from all states)
+   */
+  getHighways() {
+    if (!this.explorerData) return [];
+    
+    const allHighways: ExplorerHighway[] = [];
+    for (const country of this.explorerData.countries) {
+      for (const state of country.states) {
+        if (state.highways) {
+          allHighways.push(...state.highways);
+        }
+      }
+    }
+    return allHighways;
+  }
+
+  /**
+   * Get highway progress
+   */
+  getHighwayProgress(highwayId: string) {
+    const allHighways = this.getHighways();
+    const highway = allHighways.find(h => h.id === highwayId);
+    if (!highway) return null;
+
+    return {
+      name: highway.fullName,
+      visited: highway.visited,
+      totalExits: highway.totalExits,
+      visitedExits: highway.visitedExits,
+      completionPercent: highway.completionPercent,
+      visitCount: highway.visitCount,
+    };
+  }
+
+  /**
+   * Update filter settings
+   */
+  async updateFilters(newFilters: Partial<ExplorerData['filters']>): Promise<void> {
+    if (!this.explorerData) {
+      await this.initialize();
+    }
+
+    if (!this.explorerData) return;
+
+    // Deep merge filters
+    this.explorerData.filters = {
+      streets: {
+        ...this.explorerData.filters?.streets,
+        ...newFilters.streets,
+      },
+      landmarks: {
+        ...this.explorerData.filters?.landmarks,
+        ...newFilters.landmarks,
+        categories: {
+          ...this.explorerData.filters?.landmarks?.categories,
+          ...newFilters.landmarks?.categories,
+        },
+      },
+      display: {
+        ...this.explorerData.filters?.display,
+        ...newFilters.display,
+      },
+    };
+
+    await this.save();
+  }
+
+  /**
+   * Get current filters
+   */
+  getFilters() {
+    return this.explorerData?.filters;
+  }
+}
+
+// Export singleton instance
+export const explorerService = new ExplorerService();
+export default explorerService;
+

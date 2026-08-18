@@ -1,0 +1,448 @@
+{
+  "name": "Georgia",
+  "code": "GA",
+  "counties": [
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Detroit",
+          "state": "Michigan",
+          "stateCode": "MI",
+          "county": "Wayne County",
+          "latitude": 42.32971819999999,
+          "longitude": -83.0424533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goldsboro",
+          "state": "North Carolina",
+          "stateCode": "NC",
+          "county": "Wayne County",
+          "latitude": 35.3839349,
+          "longitude": -77.9949142,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Odum",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wayne County",
+          "latitude": 31.6660432,
+          "longitude": -82.027895,
+          "population": 484,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Richmond",
+          "state": "Indiana",
+          "stateCode": "IN",
+          "county": "Wayne County",
+          "latitude": 39.8290379,
+          "longitude": -84.8915833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Screven",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wayne County",
+          "latitude": 31.48632539999999,
+          "longitude": -82.0170596,
+          "population": 803,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Wooster",
+          "state": "Ohio",
+          "stateCode": "OH",
+          "county": "Wayne County",
+          "latitude": 40.7974633,
+          "longitude": -81.94600109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Webster County",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Webster County",
+          "latitude": 32.0129889,
+          "longitude": -84.56414699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "cities": []
+    },
+    {
+      "name": "Webster County",
+      "cities": []
+    },
+    {
+      "name": "Webster County",
+      "cities": []
+    },
+    {
+      "name": "Webster County",
+      "cities": []
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Fort Dodge",
+          "state": "Iowa",
+          "stateCode": "IA",
+          "county": "Webster County",
+          "latitude": 42.4974694,
+          "longitude": -94.16801579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marshfield",
+          "state": "Missouri",
+          "stateCode": "MO",
+          "county": "Webster County",
+          "latitude": 37.3372552,
+          "longitude": -92.9024067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Providence",
+          "state": "Kentucky",
+          "stateCode": "KY",
+          "county": "Webster County",
+          "latitude": 37.397545,
+          "longitude": -87.7627897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wheeler County",
+      "cities": []
+    },
+    {
+      "name": "Wheeler County",
+      "cities": [
+        {
+          "name": "Glenwood",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wheeler County",
+          "latitude": 32.1799008,
+          "longitude": -82.6695802,
+          "population": 819,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "White County",
+      "cities": [
+        {
+          "name": "Yonah",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "White County",
+          "latitude": 34.64111,
+          "longitude": -83.75361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "White County",
+      "cities": [
+        {
+          "name": "Sautee-Nacoochee",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "White County",
+          "latitude": 34.6839825,
+          "longitude": -83.67434999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "White County",
+      "cities": [
+        {
+          "name": "Helen",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "White County",
+          "latitude": 34.7014839,
+          "longitude": -83.7315675,
+          "population": 600,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Whitfield County",
+      "cities": []
+    },
+    {
+      "name": "Whitfield County",
+      "cities": [
+        {
+          "name": "Cohutta",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Whitfield County",
+          "latitude": 34.95952090000001,
+          "longitude": -84.95272349999999,
+          "population": 809,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tunnel Hill",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Whitfield County",
+          "latitude": 34.8406339,
+          "longitude": -85.04272569999999,
+          "population": 979,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Varnell",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Whitfield County",
+          "latitude": 34.9011886,
+          "longitude": -84.9738349,
+          "population": 2227,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Wilcox County",
+      "cities": [
+        {
+          "name": "Seville",
+          "state": "GA",
+          "stateCode": "GA",
+          "county": "Wilcox County",
+          "latitude": 31.9604535,
+          "longitude": -83.6010007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wilcox County",
+      "cities": [
+        {
+          "name": "Pineview",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilcox County",
+          "latitude": 32.1101702,
+          "longitude": -83.501003,
+          "population": 453,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Pitts",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilcox County",
+          "latitude": 31.9446209,
+          "longitude": -83.5407214,
+          "population": 243,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Rochelle",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilcox County",
+          "latitude": 31.9510105,
+          "longitude": -83.4562744,
+          "population": 1138,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Wilkes County",
+      "cities": []
+    },
+    {
+      "name": "Wilkes County",
+      "cities": [
+        {
+          "name": "North Wilkesboro",
+          "state": "North Carolina",
+          "stateCode": "NC",
+          "county": "Wilkes County",
+          "latitude": 36.1584651,
+          "longitude": -81.1475841,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rayle",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkes County",
+          "latitude": 33.7898457,
+          "longitude": -82.89986859999999,
+          "population": 157,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Wilkinson County",
+      "cities": []
+    },
+    {
+      "name": "Wilkinson County",
+      "cities": [
+        {
+          "name": "Allentown",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkinson County",
+          "latitude": 32.5932119,
+          "longitude": -83.2257127,
+          "population": 192,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Irwinton",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkinson County",
+          "latitude": 32.8112594,
+          "longitude": -83.1726541,
+          "population": 519,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ivey",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkinson County",
+          "latitude": 32.9082333,
+          "longitude": -83.2973555,
+          "population": 1026,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "McIntyre",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkinson County",
+          "latitude": 32.845854,
+          "longitude": -83.193968,
+          "population": 565,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Toomsboro",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Wilkinson County",
+          "latitude": 32.8268192,
+          "longitude": -83.07931599999999,
+          "population": 376,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Worth County",
+      "cities": []
+    },
+    {
+      "name": "Worth County",
+      "cities": [
+        {
+          "name": "Poulan",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Worth County",
+          "latitude": 31.5129582,
+          "longitude": -83.78767479999999,
+          "population": 726,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sumner",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Worth County",
+          "latitude": 31.512959,
+          "longitude": -83.7385063,
+          "population": 437,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Warwick",
+          "state": "Georgia",
+          "stateCode": "GA",
+          "county": "Worth County",
+          "latitude": 31.8310072,
+          "longitude": -83.9187886,
+          "population": 492,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

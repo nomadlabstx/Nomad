@@ -1,0 +1,4506 @@
+{
+  "name": "North Dakota",
+  "code": "ND",
+  "counties": [
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "Bucyrus",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Adams County",
+          "latitude": 46.0638952,
+          "longitude": -102.7882137,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haynes",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Adams County",
+          "latitude": 45.9741705,
+          "longitude": -102.4709914,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reeder",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Adams County",
+          "latitude": 46.1058393,
+          "longitude": -102.9454423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Barnes County",
+      "cities": [
+        {
+          "name": "Leal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.1052665,
+          "longitude": -98.31731579999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pillsbury",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.2069306,
+          "longitude": -97.7906569,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dazey",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.1905449,
+          "longitude": -98.2017618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fingal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.7605329,
+          "longitude": -97.7903815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kathryn",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.6798018,
+          "longitude": -97.9685502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Litchville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.6535903,
+          "longitude": -98.19426159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nome",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.67775289999999,
+          "longitude": -97.8103807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rogers",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.0727638,
+          "longitude": -98.1995384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanborn",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.9422066,
+          "longitude": -98.2242589,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sibley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.2172099,
+          "longitude": -97.9645436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wimbledon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 47.1697143,
+          "longitude": -98.4598177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oriska",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.93053339999999,
+          "longitude": -97.78899179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Barnes County",
+          "latitude": 46.9233129,
+          "longitude": -98.0031547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benson County",
+      "cities": [
+        {
+          "name": "Fort Totten",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 47.97999859999999,
+          "longitude": -98.99290049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leeds",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.2888882,
+          "longitude": -99.4376352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Esmond",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.0358398,
+          "longitude": -99.7620743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maddock",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 47.96250879999999,
+          "longitude": -99.53013299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minnewaukan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.071388,
+          "longitude": -99.2523572,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oberon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 47.923055,
+          "longitude": -99.2040184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warwick",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 47.8549986,
+          "longitude": -98.7101069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "York",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.3127771,
+          "longitude": -99.57346849999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Knox",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.3402764,
+          "longitude": -99.69041299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brinsmade",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Benson County",
+          "latitude": 48.1824994,
+          "longitude": -99.32402379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Billings County",
+      "cities": [
+        {
+          "name": "Medora",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Billings County",
+          "latitude": 46.9139028,
+          "longitude": -103.5243536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bottineau County",
+      "cities": [
+        {
+          "name": "Bottineau",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.8272301,
+          "longitude": -100.4456984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Landa",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.8966854,
+          "longitude": -100.9118208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maxbass",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.7216878,
+          "longitude": -101.1415464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newburg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.7150177,
+          "longitude": -100.9129293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Overly",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.6819437,
+          "longitude": -100.150136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Souris",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.9097383,
+          "longitude": -100.6815394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westhope",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.9094642,
+          "longitude": -101.0207117,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Willow City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.6044426,
+          "longitude": -100.2943011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kramer",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.690565,
+          "longitude": -100.7068093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antler",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.97085320000001,
+          "longitude": -101.2823803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lansford",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.628909,
+          "longitude": -101.3757158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardena",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bottineau County",
+          "latitude": 48.700837,
+          "longitude": -100.4976393,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bowman County",
+      "cities": [
+        {
+          "name": "Scranton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bowman County",
+          "latitude": 46.1480618,
+          "longitude": -103.14295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowman",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bowman County",
+          "latitude": 46.1830618,
+          "longitude": -103.3949061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gascoyne",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bowman County",
+          "latitude": 46.1183391,
+          "longitude": -103.0798921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhame",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Bowman County",
+          "latitude": 46.2325063,
+          "longitude": -103.6554735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Burke County",
+      "cities": [
+        {
+          "name": "Larson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.889754,
+          "longitude": -102.8585114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbus",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.90419929999999,
+          "longitude": -102.7804533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lignite",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.8775322,
+          "longitude": -102.5629488,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.9958637,
+          "longitude": -102.5496127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flaxton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.89863889999999,
+          "longitude": -102.3923913,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowbells",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burke County",
+          "latitude": 48.8030833,
+          "longitude": -102.2460008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Burleigh County",
+      "cities": [
+        {
+          "name": "Bismarck",
+          "state": "North Dakota",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 46.8041643,
+          "longitude": -100.7877616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Regan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 47.1580494,
+          "longitude": -100.528177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 46.7624938,
+          "longitude": -100.7004025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wing",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 47.1408239,
+          "longitude": -100.2790017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Apple Valley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 46.8216598,
+          "longitude": -100.5978995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Driscoll",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 46.8449486,
+          "longitude": -100.1414713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Menoken",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Burleigh County",
+          "latitude": 46.819633,
+          "longitude": -100.5317158,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cass County",
+      "cities": [
+        {
+          "name": "Reile",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9245198,
+          "longitude": -96.8659263,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheatland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.907475,
+          "longitude": -97.3453679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erie",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.1152573,
+          "longitude": -97.3878665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Embden",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.8021971,
+          "longitude": -97.43314830000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brooktree Park",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.0030233,
+          "longitude": -96.8959156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hunter",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.1905344,
+          "longitude": -97.2170321,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kindred",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.6485779,
+          "longitude": -97.0170323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arthur",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.1041435,
+          "longitude": -97.21814309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prairie Rose",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.8174651,
+          "longitude": -96.83563889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tower City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9227548,
+          "longitude": -97.67398890000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leonard",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.6519149,
+          "longitude": -97.2456467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davenport",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.7141358,
+          "longitude": -97.0700892,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mapleton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.8912602,
+          "longitude": -97.0527466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North River",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9507977,
+          "longitude": -96.80258049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oxbow",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.6699634,
+          "longitude": -96.80036009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Page",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.15970550000001,
+          "longitude": -97.57120379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Briarwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.7860752,
+          "longitude": -96.7970272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9196985,
+          "longitude": -97.54953859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Casselton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.9005292,
+          "longitude": -97.2111999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frontier",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.8005206,
+          "longitude": -96.8331391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardner",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.1471966,
+          "longitude": -96.9678613,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grandin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.2369226,
+          "longitude": -97.00147299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.98445299999999,
+          "longitude": -96.88473839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Horace",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.7588553,
+          "longitude": -96.9036971,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amenia",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.00497439999999,
+          "longitude": -97.2189763,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Argusville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.0521927,
+          "longitude": -96.9345275,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ayr",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 47.0410893,
+          "longitude": -97.4906455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alice",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.7619199,
+          "longitude": -97.55592990000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Fargo",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cass County",
+          "latitude": 46.8769487,
+          "longitude": -96.89990569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cavalier County",
+      "cities": [
+        {
+          "name": "Milton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.62638380000001,
+          "longitude": -98.04260169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wales",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.8958372,
+          "longitude": -98.6026208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osnabrock",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.6688857,
+          "longitude": -98.15121859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nekoma",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.5772245,
+          "longitude": -98.370392,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Munich",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.669174,
+          "longitude": -98.8326307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sarles",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.9458399,
+          "longitude": -98.995961,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alsen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.6305626,
+          "longitude": -98.7048487,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calio",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.6311182,
+          "longitude": -98.9329109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Calvin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.8525068,
+          "longitude": -98.9354077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hannah",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.9716708,
+          "longitude": -98.6917883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Langdon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.7600007,
+          "longitude": -98.3681728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loma",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Cavalier County",
+          "latitude": 48.63028320000001,
+          "longitude": -98.5328983,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dickey County",
+      "cities": [
+        {
+          "name": "Ludden",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 46.0085815,
+          "longitude": -98.12538029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ellendale",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 46.0027502,
+          "longitude": -98.5270458,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fullerton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 46.1652468,
+          "longitude": -98.42704429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monango",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 46.1727475,
+          "longitude": -98.5945448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakes",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 46.1385786,
+          "longitude": -98.09037939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forbes",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dickey County",
+          "latitude": 45.9435847,
+          "longitude": -98.7820478,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Divide County",
+      "cities": [
+        {
+          "name": "Crosby",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Divide County",
+          "latitude": 48.9141998,
+          "longitude": -103.2949095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fortuna",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Divide County",
+          "latitude": 48.9100315,
+          "longitude": -103.7793697,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Noonan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Divide County",
+          "latitude": 48.8889194,
+          "longitude": -103.0087936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ambrose",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Divide County",
+          "latitude": 48.9539222,
+          "longitude": -103.4826921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dunn County",
+      "cities": [
+        {
+          "name": "Manning",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dunn County",
+          "latitude": 47.2300045,
+          "longitude": -102.7703485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Killdeer",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dunn County",
+          "latitude": 47.4275676,
+          "longitude": -102.9298601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halliday",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dunn County",
+          "latitude": 47.3544535,
+          "longitude": -102.3360118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dodge",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Dunn County",
+          "latitude": 47.30612000000001,
+          "longitude": -102.2043422,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Eddy County",
+      "cities": [
+        {
+          "name": "Sheyenne",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Eddy County",
+          "latitude": 47.8280543,
+          "longitude": -99.120122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Emmons County",
+      "cities": [
+        {
+          "name": "Braddock",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Emmons County",
+          "latitude": 46.56443110000001,
+          "longitude": -100.0909421,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hazelton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Emmons County",
+          "latitude": 46.48471259999999,
+          "longitude": -100.2795572,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Linton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Emmons County",
+          "latitude": 46.2666567,
+          "longitude": -100.2328916,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Strasburg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Emmons County",
+          "latitude": 46.133601,
+          "longitude": -100.1615042,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hague",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Emmons County",
+          "latitude": 46.0285994,
+          "longitude": -99.99566829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Foster County",
+      "cities": [
+        {
+          "name": "Carrington",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Foster County",
+          "latitude": 47.44972010000001,
+          "longitude": -99.1262234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenfield",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Foster County",
+          "latitude": 47.4533296,
+          "longitude": -98.5673223,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grace City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Foster County",
+          "latitude": 47.5513859,
+          "longitude": -98.8053836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Golden Valley County",
+      "cities": [
+        {
+          "name": "Beach",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Golden Valley County",
+          "latitude": 46.91806889999999,
+          "longitude": -104.0043728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sentinel Butte",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Golden Valley County",
+          "latitude": 46.9183469,
+          "longitude": -103.8388108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golva",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Golden Valley County",
+          "latitude": 46.7341788,
+          "longitude": -103.9863168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grand Forks County",
+      "cities": [
+        {
+          "name": "Grand Forks AFB",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.9525204,
+          "longitude": -97.3824492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emerado",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.918875,
+          "longitude": -97.36508370000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Inkster",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 48.1513804,
+          "longitude": -97.64425229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Larimore",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.90665689999999,
+          "longitude": -97.6267539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manvel",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 48.0777615,
+          "longitude": -97.1764649,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Niagara",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.9963819,
+          "longitude": -97.8703719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.7341547,
+          "longitude": -97.5667543,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thompson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.7735899,
+          "longitude": -97.109805,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reynolds",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 47.6722013,
+          "longitude": -97.1067515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilby",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grand Forks County",
+          "latitude": 48.0852671,
+          "longitude": -97.47063829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "Raleigh",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grant County",
+          "latitude": 46.35814209999999,
+          "longitude": -101.3058774,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heil",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grant County",
+          "latitude": 46.3875069,
+          "longitude": -101.6998636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leith",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grant County",
+          "latitude": 46.35833950000001,
+          "longitude": -101.6365298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grant County",
+          "latitude": 46.4177836,
+          "longitude": -101.5648652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Leipzig",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Grant County",
+          "latitude": 46.37611709999999,
+          "longitude": -101.9398717,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Griggs County",
+      "cities": [
+        {
+          "name": "Sutton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Griggs County",
+          "latitude": 47.4020021,
+          "longitude": -98.4391842,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jessie",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Griggs County",
+          "latitude": 47.542218,
+          "longitude": -98.23815189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cooperstown",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Griggs County",
+          "latitude": 47.4444384,
+          "longitude": -98.12398429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hannaford",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Griggs County",
+          "latitude": 47.3133252,
+          "longitude": -98.1864847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Binford",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Griggs County",
+          "latitude": 47.5619407,
+          "longitude": -98.3450977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hettinger County",
+      "cities": [
+        {
+          "name": "Mott",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Hettinger County",
+          "latitude": 46.3725031,
+          "longitude": -102.3271061,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New England",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Hettinger County",
+          "latitude": 46.5391751,
+          "longitude": -102.8682231,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Regent",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Hettinger County",
+          "latitude": 46.4216712,
+          "longitude": -102.555719,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kidder County",
+      "cities": [
+        {
+          "name": "Pettibone",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 47.1191585,
+          "longitude": -99.51955609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steele",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 46.85470650000001,
+          "longitude": -99.91593809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tappen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 46.8749848,
+          "longitude": -99.63649649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tuttle",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 47.1435993,
+          "longitude": -99.9945518,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dawson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 46.8685953,
+          "longitude": -99.751495,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Robinson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Kidder County",
+          "latitude": 47.1427682,
+          "longitude": -99.7812206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "LaMoure County",
+      "cities": [
+        {
+          "name": "Edgeley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.3591377,
+          "longitude": -98.7156564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.6072008,
+          "longitude": -98.3323161,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verona",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.3648836,
+          "longitude": -98.0721681,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berlin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.3785823,
+          "longitude": -98.4898183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dickey",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.5369203,
+          "longitude": -98.4678716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kulm",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.3019144,
+          "longitude": -98.9481624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "LaMoure",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.3571915,
+          "longitude": -98.2945434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jud",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "LaMoure County",
+          "latitude": 46.5260853,
+          "longitude": -98.8956606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Logan County",
+      "cities": [
+        {
+          "name": "Fredonia",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Logan County",
+          "latitude": 46.3288597,
+          "longitude": -99.0956648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gackle",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Logan County",
+          "latitude": 46.6258113,
+          "longitude": -99.1420541,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McHenry County",
+      "cities": [
+        {
+          "name": "Bantry",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.4983324,
+          "longitude": -100.61041,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Voltaire",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.0205632,
+          "longitude": -100.8415372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Granville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.2677874,
+          "longitude": -100.8426438,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Upham",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.58167280000001,
+          "longitude": -100.7281937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anamoose",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 47.8825008,
+          "longitude": -100.241246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bergen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.0016737,
+          "longitude": -100.7145903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deering",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.3955721,
+          "longitude": -101.0518201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drake",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 47.92416919999999,
+          "longitude": -100.3723605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Karlsruhe",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.0900056,
+          "longitude": -100.6204201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kief",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 47.8575023,
+          "longitude": -100.5115274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Towner",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.3458325,
+          "longitude": -100.4054123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Balfour",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 47.9516711,
+          "longitude": -100.5345865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McHenry",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McHenry County",
+          "latitude": 48.38146709999999,
+          "longitude": -100.7008406,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McIntosh County",
+      "cities": [
+        {
+          "name": "Lehr",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McIntosh County",
+          "latitude": 46.2796939,
+          "longitude": -99.3523336,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McIntosh County",
+          "latitude": 46.0341408,
+          "longitude": -99.3715033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Venturia",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McIntosh County",
+          "latitude": 45.99829200000001,
+          "longitude": -99.5471108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Zeeland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McIntosh County",
+          "latitude": 45.9699842,
+          "longitude": -99.8306726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McKenzie County",
+      "cities": [
+        {
+          "name": "Mandaree",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.7319773,
+          "longitude": -102.6738347,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Four Bears Village",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.9849231,
+          "longitude": -102.581284,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Fairview",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.8533519,
+          "longitude": -104.0396547,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watford City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.8022795,
+          "longitude": -103.2830698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexander",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.8430756,
+          "longitude": -103.642698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arnegard",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McKenzie County",
+          "latitude": 47.8077966,
+          "longitude": -103.4410273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McLean County",
+      "cities": [
+        {
+          "name": "White Shield",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.66139279999999,
+          "longitude": -101.8451675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butte",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.8380585,
+          "longitude": -100.6654187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Max",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.8211141,
+          "longitude": -101.2987702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mercer",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.4769315,
+          "longitude": -100.7433009,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turtle Lake",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.519998,
+          "longitude": -100.8901427,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Underwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.4563859,
+          "longitude": -101.137096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Washburn",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.28916,
+          "longitude": -101.0290346,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruso",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.83833689999999,
+          "longitude": -100.9334809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benedict",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.83028119999999,
+          "longitude": -101.0823744,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coleharbor",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.54416510000001,
+          "longitude": -101.2237662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.1586039,
+          "longitude": -100.7834663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverdale",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "McLean County",
+          "latitude": 47.497499,
+          "longitude": -101.3712709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mercer County",
+      "cities": [
+        {
+          "name": "Hazen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mercer County",
+          "latitude": 47.294448,
+          "longitude": -101.622665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pick City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mercer County",
+          "latitude": 47.5113887,
+          "longitude": -101.4537737,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Zap",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mercer County",
+          "latitude": 47.2863966,
+          "longitude": -101.9226704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mercer County",
+          "latitude": 47.3211099,
+          "longitude": -101.3815477,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden Valley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mercer County",
+          "latitude": 47.2908418,
+          "longitude": -102.0646172,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morton County",
+      "cities": [
+        {
+          "name": "Harmon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.948021,
+          "longitude": -100.9595472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Salem",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.844999,
+          "longitude": -101.4112545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flasher",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.4561128,
+          "longitude": -101.2326433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Ullin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.8150051,
+          "longitude": -101.829877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebron",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.90056260000001,
+          "longitude": -102.0454416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Almont",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.7252795,
+          "longitude": -101.5026443,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mandan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Morton County",
+          "latitude": 46.8266603,
+          "longitude": -100.8895761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mountrail County",
+      "cities": [
+        {
+          "name": "New Town",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 47.9808483,
+          "longitude": -102.4901804,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parshall",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 47.9533459,
+          "longitude": -102.1348915,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ross",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 48.3111302,
+          "longitude": -102.5465682,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 48.3172413,
+          "longitude": -102.3904515,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Earth",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 48.380576,
+          "longitude": -102.7732376,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palermo",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 48.3397413,
+          "longitude": -102.2290557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plaza",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Mountrail County",
+          "latitude": 48.0258461,
+          "longitude": -101.9610003,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nelson County",
+      "cities": [
+        {
+          "name": "Dahlen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 48.1579418,
+          "longitude": -97.9300646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aneta",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 47.6794377,
+          "longitude": -97.98815080000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McVille",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 47.7638843,
+          "longitude": -98.1773206,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Michigan City",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 48.0247122,
+          "longitude": -98.1192133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Petersburg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 48.0111052,
+          "longitude": -98.0014884,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pekin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 47.7908303,
+          "longitude": -98.3281559,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tolna",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Nelson County",
+          "latitude": 47.8272203,
+          "longitude": -98.4401019,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oliver County",
+      "cities": [
+        {
+          "name": "Center",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Oliver County",
+          "latitude": 47.1163849,
+          "longitude": -101.299594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pembina County",
+      "cities": [
+        {
+          "name": "Pembina",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.9663765,
+          "longitude": -97.2436761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Thomas",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.6191614,
+          "longitude": -97.4470838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walhalla",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.9233284,
+          "longitude": -97.91814769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cavalier",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.7938813,
+          "longitude": -97.6223098,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crystal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.5969371,
+          "longitude": -97.66953339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drayton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.57109579999999,
+          "longitude": -97.1778485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neche",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.9861027,
+          "longitude": -97.5548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bathgate",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.8772124,
+          "longitude": -97.4761908,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.6877719,
+          "longitude": -97.8650966,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamilton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.8086008,
+          "longitude": -97.4528586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canton City (Hensel)",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pembina County",
+          "latitude": 48.68663429999999,
+          "longitude": -97.66822479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pierce County",
+      "cities": [
+        {
+          "name": "Selz",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pierce County",
+          "latitude": 47.857225,
+          "longitude": -99.8917941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orrin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pierce County",
+          "latitude": 48.0913913,
+          "longitude": -100.1631912,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pierce County",
+          "latitude": 48.5069406,
+          "longitude": -100.1762454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Balta",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pierce County",
+          "latitude": 48.1666684,
+          "longitude": -100.0370779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wolford",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Pierce County",
+          "latitude": 48.4986072,
+          "longitude": -99.7043077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ramsey County",
+      "cities": [
+        {
+          "name": "Churchs Ferry",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.2691655,
+          "longitude": -99.1901343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lawton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.3027789,
+          "longitude": -98.3692741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Starkweather",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.45232559999999,
+          "longitude": -98.8772092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brocket",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.2130558,
+          "longitude": -98.35704989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crary",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.0708347,
+          "longitude": -98.6384434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hampden",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.5402849,
+          "longitude": -98.6542903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edmore",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ramsey County",
+          "latitude": 48.4132993,
+          "longitude": -98.4543611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ransom County",
+      "cities": [
+        {
+          "name": "McLeod",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.39362329999999,
+          "longitude": -97.2991136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Englevale",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.3927458,
+          "longitude": -97.91343429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elliott",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.4021898,
+          "longitude": -97.8148228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Ransom",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.52080410000001,
+          "longitude": -97.9262128,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lisbon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.4416344,
+          "longitude": -97.6812096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheldon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.5858041,
+          "longitude": -97.49120409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enderlin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ransom County",
+          "latitude": 46.623028,
+          "longitude": -97.60148620000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Renville County",
+      "cities": [
+        {
+          "name": "Grano",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Renville County",
+          "latitude": 48.6150203,
+          "longitude": -101.5865506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenburn",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Renville County",
+          "latitude": 48.5130744,
+          "longitude": -101.2207138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Loraine",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Renville County",
+          "latitude": 48.8655766,
+          "longitude": -101.5679389,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tolley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Renville County",
+          "latitude": 48.7289124,
+          "longitude": -101.8273851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sherwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Renville County",
+          "latitude": 48.9600187,
+          "longitude": -101.632661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Richland County",
+      "cities": [
+        {
+          "name": "Dwight",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.3041253,
+          "longitude": -96.7381329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairmount",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.0549591,
+          "longitude": -96.6022941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hankinson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.069681,
+          "longitude": -96.9017475,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lidgerwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.0755158,
+          "longitude": -97.1517554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mooreton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.2685699,
+          "longitude": -96.8761923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Walcott",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.5488528,
+          "longitude": -96.93675139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mantador",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.1652368,
+          "longitude": -96.97730589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Christine",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.5735737,
+          "longitude": -96.8017479,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wyndmere",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.26662719999999,
+          "longitude": -97.1323098,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Great Bend",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.1538473,
+          "longitude": -96.80202279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barney",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.2671819,
+          "longitude": -97.00064049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colfax",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.4694065,
+          "longitude": -96.87452669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Abercrombie",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Richland County",
+          "latitude": 46.44773840000001,
+          "longitude": -96.73035569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Rolette County",
+      "cities": [
+        {
+          "name": "Shell Valley",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.7980579,
+          "longitude": -99.86486479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Acres",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.8434506,
+          "longitude": -99.6943945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Dunseith",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.8655575,
+          "longitude": -100.0167982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belcourt",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.8391712,
+          "longitude": -99.7448688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunseith",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.8130569,
+          "longitude": -100.0609678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolette",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.66083279999999,
+          "longitude": -99.841533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rolla",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.8577837,
+          "longitude": -99.61792160000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. John",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.9444517,
+          "longitude": -99.71097429999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mylo",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Rolette County",
+          "latitude": 48.6352785,
+          "longitude": -99.61875549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sargent County",
+      "cities": [
+        {
+          "name": "De Lamere",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.2671834,
+          "longitude": -97.33509049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Havana",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 45.95024,
+          "longitude": -97.618988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milnor",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.25912779999999,
+          "longitude": -97.45620219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cogswell",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.10691,
+          "longitude": -97.78204459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cayuga",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.07412859999999,
+          "longitude": -97.38426009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forman",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.1077418,
+          "longitude": -97.6364861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gwinner",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.2257963,
+          "longitude": -97.6625959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rutland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sargent County",
+          "latitude": 46.05301859999999,
+          "longitude": -97.5089843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sheridan County",
+      "cities": [
+        {
+          "name": "Denhoff",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sheridan County",
+          "latitude": 47.4766619,
+          "longitude": -100.25957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goodrich",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sheridan County",
+          "latitude": 47.4749954,
+          "longitude": -100.1262353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sheridan County",
+          "latitude": 47.82666709999999,
+          "longitude": -100.1151307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sioux County",
+      "cities": [
+        {
+          "name": "Porcupine",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sioux County",
+          "latitude": 46.2209412,
+          "longitude": -101.0994619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cannon Ball",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sioux County",
+          "latitude": 46.3894387,
+          "longitude": -100.5940114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Selfridge",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sioux County",
+          "latitude": 46.0413892,
+          "longitude": -100.9251297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Solen",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Sioux County",
+          "latitude": 46.3888848,
+          "longitude": -100.7984628,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Slope County",
+      "cities": [
+        {
+          "name": "Amidon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Slope County",
+          "latitude": 46.4822327,
+          "longitude": -103.3218466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marmarth",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Slope County",
+          "latitude": 46.2950062,
+          "longitude": -103.9207615,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stark County",
+      "cities": [
+        {
+          "name": "Belfield",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.8852906,
+          "longitude": -103.1996219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gladstone",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.8608403,
+          "longitude": -102.5679579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richardton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.8838956,
+          "longitude": -102.3157292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Heart",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.8647341,
+          "longitude": -102.9915668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Taylor",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.9005624,
+          "longitude": -102.4251785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dickinson",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stark County",
+          "latitude": 46.8791756,
+          "longitude": -102.7896242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Steele County",
+      "cities": [
+        {
+          "name": "Sharon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Steele County",
+          "latitude": 47.5972143,
+          "longitude": -97.8939815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Luverne",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Steele County",
+          "latitude": 47.25109980000001,
+          "longitude": -97.9348215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hope",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Steele County",
+          "latitude": 47.3222102,
+          "longitude": -97.7223196,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stutsman County",
+      "cities": [
+        {
+          "name": "Ypsilanti",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.7835299,
+          "longitude": -98.5636644,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spiritwood",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.9360994,
+          "longitude": -98.4956481,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cleveland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.89165389999999,
+          "longitude": -99.1178887,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Courtenay",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.2222163,
+          "longitude": -98.5664877,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kensal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.3008296,
+          "longitude": -98.73343770000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spiritwood Lake",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.0763802,
+          "longitude": -98.57315299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Medina",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.8938758,
+          "longitude": -99.2998334,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montpelier",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.6733781,
+          "longitude": -98.6436946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Streeter",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.65702599999999,
+          "longitude": -99.3582177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodworth",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.14249479999999,
+          "longitude": -99.303169,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buchanan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.0624923,
+          "longitude": -98.8289956,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jamestown",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 46.9105438,
+          "longitude": -98.7084357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pingree",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Stutsman County",
+          "latitude": 47.163328,
+          "longitude": -98.90705369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Towner County",
+      "cities": [
+        {
+          "name": "Hansboro",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.95000779999999,
+          "longitude": -99.3829145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cando",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.4866681,
+          "longitude": -99.20985929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Egeland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.6263945,
+          "longitude": -99.09735859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Perth",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.7163932,
+          "longitude": -99.45792089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rocklake",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.7902618,
+          "longitude": -99.2464083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bisbee",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Towner County",
+          "latitude": 48.6258358,
+          "longitude": -99.3779181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Traill County",
+      "cities": [
+        {
+          "name": "Caledonia",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.4574751,
+          "longitude": -96.88563719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blanchard",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.34582899999999,
+          "longitude": -97.21966479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clifford",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.3480408,
+          "longitude": -97.4106449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Galesburg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.2699845,
+          "longitude": -97.4064772,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hatton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.6397087,
+          "longitude": -97.45342230000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsboro",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.4038683,
+          "longitude": -97.0620308,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.4980408,
+          "longitude": -97.3245354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buxton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.6019239,
+          "longitude": -97.09730809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Portland",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Traill County",
+          "latitude": 47.4983191,
+          "longitude": -97.37036890000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walsh County",
+      "cities": [
+        {
+          "name": "Nash",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.4781977,
+          "longitude": -97.52699559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.50694,
+          "longitude": -97.43943999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ardoch",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.2072096,
+          "longitude": -97.34229859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lankin",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.3150019,
+          "longitude": -97.9193224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grafton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.4122107,
+          "longitude": -97.410634,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoople",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.5347143,
+          "longitude": -97.6348091,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minto",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.2916547,
+          "longitude": -97.37146519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park River",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.3986043,
+          "longitude": -97.7411999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pisek",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.3108259,
+          "longitude": -97.70925369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairdale",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.4908325,
+          "longitude": -98.23121859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adams",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.4213852,
+          "longitude": -98.0789893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conway",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.2339378,
+          "longitude": -97.67517409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edinburg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.4966607,
+          "longitude": -97.86203780000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fordville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.2174934,
+          "longitude": -97.79064509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest River",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Walsh County",
+          "latitude": 48.2152672,
+          "longitude": -97.46813519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ward County",
+      "cities": [
+        {
+          "name": "Ruthville",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.371773,
+          "longitude": -101.297424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minot AFB",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.4208838,
+          "longitude": -101.3264044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Logan",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.1483433,
+          "longitude": -101.1537688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Foxholm",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.3694583,
+          "longitude": -101.5712743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carpio",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.4425171,
+          "longitude": -101.7146063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Makoti",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 47.9611214,
+          "longitude": -101.8046105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burlington",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.2752881,
+          "longitude": -101.4287751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Des Lacs",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.257788,
+          "longitude": -101.5634984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Donnybrook",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.509465,
+          "longitude": -101.8851618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Douglas",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 47.8572261,
+          "longitude": -101.5029412,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenmare",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.6747476,
+          "longitude": -102.0826636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ryder",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 47.9175076,
+          "longitude": -101.677943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sawyer",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.08877560000001,
+          "longitude": -101.0543194,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Surrey",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.2364001,
+          "longitude": -101.1334901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berthold",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.313069,
+          "longitude": -101.7371077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Minot",
+          "state": "North Dakota",
+          "stateCode": "ND",
+          "county": "Ward County",
+          "latitude": 48.2329668,
+          "longitude": -101.2922906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wells County",
+      "cities": [
+        {
+          "name": "Heimdal",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.7927817,
+          "longitude": -99.6451249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamberg",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.7630597,
+          "longitude": -99.51456999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurdsfield",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.4483295,
+          "longitude": -99.9284546,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cathay",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.5533328,
+          "longitude": -99.4090075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fessenden",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.6491683,
+          "longitude": -99.629289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowdon",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.4697217,
+          "longitude": -99.7078981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sykeston",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Wells County",
+          "latitude": 47.4649985,
+          "longitude": -99.3995611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Williams County",
+      "cities": [
+        {
+          "name": "Trenton",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.0705783,
+          "longitude": -103.836871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Creek",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.1007229,
+          "longitude": -103.2561716,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McGregor",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.595305,
+          "longitude": -102.9282367,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blacktail",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.4334115,
+          "longitude": -103.7389569,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alamo",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.5816949,
+          "longitude": -103.4699122,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Epping",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.2791887,
+          "longitude": -103.3571326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grenora",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.6208378,
+          "longitude": -103.9361725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ray",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.3444663,
+          "longitude": -103.1651845,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tioga",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.3972442,
+          "longitude": -102.938238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wildrose",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.6305843,
+          "longitude": -103.1843507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springbrook",
+          "state": "ND",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.2524087,
+          "longitude": -103.4644611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williston",
+          "state": "North Dakota",
+          "stateCode": "ND",
+          "county": "Williams County",
+          "latitude": 48.1469683,
+          "longitude": -103.6179745,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

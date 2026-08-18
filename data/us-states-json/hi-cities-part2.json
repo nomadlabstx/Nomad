@@ -1,0 +1,651 @@
+{
+  "name": "Hawaii",
+  "code": "HI",
+  "counties": [
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Omao",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.925534,
+          "longitude": -159.4875264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Lihue",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9742235,
+          "longitude": -159.3672769,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Lawai",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.926537,
+          "longitude": -159.5082684,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kilauea",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.2120504,
+          "longitude": -159.4073395,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Koloa",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9036732,
+          "longitude": -159.4666268,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kekaha",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9692675,
+          "longitude": -159.7163591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kaumakani",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9205123,
+          "longitude": -159.6245991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kapaa",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.0947394,
+          "longitude": -159.3245926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kalihiwai",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.2175,
+          "longitude": -159.4325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Kalaheo",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9255709,
+          "longitude": -159.5272115,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Hanalei",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.2059293,
+          "longitude": -159.4975654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanamaulu",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9942631,
+          "longitude": -159.3551231,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hanapepe",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9186113,
+          "longitude": -159.5885376,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Haena",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.2229583,
+          "longitude": -159.5575969,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Eleele",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 21.9048919,
+          "longitude": -159.5844491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kauai County",
+      "cities": [
+        {
+          "name": "Anahola",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Kauai County",
+          "latitude": 22.1473253,
+          "longitude": -159.3157173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Wailuku",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8869433,
+          "longitude": -156.5048344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Wailea",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.6871826,
+          "longitude": -156.4391668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Waihee-Waiehu",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9175847,
+          "longitude": -156.497786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waikapu",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.854937,
+          "longitude": -156.5035633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Ualapue",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 21.0612245,
+          "longitude": -156.8318132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Pukalani",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8372717,
+          "longitude": -156.3438445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Paia",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9060569,
+          "longitude": -156.3739778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Napili-Honokowai",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.978599,
+          "longitude": -156.6682557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olinda",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8081972,
+          "longitude": -156.2781534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olowalu",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.811411,
+          "longitude": -156.6225893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Maalaea",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.7932283,
+          "longitude": -156.5111246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mahinahina",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9521017,
+          "longitude": -156.6593242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Makawao",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.853869,
+          "longitude": -156.3103368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Makena",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.6544444,
+          "longitude": -156.4425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manele",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.7415098,
+          "longitude": -156.9020045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maunaloa",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 21.1330056,
+          "longitude": -157.2125068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Lahaina",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.882371,
+          "longitude": -156.6816195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lanai City",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8305556,
+          "longitude": -156.9222222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Launiupoko",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8474754,
+          "longitude": -156.6349604,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kula",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.791352,
+          "longitude": -156.3248772,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kualapuu",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 21.1519851,
+          "longitude": -157.0364241,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Keokea",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.708319,
+          "longitude": -156.360036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kihei",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.7399409,
+          "longitude": -156.4541873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kaunakakai",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 21.0909869,
+          "longitude": -157.0186282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kapalua",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9994687,
+          "longitude": -156.6640055,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kahului",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8893016,
+          "longitude": -156.4728725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Kaanapali",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9358982,
+          "longitude": -156.6900541,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Haliimaile",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.8732682,
+          "longitude": -156.338084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hana",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.7557169,
+          "longitude": -155.9879885,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

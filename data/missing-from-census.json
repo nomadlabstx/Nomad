@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Methuen Town",
+    "stateCode": "MA",
+    "state": "Massachusetts",
+    "latitude": 42.7262016,
+    "longitude": -71.1908924,
+    "population": 53455
+  },
+  {
+    "name": "Kearns metro township",
+    "stateCode": "UT",
+    "state": "Utah",
+    "latitude": 40.6599468,
+    "longitude": -111.9963275,
+    "population": 37767
+  },
+  {
+    "name": "Watertown Town",
+    "stateCode": "MA",
+    "state": "Massachusetts",
+    "latitude": 42.3709299,
+    "longitude": -71.1828321,
+    "population": 35256
+  },
+  {
+    "name": "Magna metro township",
+    "stateCode": "UT",
+    "state": "Utah",
+    "latitude": 40.7091121,
+    "longitude": -112.1016088,
+    "population": 30087
+  },
+  {
+    "name": "Amesbury Town",
+    "stateCode": "MA",
+    "state": "Massachusetts",
+    "latitude": 42.85839250000001,
+    "longitude": -70.93003759999999,
+    "population": 17303
+  },
+  {
+    "name": "Easthampton Town",
+    "stateCode": "MA",
+    "state": "Massachusetts",
+    "latitude": 42.266757,
+    "longitude": -72.66897999999999,
+    "population": 16031
+  },
+  {
+    "name": "Ranson corporation",
+    "stateCode": "WV",
+    "state": "West Virginia",
+    "latitude": 39.2951013,
+    "longitude": -77.8605508,
+    "population": 5699
+  },
+  {
+    "name": "White City metro township",
+    "stateCode": "UT",
+    "state": "Utah",
+    "latitude": 40.5657817,
+    "longitude": -111.8643784,
+    "population": 5676
+  },
+  {
+    "name": "Emigration Canyon metro township",
+    "stateCode": "UT",
+    "state": "Utah",
+    "latitude": 40.7667008,
+    "longitude": -111.7666791,
+    "population": 1506
+  },
+  {
+    "name": "Copperton metro township",
+    "stateCode": "UT",
+    "state": "Utah",
+    "latitude": 40.5646688,
+    "longitude": -112.0974407,
+    "population": 852
+  },
+  {
+    "name": "Minnetonka Beach",
+    "stateCode": "MN",
+    "state": "Minnesota",
+    "latitude": 44.9368839,
+    "longitude": -93.58057579999999,
+    "population": 536
+  },
+  {
+    "name": "Buffalo Springs",
+    "stateCode": "TX",
+    "state": "Texas",
+    "latitude": 33.5320312,
+    "longitude": -101.708218,
+    "population": 448
+  },
+  {
+    "name": "East Laurinburg",
+    "stateCode": "NC",
+    "state": "North Carolina",
+    "latitude": 34.7679593,
+    "longitude": -79.4464792,
+    "population": 232
+  },
+  {
+    "name": "Rome (Stout)",
+    "stateCode": "OH",
+    "state": "Ohio",
+    "latitude": 38.66611959999999,
+    "longitude": -83.3802744,
+    "population": 83
+  }
+]

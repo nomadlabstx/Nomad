@@ -53,7 +53,7 @@ const RootLayout = memo(() => {
             <ColorProvider>
               <ToastProvider>
                 <Stack>
-                  <Stack.Screen name="(tabs)" options={{ headerShown: false, title: 'Back' }} />
+                  <Stack.Screen name="(tabs)" options={{ headerShown: false, title: 'Back', gestureEnabled: false }} />
                   <Stack.Screen name="modal" options={{ presentation: 'modal', title: 'Modal' }} />
                   <Stack.Screen name="report-data" options={{ presentation: 'modal', title: 'Report Missing Data' }} />
                   <Stack.Screen name="trip/[id]" options={{ title: 'Trip Details' }} />

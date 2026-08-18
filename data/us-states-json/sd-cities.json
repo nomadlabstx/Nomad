@@ -1,0 +1,5418 @@
+{
+  "name": "South Dakota",
+  "code": "SD",
+  "counties": [
+    {
+      "name": "Aurora County",
+      "cities": [
+        {
+          "name": "Storla",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Aurora County",
+          "latitude": 43.8625903,
+          "longitude": -98.351455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aurora Center",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Aurora County",
+          "latitude": 43.5270662,
+          "longitude": -98.5894251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Aurora County",
+          "latitude": 43.7302731,
+          "longitude": -98.71369980000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stickney",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Aurora County",
+          "latitude": 43.5891563,
+          "longitude": -98.4373047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plankinton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Aurora County",
+          "latitude": 43.715546,
+          "longitude": -98.4850855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Beadle County",
+      "cities": [
+        {
+          "name": "Shamrock Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.621268,
+          "longitude": -97.9579242,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riverside Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.4863691,
+          "longitude": -98.1392573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pearl Creek Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.3285887,
+          "longitude": -97.91369569999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morningside",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.36583,
+          "longitude": -98.1880599,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huron Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.5644242,
+          "longitude": -98.2067586,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huron",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.3633173,
+          "longitude": -98.21425719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wessington",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.4541501,
+          "longitude": -98.6970405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Virgil",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.29082030000001,
+          "longitude": -98.4242588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wolsey",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.4077624,
+          "longitude": -98.47481549999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yale",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.4338671,
+          "longitude": -97.9900878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hitchcock",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.6297089,
+          "longitude": -98.4092398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Broadland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.4924824,
+          "longitude": -98.3492596,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cavour",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Beadle County",
+          "latitude": 44.36998,
+          "longitude": -98.03786559999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bennett County",
+      "cities": [
+        {
+          "name": "Allen",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bennett County",
+          "latitude": 43.2808283,
+          "longitude": -101.9243185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Martin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bennett County",
+          "latitude": 43.17249839999999,
+          "longitude": -101.7326485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bon Homme County",
+      "cities": [
+        {
+          "name": "Running Water",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 42.7753784,
+          "longitude": -97.98156879999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bon Homme Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 42.8641656,
+          "longitude": -97.7070095,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Avon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 43.0049954,
+          "longitude": -98.0597954,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scotland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 43.14971509999999,
+          "longitude": -97.7175669,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 42.8541657,
+          "longitude": -97.8972907,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tabor",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 42.9486088,
+          "longitude": -97.658954,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tyndall",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Bon Homme County",
+          "latitude": 42.9933296,
+          "longitude": -97.8628464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brookings County",
+      "cities": [
+        {
+          "name": "Rolland Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.3437412,
+          "longitude": -96.59168629999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norfeld Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.4222804,
+          "longitude": -96.55565399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newdale Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.2899277,
+          "longitude": -96.5236424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruce",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.4380228,
+          "longitude": -96.8900589,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.2360789,
+          "longitude": -96.48115469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Volga",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.32358,
+          "longitude": -96.92644759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.4346879,
+          "longitude": -96.64977359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sinai",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.2444149,
+          "longitude": -97.04089479999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bushnell",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.3285782,
+          "longitude": -96.64254969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aurora",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brookings County",
+          "latitude": 44.2841347,
+          "longitude": -96.68560599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brown County",
+      "cities": [
+        {
+          "name": "Prairiewood Village",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.5058046,
+          "longitude": -98.4189965,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mansfield",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.2429445,
+          "longitude": -98.5630331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hutterville Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.26536919999999,
+          "longitude": -98.2117279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ferney",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.3305156,
+          "longitude": -98.09787329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bath",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.4684235,
+          "longitude": -98.3229514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bath Corner",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.4591362,
+          "longitude": -98.32954,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frederick",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.8324741,
+          "longitude": -98.50620939999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Claremont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.6718976,
+          "longitude": -98.01566020000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Groton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.4474588,
+          "longitude": -98.0987093,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hecla",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.8830217,
+          "longitude": -98.15204740000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Verdon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.24385,
+          "longitude": -98.0975935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warner",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.3258099,
+          "longitude": -98.49537110000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westport",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.6488645,
+          "longitude": -98.4970402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.613024,
+          "longitude": -98.3125979,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stratford",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brown County",
+          "latitude": 45.3163581,
+          "longitude": -98.3048159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brule County",
+      "cities": [
+        {
+          "name": "Ola",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.6008319,
+          "longitude": -99.21065089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grass Ranch Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.6504828,
+          "longitude": -98.8859088,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Grove Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.5302733,
+          "longitude": -98.8078637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bijou Hills",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.5180549,
+          "longitude": -99.1498153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kimball",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.7466651,
+          "longitude": -98.9584258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chamberlain",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.810828,
+          "longitude": -99.3306556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pukwana",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Brule County",
+          "latitude": 43.7780522,
+          "longitude": -99.1814852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo County",
+      "cities": [
+        {
+          "name": "Fort Thompson",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Buffalo County",
+          "latitude": 44.068601,
+          "longitude": -99.43788459999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gann Valley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Buffalo County",
+          "latitude": 44.0327059,
+          "longitude": -98.9879382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Butte County",
+      "cities": [
+        {
+          "name": "Vale",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Butte County",
+          "latitude": 44.6202633,
+          "longitude": -103.4021316,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nisland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Butte County",
+          "latitude": 44.6730407,
+          "longitude": -103.5535258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newell",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Butte County",
+          "latitude": 44.7147081,
+          "longitude": -103.4207436,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fruitdale",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Butte County",
+          "latitude": 44.6683177,
+          "longitude": -103.6971416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Campbell County",
+      "cities": [
+        {
+          "name": "Mound City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Campbell County",
+          "latitude": 45.7252697,
+          "longitude": -100.0684524,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Artas",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Campbell County",
+          "latitude": 45.8880399,
+          "longitude": -99.8065067,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pollock",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Campbell County",
+          "latitude": 45.9013832,
+          "longitude": -100.2884568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Charles Mix County",
+      "cities": [
+        {
+          "name": "Platte Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.4697214,
+          "longitude": -99.1259259,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marty",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 42.99440329999999,
+          "longitude": -98.43487300000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeview Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.2217668,
+          "longitude": -98.45407,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearfield Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.1434529,
+          "longitude": -98.1420491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pickstown",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.0672168,
+          "longitude": -98.5320265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ravinia",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.1366597,
+          "longitude": -98.42674679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wagner",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.0797156,
+          "longitude": -98.2931342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dante",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.0386053,
+          "longitude": -98.1842432,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Geddes",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.253604,
+          "longitude": -98.6953601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Platte",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.3869397,
+          "longitude": -98.8445303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Andes",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Charles Mix County",
+          "latitude": 43.1563822,
+          "longitude": -98.5414703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clark County",
+      "cities": [
+        {
+          "name": "Silver Lake Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.865795,
+          "longitude": -97.6073696,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mayfield Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.6939137,
+          "longitude": -97.5775426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillcrest Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.9434901,
+          "longitude": -97.6698207,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fordham Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.7685819,
+          "longitude": -97.909256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crocker",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 45.105237,
+          "longitude": -97.78481049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Collins Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.5476365,
+          "longitude": -97.7022988,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 45.0905157,
+          "longitude": -97.6436969,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Willow Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.627469,
+          "longitude": -97.6370273,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Naples",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.7716324,
+          "longitude": -97.5117492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raymond",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.91246659999999,
+          "longitude": -97.93897799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vienna",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.7030219,
+          "longitude": -97.5014704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garden City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clark County",
+          "latitude": 44.95829620000001,
+          "longitude": -97.58147199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clay County",
+      "cities": [
+        {
+          "name": "Meckling",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clay County",
+          "latitude": 42.839198,
+          "longitude": -97.067323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burbank",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clay County",
+          "latitude": 42.7463806,
+          "longitude": -96.8294732,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wakonda",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Clay County",
+          "latitude": 43.0083269,
+          "longitude": -97.10671669999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Codington County",
+      "cities": [
+        {
+          "name": "Waverly",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 44.9992415,
+          "longitude": -96.97134469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallace",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 45.0860724,
+          "longitude": -97.47591659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 45.0546849,
+          "longitude": -97.3298021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henry",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 44.8771863,
+          "longitude": -97.4664703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kranzburg",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 44.89246490000001,
+          "longitude": -96.9189561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Shore",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 45.1057975,
+          "longitude": -96.92868179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Watertown",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Codington County",
+          "latitude": 44.8994088,
+          "longitude": -97.1150732,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Corson County",
+      "cities": [
+        {
+          "name": "Wakpala",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.6571949,
+          "longitude": -100.5363712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Little Eagle",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.6812596,
+          "longitude": -100.7942851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kenel",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.8583301,
+          "longitude": -100.4598519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bullhead",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.7655532,
+          "longitude": -101.0806929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McIntosh",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.92139,
+          "longitude": -101.3495764,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McLaughlin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.8144431,
+          "longitude": -100.8104113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morristown",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Corson County",
+          "latitude": 45.938615,
+          "longitude": -101.7231897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Custer County",
+      "cities": [
+        {
+          "name": "Fairburn",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Custer County",
+          "latitude": 43.6861008,
+          "longitude": -103.2115821,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo Gap",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Custer County",
+          "latitude": 43.4916502,
+          "longitude": -103.312975,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hermosa",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Custer County",
+          "latitude": 43.8397124,
+          "longitude": -103.1910204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pringle",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Custer County",
+          "latitude": 43.6085921,
+          "longitude": -103.5938058,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Davison County",
+      "cities": [
+        {
+          "name": "Loomis",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Davison County",
+          "latitude": 43.7938731,
+          "longitude": -98.1045245,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mitchell",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Davison County",
+          "latitude": 43.7094283,
+          "longitude": -98.0297992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Vernon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Davison County",
+          "latitude": 43.7105415,
+          "longitude": -98.26035940000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ethan",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Davison County",
+          "latitude": 43.5473997,
+          "longitude": -97.98544489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Day County",
+      "cities": [
+        {
+          "name": "Enemy Swim",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.4300342,
+          "longitude": -97.2845133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pierpont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.4955082,
+          "longitude": -97.8312098,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Andover",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.41023190000001,
+          "longitude": -97.90259739999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bristol",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.3446765,
+          "longitude": -97.7484272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grenville",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.4669018,
+          "longitude": -97.3937004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roslyn",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.4952333,
+          "longitude": -97.4909258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waubay",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.3319041,
+          "longitude": -97.30508470000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Webster",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.3321795,
+          "longitude": -97.52008909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butler",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Day County",
+          "latitude": 45.2588447,
+          "longitude": -97.7123132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Deuel County",
+      "cities": [
+        {
+          "name": "Clear Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.7535482,
+          "longitude": -96.679851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandt",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.6635753,
+          "longitude": -96.6242218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Altamont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.8396868,
+          "longitude": -96.68950389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gary",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.7924636,
+          "longitude": -96.4558854,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toronto",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.57302019999999,
+          "longitude": -96.6425536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Astoria",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.5582971,
+          "longitude": -96.54727299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Goodwin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Deuel County",
+          "latitude": 44.8791316,
+          "longitude": -96.8486758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dewey County",
+      "cities": [
+        {
+          "name": "Whitehorse",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.27053979999999,
+          "longitude": -100.8865329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Horse",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.27053979999999,
+          "longitude": -100.8865329,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Swift Bird",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.0606804,
+          "longitude": -100.3551324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Eagle Butte",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.00414689999999,
+          "longitude": -101.2337627,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lantry",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.0144259,
+          "longitude": -101.4315439,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Plant",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.1447057,
+          "longitude": -100.6515299,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Grass",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.1710912,
+          "longitude": -101.2459852,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Isabel",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.3941475,
+          "longitude": -101.429593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Timber Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Dewey County",
+          "latitude": 45.4291548,
+          "longitude": -101.0740344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "New Holland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Douglas County",
+          "latitude": 43.4272145,
+          "longitude": -98.6092491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrison",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Douglas County",
+          "latitude": 43.4297135,
+          "longitude": -98.52730389999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenwood Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Douglas County",
+          "latitude": 43.2133241,
+          "longitude": -98.1511865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corsica",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Douglas County",
+          "latitude": 43.4252676,
+          "longitude": -98.4073023,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delmont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Douglas County",
+          "latitude": 43.2674898,
+          "longitude": -98.16229779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Edmunds County",
+      "cities": [
+        {
+          "name": "Plainview Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.5816421,
+          "longitude": -99.0064991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pembrook Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.3729244,
+          "longitude": -98.9934232,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mina",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.4333098,
+          "longitude": -98.7587135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deerfield Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.5879629,
+          "longitude": -98.90026189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowdle",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.4530375,
+          "longitude": -99.65400679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hosmer",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.5788675,
+          "longitude": -99.47483989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ipswich",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.4444193,
+          "longitude": -99.0292784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roscoe",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Edmunds County",
+          "latitude": 45.4485879,
+          "longitude": -99.3387279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fall River County",
+      "cities": [
+        {
+          "name": "Smithwick",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.3013677,
+          "longitude": -103.2182538,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Provo",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.19338399999999,
+          "longitude": -103.8317701,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oral",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.4052883,
+          "longitude": -103.2675861,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maverick Junction",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.3997125,
+          "longitude": -103.3971611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dudley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.311362,
+          "longitude": -103.8182533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ardmore",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.0194126,
+          "longitude": -103.6563144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Angostura",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.300176,
+          "longitude": -103.3702811,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oelrichs",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.1788648,
+          "longitude": -103.2307532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Edgemont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.3010841,
+          "longitude": -103.8254758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hot Springs",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Fall River County",
+          "latitude": 43.431646,
+          "longitude": -103.4743625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Faulk County",
+      "cities": [
+        {
+          "name": "Thunderbird Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.190134,
+          "longitude": -99.26730839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Evergreen Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.1222048,
+          "longitude": -99.0421377,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brentwood Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.1511769,
+          "longitude": -99.29650869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blumengard Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.2404672,
+          "longitude": -99.17085499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chelsea",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.1685864,
+          "longitude": -98.7395464,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seneca",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.0616446,
+          "longitude": -99.5120591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cresbard",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.1699736,
+          "longitude": -98.9484416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Faulkton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.03497429999999,
+          "longitude": -99.12399789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Onaka",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 45.19275529999999,
+          "longitude": -99.4662266,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Orient",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 44.9002537,
+          "longitude": -99.0892738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockham",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Faulk County",
+          "latitude": 44.9038644,
+          "longitude": -98.82482399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "Marvin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.2613519,
+          "longitude": -96.9125722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stockholm",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.0996868,
+          "longitude": -96.8020104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Strandburg",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.0441317,
+          "longitude": -96.7606191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Stone City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.2916316,
+          "longitude": -96.46283439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Bolt",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.0508243,
+          "longitude": -96.67847909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twin Brooks",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.20579739999999,
+          "longitude": -96.7795108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Revillo",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.0166314,
+          "longitude": -96.57116789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albee",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Grant County",
+          "latitude": 45.0521869,
+          "longitude": -96.5533899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gregory County",
+      "cities": [
+        {
+          "name": "St. Charles",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.0869262,
+          "longitude": -99.0954325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairfax",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.0274969,
+          "longitude": -98.8884228,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gregory",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.2355446,
+          "longitude": -99.42929269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burke",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.1824998,
+          "longitude": -99.2920453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dallas",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.2361121,
+          "longitude": -99.51705299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonesteel",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.0763861,
+          "longitude": -98.9445348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Herrick",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Gregory County",
+          "latitude": 43.1149991,
+          "longitude": -99.1878754,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Haakon County",
+      "cities": [
+        {
+          "name": "Midland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Haakon County",
+          "latitude": 44.0716539,
+          "longitude": -101.1554178,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Philip",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Haakon County",
+          "latitude": 44.0394329,
+          "longitude": -101.6651441,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hamlin County",
+      "cities": [
+        {
+          "name": "Poinsett Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.6410989,
+          "longitude": -96.9007908,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Claremont Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.7127857,
+          "longitude": -96.9517802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hazel",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.75968719999999,
+          "longitude": -97.37952399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Castlewood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.7227424,
+          "longitude": -97.0300678,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayti",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.6571872,
+          "longitude": -97.2050728,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bryant",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.5905226,
+          "longitude": -97.4673006,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Norden",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.5805215,
+          "longitude": -97.209238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estelline",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hamlin County",
+          "latitude": 44.5746881,
+          "longitude": -96.9022836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hand County",
+      "cities": [
+        {
+          "name": "Millerdale Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hand County",
+          "latitude": 44.3990566,
+          "longitude": -99.11103080000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Lawrence",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hand County",
+          "latitude": 44.5176332,
+          "longitude": -98.93812609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ree Heights",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hand County",
+          "latitude": 44.5185938,
+          "longitude": -99.2001057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Miller",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hand County",
+          "latitude": 44.5183148,
+          "longitude": -98.988434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hanson County",
+      "cities": [
+        {
+          "name": "Rosedale Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.6258816,
+          "longitude": -97.8762417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockport Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.5819266,
+          "longitude": -97.838959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Lane Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.5109828,
+          "longitude": -97.7403123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millbrook Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.66917919999999,
+          "longitude": -97.87079949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmer",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.7238686,
+          "longitude": -97.68840349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alexandria",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.653592,
+          "longitude": -97.7828482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fulton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.7247032,
+          "longitude": -97.823684,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Emery",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hanson County",
+          "latitude": 43.60164779999999,
+          "longitude": -97.62256719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harding County",
+      "cities": [
+        {
+          "name": "Camp Crook",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Harding County",
+          "latitude": 45.5502732,
+          "longitude": -103.9746555,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Harding County",
+          "latitude": 45.5841637,
+          "longitude": -103.5460251,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hughes County",
+      "cities": [
+        {
+          "name": "Oahe Acres",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hughes County",
+          "latitude": 44.4641735,
+          "longitude": -100.3505039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrold",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hughes County",
+          "latitude": 44.5244276,
+          "longitude": -99.7392837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pierre",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hughes County",
+          "latitude": 44.36678759999999,
+          "longitude": -100.3537522,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blunt",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hughes County",
+          "latitude": 44.5122043,
+          "longitude": -99.99206649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hutchinson County",
+      "cities": [
+        {
+          "name": "Wolf Creek Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.3474874,
+          "longitude": -97.6236775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tschetter Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.3702642,
+          "longitude": -97.6861778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Old Elm Spring Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.4938474,
+          "longitude": -97.79872999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Elm Spring Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.4883031,
+          "longitude": -97.82727709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milltown",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.4249708,
+          "longitude": -97.80824439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maxwell Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.1822145,
+          "longitude": -97.6345109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kaylor",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.1880473,
+          "longitude": -97.83868009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dimock",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.4741517,
+          "longitude": -97.9856277,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Menno",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.2397131,
+          "longitude": -97.5778442,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olivet",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.240824,
+          "longitude": -97.6753449,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parkston",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.3988755,
+          "longitude": -97.983683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Freeman",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.3524871,
+          "longitude": -97.4372863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tripp",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hutchinson County",
+          "latitude": 43.2255461,
+          "longitude": -97.96590499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hyde County",
+      "cities": [
+        {
+          "name": "Stephan",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hyde County",
+          "latitude": 44.2480424,
+          "longitude": -99.45316489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Highmore",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Hyde County",
+          "latitude": 44.5213731,
+          "longitude": -99.44150069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Wanblee",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jackson County",
+          "latitude": 43.5694425,
+          "longitude": -101.6604244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belvidere",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jackson County",
+          "latitude": 43.8319373,
+          "longitude": -101.271531,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Interior",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jackson County",
+          "latitude": 43.7269378,
+          "longitude": -101.9840423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottonwood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jackson County",
+          "latitude": 43.9669341,
+          "longitude": -101.9059831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jerauld County",
+      "cities": [
+        {
+          "name": "Spring Valley Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jerauld County",
+          "latitude": 44.0405485,
+          "longitude": -98.8870398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpena",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jerauld County",
+          "latitude": 44.1813767,
+          "longitude": -98.365646,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lane",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jerauld County",
+          "latitude": 44.0697111,
+          "longitude": -98.4250897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wessington Springs",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jerauld County",
+          "latitude": 44.0791571,
+          "longitude": -98.569536,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jones County",
+      "cities": [
+        {
+          "name": "Okaton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jones County",
+          "latitude": 43.8861013,
+          "longitude": -100.8918053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Draper",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Jones County",
+          "latitude": 43.9260994,
+          "longitude": -100.5404127,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kingsbury County",
+      "cities": [
+        {
+          "name": "Spring Lake Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.233053,
+          "longitude": -97.17633219999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arlington",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.3644133,
+          "longitude": -97.13312119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iroquois",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.3669201,
+          "longitude": -97.85091709999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bancroft",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.488028,
+          "longitude": -97.7500834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oldham",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.2274711,
+          "longitude": -97.30784589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Badger",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.4852447,
+          "longitude": -97.2047915,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "De Smet",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.3874696,
+          "longitude": -97.55035409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hetland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.3780244,
+          "longitude": -97.23506870000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Preston",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.3635802,
+          "longitude": -97.37729399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Erwin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Kingsbury County",
+          "latitude": 44.4874678,
+          "longitude": -97.4450758,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "cities": [
+        {
+          "name": "Winfred",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9972594,
+          "longitude": -97.36227,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rustic Acres Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.8710054,
+          "longitude": -97.0982581,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake Madison",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9641615,
+          "longitude": -97.01311749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Graceville Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9281496,
+          "longitude": -97.2841698,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chester",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.8949129,
+          "longitude": -96.92656050000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brant Lake South",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9116417,
+          "longitude": -96.93970019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nunda",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 44.1621934,
+          "longitude": -97.0189491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ramona",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 44.1194174,
+          "longitude": -97.21645319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wentworth",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9971946,
+          "longitude": -96.9642243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brant Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lake County",
+          "latitude": 43.9329449,
+          "longitude": -96.94688339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence County",
+      "cities": [
+        {
+          "name": "St. Onge",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.54645660000001,
+          "longitude": -103.7210895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Spearfish",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.5066506,
+          "longitude": -103.8921491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountain Plains",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.4685548,
+          "longitude": -103.8664809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crook City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.44139,
+          "longitude": -103.63306,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boulder Canyon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.3957344,
+          "longitude": -103.5990185,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.3658176,
+          "longitude": -103.772421,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deadwood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.376651,
+          "longitude": -103.7296415,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lead",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.3522065,
+          "longitude": -103.7651984,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitewood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lawrence County",
+          "latitude": 44.4610952,
+          "longitude": -103.6385276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Shindler",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.4749758,
+          "longitude": -96.64865800000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Worthing",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.3291475,
+          "longitude": -96.7628256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hudson",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.1302627,
+          "longitude": -96.4541993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lennox",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.3541476,
+          "longitude": -96.8919951,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tea",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.44636680000001,
+          "longitude": -96.83588470000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.3008146,
+          "longitude": -96.5928198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lincoln County",
+          "latitude": 43.2216499,
+          "longitude": -96.4900368,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lyman County",
+      "cities": [
+        {
+          "name": "West Brule",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 44.0722666,
+          "longitude": -99.639703,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vivian",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 43.9269323,
+          "longitude": -100.2920757,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lower Brule",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 44.0748794,
+          "longitude": -99.58008090000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oacoma",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 43.795991,
+          "longitude": -99.3955,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Presho",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 43.9097116,
+          "longitude": -100.0587343,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kennebec",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 43.903602,
+          "longitude": -99.8617833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reliance",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Lyman County",
+          "latitude": 43.878881,
+          "longitude": -99.60316449999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marshall County",
+      "cities": [
+        {
+          "name": "Westwood Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.8917874,
+          "longitude": -97.7803843,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunset Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.8057463,
+          "longitude": -97.8856294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newport Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.6797921,
+          "longitude": -97.9321452,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kidder",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.8830142,
+          "longitude": -97.71343499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eden",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.6166221,
+          "longitude": -97.41981539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Langford",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.6024517,
+          "longitude": -97.8303789,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Veblen",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.86301450000001,
+          "longitude": -97.2875924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lake City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Marshall County",
+          "latitude": 45.7252321,
+          "longitude": -97.4145399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McCook County",
+      "cities": [
+        {
+          "name": "Orland Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.8206967,
+          "longitude": -97.19923329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Golden View Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.694118,
+          "longitude": -97.44624859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridgewater",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.5516489,
+          "longitude": -97.507566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canistota",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.5977583,
+          "longitude": -97.2906172,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montrose",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.6985894,
+          "longitude": -97.18367119999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.7241455,
+          "longitude": -97.388953,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spencer",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McCook County",
+          "latitude": 43.7274793,
+          "longitude": -97.5931238,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McPherson County",
+      "cities": [
+        {
+          "name": "Spring Creek Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.9112928,
+          "longitude": -98.8800296,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Lake Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.60664329999999,
+          "longitude": -98.8195482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grassland Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.6674113,
+          "longitude": -98.7971592,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsview",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.66470229999999,
+          "longitude": -99.5584513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leola",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.7227538,
+          "longitude": -98.94094009999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Lake",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.8566411,
+          "longitude": -99.205113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wetonka",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "McPherson County",
+          "latitude": 45.6252548,
+          "longitude": -98.76787979999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Meade County",
+      "cities": [
+        {
+          "name": "Wonderland Homes",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.2033447,
+          "longitude": -103.342846,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blackhawk",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.15109830000001,
+          "longitude": -103.3079619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blucksberg Mountain",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.3591861,
+          "longitude": -103.4553688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Faith",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 45.0230391,
+          "longitude": -102.0359924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piedmont",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.231653,
+          "longitude": -103.3890753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sturgis",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.4097069,
+          "longitude": -103.5090786,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summerset",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Meade County",
+          "latitude": 44.189978,
+          "longitude": -103.34384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mellette County",
+      "cities": [
+        {
+          "name": "Norris",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Mellette County",
+          "latitude": 43.4732417,
+          "longitude": -101.1975962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Horse Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Mellette County",
+          "latitude": 43.5354453,
+          "longitude": -100.7407895,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corn Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Mellette County",
+          "latitude": 43.576096,
+          "longitude": -101.2042144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White River",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Mellette County",
+          "latitude": 43.5680531,
+          "longitude": -100.7454167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Mellette County",
+          "latitude": 43.498168,
+          "longitude": -100.4779116,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Miner County",
+      "cities": [
+        {
+          "name": "Shannon Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 43.9818453,
+          "longitude": -97.4259677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roswell",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.0071976,
+          "longitude": -97.6959079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fedora",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.0088656,
+          "longitude": -97.7909105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cloverleaf Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.1824716,
+          "longitude": -97.53701660000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Howard",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.0108074,
+          "longitude": -97.526736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carthage",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.1710853,
+          "longitude": -97.71646620000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vilas",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 44.0105302,
+          "longitude": -97.59729379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canova",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Miner County",
+          "latitude": 43.8810873,
+          "longitude": -97.5045121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Minnehaha County",
+      "cities": [
+        {
+          "name": "Sioux Falls",
+          "state": "South Dakota",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.5460223,
+          "longitude": -96.731265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.5946963,
+          "longitude": -96.5719896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.7860862,
+          "longitude": -96.9275557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crooks",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.6646975,
+          "longitude": -96.8108032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baltic",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.76136289999999,
+          "longitude": -96.7403289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dell Rapids",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.8260841,
+          "longitude": -96.7061609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garretson",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.7174725,
+          "longitude": -96.50282089999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartford",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.6230323,
+          "longitude": -96.942555,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Humboldt",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.6452557,
+          "longitude": -97.0739466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sherman",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.7591386,
+          "longitude": -96.47615309999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley Springs",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.5824734,
+          "longitude": -96.4678189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anderson",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.514867,
+          "longitude": -96.62468369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyons",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.72318730000001,
+          "longitude": -96.86808529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow View Addition",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.6255762,
+          "longitude": -96.7039169,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Lakes Addition",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.5514988,
+          "longitude": -96.6307107,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Renner Corner",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.6453163,
+          "longitude": -96.7113497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rowena",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Minnehaha County",
+          "latitude": 43.5202525,
+          "longitude": -96.55587770000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Moody County",
+      "cities": [
+        {
+          "name": "Pleasant Valley Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 44.05788920000001,
+          "longitude": -96.4689932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colman",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 43.9824719,
+          "longitude": -96.8144973,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flandreau",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 44.0494154,
+          "longitude": -96.59532399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trent",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 43.9063612,
+          "longitude": -96.65393689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ward",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 44.1546914,
+          "longitude": -96.4603202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Egan",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Moody County",
+          "latitude": 43.9991383,
+          "longitude": -96.6489366,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Oglala Lakota County",
+      "cities": [
+        {
+          "name": "Wounded Knee",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.1405442,
+          "longitude": -102.365715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Porcupine",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.2411963,
+          "longitude": -102.3294865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Ridge",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.02554079999999,
+          "longitude": -102.5562743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oglala",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.1885942,
+          "longitude": -102.739621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manderson-White Horse Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.2345917,
+          "longitude": -102.4896554,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kyle",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.4249934,
+          "longitude": -102.1765463,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Batesland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Oglala Lakota County",
+          "latitude": 43.1283061,
+          "longitude": -102.1011103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pennington County",
+      "cities": [
+        {
+          "name": "Rapid Valley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0624879,
+          "longitude": -103.1462899,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson Siding",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0847094,
+          "longitude": -103.4379659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Valley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0324216,
+          "longitude": -103.1111109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colonial Pine Hills",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0077658,
+          "longitude": -103.3154618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Caputa",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 43.99504750000001,
+          "longitude": -102.9802574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland Heights",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.1297097,
+          "longitude": -103.1251785,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hill City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 43.9324855,
+          "longitude": -103.575193,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rapid City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0805434,
+          "longitude": -103.2310149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wall",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 43.9924889,
+          "longitude": -102.2415477,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wasta",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0685986,
+          "longitude": -102.4457203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keystone",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 43.8955436,
+          "longitude": -103.4182455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Underwood",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.0933202,
+          "longitude": -102.8362824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Box Elder",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 44.1124877,
+          "longitude": -103.0682323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quinn",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Pennington County",
+          "latitude": 43.9880447,
+          "longitude": -102.1262668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Perkins County",
+      "cities": [
+        {
+          "name": "Prairie City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Perkins County",
+          "latitude": 45.5298866,
+          "longitude": -102.8094991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bison",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Perkins County",
+          "latitude": 45.5223918,
+          "longitude": -102.4649787,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lemmon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Perkins County",
+          "latitude": 45.940834,
+          "longitude": -102.1593201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Potter County",
+      "cities": [
+        {
+          "name": "Tolstoy",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Potter County",
+          "latitude": 45.2080354,
+          "longitude": -99.61428269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hoven",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Potter County",
+          "latitude": 45.2435941,
+          "longitude": -99.7770613,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebanon",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Potter County",
+          "latitude": 45.0697025,
+          "longitude": -99.7698372,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Roberts County",
+      "cities": [
+        {
+          "name": "White Rock Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.9097437,
+          "longitude": -96.626398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peever Flats",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.52384980000001,
+          "longitude": -96.9359099,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Hollow",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.68718080000001,
+          "longitude": -97.15341959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Agency Village",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.565819,
+          "longitude": -97.06565859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Claire City",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.8571812,
+          "longitude": -97.1036974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Effington",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.8563481,
+          "longitude": -96.9203579,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ortley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.33218300000001,
+          "longitude": -97.19563769999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosholt",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.8666263,
+          "longitude": -96.73146299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sisseton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.6646815,
+          "longitude": -97.0498046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Rock",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.91662660000001,
+          "longitude": -96.5717363,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilmot",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.4085732,
+          "longitude": -96.85784989999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corona",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.3338521,
+          "longitude": -96.7631231,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peever",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.5430163,
+          "longitude": -96.9547996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summit",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Roberts County",
+          "latitude": 45.3044062,
+          "longitude": -97.0364661,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sanborn County",
+      "cities": [
+        {
+          "name": "Upland Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sanborn County",
+          "latitude": 43.878214,
+          "longitude": -97.9769968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forestburg",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sanborn County",
+          "latitude": 44.022206,
+          "longitude": -98.1081397,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Letcher",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sanborn County",
+          "latitude": 43.8972067,
+          "longitude": -98.1386936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woonsocket",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sanborn County",
+          "latitude": 44.0535982,
+          "longitude": -98.27564319999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Artesian",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sanborn County",
+          "latitude": 44.0091465,
+          "longitude": -97.9209135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Spink County",
+      "cities": [
+        {
+          "name": "Spink Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.7466434,
+          "longitude": -98.2920381,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillside Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.7388625,
+          "longitude": -98.0459248,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.79942,
+          "longitude": -98.28759310000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clark Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.7894154,
+          "longitude": -97.9803683,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camrose Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.93528209999999,
+          "longitude": -98.2236995,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 45.049688,
+          "longitude": -98.09564639999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.9949746,
+          "longitude": -98.4978718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brentford",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 45.1602486,
+          "longitude": -98.3228702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Conde",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 45.1571854,
+          "longitude": -98.0975923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frankfort",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.8766409,
+          "longitude": -98.30537040000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mellette",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 45.1547722,
+          "longitude": -98.4661787,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northville",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 45.1555313,
+          "longitude": -98.57926289999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tulare",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.73803360000001,
+          "longitude": -98.50981759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redfield",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.8758095,
+          "longitude": -98.5187062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Doland",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Spink County",
+          "latitude": 44.8958034,
+          "longitude": -98.10064650000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Stanley County",
+      "cities": [
+        {
+          "name": "Fort Pierre",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Stanley County",
+          "latitude": 44.3535933,
+          "longitude": -100.3737447,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sully County",
+      "cities": [
+        {
+          "name": "Cow Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sully County",
+          "latitude": 44.5532371,
+          "longitude": -100.4757132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Agar",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sully County",
+          "latitude": 44.8383153,
+          "longitude": -100.0745668,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Onida",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Sully County",
+          "latitude": 44.7077106,
+          "longitude": -100.0617352,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Todd County",
+      "cities": [
+        {
+          "name": "Two Strike",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.2130603,
+          "longitude": -100.8757008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spring Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.1175054,
+          "longitude": -101.0226501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Soldier Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.32448,
+          "longitude": -100.8851105,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sicangu Village",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.0142581,
+          "longitude": -100.5760293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rosebud",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.2327824,
+          "longitude": -100.8534779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parmelee",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.32305849999999,
+          "longitude": -101.0265364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Okreek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.35971929999999,
+          "longitude": -100.3883516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antelope",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.3030592,
+          "longitude": -100.6293047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Francis",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Todd County",
+          "latitude": 43.1429794,
+          "longitude": -100.9051874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tripp County",
+      "cities": [
+        {
+          "name": "Ideal",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Tripp County",
+          "latitude": 43.5433299,
+          "longitude": -99.9215103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hamill",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Tripp County",
+          "latitude": 43.5947196,
+          "longitude": -99.68150070000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Witten",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Tripp County",
+          "latitude": 43.4398825,
+          "longitude": -100.0821291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colome",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Tripp County",
+          "latitude": 43.2605097,
+          "longitude": -99.7152302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winner",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Tripp County",
+          "latitude": 43.3766665,
+          "longitude": -99.8590069,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Turner County",
+      "cities": [
+        {
+          "name": "Cameron Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.1877096,
+          "longitude": -97.26326279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centerville",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.1194328,
+          "longitude": -96.96143699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.4230394,
+          "longitude": -97.2606153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monroe",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.4863706,
+          "longitude": -97.2150594,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Viborg",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.17026569999999,
+          "longitude": -97.0814405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dolton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.4908161,
+          "longitude": -97.38561890000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hurley",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.28304019999999,
+          "longitude": -97.08922020000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davis",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.2574838,
+          "longitude": -96.99560609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chancellor",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Turner County",
+          "latitude": 43.3722033,
+          "longitude": -96.986997,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "Dakota Dunes",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Union County",
+          "latitude": 42.4874948,
+          "longitude": -96.48642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beresford",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Union County",
+          "latitude": 43.0805446,
+          "longitude": -96.77365499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alcester",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Union County",
+          "latitude": 43.02137829999999,
+          "longitude": -96.6308708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Union County",
+          "latitude": 42.6024951,
+          "longitude": -96.5591992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elk Point",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Union County",
+          "latitude": 42.6833303,
+          "longitude": -96.68364749999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Walworth County",
+      "cities": [
+        {
+          "name": "Akaska",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.332489,
+          "longitude": -100.1206808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mobridge",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.5372162,
+          "longitude": -100.4279129,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Selby",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.5063788,
+          "longitude": -100.0320657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glenham",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.5327703,
+          "longitude": -100.2715173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Java",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.5033204,
+          "longitude": -99.88650829999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowry",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Walworth County",
+          "latitude": 45.3160993,
+          "longitude": -99.9826202,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yankton County",
+      "cities": [
+        {
+          "name": "Jamesville Colony",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 43.1027724,
+          "longitude": -97.4836751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gayville",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 42.8880517,
+          "longitude": -97.1722732,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mission Hill",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 42.9233296,
+          "longitude": -97.2789433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Utica",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 42.9811087,
+          "longitude": -97.4964525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Volin",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 42.9572174,
+          "longitude": -97.1803293,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yankton",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 42.87110879999999,
+          "longitude": -97.39728129999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lesterville",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 43.03935,
+          "longitude": -97.5955278,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irene",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Yankton County",
+          "latitude": 43.0834535,
+          "longitude": -97.1570149,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ziebach County",
+      "cities": [
+        {
+          "name": "Cherry Creek",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Ziebach County",
+          "latitude": 44.60554,
+          "longitude": -101.49987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridger",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Ziebach County",
+          "latitude": 44.5458193,
+          "longitude": -101.911264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Butte",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Ziebach County",
+          "latitude": 44.9886537,
+          "longitude": -101.2224805,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dupree",
+          "state": "SD",
+          "stateCode": "SD",
+          "county": "Ziebach County",
+          "latitude": 45.0474815,
+          "longitude": -101.6009896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hawaii",
+  "code": "HI",
+  "counties": [
+    {
+      "name": "Maui County",
+      "cities": [
+        {
+          "name": "Haiku-Pauwela",
+          "state": "HI",
+          "stateCode": "HI",
+          "county": "Maui County",
+          "latitude": 20.9173305,
+          "longitude": -156.3078665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

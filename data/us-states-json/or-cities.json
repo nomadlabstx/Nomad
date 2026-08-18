@@ -1,0 +1,4619 @@
+{
+  "name": "Oregon",
+  "code": "OR",
+  "counties": [
+    {
+      "name": "Baker County",
+      "cities": [
+        {
+          "name": "Pleasant Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.6743242,
+          "longitude": -117.6304869,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Haines",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.9115341,
+          "longitude": -117.9388288,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richland",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.7690498,
+          "longitude": -117.1685112,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sumpter",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.74570689999999,
+          "longitude": -118.2021633,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huntington",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.3512726,
+          "longitude": -117.2665686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halfway",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.880715,
+          "longitude": -117.1146173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unity",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.4373835,
+          "longitude": -118.1927121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenhorn",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Baker County",
+          "latitude": 44.7079624,
+          "longitude": -118.495582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benton County",
+      "cities": [
+        {
+          "name": "Summit",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.638056,
+          "longitude": -123.5775,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kings Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.7067856,
+          "longitude": -123.4345476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blodgett",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.5962833,
+          "longitude": -123.5210677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bellfountain",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.36389,
+          "longitude": -123.35417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alpine",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.3301223,
+          "longitude": -123.3603767,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alsea",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.3818892,
+          "longitude": -123.5970667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adair Village",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.6706762,
+          "longitude": -123.2178759,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Philomath",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Benton County",
+          "latitude": 44.540121,
+          "longitude": -123.3676014,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clackamas County",
+      "cities": [
+        {
+          "name": "Stafford",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3747226,
+          "longitude": -122.7024304,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhododendron",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3295632,
+          "longitude": -121.9111906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oatfield",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.41294120000001,
+          "longitude": -122.5921453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Grove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4167863,
+          "longitude": -122.6400934,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Hood Villages",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3511939,
+          "longitude": -121.9735364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mulino",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.2212415,
+          "longitude": -122.5816606,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jennings Lodge",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3912314,
+          "longitude": -122.6125923,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Government Camp",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3040072,
+          "longitude": -121.7547998,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Damascus",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4176209,
+          "longitude": -122.4589783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boring",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4313662,
+          "longitude": -122.3734641,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beavercreek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.2879294,
+          "longitude": -122.5353423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barlow",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.2527682,
+          "longitude": -122.7217106,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gladstone",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3802718,
+          "longitude": -122.5946179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sandy",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3973141,
+          "longitude": -122.2630704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rivergrove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3861703,
+          "longitude": -122.7307388,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milwaukie",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4426186,
+          "longitude": -122.6398398,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wilsonville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3029344,
+          "longitude": -122.7726687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canby",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.262692,
+          "longitude": -122.6957402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Johnson City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4049813,
+          "longitude": -122.5806693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oregon City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3556099,
+          "longitude": -122.605853,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estacada",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.2877198,
+          "longitude": -122.3351638,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Happy Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.4412329,
+          "longitude": -122.5125279,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Molalla",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.1475439,
+          "longitude": -122.5771264,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Linn",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clackamas County",
+          "latitude": 45.3662205,
+          "longitude": -122.6301313,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Clatsop County",
+      "cities": [
+        {
+          "name": "Westport",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1326105,
+          "longitude": -123.3748481,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Svensen",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.17083,
+          "longitude": -123.65806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "River Point",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1449668,
+          "longitude": -123.8042163,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Knappa",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1852779,
+          "longitude": -123.584722,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jeffers Gardens",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1521048,
+          "longitude": -123.8492706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Astoria",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1878841,
+          "longitude": -123.8312534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gearhart",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.0242745,
+          "longitude": -123.9112502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seaside",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 45.9931636,
+          "longitude": -123.9226385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cannon Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 45.8917738,
+          "longitude": -123.9615274,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Warrenton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Clatsop County",
+          "latitude": 46.1651049,
+          "longitude": -123.9237557,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Columbia County",
+      "cities": [
+        {
+          "name": "Warren",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 45.8187717,
+          "longitude": -122.8501226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deer Island",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 45.9321957,
+          "longitude": -122.8451357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Columbia City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 45.8931354,
+          "longitude": -122.8119968,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rainier",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 46.0891348,
+          "longitude": -122.9359776,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vernonia",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 45.8586855,
+          "longitude": -123.197782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clatskanie",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 46.1041403,
+          "longitude": -123.2039361,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prescott",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 46.04877339999999,
+          "longitude": -122.8889321,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scappoose",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Columbia County",
+          "latitude": 45.7577015,
+          "longitude": -122.8780677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coos County",
+      "cities": [
+        {
+          "name": "Saunders Lake",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.5248362,
+          "longitude": -124.216504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glasgow",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.43472,
+          "longitude": -124.21,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bunker Hill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.3559451,
+          "longitude": -124.2048339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lakeside",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.5756704,
+          "longitude": -124.1751136,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Myrtle Point",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.064832,
+          "longitude": -124.138992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Bend",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.4065012,
+          "longitude": -124.2242803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powers",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 42.8834435,
+          "longitude": -124.073152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bandon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.1189978,
+          "longitude": -124.408448,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coos Bay",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.3672213,
+          "longitude": -124.2131325,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coquille",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Coos County",
+          "latitude": 43.1770544,
+          "longitude": -124.1876075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Crook County",
+      "cities": [
+        {
+          "name": "Prineville Lake Acres",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Crook County",
+          "latitude": 44.1728031,
+          "longitude": -120.7813751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ochoco West",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Crook County",
+          "latitude": 44.4024349,
+          "longitude": -120.9218433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Juniper Canyon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Crook County",
+          "latitude": 44.1940294,
+          "longitude": -120.7595121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prineville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Crook County",
+          "latitude": 44.2998485,
+          "longitude": -120.8344664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Curry County",
+      "cities": [
+        {
+          "name": "Wedderburn",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.4295552,
+          "longitude": -124.4151064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pistol River",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.2770563,
+          "longitude": -124.3948296,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nesika Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.506389,
+          "longitude": -124.412222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Langlois",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.9236823,
+          "longitude": -124.4500174,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harbor",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.0531665,
+          "longitude": -124.2675917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Port Orford",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.7456644,
+          "longitude": -124.4973267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gold Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Curry County",
+          "latitude": 42.4073334,
+          "longitude": -124.421774,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Deschutes County",
+      "cities": [
+        {
+          "name": "Bend",
+          "state": "Oregon",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.0581728,
+          "longitude": -121.3153096,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sisters",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.2909491,
+          "longitude": -121.5492118,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "La Pine",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 43.6703014,
+          "longitude": -121.5037711,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redmond",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.2726203,
+          "longitude": -121.1739212,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Black Butte Ranch",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.37733859999999,
+          "longitude": -121.6536619,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deschutes River Woods",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 43.9915056,
+          "longitude": -121.3583642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Crest",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.264319,
+          "longitude": -121.3063364,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pronghorn",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.182909,
+          "longitude": -121.1847025,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seventh Mountain",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.00594359999999,
+          "longitude": -121.3816298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sunriver",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 43.8693935,
+          "longitude": -121.4333539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terrebonne",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.3528981,
+          "longitude": -121.1778129,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tetherow",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.0386482,
+          "longitude": -121.3665045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Three Rivers",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 43.8201188,
+          "longitude": -121.4691945,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tumalo",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Deschutes County",
+          "latitude": 44.1498398,
+          "longitude": -121.3308679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County",
+      "cities": [
+        {
+          "name": "Winchester Bay",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.6745446,
+          "longitude": -124.1751771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tri-City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 42.9792058,
+          "longitude": -123.325809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roseburg North",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.28217,
+          "longitude": -123.3460219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Melrose",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.247615,
+          "longitude": -123.4589675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lookingglass",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.1786109,
+          "longitude": -123.485,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.1603939,
+          "longitude": -123.3678491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glide",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.3015069,
+          "longitude": -123.1011754,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gardiner",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.7302934,
+          "longitude": -124.110418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fair Oaks",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.4174999,
+          "longitude": -123.21222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dillard",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.1028939,
+          "longitude": -123.4278501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Days Creek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 42.9723883,
+          "longitude": -123.1729844,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.6376174,
+          "longitude": -123.5681519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glendale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 42.73622839999999,
+          "longitude": -123.4233992,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakland",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.4220625,
+          "longitude": -123.2984101,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reedsport",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.7023389,
+          "longitude": -124.0967779,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Riddle",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 42.9509507,
+          "longitude": -123.3642332,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yoncalla",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.5984531,
+          "longitude": -123.2834167,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winston",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.1223383,
+          "longitude": -123.4125723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Myrtle Creek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.0201173,
+          "longitude": -123.2931205,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sutherlin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.3901177,
+          "longitude": -123.3125763,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canyonville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 42.9273406,
+          "longitude": -123.2811748,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Drain",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Douglas County",
+          "latitude": 43.65873089999999,
+          "longitude": -123.3186987,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gilliam County",
+      "cities": [
+        {
+          "name": "Arlington",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Gilliam County",
+          "latitude": 45.716796,
+          "longitude": -120.2008761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lonerock",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Gilliam County",
+          "latitude": 45.0892047,
+          "longitude": -119.8839797,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Condon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Gilliam County",
+          "latitude": 45.2342966,
+          "longitude": -120.1850344,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "Granite",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.8093131,
+          "longitude": -118.4177241,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Seneca",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.1345979,
+          "longitude": -118.9716139,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Long Creek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.714042,
+          "longitude": -119.1041375,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Vernon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.4176525,
+          "longitude": -119.1135709,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Canyon City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.3895995,
+          "longitude": -118.9502315,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.4682007,
+          "longitude": -119.5358104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monument",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.819314,
+          "longitude": -119.4211007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prairie City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Grant County",
+          "latitude": 44.46321349999999,
+          "longitude": -118.7099477,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harney County",
+      "cities": [
+        {
+          "name": "Crane",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Harney County",
+          "latitude": 43.4166527,
+          "longitude": -118.5786837,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burns",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Harney County",
+          "latitude": 43.586037,
+          "longitude": -119.0544462,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hines",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Harney County",
+          "latitude": 43.5640385,
+          "longitude": -119.0810482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hood River County",
+      "cities": [
+        {
+          "name": "Parkdale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Hood River County",
+          "latitude": 45.5198391,
+          "longitude": -121.5967417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Odell",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Hood River County",
+          "latitude": 45.6270622,
+          "longitude": -121.5431295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Hood",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Hood River County",
+          "latitude": 45.5378947,
+          "longitude": -121.568408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascade Locks",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Hood River County",
+          "latitude": 45.6698392,
+          "longitude": -121.8906354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hood River",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Hood River County",
+          "latitude": 45.70885699999999,
+          "longitude": -121.5122706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Wimer",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.53888999999999,
+          "longitude": -123.14778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.431618,
+          "longitude": -122.8354426,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Trail",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.6478403,
+          "longitude": -122.810476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ruch",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.2379092,
+          "longitude": -123.0400677,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rocky Point",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.4297495,
+          "longitude": -123.0995602,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prospect",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.754335,
+          "longitude": -122.4886972,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Foots Creek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.4048437,
+          "longitude": -123.1389402,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacksonville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.31345839999999,
+          "longitude": -122.9669865,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shady Cove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.61503889999999,
+          "longitude": -122.8118529,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butte Falls",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.5431843,
+          "longitude": -122.5655886,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gold Hill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.4317894,
+          "longitude": -123.0506035,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle Point",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.4726258,
+          "longitude": -122.8028177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rogue River",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.435954,
+          "longitude": -123.1719976,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Talent",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.2456844,
+          "longitude": -122.7886462,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Central Point",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.3759586,
+          "longitude": -122.9164307,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ashland",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.1967113,
+          "longitude": -122.7139216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Phoenix",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jackson County",
+          "latitude": 42.2754058,
+          "longitude": -122.818092,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Warm Springs",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jefferson County",
+          "latitude": 44.7634519,
+          "longitude": -121.2661625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crooked River Ranch",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jefferson County",
+          "latitude": 44.4251683,
+          "longitude": -121.2419539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camp Sherman",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jefferson County",
+          "latitude": 44.46056470000001,
+          "longitude": -121.6437291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Culver",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jefferson County",
+          "latitude": 44.5256753,
+          "longitude": -121.2130974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Metolius",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Jefferson County",
+          "latitude": 44.58650919999999,
+          "longitude": -121.1783761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Josephine County",
+      "cities": [
+        {
+          "name": "O\\",
+          "state": "Oregon",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.0672375,
+          "longitude": -123.7032075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williams",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.2187354,
+          "longitude": -123.2739548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Takilma",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.05166699999999,
+          "longitude": -123.618333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Selma",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.2793208,
+          "longitude": -123.6161053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Redwood",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.4220615,
+          "longitude": -123.3872831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Hope",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.3625,
+          "longitude": -123.36667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merlin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.5183938,
+          "longitude": -123.4202831,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kerby",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.1942797,
+          "longitude": -123.651735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cave Junction",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.1628912,
+          "longitude": -123.6481235,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grants Pass",
+          "state": "Oregon",
+          "stateCode": "OR",
+          "county": "Josephine County",
+          "latitude": 42.4390069,
+          "longitude": -123.3283925,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Klamath County",
+      "cities": [
+        {
+          "name": "Sprague River",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.4554215,
+          "longitude": -121.5041702,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Running Y Ranch",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.2769857,
+          "longitude": -121.8818962,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oregon Shores",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.5362383,
+          "longitude": -121.923891,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keno",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.1258699,
+          "longitude": -121.930338,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilchrist",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 43.4770694,
+          "longitude": -121.6853026,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Klamath",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.7045782,
+          "longitude": -121.9958544,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falcon Heights",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.1310723,
+          "longitude": -121.7556018,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crescent",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 43.4623474,
+          "longitude": -121.6955803,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crescent Lake",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 43.50892,
+          "longitude": -121.9358655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chemult",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 43.2165182,
+          "longitude": -121.7831612,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bly",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.39798510000001,
+          "longitude": -121.0428654,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver Marsh",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 43.13683169999999,
+          "longitude": -121.802937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beatty",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.441815,
+          "longitude": -121.2708314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Altamont",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.2068123,
+          "longitude": -121.737224,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Klamath Falls",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.224867,
+          "longitude": -121.7816704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.0126551,
+          "longitude": -121.4086021,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bonanza",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.1986938,
+          "longitude": -121.4053054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Merrill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.0251516,
+          "longitude": -121.6005501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chiloquin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Klamath County",
+          "latitude": 42.5776364,
+          "longitude": -121.8661258,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lake County",
+      "cities": [
+        {
+          "name": "Silver Lake",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lake County",
+          "latitude": 43.12784680000001,
+          "longitude": -121.0480986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Plush",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lake County",
+          "latitude": 42.4115331,
+          "longitude": -119.9031551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paisley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lake County",
+          "latitude": 42.69376339999999,
+          "longitude": -120.5460827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lane County",
+      "cities": [
+        {
+          "name": "Trent",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.94290360000001,
+          "longitude": -122.8606309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "River Road",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.0840132,
+          "longitude": -123.1337001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mapleton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.0312703,
+          "longitude": -123.8595462,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marcola",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.1732515,
+          "longitude": -122.8591736,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jasper",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.996515,
+          "longitude": -122.9061903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heceta Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.03361,
+          "longitude": -124.13,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elmira",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.068663,
+          "longitude": -123.3546445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dexter",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.915959,
+          "longitude": -122.8228506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cheshire",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.1895675,
+          "longitude": -123.2856507,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lowell",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.9184592,
+          "longitude": -122.7836822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coburg",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.1370689,
+          "longitude": -123.0664761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Creswell",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.9179023,
+          "longitude": -123.0245261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunes City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.8846208,
+          "longitude": -124.1156679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eugene",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.052121,
+          "longitude": -123.0896705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Florence",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.9826214,
+          "longitude": -124.0998409,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Veneta",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.0487342,
+          "longitude": -123.3509294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westfir",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.7573458,
+          "longitude": -122.4964399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springfield",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.0462362,
+          "longitude": -123.0220289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakridge",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.7465124,
+          "longitude": -122.4617159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cottage Grove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 43.7972473,
+          "longitude": -123.0590635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Junction City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lane County",
+          "latitude": 44.21929009999999,
+          "longitude": -123.2056484,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "San Marine",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.3537309,
+          "longitude": -124.0940084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rose Lodge",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 45.0213629,
+          "longitude": -123.88327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neotsu",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 45.0009965,
+          "longitude": -123.9812943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.85039,
+          "longitude": -124.0467818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayshore",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.4387303,
+          "longitude": -124.0748416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Depoe Bay",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.8084467,
+          "longitude": -124.0631713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Siletz",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.72178359999999,
+          "longitude": -123.920113,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waldport",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.426786,
+          "longitude": -124.0687302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yachats",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.31123119999999,
+          "longitude": -124.1048418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lincoln City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.9620902,
+          "longitude": -124.0159354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toledo",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Lincoln County",
+          "latitude": 44.621507,
+          "longitude": -123.9384478,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Linn County",
+      "cities": [
+        {
+          "name": "West Scio",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.7109555,
+          "longitude": -122.882868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Lebanon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.5063053,
+          "longitude": -122.9016319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shedd",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.4615117,
+          "longitude": -123.1103713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peoria",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.4487336,
+          "longitude": -123.2073187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lacomb",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.58528,
+          "longitude": -122.74222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.3547389,
+          "longitude": -122.7838197,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crawfordsville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.357069,
+          "longitude": -122.8578637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crabtree",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.6353266,
+          "longitude": -122.898643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cascadia",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.3966665,
+          "longitude": -122.484765,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrisburg",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.2740123,
+          "longitude": -123.170648,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mill City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.7540106,
+          "longitude": -122.4781385,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scio",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.7048445,
+          "longitude": -122.8492562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lyons",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.7745664,
+          "longitude": -122.6150855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Millersburg",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.6868832,
+          "longitude": -123.0640349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sodaville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.4837288,
+          "longitude": -122.8690294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tangent",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.5412335,
+          "longitude": -123.1081498,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waterloo",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.49401210000001,
+          "longitude": -122.8253658,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brownsville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.39345710000001,
+          "longitude": -122.9848108,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sweet Home",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.3976247,
+          "longitude": -122.7361959,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lebanon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.53651190000001,
+          "longitude": -122.9070339,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Halsey",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Linn County",
+          "latitude": 44.3840122,
+          "longitude": -123.1098145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Malheur County",
+      "cities": [
+        {
+          "name": "Riverside",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.5415481,
+          "longitude": -118.1590784,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Juntura",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.74460209999999,
+          "longitude": -118.0796249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harper",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.8633338,
+          "longitude": -117.6106525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brogan",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 44.2440822,
+          "longitude": -117.5189318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Annex",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 44.2401641,
+          "longitude": -116.9843331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ontario",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 44.0265525,
+          "longitude": -116.9629378,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.9821055,
+          "longitude": -117.2382311,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adrian",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.7407155,
+          "longitude": -117.0718261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jordan Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 42.9740445,
+          "longitude": -117.0543038,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nyssa",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Malheur County",
+          "latitude": 43.8768289,
+          "longitude": -116.9948804,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Mehama",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7901219,
+          "longitude": -122.6192523,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marion",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7490108,
+          "longitude": -122.942314,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Labish Village",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.0192862,
+          "longitude": -122.9723179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hayesville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.9828427,
+          "longitude": -122.9731864,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Four Corners",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.9279519,
+          "longitude": -122.9833845,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butteville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.2623415,
+          "longitude": -122.8403743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brooks",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.048175,
+          "longitude": -122.9584291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Detroit",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7340108,
+          "longitude": -122.1497982,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keizer",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.9901194,
+          "longitude": -123.0262077,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Angel",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.0678986,
+          "longitude": -122.8000917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Scotts Mills",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.0428996,
+          "longitude": -122.6684215,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stayton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.8006775,
+          "longitude": -122.7945333,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sublimity",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.8295663,
+          "longitude": -122.7945335,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Turner",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.8431766,
+          "longitude": -122.9528708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7195662,
+          "longitude": -123.0103708,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aurora",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.2309536,
+          "longitude": -122.7559267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gervais",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.1081752,
+          "longitude": -122.8975952,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hubbard",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.18234229999999,
+          "longitude": -122.8078718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Paul",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.21122949999999,
+          "longitude": -122.9767662,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gates",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7562329,
+          "longitude": -122.4167483,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Donald",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.2223418,
+          "longitude": -122.8392624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aumsville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.8409548,
+          "longitude": -122.8709243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idanha",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 44.7026218,
+          "longitude": -122.0786855,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Silverton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.0051213,
+          "longitude": -122.7831455,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodburn",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Marion County",
+          "latitude": 45.143731,
+          "longitude": -122.8553725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morrow County",
+      "cities": [
+        {
+          "name": "Ione",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Morrow County",
+          "latitude": 45.5012431,
+          "longitude": -119.8247508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boardman",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Morrow County",
+          "latitude": 45.83985500000001,
+          "longitude": -119.7005834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Heppner",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Morrow County",
+          "latitude": 45.3531842,
+          "longitude": -119.5577997,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Irrigon",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Morrow County",
+          "latitude": 45.8952518,
+          "longitude": -119.494593,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lexington",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Morrow County",
+          "latitude": 45.4451315,
+          "longitude": -119.6844694,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Multnomah County",
+      "cities": [
+        {
+          "name": "Orient",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.4673428,
+          "longitude": -122.3525897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.5399731,
+          "longitude": -122.4335957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunthorpe",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.4356748,
+          "longitude": -122.6550941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Troutdale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.5299324,
+          "longitude": -122.399317,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gresham",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.5044715,
+          "longitude": -122.4356657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wood Village",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.5342373,
+          "longitude": -122.4185159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maywood Park",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Multnomah County",
+          "latitude": 45.5527942,
+          "longitude": -122.5608738,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Polk County",
+      "cities": [
+        {
+          "name": "Rickreall",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 44.9322825,
+          "longitude": -123.2351037,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grand Ronde",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 45.060113,
+          "longitude": -123.6092771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Hill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 45.0674255,
+          "longitude": -123.5645154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eola",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 44.9309392,
+          "longitude": -123.1186574,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falls City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 44.8662285,
+          "longitude": -123.4359382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Independence",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 44.8512305,
+          "longitude": -123.1867655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monmouth",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Polk County",
+          "latitude": 44.8484524,
+          "longitude": -123.2339888,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Sherman County",
+      "cities": [
+        {
+          "name": "Biggs Junction",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Sherman County",
+          "latitude": 45.669846,
+          "longitude": -120.8328408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rufus",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Sherman County",
+          "latitude": 45.6948466,
+          "longitude": -120.7358936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grass Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Sherman County",
+          "latitude": 45.3601247,
+          "longitude": -120.7856114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Moro",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Sherman County",
+          "latitude": 45.4840141,
+          "longitude": -120.731168,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tillamook County",
+      "cities": [
+        {
+          "name": "Pacific City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.2023263,
+          "longitude": -123.9628946,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oceanside",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.4609359,
+          "longitude": -123.9679079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neskowin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.1074231,
+          "longitude": -123.9836635,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Netarts",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.4325756,
+          "longitude": -123.9447177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neahkahnie",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.72927319999999,
+          "longitude": -123.9406913,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idaville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.51,
+          "longitude": -123.86444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hebo",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.2293014,
+          "longitude": -123.8594655,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cloverdale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.2055135,
+          "longitude": -123.8879045,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cape Meares",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.4898249,
+          "longitude": -123.9587425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.2767726,
+          "longitude": -123.8265055,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bayside Gardens",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.7170426,
+          "longitude": -123.9148119,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barnesdale",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.6392734,
+          "longitude": -123.8545746,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barview",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.57,
+          "longitude": -123.94222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Manzanita",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.7184398,
+          "longitude": -123.9351354,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bay City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.5224907,
+          "longitude": -123.8890767,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nehalem",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.7201074,
+          "longitude": -123.8940225,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garibaldi",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.559354,
+          "longitude": -123.9109085,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockaway Beach",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.613438,
+          "longitude": -123.9429114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tillamook",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.4562158,
+          "longitude": -123.8440137,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheeler",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Tillamook County",
+          "latitude": 45.688996,
+          "longitude": -123.8806879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Umatilla County",
+      "cities": [
+        {
+          "name": "Umapine",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.9765234,
+          "longitude": -118.496362,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tutuilla",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.62318579999999,
+          "longitude": -118.698868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mission",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.6675327,
+          "longitude": -118.6838824,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meacham",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.5065187,
+          "longitude": -118.421349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McKay",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.49972,
+          "longitude": -118.61472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kirkpatrick",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.6813912,
+          "longitude": -118.6327174,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Meadows",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.6165191,
+          "longitude": -118.7997075,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gopher Flats",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.6679895,
+          "longitude": -118.7193357,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cayuse",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.6750809,
+          "longitude": -118.5710445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helix",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.8506443,
+          "longitude": -118.6582318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hermiston",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.8404101,
+          "longitude": -119.2894605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milton-Freewater",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.9326346,
+          "longitude": -118.3877435,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pilot Rock",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.4831849,
+          "longitude": -118.8299848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stanfield",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.7804098,
+          "longitude": -119.2172351,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ukiah",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.13403,
+          "longitude": -118.9324815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Weston",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.813744,
+          "longitude": -118.424688,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adams",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.767354,
+          "longitude": -118.5624734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Athena",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.8117992,
+          "longitude": -118.4905252,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Umatilla",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.9173549,
+          "longitude": -119.3425179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pendleton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.672075,
+          "longitude": -118.7885967,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Echo",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Umatilla County",
+          "latitude": 45.7423537,
+          "longitude": -119.195567,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Union County",
+      "cities": [
+        {
+          "name": "North Powder",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.0284737,
+          "longitude": -117.9199386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elgin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.5648612,
+          "longitude": -117.917434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Imbler",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.4595816,
+          "longitude": -117.9621587,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summerville",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.4884699,
+          "longitude": -118.0029941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.2965256,
+          "longitude": -117.8079872,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Island City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.3409671,
+          "longitude": -118.0446618,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Union",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Union County",
+          "latitude": 45.2084696,
+          "longitude": -117.8652126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wallowa County",
+      "cities": [
+        {
+          "name": "Wallowa Lake",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wallowa County",
+          "latitude": 45.30610060000001,
+          "longitude": -117.2118858,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enterprise",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wallowa County",
+          "latitude": 45.4262617,
+          "longitude": -117.2787815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lostine",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wallowa County",
+          "latitude": 45.4873692,
+          "longitude": -117.4296256,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Joseph",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wallowa County",
+          "latitude": 45.3543187,
+          "longitude": -117.2296126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallowa",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wallowa County",
+          "latitude": 45.5701445,
+          "longitude": -117.5282416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wasco County",
+      "cities": [
+        {
+          "name": "Wamic",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.22817269999999,
+          "longitude": -121.2692327,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tygh Valley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.24737349999999,
+          "longitude": -121.1726144,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sportsmans Park",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.2200648,
+          "longitude": -121.3950396,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rowena",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.6723426,
+          "longitude": -121.2684056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Grove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.1087279,
+          "longitude": -121.3636761,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Hollow",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.2404355,
+          "longitude": -121.291486,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chenoweth",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.6276198,
+          "longitude": -121.2434056,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Antelope",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 44.9106819,
+          "longitude": -120.7228173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dufur",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.4531754,
+          "longitude": -121.1306244,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maupin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.1751205,
+          "longitude": -121.0814491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mosier",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.6834528,
+          "longitude": -121.397295,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Dalles",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.6017716,
+          "longitude": -121.1848433,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shaniko",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wasco County",
+          "latitude": 45.0037364,
+          "longitude": -120.7522665,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Washington County",
+      "cities": [
+        {
+          "name": "West Slope",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4994342,
+          "longitude": -122.7753289,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Haven-Sylvan",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5172058,
+          "longitude": -122.7667348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rockcreek",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5510497,
+          "longitude": -122.8741537,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raleigh Hills",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4806734,
+          "longitude": -122.7620422,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Hills",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5403286,
+          "longitude": -122.8420675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Metzger",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4465072,
+          "longitude": -122.758986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marlene Village",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5167838,
+          "longitude": -122.8189888,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garden Home-Whitford",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.461816,
+          "longitude": -122.7590482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dilley",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4906697,
+          "longitude": -123.1234408,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cherry Grove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4475332,
+          "longitude": -123.2434921,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Hills",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5087595,
+          "longitude": -122.8062573,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Mill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5264131,
+          "longitude": -122.7927916,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bull Mountain",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4154922,
+          "longitude": -122.8205039,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethany",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.56433759999999,
+          "longitude": -122.8411631,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aloha",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4942838,
+          "longitude": -122.8670454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sherwood",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.3569341,
+          "longitude": -122.8410659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tualatin",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.3812575,
+          "longitude": -122.7642935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaverton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4869283,
+          "longitude": -122.804032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Forest Grove",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5196767,
+          "longitude": -123.1121017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tigard",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4269289,
+          "longitude": -122.7783874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Banks",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.6178088,
+          "longitude": -123.1144457,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornelius",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.5209516,
+          "longitude": -123.0595625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Durham",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.3934849,
+          "longitude": -122.7556036,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gaston",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4360527,
+          "longitude": -123.1417879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "King City",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.4027039,
+          "longitude": -122.8045345,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Plains",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Washington County",
+          "latitude": 45.59778499999999,
+          "longitude": -123.0008365,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wheeler County",
+      "cities": [
+        {
+          "name": "Spray",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wheeler County",
+          "latitude": 44.8347062,
+          "longitude": -119.7938545,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mitchell",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Wheeler County",
+          "latitude": 44.566525,
+          "longitude": -120.153341,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Yamhill County",
+      "cities": [
+        {
+          "name": "Lafayette",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.2434725,
+          "longitude": -123.1121482,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sheridan",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.0972788,
+          "longitude": -123.3953926,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Yamhill",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.3415301,
+          "longitude": -123.1878221,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amity",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.1155617,
+          "longitude": -123.2062156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dayton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.220824,
+          "longitude": -123.0755789,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dundee",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.2779095,
+          "longitude": -123.0109917,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carlton",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.2941973,
+          "longitude": -123.1770183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newberg",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.3003268,
+          "longitude": -122.9761318,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Willamina",
+          "state": "OR",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.0791034,
+          "longitude": -123.4845621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McMinnville",
+          "state": "Oregon",
+          "stateCode": "OR",
+          "county": "Yamhill County",
+          "latitude": 45.2107513,
+          "longitude": -123.1944874,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

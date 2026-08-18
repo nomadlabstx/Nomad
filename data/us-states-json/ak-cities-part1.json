@@ -1,0 +1,672 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Aleutians East Borough",
+      "cities": [
+        {
+          "name": "Cold Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians East Borough",
+          "latitude": 55.2062621,
+          "longitude": -162.7174221,
+          "population": 52,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "False Pass",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians East Borough",
+          "latitude": 54.8548006,
+          "longitude": -163.4141725,
+          "population": 401,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "King Cove",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians East Borough",
+          "latitude": 55.0593868,
+          "longitude": -162.3130507,
+          "population": 771,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nelson Lagoon",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Aleutians East Borough",
+          "latitude": 56.0013562,
+          "longitude": -161.2025489,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sand Point",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians East Borough",
+          "latitude": 55.34046859999999,
+          "longitude": -160.4985822,
+          "population": 600,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Aleutians West Census Area",
+      "cities": [
+        {
+          "name": "Adak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area",
+          "latitude": 51.8667982,
+          "longitude": -176.6385354,
+          "population": 154,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Atka",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area",
+          "latitude": 52.2099851,
+          "longitude": -174.2030272,
+          "population": 54,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. George",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area",
+          "latitude": 56.6016274,
+          "longitude": -169.5480771,
+          "population": 61,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Paul",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area",
+          "latitude": 57.1208002,
+          "longitude": -170.2829517,
+          "population": 399,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Aleutians West Census Area County",
+      "cities": [
+        {
+          "name": "Nikolski",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area County",
+          "latitude": 52.9402166,
+          "longitude": -168.8609255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Aleutians West Census Area County",
+      "cities": [
+        {
+          "name": "Eareckson Station",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area County",
+          "latitude": 52.7228375,
+          "longitude": 174.1123656,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Aleutians West Census Area County",
+      "cities": [
+        {
+          "name": "Attu Station",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Aleutians West Census Area County",
+          "latitude": 52.8468574,
+          "longitude": 173.2011444,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Aleutians West Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Aleutians West Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Anchorage Municipality",
+      "cities": []
+    },
+    {
+      "name": "Anchorage Municipality County",
+      "cities": []
+    },
+    {
+      "name": "Anchorage Municipality County",
+      "cities": []
+    },
+    {
+      "name": "Bethel Census Area",
+      "cities": [
+        {
+          "name": "Akiak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.9088356,
+          "longitude": -161.2216022,
+          "population": 448,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Aniak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 61.58287369999999,
+          "longitude": -159.5431623,
+          "population": 494,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chefornak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.15821819999999,
+          "longitude": -164.2803729,
+          "population": 490,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chuathbaluk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 61.57194440000001,
+          "longitude": -159.245,
+          "population": 99,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Eek",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.21678370000001,
+          "longitude": -162.0264471,
+          "population": 389,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Goodnews Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 59.1175331,
+          "longitude": -161.5842091,
+          "population": 252,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Kwethluk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.81031160000001,
+          "longitude": -161.4247474,
+          "population": 782,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lower Kalskag",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 61.5114542,
+          "longitude": -160.3633267,
+          "population": 269,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Mekoryuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.3873322,
+          "longitude": -166.1903478,
+          "population": 200,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Napakiak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.69582690000001,
+          "longitude": -161.9780151,
+          "population": 344,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Napaskiak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.7075019,
+          "longitude": -161.7645543,
+          "population": 494,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nightmute",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.4774176,
+          "longitude": -164.7210002,
+          "population": 293,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Nunapitchuk",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.8967612,
+          "longitude": -162.4579756,
+          "population": 580,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Platinum",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 59.01313940000001,
+          "longitude": -161.8211921,
+          "population": 54,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Quinhagak",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 59.75070770000001,
+          "longitude": -161.9020211,
+          "population": 750,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Toksook Bay",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 60.53093919999999,
+          "longitude": -165.1078016,
+          "population": 638,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Upper Kalskag",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Bethel Census Area",
+          "latitude": 61.53857490000001,
+          "longitude": -160.3195013,
+          "population": 209,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Tuluksak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.0990555,
+          "longitude": -160.960152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tuntutuliak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.3420194,
+          "longitude": -162.6667844,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tununak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.58522579999999,
+          "longitude": -165.2539222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Stony River",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.7874381,
+          "longitude": -156.5886204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Sleetmute",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.70169370000001,
+          "longitude": -157.1708636,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Red Devil",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.7824325,
+          "longitude": -157.3385621,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Oscarville",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.7224154,
+          "longitude": -161.7697801,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Newtok",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.937744,
+          "longitude": -164.6303862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Mertarvik",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.81172590000001,
+          "longitude": -164.5015834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Lime Village",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.3540702,
+          "longitude": -155.4390687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Kongiganak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 59.9595406,
+          "longitude": -162.8893068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kwigillingok",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 59.8753464,
+          "longitude": -163.1643125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Kipnuk",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 59.935486,
+          "longitude": -164.0404551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Kasigluk",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.8936812,
+          "longitude": -162.5211733,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Crooked Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 61.8677471,
+          "longitude": -158.1316331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Atmautluak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.86106090000001,
+          "longitude": -162.2755827,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": [
+        {
+          "name": "Akiachak",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bethel Census Area County",
+          "latitude": 60.91116150000001,
+          "longitude": -161.4419645,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Bethel Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Bristol Bay Borough",
+      "cities": [
+        {
+          "name": "South Naknek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bristol Bay Borough",
+          "latitude": 58.71439179999999,
+          "longitude": -157.0053326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bristol Bay Borough",
+      "cities": [
+        {
+          "name": "Naknek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Bristol Bay Borough",
+          "latitude": 58.72923780000001,
+          "longitude": -157.0064589,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

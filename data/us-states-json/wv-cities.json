@@ -1,0 +1,4723 @@
+{
+  "name": "West Virginia",
+  "code": "WV",
+  "counties": [
+    {
+      "name": "Barbour County",
+      "cities": [
+        {
+          "name": "Valley Bend",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Barbour County",
+          "latitude": 39.05978,
+          "longitude": -79.964516,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Galloway",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Barbour County",
+          "latitude": 39.2323377,
+          "longitude": -80.121949,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Century",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Barbour County",
+          "latitude": 39.0998183,
+          "longitude": -80.1886947,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Junior",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Barbour County",
+          "latitude": 38.9787148,
+          "longitude": -79.949519,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Barbour County",
+          "latitude": 39.0251028,
+          "longitude": -79.9356301,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley County",
+      "cities": [
+        {
+          "name": "Inwood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Berkeley County",
+          "latitude": 39.3578781,
+          "longitude": -78.0399994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falling Waters",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Berkeley County",
+          "latitude": 39.559546,
+          "longitude": -77.890639,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hedgesville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Berkeley County",
+          "latitude": 39.5534303,
+          "longitude": -77.99499930000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boone County",
+      "cities": [
+        {
+          "name": "Van",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 37.9712189,
+          "longitude": -81.71232499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Twilight",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 37.927329,
+          "longitude": -81.62344689999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Racine",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 38.1420461,
+          "longitude": -81.6603973,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greenview",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 37.996525,
+          "longitude": -81.81693299999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Comfort",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 38.1303804,
+          "longitude": -81.6156735,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whitesville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 37.9748295,
+          "longitude": -81.5290005,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sylvester",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 38.0103839,
+          "longitude": -81.5576133,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Danville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Boone County",
+          "latitude": 38.0809337,
+          "longitude": -81.8340123,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Braxton County",
+      "cities": [
+        {
+          "name": "Burnsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Braxton County",
+          "latitude": 38.8562068,
+          "longitude": -80.6548179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gassaway",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Braxton County",
+          "latitude": 38.6731544,
+          "longitude": -80.7748218,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sutton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Braxton County",
+          "latitude": 38.6645443,
+          "longitude": -80.70981909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Flatwoods",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Braxton County",
+          "latitude": 38.7231548,
+          "longitude": -80.6498166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Brooke County",
+      "cities": [
+        {
+          "name": "Hooverson Heights",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.3247916,
+          "longitude": -80.5775723,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colliers",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.3668437,
+          "longitude": -80.53897239999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Windsor Heights",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.1911823,
+          "longitude": -80.6653556,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Follansbee",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.3275693,
+          "longitude": -80.5959065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wellsburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.2720146,
+          "longitude": -80.6095187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bethany",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.205627,
+          "longitude": -80.55673840000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beech Bottom",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Brooke County",
+          "latitude": 40.2264597,
+          "longitude": -80.6514658,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cabell County",
+      "cities": [
+        {
+          "name": "Salt Rock",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.3231877,
+          "longitude": -82.2207706,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pea Ridge",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.41397389999999,
+          "longitude": -82.3198712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lesage",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.50647310000001,
+          "longitude": -82.29848229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Culloden",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.4200892,
+          "longitude": -82.0554159,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Milton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.4345321,
+          "longitude": -82.1323637,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barboursville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Cabell County",
+          "latitude": 38.4095298,
+          "longitude": -82.29459229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Calhoun County",
+      "cities": []
+    },
+    {
+      "name": "Clay County",
+      "cities": []
+    },
+    {
+      "name": "Doddridge County",
+      "cities": [
+        {
+          "name": "West Union",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Doddridge County",
+          "latitude": 39.2964723,
+          "longitude": -80.777049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fayette County",
+      "cities": [
+        {
+          "name": "Scarbro",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.9531674,
+          "longitude": -81.1656582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prince",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.8590038,
+          "longitude": -81.0537081,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Powellton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0989961,
+          "longitude": -81.323999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Page",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0528865,
+          "longitude": -81.2698303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Carbon",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1445648,
+          "longitude": -81.2890451,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kimberly",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.13566230000001,
+          "longitude": -81.30261039999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kincaid",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0406645,
+          "longitude": -81.2701079,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hico",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1174964,
+          "longitude": -81.00568489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hilltop",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.94289,
+          "longitude": -81.1509353,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Jean",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.9265014,
+          "longitude": -81.1501016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Ferris",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.153163,
+          "longitude": -81.2148303,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Garten",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0345557,
+          "longitude": -81.0767675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gatewood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0106676,
+          "longitude": -81.0609331,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falls View",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.128334,
+          "longitude": -81.249298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Deep Water",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.126774,
+          "longitude": -81.2637204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cunard",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.9987236,
+          "longitude": -81.03954329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Charlton Heights",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1237188,
+          "longitude": -81.23399719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boomer",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1506622,
+          "longitude": -81.28733249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beards Fork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0637201,
+          "longitude": -81.2273292,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Hope",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.8953906,
+          "longitude": -81.1642682,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fayetteville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.0528884,
+          "longitude": -81.1039911,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ansted",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1362201,
+          "longitude": -81.09954789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montgomery",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1803833,
+          "longitude": -81.32844519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pax",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.9098336,
+          "longitude": -81.2642718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithers",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1812169,
+          "longitude": -81.3070558,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thurmond",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.9615016,
+          "longitude": -81.08232199999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gauley Bridge",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 38.1684405,
+          "longitude": -81.1948297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Meadow Bridge",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Fayette County",
+          "latitude": 37.85900609999999,
+          "longitude": -80.8542568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Gilmer County",
+      "cities": [
+        {
+          "name": "Sand Fork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Gilmer County",
+          "latitude": 38.91398179999999,
+          "longitude": -80.7498222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Grant County",
+      "cities": [
+        {
+          "name": "Bayard",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Grant County",
+          "latitude": 39.2728826,
+          "longitude": -79.36449019999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenbrier County",
+      "cities": [
+        {
+          "name": "Fairlea",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.7806769,
+          "longitude": -80.4570191,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alderson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.725954,
+          "longitude": -80.6420237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Falling Spring",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.9917868,
+          "longitude": -80.3539643,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Quinwood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 38.057616,
+          "longitude": -80.7067562,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rupert",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.9631733,
+          "longitude": -80.68953139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lewisburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.8017879,
+          "longitude": -80.44563029999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rainelle",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.9687279,
+          "longitude": -80.7670342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ronceverte",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.7498438,
+          "longitude": -80.46285189999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Sulphur Springs",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Greenbrier County",
+          "latitude": 37.7965107,
+          "longitude": -80.2975704,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hampshire County",
+      "cities": [
+        {
+          "name": "Springfield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hampshire County",
+          "latitude": 39.450329,
+          "longitude": -78.6941834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Spring",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hampshire County",
+          "latitude": 39.5316977,
+          "longitude": -78.6160337,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Capon Bridge",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hampshire County",
+          "latitude": 39.2981565,
+          "longitude": -78.4361189,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hancock County",
+      "cities": [
+        {
+          "name": "Newell",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hancock County",
+          "latitude": 40.6183976,
+          "longitude": -80.6042384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Cumberland",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hancock County",
+          "latitude": 40.4967329,
+          "longitude": -80.6067392,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chester",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hancock County",
+          "latitude": 40.6131203,
+          "longitude": -80.56284780000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Hardy County",
+      "cities": [
+        {
+          "name": "Moorefield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hardy County",
+          "latitude": 39.06233,
+          "longitude": -78.96947229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wardensville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Hardy County",
+          "latitude": 39.0751067,
+          "longitude": -78.5977903,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Harrison County",
+      "cities": [
+        {
+          "name": "Wolf Summit",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2809222,
+          "longitude": -80.4609265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wallace",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.4095308,
+          "longitude": -80.4898145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Spelter",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.3450879,
+          "longitude": -80.3178657,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reynoldsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2884222,
+          "longitude": -80.4348145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hepzibah",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.3325883,
+          "longitude": -80.3353664,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gypsy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.3686985,
+          "longitude": -80.3178652,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Enterprise",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.4209193,
+          "longitude": -80.2778632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East View",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2692567,
+          "longitude": -80.3123111,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Despard",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2887006,
+          "longitude": -80.3059217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anmoore",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2567572,
+          "longitude": -80.2923107,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lost Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.1612035,
+          "longitude": -80.35203349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lumberport",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.3739761,
+          "longitude": -80.3484217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Salem",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2828653,
+          "longitude": -80.5589856,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shinnston",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.3956423,
+          "longitude": -80.3000866,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stonewood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2509238,
+          "longitude": -80.3123114,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bridgeport",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2864787,
+          "longitude": -80.25619809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clarksburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2806451,
+          "longitude": -80.34453409999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Milford",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2009242,
+          "longitude": -80.40425789999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nutter Fort",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Harrison County",
+          "latitude": 39.2634234,
+          "longitude": -80.31981139999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jackson County",
+      "cities": [
+        {
+          "name": "Cottageville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jackson County",
+          "latitude": 38.8656381,
+          "longitude": -81.8234667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ripley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jackson County",
+          "latitude": 38.8186957,
+          "longitude": -81.71068509999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Jefferson County",
+      "cities": [
+        {
+          "name": "Ranson corporation",
+          "state": "West Virginia",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.2951013,
+          "longitude": -77.8605508,
+          "population": 5699,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shannondale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.216289,
+          "longitude": -77.8098909,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shenandoah Junction",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.3587115,
+          "longitude": -77.8430506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Middleway",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.3034346,
+          "longitude": -77.9827756,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolivar",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.3234341,
+          "longitude": -77.752771,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shepherdstown",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.4300996,
+          "longitude": -77.8041609,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harpers Ferry",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.3253786,
+          "longitude": -77.7388818,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ranson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Jefferson County",
+          "latitude": 39.2951013,
+          "longitude": -77.8605508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Kanawha County",
+      "cities": [
+        {
+          "name": "Charleston",
+          "state": "West Virginia",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3498195,
+          "longitude": -81.6326234,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marmet",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2453787,
+          "longitude": -81.567064,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Albans",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3793695,
+          "longitude": -81.8191658,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dunbar",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3606509,
+          "longitude": -81.73734850000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nitro",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.4148146,
+          "longitude": -81.8440197,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "South Charleston",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3685523,
+          "longitude": -81.69988649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belle",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2320461,
+          "longitude": -81.5376184,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cedar Grove",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2212146,
+          "longitude": -81.4278932,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chesapeake",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2234352,
+          "longitude": -81.5362294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clendenin",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.488778,
+          "longitude": -81.348083,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Bank",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2181589,
+          "longitude": -81.4428935,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glasgow",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2153814,
+          "longitude": -81.4245595,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Handley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.1870493,
+          "longitude": -81.3653908,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pratt",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2101042,
+          "longitude": -81.38400279999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Chimney",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.40565309999999,
+          "longitude": -81.5356778,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chelyan",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.195381,
+          "longitude": -81.4909497,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coal Fork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3176,
+          "longitude": -81.5209534,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cross Lanes",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.4203709,
+          "longitude": -81.7906847,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dupont City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.264654,
+          "longitude": -81.56924,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elkview",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.4318841,
+          "longitude": -81.4773294,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eskdale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.091217,
+          "longitude": -81.44372369999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hansford",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2068324,
+          "longitude": -81.3956135,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hollygrove",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.1903823,
+          "longitude": -81.3959471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Institute",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.38377,
+          "longitude": -81.7657977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jefferson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3753721,
+          "longitude": -81.7804057,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kanawha",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2556905,
+          "longitude": -81.42789839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Malden",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3006553,
+          "longitude": -81.557065,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pinch",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.4087094,
+          "longitude": -81.48178759999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rand",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.286667,
+          "longitude": -81.561667,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shrewsbury",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.2062143,
+          "longitude": -81.4715049,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sissonville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.5281485,
+          "longitude": -81.6309601,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tornado",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3428575,
+          "longitude": -81.844319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Dunbar",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Kanawha County",
+          "latitude": 38.3721329,
+          "longitude": -81.7554578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lewis County",
+      "cities": [
+        {
+          "name": "Jane Lew",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Lewis County",
+          "latitude": 39.1098153,
+          "longitude": -80.4067566,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Lincoln County",
+      "cities": [
+        {
+          "name": "Harts",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Lincoln County",
+          "latitude": 38.0312078,
+          "longitude": -82.1293017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Alum Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Lincoln County",
+          "latitude": 38.2881186,
+          "longitude": -81.810532,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Hamlin",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Lincoln County",
+          "latitude": 38.2856444,
+          "longitude": -82.19569779999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Logan County",
+      "cities": [
+        {
+          "name": "Verdunville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8457981,
+          "longitude": -82.0555257,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Stollings",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8376042,
+          "longitude": -81.964568,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Switzer",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7931605,
+          "longitude": -81.9876237,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sarah Ann",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7112176,
+          "longitude": -81.98734499999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rossmore",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8092713,
+          "longitude": -81.9812348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Robinette",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7826282,
+          "longitude": -81.7951054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Peach Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8745475,
+          "longitude": -81.9848471,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Omar",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7556612,
+          "longitude": -81.9995679,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mount Gay-Shamrock",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8458213,
+          "longitude": -82.014416,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Neibert",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7881611,
+          "longitude": -81.9417886,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monaville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8120488,
+          "longitude": -81.9948465,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McConnell",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.82566,
+          "longitude": -81.9667901,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mallory",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7307434,
+          "longitude": -81.83792249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kistler",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7562183,
+          "longitude": -81.8601187,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Justice Addition",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8926025,
+          "longitude": -81.9929033,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holden",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8242695,
+          "longitude": -82.05957269999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henlawson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.9023246,
+          "longitude": -81.988181,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Earling",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7664952,
+          "longitude": -81.9153986,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crooked Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8833023,
+          "longitude": -81.973936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chauncey",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7662166,
+          "longitude": -81.9876233,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruno",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.6906636,
+          "longitude": -81.8690074,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 38.0042658,
+          "longitude": -82.0401298,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amherstdale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7826282,
+          "longitude": -81.7951054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Accoville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7682241,
+          "longitude": -81.8395163,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Man",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.7398294,
+          "longitude": -81.87761909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mitchell Heights",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.9073246,
+          "longitude": -81.9831808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Logan",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.8667699,
+          "longitude": -81.9865138,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chapmanville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Logan County",
+          "latitude": 37.9737114,
+          "longitude": -82.0173502,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marion County",
+      "cities": [
+        {
+          "name": "Rachel",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.51853699999999,
+          "longitude": -80.30334140000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Idamay",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.4947354,
+          "longitude": -80.260663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carolina",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.4803621,
+          "longitude": -80.2734176,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baxter",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5403331,
+          "longitude": -80.1428126,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "White Hall",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.4211977,
+          "longitude": -80.1825815,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Worthington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.4525851,
+          "longitude": -80.2603622,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Barrackville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5036951,
+          "longitude": -80.1667454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fairview",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5925816,
+          "longitude": -80.24757869999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Farmington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5128612,
+          "longitude": -80.2489715,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Grant Town",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5581383,
+          "longitude": -80.1817437,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mannington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5309169,
+          "longitude": -80.343418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Monongah",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.462585,
+          "longitude": -80.21813770000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pleasant Valley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.4553636,
+          "longitude": -80.1417454,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rivesville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marion County",
+          "latitude": 39.5298059,
+          "longitude": -80.11674169999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Marshall County",
+      "cities": [
+        {
+          "name": "Glen Dale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marshall County",
+          "latitude": 39.9478531,
+          "longitude": -80.75420539999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McMechen",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marshall County",
+          "latitude": 39.9881293,
+          "longitude": -80.73147180000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Benwood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marshall County",
+          "latitude": 40.0181288,
+          "longitude": -80.7342493,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cameron",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Marshall County",
+          "latitude": 39.8270237,
+          "longitude": -80.566467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mason County",
+      "cities": [
+        {
+          "name": "Gallipolis Ferry",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.77063709999999,
+          "longitude": -82.1987575,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clifton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 39.0023007,
+          "longitude": -82.04153,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Apple Grove",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.66508350000001,
+          "longitude": -82.1690337,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Haven",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.986468,
+          "longitude": -81.9734718,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hartford City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 39.0039676,
+          "longitude": -81.98902799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Henderson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.833692,
+          "longitude": -82.1382,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mason",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 39.021745,
+          "longitude": -82.0290296,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Leon",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.7506394,
+          "longitude": -81.96069349999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Point Pleasant",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mason County",
+          "latitude": 38.8445251,
+          "longitude": -82.1370889,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "McDowell County",
+      "cities": [
+        {
+          "name": "Vivian",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.41817,
+          "longitude": -81.4873265,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Roderfield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4503901,
+          "longitude": -81.7056659,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raysal",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.343168,
+          "longitude": -81.7823349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pageton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3495491,
+          "longitude": -81.4649148,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Maybeury",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.37094889999999,
+          "longitude": -81.366491,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crumpler",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4248377,
+          "longitude": -81.3417681,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cucumber",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.277892,
+          "longitude": -81.6267747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Big Sandy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4642788,
+          "longitude": -81.69816589999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Berwind",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.268725,
+          "longitude": -81.6667753,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bartley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3406684,
+          "longitude": -81.7376104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Keystone",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4148369,
+          "longitude": -81.450937,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Anawalt",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3359486,
+          "longitude": -81.4364928,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4784458,
+          "longitude": -81.6534423,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Iaeger",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4645557,
+          "longitude": -81.813726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Northfork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.420948,
+          "longitude": -81.4401034,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "War",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3012246,
+          "longitude": -81.69094249999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradshaw",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3517789,
+          "longitude": -81.7987249,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gary",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.3637253,
+          "longitude": -81.5501063,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kimball",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "McDowell County",
+          "latitude": 37.4256698,
+          "longitude": -81.5067713,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mercer County",
+      "cities": [
+        {
+          "name": "Montcalm",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.3540054,
+          "longitude": -81.2525993,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Matoaka",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.4201162,
+          "longitude": -81.2431548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lashmeet",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.4210721,
+          "longitude": -81.1970525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brush Fork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.2809502,
+          "longitude": -81.25593239999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluewell",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.3126167,
+          "longitude": -81.2598216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Athens",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.4223414,
+          "longitude": -81.0161994,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bramwell",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.3251163,
+          "longitude": -81.3117673,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bluefield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.2698395,
+          "longitude": -81.2223195,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oakvale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.3342865,
+          "longitude": -80.96258399999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Princeton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mercer County",
+          "latitude": 37.3662293,
+          "longitude": -81.1025918,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mineral County",
+      "cities": [
+        {
+          "name": "Wiley Ford",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.6145328,
+          "longitude": -78.7750188,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Ashby",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.5031465,
+          "longitude": -78.76862969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burlington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.3375992,
+          "longitude": -78.9180799,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piedmont",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.4803706,
+          "longitude": -79.0478073,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carpendale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.625211,
+          "longitude": -78.7901203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elk Garden",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.3834313,
+          "longitude": -79.154201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ridgeley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mineral County",
+          "latitude": 39.6414767,
+          "longitude": -78.7744632,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Mingo County",
+      "cities": [
+        {
+          "name": "Red Jacket",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.6484379,
+          "longitude": -82.14013229999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Justice",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.5887208,
+          "longitude": -81.8353943,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilbert Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.57621590000001,
+          "longitude": -81.8949391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chattaroy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.7034341,
+          "longitude": -82.280974,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Matewan",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.6220489,
+          "longitude": -82.1631893,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kermit",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.8437074,
+          "longitude": -82.4093134,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Delbarton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.7106581,
+          "longitude": -82.1840239,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Gilbert",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.61427580000001,
+          "longitude": -81.8665068,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamson",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Mingo County",
+          "latitude": 37.6742682,
+          "longitude": -82.2773629,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monongalia County",
+      "cities": [
+        {
+          "name": "Pentress",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.7102861,
+          "longitude": -80.1603743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Osage",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.65869199999999,
+          "longitude": -80.00756489999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cheat Lake",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6720244,
+          "longitude": -79.85339069999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cassville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6656362,
+          "longitude": -80.0636782,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brookhaven",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6117487,
+          "longitude": -79.904506,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Booth",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.5970269,
+          "longitude": -80.01534529999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blacksville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.7200788,
+          "longitude": -80.2120156,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Star City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6584142,
+          "longitude": -79.9864528,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westover",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6345259,
+          "longitude": -79.9697862,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Granville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6459146,
+          "longitude": -79.98728659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Morgantown",
+          "state": "West Virginia",
+          "stateCode": "WV",
+          "county": "Monongalia County",
+          "latitude": 39.6304078,
+          "longitude": -79.95446799999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Monroe County",
+      "cities": [
+        {
+          "name": "Greenville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monroe County",
+          "latitude": 37.5442464,
+          "longitude": -80.6818942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Union",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Monroe County",
+          "latitude": 37.591512,
+          "longitude": -80.5436807,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Morgan County",
+      "cities": [
+        {
+          "name": "Great Cacapon",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Morgan County",
+          "latitude": 39.62009279999999,
+          "longitude": -78.29250929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paw Paw",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Morgan County",
+          "latitude": 39.5320379,
+          "longitude": -78.4583445,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas County",
+      "cities": [
+        {
+          "name": "Tioga",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.420385,
+          "longitude": -80.656204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nettie",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.2186059,
+          "longitude": -80.6863321,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fenwick",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.229304,
+          "longitude": -80.58236819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Craigsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.3306658,
+          "longitude": -80.6531473,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Birch River",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.4987149,
+          "longitude": -80.75509819999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Belva",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.2312172,
+          "longitude": -81.192053,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Summersville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.2812203,
+          "longitude": -80.8525981,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Richwood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Nicholas County",
+          "latitude": 38.2248367,
+          "longitude": -80.5331411,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ohio County",
+      "cities": [
+        {
+          "name": "Bethlehem",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.043962,
+          "longitude": -80.6906355,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Clearview",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.1411828,
+          "longitude": -80.6881348,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley Grove",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.0875732,
+          "longitude": -80.5703508,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "West Liberty",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.169794,
+          "longitude": -80.5936851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Triadelphia",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.0525734,
+          "longitude": -80.62840969999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheeling",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ohio County",
+          "latitude": 40.0645386,
+          "longitude": -80.720417,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pendleton County",
+      "cities": [
+        {
+          "name": "Brandywine",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pendleton County",
+          "latitude": 38.6248402,
+          "longitude": -79.2447608,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pleasants County",
+      "cities": [
+        {
+          "name": "Belmont",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pleasants County",
+          "latitude": 39.3795193,
+          "longitude": -81.2584476,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Marys",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pleasants County",
+          "latitude": 39.3962109,
+          "longitude": -81.2013363,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Pocahontas County",
+      "cities": [
+        {
+          "name": "Huntersville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.1887327,
+          "longitude": -80.0161727,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Green Bank",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.4195305,
+          "longitude": -79.831808,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Frank",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.546725,
+          "longitude": -79.80866209999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cass",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.396785,
+          "longitude": -79.9147826,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bartow",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.5412272,
+          "longitude": -79.78422379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Arbovale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.4353962,
+          "longitude": -79.81755679999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hillsboro",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.1353972,
+          "longitude": -80.2131261,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Durbin",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Pocahontas County",
+          "latitude": 38.5456711,
+          "longitude": -79.82505909999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Preston County",
+      "cities": [
+        {
+          "name": "Arthurdale",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.4950858,
+          "longitude": -79.8150605,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aurora",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.3242679,
+          "longitude": -79.55449890000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rowlesburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.348604,
+          "longitude": -79.6708726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tunnelton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.3931905,
+          "longitude": -79.74684649999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Albright",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.4940273,
+          "longitude": -79.6428179,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brandonville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.6658993,
+          "longitude": -79.6205016,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Masontown",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.552305,
+          "longitude": -79.79773159999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Reedsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.5106032,
+          "longitude": -79.79850859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Newburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.3884168,
+          "longitude": -79.8528687,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terra Alta",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.4437875,
+          "longitude": -79.54061659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kingwood",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.4720171,
+          "longitude": -79.687309,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bruceton Mills",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Preston County",
+          "latitude": 39.6588501,
+          "longitude": -79.6402555,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Putnam County",
+      "cities": [
+        {
+          "name": "Teays Valley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.4500905,
+          "longitude": -81.9293007,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raymond City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.4823134,
+          "longitude": -81.81846469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hometown",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.5328674,
+          "longitude": -81.86124439999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Winfield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.5331448,
+          "longitude": -81.8934675,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bancroft",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.5095347,
+          "longitude": -81.83985469999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Buffalo",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.6175863,
+          "longitude": -81.98180420000001,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eleanor",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.5375886,
+          "longitude": -81.9323577,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Poca",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Putnam County",
+          "latitude": 38.4723137,
+          "longitude": -81.8142977,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh County",
+      "cities": [
+        {
+          "name": "Stanaford",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.8154888,
+          "longitude": -81.1527548,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sprague",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.797486,
+          "longitude": -81.1816399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shady Spring",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7056722,
+          "longitude": -81.09842929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Raleigh",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7381597,
+          "longitude": -81.2518833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Prosperity",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.8365023,
+          "longitude": -81.20176839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Piney View",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.8362253,
+          "longitude": -81.1348216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "MacArthur",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7559098,
+          "longitude": -81.2146272,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helen",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.6348366,
+          "longitude": -81.3139908,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen White",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7303919,
+          "longitude": -81.2798243,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ghent",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.6170613,
+          "longitude": -81.1148177,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eccles",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7831692,
+          "longitude": -81.265936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dorothy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.9551086,
+          "longitude": -81.44955379999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Daniels",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7431715,
+          "longitude": -81.1228751,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crab Orchard",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7385366,
+          "longitude": -81.22158999999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Coal City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.6790041,
+          "longitude": -81.2103776,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Colcord",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.9442757,
+          "longitude": -81.4370533,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bradley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.8653908,
+          "longitude": -81.193991,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bolt",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7623349,
+          "longitude": -81.4123267,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beaver",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7476157,
+          "longitude": -81.1423203,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beckley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7765659,
+          "longitude": -81.1851434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rhodell",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.6087257,
+          "longitude": -81.3056572,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lester",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7348361,
+          "longitude": -81.2995468,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mabscott",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.77094779999999,
+          "longitude": -81.208434,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sophia",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Raleigh County",
+          "latitude": 37.7076145,
+          "longitude": -81.25065699999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Randolph County",
+      "cities": [
+        {
+          "name": "Whitmer",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.81288929999999,
+          "longitude": -79.5489418,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Valley Head",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.545113,
+          "longitude": -80.0359015,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pickens",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.6551073,
+          "longitude": -80.211743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Norton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.93213739999999,
+          "longitude": -79.9650319,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Helvetia",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.7059394,
+          "longitude": -80.2011881,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "East Dailey",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.7812019,
+          "longitude": -79.8940806,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dailey",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.7958111,
+          "longitude": -79.8982793,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bowden",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.9087197,
+          "longitude": -79.7097836,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Montrose",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 39.0684376,
+          "longitude": -79.8103467,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Beverly",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.8406633,
+          "longitude": -79.8753457,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Huttonsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.7128871,
+          "longitude": -79.9789588,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mill Creek",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.7314978,
+          "longitude": -79.9700699,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harman",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.9223323,
+          "longitude": -79.52505339999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Womelsdorf (Coalton)",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Randolph County",
+          "latitude": 38.8965947,
+          "longitude": -79.9679996,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Ritchie County",
+      "cities": [
+        {
+          "name": "Ellenboro",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.2645232,
+          "longitude": -81.0562217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pennsboro",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.2850799,
+          "longitude": -80.9684422,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cairo",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.2086894,
+          "longitude": -81.1573349,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pullman",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.1873045,
+          "longitude": -80.94983049999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Auburn",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.0956418,
+          "longitude": -80.85621619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Harrisville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Ritchie County",
+          "latitude": 39.2095244,
+          "longitude": -81.05177719999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Roane County",
+      "cities": [
+        {
+          "name": "Reedy",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Roane County",
+          "latitude": 38.8995287,
+          "longitude": -81.42484329999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Summers County",
+      "cities": [
+        {
+          "name": "Hinton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Summers County",
+          "latitude": 37.674008,
+          "longitude": -80.8892539,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Taylor County",
+      "cities": [
+        {
+          "name": "Flemington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Taylor County",
+          "latitude": 39.2664815,
+          "longitude": -80.1320277,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tucker County",
+      "cities": [
+        {
+          "name": "St. George",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.1667717,
+          "longitude": -79.7022868,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Davis",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.1287189,
+          "longitude": -79.4647739,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hendricks",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.0751069,
+          "longitude": -79.6308933,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parsons",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.096495,
+          "longitude": -79.68089599999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hambleton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.0820511,
+          "longitude": -79.6453386,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thomas",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tucker County",
+          "latitude": 39.1489967,
+          "longitude": -79.498109,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Tyler County",
+      "cities": [
+        {
+          "name": "Middlebourne",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tyler County",
+          "latitude": 39.4922999,
+          "longitude": -80.90371809999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Friendly",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Tyler County",
+          "latitude": 39.51590849999999,
+          "longitude": -81.05927659999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Upshur County",
+      "cities": [
+        {
+          "name": "Rock Cave",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Upshur County",
+          "latitude": 38.8367674,
+          "longitude": -80.3425838,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hinkleville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Upshur County",
+          "latitude": 38.9267662,
+          "longitude": -80.262305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Adrian",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Upshur County",
+          "latitude": 38.9053777,
+          "longitude": -80.27563839999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wayne County",
+      "cities": [
+        {
+          "name": "Prichard",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 38.2400841,
+          "longitude": -82.59849109999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lavalette",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 38.3228619,
+          "longitude": -82.4468201,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Crum",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 37.90565,
+          "longitude": -82.4459823,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Gay",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 38.1161988,
+          "longitude": -82.59571179999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ceredo",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 38.3964711,
+          "longitude": -82.55876889999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wayne",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wayne County",
+          "latitude": 38.2214748,
+          "longitude": -82.4423747,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Webster County",
+      "cities": [
+        {
+          "name": "Parcoal",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Webster County",
+          "latitude": 38.4592762,
+          "longitude": -80.37341359999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bergoo",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Webster County",
+          "latitude": 38.4864989,
+          "longitude": -80.3006326,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Camden-on-Gauley",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Webster County",
+          "latitude": 38.3671428,
+          "longitude": -80.59741609999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cowen",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Webster County",
+          "latitude": 38.4095529,
+          "longitude": -80.55786619999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wetzel County",
+      "cities": [
+        {
+          "name": "Reader",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.5689689,
+          "longitude": -80.7328765,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Littleton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.6978606,
+          "longitude": -80.51702519999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jacksonburg",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.5323042,
+          "longitude": -80.64176290000002,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paden City",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.6028538,
+          "longitude": -80.9367705,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hundred",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.6836937,
+          "longitude": -80.45896859999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pine Grove",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.5659143,
+          "longitude": -80.6789851,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Smithfield",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.4995282,
+          "longitude": -80.56176099999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "New Martinsville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wetzel County",
+          "latitude": 39.6445214,
+          "longitude": -80.85759929999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wirt County",
+      "cities": [
+        {
+          "name": "Newark",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wirt County",
+          "latitude": 39.1189673,
+          "longitude": -81.39761949999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Elizabeth",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wirt County",
+          "latitude": 39.0634129,
+          "longitude": -81.3951198,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wood County",
+      "cities": [
+        {
+          "name": "Washington",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.244853,
+          "longitude": -81.6637765,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Waverly",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.3381347,
+          "longitude": -81.3795897,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mineralwells",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.1788338,
+          "longitude": -81.5116809,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lubeck",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.2353534,
+          "longitude": -81.6312384,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Boaz",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.3614632,
+          "longitude": -81.5020672,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Blennerhassett",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.2636863,
+          "longitude": -81.6292938,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "North Hills",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.3164636,
+          "longitude": -81.5129008,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Williamstown",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.4006299,
+          "longitude": -81.4481766,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vienna",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wood County",
+          "latitude": 39.3270191,
+          "longitude": -81.5484578,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming County",
+      "cities": [
+        {
+          "name": "New Richmond",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5701133,
+          "longitude": -81.4887152,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Matheny",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.6648336,
+          "longitude": -81.6003863,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kopperston",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.7484443,
+          "longitude": -81.5695525,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Itmann",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5735781,
+          "longitude": -81.4176217,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Glen Fork",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.696469,
+          "longitude": -81.530324,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Covel",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.4909485,
+          "longitude": -81.3226011,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Corinne",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5727964,
+          "longitude": -81.3573004,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bud",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5373919,
+          "longitude": -81.37950959999999,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Brenton",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5960408,
+          "longitude": -81.6358425,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pineville",
+          "state": "WV",
+          "stateCode": "WV",
+          "county": "Wyoming County",
+          "latitude": 37.5831684,
+          "longitude": -81.5370499,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

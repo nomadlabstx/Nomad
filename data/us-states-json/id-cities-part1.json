@@ -1,0 +1,655 @@
+{
+  "name": "Idaho",
+  "code": "ID",
+  "counties": [
+    {
+      "name": "Ada County",
+      "cities": [
+        {
+          "name": "Avimor",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.77746459999999,
+          "longitude": -116.257216,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Eagle",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6954424,
+          "longitude": -116.3540138,
+          "population": 32319,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Garden City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6221108,
+          "longitude": -116.2381744,
+          "population": 12784,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Hidden Springs",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.71905080000001,
+          "longitude": -116.2583276,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Kuna",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.4918307,
+          "longitude": -116.4201223,
+          "population": 28050,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Meridian",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6121087,
+          "longitude": -116.3915131,
+          "population": 134801,
+          "size": "medium",
+          "confidence": "medium"
+        },
+        {
+          "name": "Star",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Ada County",
+          "latitude": 43.6921071,
+          "longitude": -116.4934631,
+          "population": 16333,
+          "size": "small",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Adams County",
+      "cities": [
+        {
+          "name": "New Meadows",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Adams County",
+          "latitude": 44.9712808,
+          "longitude": -116.2840176,
+          "population": 636,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bannock County",
+      "cities": [
+        {
+          "name": "Tyhee",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.95158130000001,
+          "longitude": -112.4663693,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bannock County",
+      "cities": []
+    },
+    {
+      "name": "Bannock County",
+      "cities": []
+    },
+    {
+      "name": "Bannock County",
+      "cities": [
+        {
+          "name": "Arimo",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.559917,
+          "longitude": -112.1713544,
+          "population": 350,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Chubbuck",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.9207477,
+          "longitude": -112.4660912,
+          "population": 16362,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Downey",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.42852970000001,
+          "longitude": -112.1244073,
+          "population": 570,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Inkom",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.7963041,
+          "longitude": -112.2541374,
+          "population": 832,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Lava Hot Springs",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.6193625,
+          "longitude": -112.0110712,
+          "population": 375,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "McCammon",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bannock County",
+          "latitude": 42.6504719,
+          "longitude": -112.1930226,
+          "population": 816,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bear Lake County",
+      "cities": [
+        {
+          "name": "Bennington",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.3910379,
+          "longitude": -111.3215956,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bear Lake County",
+      "cities": []
+    },
+    {
+      "name": "Bear Lake County",
+      "cities": [
+        {
+          "name": "Bloomington",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.1926579,
+          "longitude": -111.4067217,
+          "population": 214,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Georgetown",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.4821477,
+          "longitude": -111.3707661,
+          "population": 516,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Paris",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.22714939999999,
+          "longitude": -111.4010403,
+          "population": 549,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Charles",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bear Lake County",
+          "latitude": 42.1138188,
+          "longitude": -111.3888175,
+          "population": 186,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Benewah County",
+      "cities": [
+        {
+          "name": "Parkline",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.33547,
+          "longitude": -116.688666,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benewah County",
+      "cities": [
+        {
+          "name": "Fernwood",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.11224560000001,
+          "longitude": -116.3931132,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benewah County",
+      "cities": [
+        {
+          "name": "De Smet",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.146785,
+          "longitude": -116.9167208,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Benewah County",
+      "cities": []
+    },
+    {
+      "name": "Benewah County",
+      "cities": [
+        {
+          "name": "Plummer",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.3351803,
+          "longitude": -116.8885094,
+          "population": 1113,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tensed",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Benewah County",
+          "latitude": 47.15989889999999,
+          "longitude": -116.9218365,
+          "population": 94,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Rockford",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.1896362,
+          "longitude": -112.5347054,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Riverside",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.197201,
+          "longitude": -112.435226,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Moreland",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.2191244,
+          "longitude": -112.4417712,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Groveland",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.2199151,
+          "longitude": -112.3724783,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Fort Hall",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.0332482,
+          "longitude": -112.4383131,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Bingham County",
+      "cities": []
+    },
+    {
+      "name": "Bingham County",
+      "cities": [
+        {
+          "name": "Aberdeen",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 42.9440784,
+          "longitude": -112.8383265,
+          "population": 1843,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Basalt",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3154712,
+          "longitude": -112.1644173,
+          "population": 371,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Firth",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3051934,
+          "longitude": -112.1830288,
+          "population": 541,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Shelley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Bingham County",
+          "latitude": 43.3813038,
+          "longitude": -112.1233056,
+          "population": 5182,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Blaine County",
+      "cities": [
+        {
+          "name": "Gannett",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.3599057,
+          "longitude": -114.175873,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Blaine County",
+      "cities": []
+    },
+    {
+      "name": "Blaine County",
+      "cities": [
+        {
+          "name": "Bellevue",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.4635179,
+          "longitude": -114.2605998,
+          "population": 2575,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Carey",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.3076829,
+          "longitude": -113.9447521,
+          "population": 688,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Ketchum",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.6807402,
+          "longitude": -114.3636619,
+          "population": 3611,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Sun Valley",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Blaine County",
+          "latitude": 43.6971294,
+          "longitude": -114.3517172,
+          "population": 1771,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Robie Creek",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.6331901,
+          "longitude": -115.9949024,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Lowman",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0809804,
+          "longitude": -115.6186743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Garden Valley",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0919511,
+          "longitude": -115.9544145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Banks",
+          "state": "ID",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.0804473,
+          "longitude": -116.1240151,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Boise County",
+      "cities": []
+    },
+    {
+      "name": "Boise County",
+      "cities": [
+        {
+          "name": "Crouch",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 44.1152163,
+          "longitude": -115.9702514,
+          "population": 177,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Idaho City",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.8285046,
+          "longitude": -115.8345537,
+          "population": 529,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Placerville",
+          "state": "Idaho",
+          "stateCode": "ID",
+          "county": "Boise County",
+          "latitude": 43.9432266,
+          "longitude": -115.94706,
+          "population": 48,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

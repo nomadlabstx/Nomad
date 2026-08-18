@@ -1,0 +1,384 @@
+{
+  "name": "Alaska",
+  "code": "AK",
+  "counties": [
+    {
+      "name": "Dillingham Census Area County",
+      "cities": [
+        {
+          "name": "Clark's Point",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.837194,
+          "longitude": -158.5317848,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": [
+        {
+          "name": "Twin Hills",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 59.076263,
+          "longitude": -160.2772166,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": [
+        {
+          "name": "Portage Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 58.9061111,
+          "longitude": -157.7175,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": [
+        {
+          "name": "Koliganek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Dillingham Census Area County",
+          "latitude": 59.7276008,
+          "longitude": -157.2842676,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Dillingham Census Area County",
+      "cities": []
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Two Rivers",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8688059,
+          "longitude": -147.1660103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "South Van Horn",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8129639,
+          "longitude": -147.7870762,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steele Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8850964,
+          "longitude": -147.588752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Salcha",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.56051049999999,
+          "longitude": -147.0355725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Pleasant Valley",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.87850809999999,
+          "longitude": -146.8957878,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Moose Creek",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.7121751,
+          "longitude": -147.1582663,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Harding-Birch Lakes",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.3151954,
+          "longitude": -146.6438084,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Goldstream",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.9353595,
+          "longitude": -147.9822336,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Fox",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.9665055,
+          "longitude": -147.5900074,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Farmers Loop",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8956618,
+          "longitude": -147.692834,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Ester",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8466565,
+          "longitude": -147.9730501,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Eielson AFB",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.6638356,
+          "longitude": -147.099219,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "College",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.85570000000001,
+          "longitude": -147.8128291,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Chena Ridge",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.7880533,
+          "longitude": -147.9794967,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "Badger",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.8058544,
+          "longitude": -147.4100404,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": []
+    },
+    {
+      "name": "Fairbanks North Star Borough",
+      "cities": [
+        {
+          "name": "North Pole",
+          "state": "Alaska",
+          "stateCode": "AK",
+          "county": "Fairbanks North Star Borough",
+          "latitude": 64.7552465,
+          "longitude": -147.353425,
+          "population": 2427,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Haines Borough",
+      "cities": [
+        {
+          "name": "Mosquito Lake",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 59.4226584,
+          "longitude": -136.0158666,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mud Bay",
+          "state": "AK",
+          "stateCode": "AK",
+          "county": "Haines Borough",
+          "latitude": 59.15481980000001,
+          "longitude": -135.3698104,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

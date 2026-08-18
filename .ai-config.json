@@ -1,0 +1,49 @@
+{
+  "ai": {
+    "assistant": {
+      "name": "Nomad AI Assistant",
+      "version": "2.0.0",
+      "capabilities": [
+        "code_generation",
+        "performance_optimization",
+        "bug_detection",
+        "architecture_advice",
+        "testing_assistance",
+        "documentation_generation"
+      ],
+      "context": {
+        "project_type": "react_native_expo",
+        "framework": "expo_router",
+        "language": "typescript",
+        "platforms": [
+          "ios",
+          "android",
+          "web"
+        ]
+      },
+      "optimization_focus": [
+        "location_tracking_performance",
+        "bundle_size_reduction",
+        "memory_management",
+        "battery_optimization",
+        "cross_platform_compatibility"
+      ]
+    },
+    "code_analysis": {
+      "enabled": true,
+      "checks": [
+        "performance_issues",
+        "memory_leaks",
+        "unused_imports",
+        "type_safety",
+        "accessibility"
+      ]
+    },
+    "suggestions": {
+      "auto_import": true,
+      "code_completion": true,
+      "refactoring": true,
+      "optimization": true
+    }
+  }
+}

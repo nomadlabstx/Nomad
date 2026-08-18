@@ -1,0 +1,206 @@
+{
+  "I110_EXITS": {
+    "processed": 1,
+    "populated": 1,
+    "failed": 0,
+    "completed": true
+  },
+  "I345_EXITS": {
+    "processed": 3,
+    "populated": 3,
+    "failed": 0,
+    "completed": true
+  },
+  "I410_EXITS": {
+    "processed": 63,
+    "populated": 63,
+    "failed": 0,
+    "completed": true
+  },
+  "I610_EXITS": {
+    "processed": 34,
+    "populated": 34,
+    "failed": 0,
+    "completed": true
+  },
+  "I635_EXITS": {
+    "processed": 22,
+    "populated": 22,
+    "failed": 0,
+    "completed": true
+  },
+  "I820_EXITS": {
+    "processed": 48,
+    "populated": 48,
+    "failed": 0,
+    "completed": true
+  },
+  "I10_EAST_EXITS": {
+    "processed": 103,
+    "populated": 103,
+    "failed": 0,
+    "completed": true
+  },
+  "I10_WEST_EXITS": {
+    "processed": 103,
+    "populated": 103,
+    "failed": 0,
+    "completed": true
+  },
+  "I20_EAST_EXITS": {
+    "processed": 68,
+    "populated": 68,
+    "failed": 0,
+    "completed": true
+  },
+  "I20_WEST_EXITS": {
+    "processed": 68,
+    "populated": 68,
+    "failed": 0,
+    "completed": true
+  },
+  "I27_EAST_EXITS": {
+    "processed": 50,
+    "populated": 50,
+    "failed": 0,
+    "completed": true
+  },
+  "I27_WEST_EXITS": {
+    "processed": 50,
+    "populated": 50,
+    "failed": 0,
+    "completed": true
+  },
+  "I27_NORTH_EXITS": {
+    "processed": 50,
+    "populated": 50,
+    "failed": 0,
+    "completed": true
+  },
+  "I27_SOUTH_EXITS": {
+    "processed": 50,
+    "populated": 50,
+    "failed": 0,
+    "completed": true
+  },
+  "I30_EAST_EXITS": {
+    "processed": 62,
+    "populated": 62,
+    "failed": 0,
+    "completed": true
+  },
+  "I30_WEST_EXITS": {
+    "processed": 62,
+    "populated": 62,
+    "failed": 0,
+    "completed": true
+  },
+  "I35_EAST_EXITS": {
+    "processed": 64,
+    "populated": 64,
+    "failed": 0,
+    "completed": true
+  },
+  "I35_WEST_EXITS": {
+    "processed": 64,
+    "populated": 64,
+    "failed": 0,
+    "completed": true
+  },
+  "I35_NORTH_EXITS": {
+    "processed": 64,
+    "populated": 64,
+    "failed": 0,
+    "completed": true
+  },
+  "I35_SOUTH_EXITS": {
+    "processed": 64,
+    "populated": 64,
+    "failed": 0,
+    "completed": true
+  },
+  "I37_EAST_EXITS": {
+    "processed": 53,
+    "populated": 53,
+    "failed": 0,
+    "completed": true
+  },
+  "I37_WEST_EXITS": {
+    "processed": 53,
+    "populated": 53,
+    "failed": 0,
+    "completed": true
+  },
+  "I37_NORTH_EXITS": {
+    "processed": 53,
+    "populated": 53,
+    "failed": 0,
+    "completed": true
+  },
+  "I37_SOUTH_EXITS": {
+    "processed": 53,
+    "populated": 53,
+    "failed": 0,
+    "completed": true
+  },
+  "I40_EAST_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  },
+  "I40_WEST_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  },
+  "I45_EAST_EXITS": {
+    "processed": 72,
+    "populated": 72,
+    "failed": 0,
+    "completed": true
+  },
+  "I45_WEST_EXITS": {
+    "processed": 72,
+    "populated": 72,
+    "failed": 0,
+    "completed": true
+  },
+  "I45_NORTH_EXITS": {
+    "processed": 72,
+    "populated": 72,
+    "failed": 0,
+    "completed": true
+  },
+  "I45_SOUTH_EXITS": {
+    "processed": 72,
+    "populated": 72,
+    "failed": 0,
+    "completed": true
+  },
+  "I69_EAST_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  },
+  "I69_WEST_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  },
+  "I69_NORTH_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  },
+  "I69_SOUTH_EXITS": {
+    "processed": 59,
+    "populated": 59,
+    "failed": 0,
+    "completed": true
+  }
+}

@@ -1,0 +1,14 @@
+# Texas Interstate Exits - Manual Data Entry Template
+# Format: highway,exitNumber,description
+# Example: I-35,330B,Meridian; Marlin
+
+# Interstate 35 (paste exits below)
+
+
+# Interstate 10 (paste exits below)
+
+
+# Interstate 45 (paste exits below)
+
+
+# Add more highways as needed...

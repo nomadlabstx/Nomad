@@ -1,0 +1,506 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Greenlee County",
+      "cities": [
+        {
+          "name": "York",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Greenlee County",
+          "latitude": 32.8938289,
+          "longitude": -109.213204,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenlee County",
+      "cities": [
+        {
+          "name": "Morenci",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Greenlee County",
+          "latitude": 33.0508859,
+          "longitude": -109.3280282,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenlee County",
+      "cities": [
+        {
+          "name": "Franklin",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Greenlee County",
+          "latitude": 32.6775,
+          "longitude": -109.078611,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Greenlee County",
+      "cities": []
+    },
+    {
+      "name": "Greenlee County",
+      "cities": [
+        {
+          "name": "Duncan",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Greenlee County",
+          "latitude": 32.7214599,
+          "longitude": -109.1053408,
+          "population": 670,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Wenden",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.8225302,
+          "longitude": -113.5415936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Vicksburg",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.7444747,
+          "longitude": -113.7521564,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Utting",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.8389157,
+          "longitude": -113.8868829,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Sunwest",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.6604261,
+          "longitude": -113.411686,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Salome",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.7811416,
+          "longitude": -113.6146517,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Poston",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.9905733,
+          "longitude": -114.3963424,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Parker Strip",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 34.2907734,
+          "longitude": -114.1350173,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "La Paz Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.5769712,
+          "longitude": -114.2418914,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Ehrenberg",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.6041914,
+          "longitude": -114.5252322,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Cibola",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.3164215,
+          "longitude": -114.664957,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cienega Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 34.187153,
+          "longitude": -114.220171,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Brenda",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.6797515,
+          "longitude": -113.9446616,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Bluewater",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 34.1686271,
+          "longitude": -114.2649504,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bouse",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.9325235,
+          "longitude": -114.0057748,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Alamo Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 34.2439192,
+          "longitude": -113.5584012,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "La Paz County",
+      "cities": []
+    },
+    {
+      "name": "La Paz County",
+      "cities": [
+        {
+          "name": "Quartzsite",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "La Paz County",
+          "latitude": 33.6639137,
+          "longitude": -114.2299486,
+          "population": 2389,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Wintersburg",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.4179982,
+          "longitude": -112.867154,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wittmann",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.7763856,
+          "longitude": -112.5282591,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Tonopah",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.4934778,
+          "longitude": -112.9370802,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Theba",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 32.9166604,
+          "longitude": -112.8924752,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Sun Lakes",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.2181797,
+          "longitude": -111.8759103,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Sun City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.5975393,
+          "longitude": -112.2718239,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sun City West",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.6619819,
+          "longitude": -112.3412726,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Rio Verde",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.7225429,
+          "longitude": -111.6756942,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "New River",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.9158687,
+          "longitude": -112.1359906,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Morristown",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.8548374,
+          "longitude": -112.6203255,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Maricopa Colony",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.3577721,
+          "longitude": -112.2205183,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Maricopa County",
+      "cities": [
+        {
+          "name": "Komatke",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Maricopa County",
+          "latitude": 33.2904931,
+          "longitude": -112.1564213,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}

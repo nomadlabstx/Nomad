@@ -1,0 +1,541 @@
+[
+  {
+    "place": {
+      "name": "Jacksons' Gap",
+      "stateCode": "AL",
+      "type": "incorporated",
+      "originalName": "Jacksons' Gap",
+      "nameLsad": "Jacksons' Gap town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "St. Mary's",
+      "stateCode": "AK",
+      "type": "incorporated",
+      "originalName": "St. Mary's",
+      "nameLsad": "St. Mary's city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Clark's Point",
+      "stateCode": "AK",
+      "type": "incorporated",
+      "originalName": "Clark's Point",
+      "nameLsad": "Clark's Point city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Kean",
+      "stateCode": "AR",
+      "type": "incorporated",
+      "originalName": "O'Kean",
+      "nameLsad": "O'Kean town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Kep'el",
+      "stateCode": "CA",
+      "type": "CDP",
+      "originalName": "Kep'el",
+      "nameLsad": "Kep'el CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "St. Mary's",
+      "stateCode": "CO",
+      "type": "CDP",
+      "originalName": "St. Mary's",
+      "nameLsad": "St. Mary's CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Sewall's Point",
+      "stateCode": "FL",
+      "type": "incorporated",
+      "originalName": "Sewall's Point",
+      "nameLsad": "Sewall's Point town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Hill 'n Dale",
+      "stateCode": "FL",
+      "type": "CDP",
+      "originalName": "Hill 'n Dale",
+      "nameLsad": "Hill 'n Dale CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Land O' Lakes",
+      "stateCode": "FL",
+      "type": "CDP",
+      "originalName": "Land O' Lakes",
+      "nameLsad": "Land O' Lakes CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Town 'n' Country",
+      "stateCode": "FL",
+      "type": "CDP",
+      "originalName": "Town 'n' Country",
+      "nameLsad": "Town 'n' Country CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Coeur d'Alene",
+      "stateCode": "ID",
+      "type": "incorporated",
+      "originalName": "Coeur d'Alene",
+      "nameLsad": "Coeur d'Alene city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Fallon",
+      "stateCode": "IL",
+      "type": "incorporated",
+      "originalName": "O'Fallon",
+      "nameLsad": "O'Fallon city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Campbell's Island",
+      "stateCode": "IL",
+      "type": "CDP",
+      "originalName": "Campbell's Island",
+      "nameLsad": "Campbell's Island CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Prince's Lakes",
+      "stateCode": "IN",
+      "type": "incorporated",
+      "originalName": "Prince's Lakes",
+      "nameLsad": "Prince's Lakes town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Bayou L'Ourse",
+      "stateCode": "LA",
+      "type": "CDP",
+      "originalName": "Bayou L'Ourse",
+      "nameLsad": "Bayou L'Ourse CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Martin's Additions",
+      "stateCode": "MD",
+      "type": "incorporated",
+      "originalName": "Martin's Additions",
+      "nameLsad": "Martin's Additions village"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "L'Anse",
+      "stateCode": "MI",
+      "type": "incorporated",
+      "originalName": "L'Anse",
+      "nameLsad": "L'Anse village"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "St. John's University",
+      "stateCode": "MN",
+      "type": "CDP",
+      "originalName": "St. John's University",
+      "nameLsad": "St. John's University CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "D'Iberville",
+      "stateCode": "MS",
+      "type": "incorporated",
+      "originalName": "D'Iberville",
+      "nameLsad": "D'Iberville city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "D'Lo",
+      "stateCode": "MS",
+      "type": "incorporated",
+      "originalName": "D'Lo",
+      "nameLsad": "D'Lo town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Lee's Summit",
+      "stateCode": "MO",
+      "type": "incorporated",
+      "originalName": "Lee's Summit",
+      "nameLsad": "Lee's Summit city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Fountain N' Lakes",
+      "stateCode": "MO",
+      "type": "incorporated",
+      "originalName": "Fountain N' Lakes",
+      "nameLsad": "Fountain N' Lakes village"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Fallon",
+      "stateCode": "MO",
+      "type": "incorporated",
+      "originalName": "O'Fallon",
+      "nameLsad": "O'Fallon city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Rocky Boy's Agency",
+      "stateCode": "MT",
+      "type": "CDP",
+      "originalName": "Rocky Boy's Agency",
+      "nameLsad": "Rocky Boy's Agency CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Neill",
+      "stateCode": "NE",
+      "type": "incorporated",
+      "originalName": "O'Neill",
+      "nameLsad": "O'Neill city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Golden's Bridge",
+      "stateCode": "NY",
+      "type": "CDP",
+      "originalName": "Golden's Bridge",
+      "nameLsad": "Golden's Bridge CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Cajah's Mountain",
+      "stateCode": "NC",
+      "type": "incorporated",
+      "originalName": "Cajah's Mountain",
+      "nameLsad": "Cajah's Mountain town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Wilson's Mills",
+      "stateCode": "NC",
+      "type": "incorporated",
+      "originalName": "Wilson's Mills",
+      "nameLsad": "Wilson's Mills town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Spivey's Corner",
+      "stateCode": "NC",
+      "type": "CDP",
+      "originalName": "Spivey's Corner",
+      "nameLsad": "Spivey's Corner CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Reile's Acres",
+      "stateCode": "ND",
+      "type": "incorporated",
+      "originalName": "Reile's Acres",
+      "nameLsad": "Reile's Acres city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Brien",
+      "stateCode": "OR",
+      "type": "CDP",
+      "originalName": "O'Brien",
+      "nameLsad": "O'Brien CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Sullivan's Island",
+      "stateCode": "SC",
+      "type": "incorporated",
+      "originalName": "Sullivan's Island",
+      "nameLsad": "Sullivan's Island town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Thompson's Station",
+      "stateCode": "TN",
+      "type": "incorporated",
+      "originalName": "Thompson's Station",
+      "nameLsad": "Thompson's Station town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Parker's Crossroads",
+      "stateCode": "TN",
+      "type": "incorporated",
+      "originalName": "Parker's Crossroads",
+      "nameLsad": "Parker's Crossroads city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Bailey's Prairie",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "Bailey's Prairie",
+      "nameLsad": "Bailey's Prairie village"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Donnell",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "O'Donnell",
+      "nameLsad": "O'Donnell city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Morgan's Point Resort",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "Morgan's Point Resort",
+      "nameLsad": "Morgan's Point Resort city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "O'Brien",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "O'Brien",
+      "nameLsad": "O'Brien city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Miller's Cove",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "Miller's Cove",
+      "nameLsad": "Miller's Cove town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Morgan's Point",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "Morgan's Point",
+      "nameLsad": "Morgan's Point city"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Carl's Corner",
+      "stateCode": "TX",
+      "type": "incorporated",
+      "originalName": "Carl's Corner",
+      "nameLsad": "Carl's Corner town"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "D'Hanis",
+      "stateCode": "TX",
+      "type": "CDP",
+      "originalName": "D'Hanis",
+      "nameLsad": "D'Hanis CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Port O'Connor",
+      "stateCode": "TX",
+      "type": "CDP",
+      "originalName": "Port O'Connor",
+      "nameLsad": "Port O'Connor CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Bailey's Crossroads",
+      "stateCode": "VA",
+      "type": "CDP",
+      "originalName": "Bailey's Crossroads",
+      "nameLsad": "Bailey's Crossroads CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Boswell's Corner",
+      "stateCode": "VA",
+      "type": "CDP",
+      "originalName": "Boswell's Corner",
+      "nameLsad": "Boswell's Corner CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Lake Land'Or",
+      "stateCode": "VA",
+      "type": "CDP",
+      "originalName": "Lake Land'Or",
+      "nameLsad": "Lake Land'Or CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "The University of Virginia's College at Wise",
+      "stateCode": "VA",
+      "type": "CDP",
+      "originalName": "The University of Virginia's College at Wise",
+      "nameLsad": "The University of Virginia's College at Wise CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Barney's Junction",
+      "stateCode": "WA",
+      "type": "CDP",
+      "originalName": "Barney's Junction",
+      "nameLsad": "Barney's Junction CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  },
+  {
+    "place": {
+      "name": "Chain O' Lakes",
+      "stateCode": "WI",
+      "type": "CDP",
+      "originalName": "Chain O' Lakes",
+      "nameLsad": "Chain O' Lakes CDP"
+    },
+    "geocoded": null,
+    "error": "All geocoding attempts failed"
+  }
+]

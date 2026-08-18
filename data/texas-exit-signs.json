@@ -1,0 +1,14 @@
+{
+  "generated": "2025-11-21T16:49:40.372Z",
+  "totalHighways": 3,
+  "totalExits": 0,
+  "sources": {
+    "osm": 0,
+    "googlePlaces": 0
+  },
+  "exitSigns": {
+    "I110_EXITS": {},
+    "I345_EXITS": {},
+    "I410_EXITS": {}
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "name": "Arizona",
+  "code": "AZ",
+  "counties": [
+    {
+      "name": "Apache County",
+      "cities": [
+        {
+          "name": "Alpine",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 33.8483212,
+          "longitude": -109.1432936,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burnside",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.7511228,
+          "longitude": -109.6245514,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Chinle",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.1544483,
+          "longitude": -109.5526072,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Concho",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.4753132,
+          "longitude": -109.6059405,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cornfields",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.6513212,
+          "longitude": -109.6743466,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Del Muerto",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.18472,
+          "longitude": -109.44222,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Dennehotso",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.8458351,
+          "longitude": -109.8465046,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Fort Defiance",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.7444602,
+          "longitude": -109.0764828,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Ganado",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.71140219999999,
+          "longitude": -109.5420492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Greer",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.0099699,
+          "longitude": -109.4585246,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Houck",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.2830803,
+          "longitude": -109.2070391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Klagetoh",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.5013268,
+          "longitude": -109.5281032,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lukachukai",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.416946,
+          "longitude": -109.2287125,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Lupton",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.3539127,
+          "longitude": -109.0537017,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Many Farms",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.3527792,
+          "longitude": -109.6178867,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "McNary",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.0736564,
+          "longitude": -109.8570472,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nazlini",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.8963986,
+          "longitude": -109.4487147,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Nutrioso",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 33.9531268,
+          "longitude": -109.2086302,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oak Springs",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.4756075,
+          "longitude": -109.1330062,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Red Mesa",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.9639216,
+          "longitude": -109.380879,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rock Point",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.7180568,
+          "longitude": -109.6259429,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rough Rock",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.4072229,
+          "longitude": -109.8728929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Round Rock",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.5130564,
+          "longitude": -109.4734394,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sanders",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.2091429,
+          "longitude": -109.328794,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sawmill",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.9025111,
+          "longitude": -109.165931,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sehili",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.2787124,
+          "longitude": -109.1732741,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Springerville",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.1333799,
+          "longitude": -109.2859196,
+          "population": 1727,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Johns",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.5058698,
+          "longitude": -109.3609327,
+          "population": 3362,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "St. Michaels",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.6447402,
+          "longitude": -109.0956492,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Steamboat",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.7513983,
+          "longitude": -109.8478915,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Teec Nos Pos",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.9211097,
+          "longitude": -109.0856582,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Toyei",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.7037559,
+          "longitude": -109.9362883,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tsaile",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.3060588,
+          "longitude": -109.2207725,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vernon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 34.2549559,
+          "longitude": -109.6926121,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wheatfields",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 36.2377818,
+          "longitude": -109.12871,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wide Ruins",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.417671,
+          "longitude": -109.4987934,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Window Rock",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Apache County",
+          "latitude": 35.680573,
+          "longitude": -109.0525929,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Whetstone",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.7048224,
+          "longitude": -110.3368391,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Sunsites",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.9416017,
+          "longitude": -109.8323822,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Sunizona",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.879684,
+          "longitude": -109.655617,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Sierra Vista Southeast",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.4575687,
+          "longitude": -110.2117373,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "San Simon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 32.2676022,
+          "longitude": -109.2268305,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "St. David",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.9042517,
+          "longitude": -110.2142399,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Pirtleville",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.3570467,
+          "longitude": -109.561734,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Palominas",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.3798232,
+          "longitude": -110.1184106,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Naco",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.3353801,
+          "longitude": -109.9481297,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Miracle Valley",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.3817841,
+          "longitude": -110.1477047,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Mescal",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.9716776,
+          "longitude": -110.4346561,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "McNeal",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.6005188,
+          "longitude": -109.6702453,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Elfrida",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.6852283,
+          "longitude": -109.6874513,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Dragoon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 32.0306741,
+          "longitude": -110.0380342,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Bowie",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 32.3259301,
+          "longitude": -109.4870642,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Cochise County",
+      "cities": []
+    },
+    {
+      "name": "Cochise County",
+      "cities": []
+    },
+    {
+      "name": "Cochise County",
+      "cities": [
+        {
+          "name": "Benson",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.9678611,
+          "longitude": -110.2945174,
+          "population": 5337,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Bisbee",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.4481547,
+          "longitude": -109.9284084,
+          "population": 4994,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Douglas",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.3445471,
+          "longitude": -109.5453447,
+          "population": 15638,
+          "size": "small",
+          "confidence": "low"
+        },
+        {
+          "name": "Huachuca City",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.6274496,
+          "longitude": -110.3355321,
+          "population": 1600,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Tombstone",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 31.7128683,
+          "longitude": -110.0675764,
+          "population": 1312,
+          "size": "village",
+          "confidence": "low"
+        },
+        {
+          "name": "Willcox",
+          "state": "Arizona",
+          "stateCode": "AZ",
+          "county": "Cochise County",
+          "latitude": 32.2528519,
+          "longitude": -109.8320124,
+          "population": 3202,
+          "size": "village",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Winslow West",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.0322421,
+          "longitude": -110.7529145,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Valle",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.6520866,
+          "longitude": -112.1393941,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Tuba City",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.1349928,
+          "longitude": -111.2398625,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Timberline-Fernwood",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.3212403,
+          "longitude": -111.5527922,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tolani Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.4347307,
+          "longitude": -110.8445833,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Tonalea",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.3224923,
+          "longitude": -110.9634781,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Supai",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.2369265,
+          "longitude": -112.6890791,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Red Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.3542244,
+          "longitude": -112.1787896,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Parks",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2605664,
+          "longitude": -111.9487743,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Oak Creek Canyon",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 34.912206,
+          "longitude": -111.7495419,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Mountain View Ranches",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.2320119,
+          "longitude": -111.469323,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mountainaire",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 35.085473,
+          "longitude": -111.6656044,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        },
+        {
+          "name": "Munds Park",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 34.945574,
+          "longitude": -111.6401551,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Mormon Lake",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 34.9083543,
+          "longitude": -111.4632051,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Coconino County",
+      "cities": [
+        {
+          "name": "Moenkopi",
+          "state": "AZ",
+          "stateCode": "AZ",
+          "county": "Coconino County",
+          "latitude": 36.1111043,
+          "longitude": -111.2223624,
+          "population": 50000,
+          "size": "village",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ]
+}
