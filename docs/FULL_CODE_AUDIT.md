@@ -1,5 +1,7 @@
 # Nomad Full Code Audit
 
+> **Superseded 18 Aug 2026.** Use [CODE_AUDIT_2026-08-18.md](./CODE_AUDIT_2026-08-18.md) as the current audit. This June document is kept as history.
+
 Last updated: 2026-06-20  
 Owner: Majim  
 Purpose: Baseline audit before any further feature work. Read this before changing code.
