@@ -82,6 +82,30 @@ export const addTrip = async (trip: Trip): Promise<boolean> => {
 };
 
 /**
+ * Fill missing trip names under the mutation lock so a concurrent addTrip
+ * cannot be overwritten by a stale full-list rewrite.
+ */
+export const backfillTripNames = async (
+  namesById: Record<string, string>
+): Promise<Trip[]> => {
+  return enqueueTripMutation(async () => {
+    const existingTrips = await getTrips();
+    let changed = false;
+    const next = existingTrips.map((trip) => {
+      if (trip.name) return trip;
+      const name = namesById[trip.id];
+      if (!name) return trip;
+      changed = true;
+      return { ...trip, name };
+    });
+    if (changed) {
+      await persistTrips(next);
+    }
+    return next;
+  });
+};
+
+/**
  * Delete a specific trip by ID
  */
 export const deleteTrip = async (tripId: string): Promise<boolean> => {

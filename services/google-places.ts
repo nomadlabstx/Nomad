@@ -7,8 +7,7 @@
  */
 
 import type { Coordinates } from '../types/navigation';
-
-const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
 // Place types supported by Google Places API (New)
 export type PlaceType = 
@@ -97,14 +96,10 @@ interface NearbySearchParams {
 }
 
 class GooglePlacesService {
-  private apiKey: string;
   private baseUrl = 'https://places.googleapis.com/v1';
 
-  constructor() {
-    this.apiKey = GOOGLE_MAPS_API_KEY || '';
-    if (!this.apiKey) {
-      console.warn('⚠️  Google Maps API key not configured for Places API');
-    }
+  private get apiKey(): string {
+    return getGoogleMapsApiKey();
   }
 
   /**

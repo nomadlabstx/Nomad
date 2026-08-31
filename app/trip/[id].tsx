@@ -1,6 +1,6 @@
 import { useToast } from '@/components/toast';
 import * as Clipboard from 'expo-clipboard';
-import * as FileSystem from 'expo-file-system';
+import * as FileSystem from 'expo-file-system/legacy';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import * as Sharing from 'expo-sharing';
 import React, { useCallback, useEffect, useState } from 'react';
@@ -9,6 +9,7 @@ import { Ionicons } from '@expo/vector-icons';
 import MaybeMapView, { Polyline as MaybePolyline } from '../../components/maybe-map';
 import { Trip } from '../../types';
 import { deleteTrip, getTrips } from '../../utils/storage';
+import { tripToGpx, tripToKml } from '../../utils/trip-export';
 
 const TripDetail = React.memo(() => {
   const params = useLocalSearchParams();
@@ -36,34 +37,6 @@ const TripDetail = React.memo(() => {
 
     loadTrip();
   }, [id]);
-
-  const toGPX = (t: Trip) => {
-    if (!t.path || !Array.isArray(t.path) || t.path.length === 0) {
-      throw new Error('Trip has no path data');
-    }
-    const header = `<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="Nomad" xmlns="http://www.topografix.com/GPX/1/1">\n`;
-    const footer = `\n</gpx>`;
-    const trk = `  <trk>\n    <name>${t.name || `Trip ${t.id}`}</name>\n    <trkseg>\n${t.path
-      .map((p) => {
-        const time = p.timestamp ? new Date(p.timestamp).toISOString() : '';
-        const ele = p.altitude != null ? `<ele>${p.altitude}</ele>` : '';
-        return `      <trkpt lat="${p.latitude}" lon="${p.longitude}">` + ele + (time ? `<time>${time}</time>` : '') + `</trkpt>`;
-      })
-      .join('\n')}
-    </trkseg>\n  </trk>`;
-    return header + trk + footer;
-  };
-
-  const toKML = (t: Trip) => {
-    if (!t.path || !Array.isArray(t.path) || t.path.length === 0) {
-      throw new Error('Trip has no path data');
-    }
-    const header = `<?xml version="1.0" encoding="UTF-8"?>\n<kml xmlns="http://www.opengis.net/kml/2.2">\n<Document>\n`;
-    const footer = `\n</Document>\n</kml>`;
-    const coords = t.path.map((p) => `${p.longitude},${p.latitude},${p.altitude ?? 0}`).join(' ');
-    const placemark = `<Placemark><name>${t.name || `Trip ${t.id}`}</name><LineString><coordinates>${coords}</coordinates></LineString></Placemark>`;
-    return header + placemark + footer;
-  };
 
   const handleClose = useCallback(() => {
     router.back();
@@ -101,10 +74,9 @@ const TripDetail = React.memo(() => {
       return;
     }
     try {
-      let gpx = '';
-      gpx = toGPX(trip);
+      const gpx = tripToGpx(trip);
       const fileName = `trip-${trip.id}.gpx`;
-      const cacheDir = (FileSystem as any).cacheDirectory;
+      const cacheDir = FileSystem.cacheDirectory;
       
       if (cacheDir && typeof cacheDir === 'string') {
         const path = cacheDir + fileName;
@@ -121,7 +93,7 @@ const TripDetail = React.memo(() => {
     } catch (error) {
       console.warn('GPX export failed:', error);
       try {
-        const fallback = toGPX(trip);
+        const fallback = tripToGpx(trip);
         await Clipboard.setStringAsync(fallback);
         toast.show('GPX copied to clipboard (fallback)');
       } catch {
@@ -137,10 +109,9 @@ const TripDetail = React.memo(() => {
       return;
     }
     try {
-      let kml = '';
-      kml = toKML(trip);
+      const kml = tripToKml(trip);
       const fileName = `trip-${trip.id}.kml`;
-      const cacheDir = (FileSystem as any).cacheDirectory;
+      const cacheDir = FileSystem.cacheDirectory;
       
       if (cacheDir && typeof cacheDir === 'string') {
         const path = cacheDir + fileName;
@@ -157,7 +128,7 @@ const TripDetail = React.memo(() => {
     } catch (error) {
       console.warn('KML export failed:', error);
       try {
-        const fallback = toKML(trip);
+        const fallback = tripToKml(trip);
         await Clipboard.setStringAsync(fallback);
         toast.show('KML copied to clipboard (fallback)');
       } catch {

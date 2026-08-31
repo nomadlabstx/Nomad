@@ -289,6 +289,8 @@ export function useNavigation(): UseNavigationReturn {
       locationSubscription.current = null;
     }
 
+    gpsSimulator.stop();
+
     void snapBackToDevice();
   }, [voiceEnabled, snapBackToDevice]);
 
@@ -657,15 +659,21 @@ export function useNavigation(): UseNavigationReturn {
     // Announce navigation start
     if (__DEV__) {
       console.debug('🚀 [NAV] Starting navigation...', {
-        destination: selectedRoute.legs[0].endAddress,
-        totalSteps: selectedRoute.legs[0].steps.length,
+        destination:
+          destinationLabelRef.current ||
+          selectedRoute.legs[selectedRoute.legs.length - 1]?.endAddress,
+        totalSteps: selectedRoute.legs.reduce((sum, leg) => sum + leg.steps.length, 0),
         simulated: gpsSimulator.isRunning(),
       });
     }
 
     if (voiceEnabled) {
+      const destinationLabel =
+        destinationLabelRef.current ||
+        selectedRoute.legs[selectedRoute.legs.length - 1]?.endAddress ||
+        'your destination';
       navigationService.announceInstruction(
-        `Starting navigation to ${selectedRoute.legs[0].endAddress}`,
+        `Starting navigation to ${destinationLabel}`,
         0,
         undefined
       );

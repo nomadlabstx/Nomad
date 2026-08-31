@@ -165,9 +165,10 @@ export class RouteMatchingService {
 
     // Calculate total route progress
     const totalRouteProgress = this.calculateTotalRouteProgress(
+      route,
+      currentLegIndex,
       currentStepIndex,
-      stepProgress,
-      currentLeg.steps.length
+      stepProgress
     );
 
     // Determine if user is on route (within 75 meters)
@@ -408,19 +409,36 @@ export class RouteMatchingService {
   }
 
   /**
-   * Calculate total progress through the entire route (0-100%)
+   * Calculate total progress through the entire route (0-100%), including prior legs.
    */
   private calculateTotalRouteProgress(
+    route: Route,
+    currentLegIndex: number,
     currentStepIndex: number,
-    stepProgress: number,
-    totalSteps: number
+    stepProgress: number
   ): number {
-    if (totalSteps === 0) return 0;
-    
-    const completedSteps = currentStepIndex;
-    const currentStepContribution = stepProgress / 100;
-    
-    return ((completedSteps + currentStepContribution) / totalSteps) * 100;
+    const totalDistance =
+      route.totalDistance ||
+      route.legs.reduce((sum, leg) => sum + (leg.distance || 0), 0);
+    if (totalDistance <= 0) return 0;
+
+    let completed = 0;
+    for (let i = 0; i < currentLegIndex; i++) {
+      completed += route.legs[i]?.distance || 0;
+    }
+
+    const currentLeg = route.legs[currentLegIndex];
+    if (currentLeg) {
+      for (let i = 0; i < currentStepIndex; i++) {
+        completed += currentLeg.steps[i]?.distance || 0;
+      }
+      const currentStep = currentLeg.steps[currentStepIndex];
+      if (currentStep) {
+        completed += (currentStep.distance * Math.max(0, Math.min(100, stepProgress))) / 100;
+      }
+    }
+
+    return Math.min(100, Math.max(0, (completed / totalDistance) * 100));
   }
 
   /**

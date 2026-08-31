@@ -22,9 +22,9 @@ import {
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { MultiStopPlanner } from '../../components/multi-stop-planner';
-import { useNavigation } from '../../hooks/use-navigation';
 import { useThemeColors } from '../../hooks/use-theme-colors';
 import { useRouter } from 'expo-router';
+import { aiPlannerContextService, pendingPlanFromPlannedTrip } from '../../services/ai-planner-context';
 
 export default function PlannedTripsTab() {
   const [trips, setTrips] = useState<PlannedTrip[]>([]);
@@ -37,7 +37,6 @@ export default function PlannedTripsTab() {
   const [tripNotes, setTripNotes] = useState('');
   const { tint } = useAppTint();
   const theme = useThemeColors();
-  const navigation = useNavigation();
   const router = useRouter();
 
   /**
@@ -233,33 +232,14 @@ export default function PlannedTripsTab() {
         <View style={styles.actionButtons}>
           <TouchableOpacity
             style={[styles.navigateButton, { backgroundColor: tint || '#007AFF' }]}
-            onPress={async () => {
-              try {
-                // Calculate route with waypoints, using trip origin as starting point
-                const waypoints = trip.stops.map(stop => stop.location);
-                await navigation.calculateRoute(
-                  trip.destination.location,
-                  {
-                    waypoints: waypoints.length > 0 ? waypoints : undefined,
-                    ...trip.routeOptions,
-                  },
-                  trip.origin.location
-                );
-                
-                // Navigate to recorder tab with destination info as params
-                router.push({
-                  pathname: '/(tabs)/recorder',
-                  params: {
-                    fromPlannedTrip: 'true',
-                    destinationLat: trip.destination.location.latitude.toString(),
-                    destinationLng: trip.destination.location.longitude.toString(),
-                    destinationName: trip.destination.name,
-                  },
-                });
-              } catch (error) {
-                console.error('[PlannedTrips] Error starting navigation:', error);
-                Alert.alert('Navigation Error', 'Failed to start navigation. Please try again.');
-              }
+            onPress={() => {
+              aiPlannerContextService.setPendingPlan(pendingPlanFromPlannedTrip(trip));
+              router.push({
+                pathname: '/(tabs)/recorder',
+                params: {
+                  applySavedPlan: 'true',
+                },
+              });
             }}
           >
             <Ionicons name="navigate" size={20} color="#fff" />
