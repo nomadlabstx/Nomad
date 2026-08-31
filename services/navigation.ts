@@ -191,6 +191,9 @@ class NavigationService {
       const url = `https://maps.googleapis.com/maps/api/directions/json?${params.toString()}`;
       
       const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Directions API HTTP ${response.status}`);
+      }
       const data = await response.json();
 
       if (data.status !== 'OK') {
@@ -342,12 +345,15 @@ class NavigationService {
     currentStepIndex: number
   ): NavigationState {
     const currentLeg = route.legs[currentLegIndex];
-    const currentStep = currentLeg.steps[currentStepIndex];
+    const currentStep = currentLeg?.steps?.[currentStepIndex];
 
-    // Validate coordinates before calculating
-    if (!currentLocation || !currentStep.endLocation) {
-      console.error('Missing location data:', { currentLocation, endLocation: currentStep.endLocation });
-      // Return safe default state
+    if (!currentLocation || !currentLeg || !currentStep?.endLocation) {
+      console.error('Missing location data:', {
+        currentLocation,
+        currentLegIndex,
+        currentStepIndex,
+        endLocation: currentStep?.endLocation,
+      });
       return {
         isNavigating: true,
         currentRoute: route,
@@ -356,11 +362,11 @@ class NavigationService {
         distanceToNextTurn: 0,
         timeToDestination: 0,
         distanceRemaining: 0,
-        nextInstruction: currentLeg.steps[currentStepIndex + 1]
+        nextInstruction: currentLeg?.steps?.[currentStepIndex + 1]
           ? formatDirectionInstructionText(currentLeg.steps[currentStepIndex + 1].instruction)
-          : 'Arrive at destination',
-        currentManeuver: currentStep.maneuver,
-        lanes: currentStep.lanes,
+          : 'Continue to destination',
+        currentManeuver: currentStep?.maneuver,
+        lanes: currentStep?.lanes,
       };
     }
 

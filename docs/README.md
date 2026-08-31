@@ -4,7 +4,8 @@
 
 For **what to ship in October** and v0.1 release status, read these first:
 
-- **[October MVP](./mvp-october/README.md)** — Four phase dashboards (install → extra-miler → live drives → ship)
+- **[October MVP](./mvp-october/README.md)** — Active ship queue (install → extra-miler → live drives → ship)
+- **[Code Audit 31 Aug 2026](./CODE_AUDIT_2026-08-31.md)** — Debug-pass audit (supersedes June)
 - **[State of the Union](./STATE_OF_UNION.md)** — Implemented / Verified / Unverified
 - **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Pointer to October boards; June history
 - **[Priority Buckets](./PRIORITY_BUCKETS.md)** — Ship blockers vs post-v0.1 vs vision backlog

@@ -9,6 +9,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
+    "test": "tsx --test utils/__tests__/*.test.ts services/__tests__/*.test.ts",
     "test:smoke": "node ./scripts/automated-smoke-test.js",
     "test:phase1": "node ./scripts/check-phase-1-config.js",
     "eas:preview": "eas build --platform ios --profile preview",
@@ -65,6 +66,7 @@
     "baseline-browser-mapping": "^2.9.19",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~57.0.2",
+    "tsx": "^4.20.5",
     "typescript": "~5.9.2"
   },
   "expo": {

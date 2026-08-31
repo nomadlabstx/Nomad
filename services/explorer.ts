@@ -66,10 +66,10 @@ import type {
     ExplorerState
 } from '../types/explorer';
 import { normalizeExitNumber } from '../utils/exit-labels';
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 import { parsePlaceIdentity } from '../utils/place-identity';
 import { mergeAddressComponents } from './place-identity';
 import { locationAutoDiscovery } from './location-auto-discovery';
-import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
 const EXPLORER_DATA_KEY = '@nomad_explorer_data';
 

@@ -24,7 +24,7 @@ import { useThemeColors } from '../../hooks/use-theme-colors';
 import { routeHistoryService } from '../../services/route-history';
 import { Trip } from '../../types';
 import type { SavedRoute } from '../../types/route-history';
-import { clearAllTrips, deleteTrip, getTrips, saveTrips } from '../../utils/storage';
+import { backfillTripNames, clearAllTrips, deleteTrip, getTrips } from '../../utils/storage';
 import { recordedTripTitle, resolveRecordedTripTitle, isFriendlyTripTitle, tripReplayTarget } from '../../utils/recorded-trip-title';
 
 const TravelLog = React.memo(() => {
@@ -47,19 +47,19 @@ const TravelLog = React.memo(() => {
       setLoading(true);
       const storedTrips = await getTrips();
       const routes = await routeHistoryService.getAllRoutes();
-      const resolved = storedTrips.map((trip) => {
+      const namesById: Record<string, string> = {};
+      for (const trip of storedTrips) {
+        if (trip.name) continue;
         const match = resolveRecordedTripTitle(trip, routes);
-        if (!trip.name && isFriendlyTripTitle(match.title)) {
-          return { ...trip, name: match.title };
+        if (isFriendlyTripTitle(match.title)) {
+          namesById[trip.id] = match.title;
         }
-        return trip;
-      });
-      const namedCount = resolved.filter((trip) => Boolean(trip.name)).length;
-      if (namedCount > storedTrips.filter((trip) => Boolean(trip.name)).length) {
-        await saveTrips(resolved);
       }
+      const resolved = Object.keys(namesById).length > 0
+        ? await backfillTripNames(namesById)
+        : storedTrips;
       setSavedRoutes(routes);
-      const sorted = resolved.sort((a, b) => (b.startTs || 0) - (a.startTs || 0));
+      const sorted = [...resolved].sort((a, b) => (b.startTs || 0) - (a.startTs || 0));
       setTrips(sorted);
     } catch (error) {
       console.error('[TravelLog] Error loading trips:', error);
