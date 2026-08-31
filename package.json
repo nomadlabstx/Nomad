@@ -9,6 +9,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
+    "test": "tsx --test utils/__tests__/*.test.ts services/__tests__/*.test.ts",
     "test:smoke": "node ./scripts/automated-smoke-test.js"
   },
   "dependencies": {
@@ -60,6 +61,7 @@
     "baseline-browser-mapping": "^2.9.19",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~10.0.0",
+    "tsx": "^4.23.13",
     "typescript": "~5.9.2"
   },
   "private": true

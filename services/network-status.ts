@@ -4,6 +4,7 @@
  */
 
 import { Platform } from 'react-native';
+import { CONNECTIVITY_PROBE_URL, isOnlineHttpStatus } from '../utils/connectivity';
 
 export interface NetworkStatus {
   isConnected: boolean;
@@ -47,21 +48,23 @@ class NetworkStatusService {
    * Check if device has internet connection
    */
   private async checkConnection(): Promise<boolean> {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 3000);
+
     try {
-      // Try to fetch a small resource with a timeout
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 3000);
-      
-      const response = await fetch('https://www.google.com/favicon.ico', {
-        method: 'HEAD',
-        mode: 'no-cors',
+      const response = await fetch(CONNECTIVITY_PROBE_URL, {
+        method: 'GET',
+        cache: 'no-store',
         signal: controller.signal,
       });
-      
-      clearTimeout(timeoutId);
-      return true;
-    } catch (error) {
+      return isOnlineHttpStatus(response.status);
+    } catch {
+      if (Platform.OS === 'web' && typeof navigator !== 'undefined' && typeof navigator.onLine === 'boolean') {
+        return navigator.onLine;
+      }
       return false;
+    } finally {
+      clearTimeout(timeoutId);
     }
   }
 

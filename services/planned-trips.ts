@@ -37,14 +37,16 @@ class PlannedTripsService {
   /**
    * Save planned trips to storage
    */
-  private async save(): Promise<void> {
-    if (!this.data) return;
+  private async save(): Promise<boolean> {
+    if (!this.data) return false;
 
     try {
       this.data.lastUpdated = Date.now();
       await AsyncStorage.setItem(PLANNED_TRIPS_KEY, JSON.stringify(this.data));
+      return true;
     } catch (error) {
       console.error('[PlannedTrips] Failed to save:', error);
+      return false;
     }
   }
 
@@ -62,7 +64,11 @@ class PlannedTripsService {
     };
 
     this.data!.trips.unshift(newTrip); // Add to beginning
-    await this.save();
+    const saved = await this.save();
+    if (!saved) {
+      this.data!.trips = this.data!.trips.filter((t) => t.id !== newTrip.id);
+      throw new Error('Failed to save planned trip');
+    }
 
     return newTrip;
   }

@@ -69,12 +69,14 @@ const RecorderTab = memo(() => {
   useFocusEffect(
     useCallback(() => {
       // Check if we arrived from a planned trip
-      if (params.applyAIPlan === 'true') {
+      if (params.applyAIPlan === 'true' || params.applySavedPlan === 'true') {
         const plan = aiPlannerContextService.consumePendingPlan();
         if (plan) {
           void (async () => {
             await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-            achievements.recordAITripPlanned();
+            if (params.applyAIPlan === 'true') {
+              achievements.recordAITripPlanned();
+            }
             await navigation.calculateRoute(plan.finalDestination.location, {
               waypoints: plan.stops.map(stop => stop.location),
               ...plan.routeOptions,
@@ -108,7 +110,7 @@ const RecorderTab = memo(() => {
           })();
         }
       }
-    }, [params.applyAIPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
+    }, [params.applyAIPlan, params.applySavedPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
   );
 
   // Auto-show route selector when routes become available after planned trip navigation
@@ -118,28 +120,56 @@ const RecorderTab = memo(() => {
     if (params.fromPlannedTrip === 'true' && navigation.routes.length > 0 && destinationMarker) {
       setShowRouteSelector(true);
     }
-  }, [navigation.routes.length, params.fromPlannedTrip, destinationMarker]);
+    if (params.applySavedPlan === 'true' && navigation.routes.length > 0 && destinationMarker) {
+      setShowRouteSelector(true);
+    }
+  }, [navigation.routes.length, params.fromPlannedTrip, params.applySavedPlan, destinationMarker]);
 
   /**
    * Auto-record trips when navigation is active
    */
   useEffect(() => {
     if (navigation.isNavigating) {
-      if (!passiveTracking.tracking) {
-        tripNameRef.current = formatTripName(
-          destinationName || navigation.getDestinationLabel() || ''
-        );
-        passiveTracking.start();
+      if (passiveTracking.tracking) {
         autoRecordingRef.current = true;
+        return;
       }
-      return;
+
+      tripNameRef.current = formatTripName(
+        destinationName || navigation.getDestinationLabel() || ''
+      );
+      let cancelled = false;
+      const kickOff = async () => {
+        const started = await passiveTracking.start();
+        if (!cancelled && started) {
+          autoRecordingRef.current = true;
+        }
+      };
+      void kickOff();
+      const retry = setTimeout(() => {
+        if (!cancelled) {
+          void kickOff();
+        }
+      }, 1500);
+      return () => {
+        cancelled = true;
+        clearTimeout(retry);
+      };
     }
 
     if (autoRecordingRef.current) {
-      passiveTracking.stop({
-        name: tripNameRef.current || destinationName || navigation.getDestinationLabel() || undefined,
-      });
       autoRecordingRef.current = false;
+      void (async () => {
+        const result = await passiveTracking.stop({
+          name: tripNameRef.current || destinationName || navigation.getDestinationLabel() || undefined,
+        });
+        if (result.attempted && !result.saved) {
+          Alert.alert(
+            'Trip not saved',
+            'Nomad could not write this trip to the Travel Log. Check storage and try again.'
+          );
+        }
+      })();
     }
   }, [navigation.isNavigating, navigation.getDestinationLabel, destinationName, passiveTracking.tracking, passiveTracking.start, passiveTracking.stop]);
 

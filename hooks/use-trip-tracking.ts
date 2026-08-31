@@ -1,14 +1,14 @@
 import * as Location from 'expo-location';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { LocationSubscription, TrackPoint, Trip } from '../types';
-import { calculateDistance } from '../utils/calculations';
+import { calculateDistance, calculatePathDistance } from '../utils/calculations';
 import { createLocationUpdateHandler, createLocationWatcher, safeRemoveSubscription } from '../utils/location';
 import { addTrip } from '../utils/storage';
 import { formatTripName } from '../utils/trip-names';
 
 const MAX_PATH_POINTS = 50000;
 
-function enqueueExclusive(chainRef: { current: Promise<void> }, operation: () => Promise<void>): Promise<void> {
+function enqueueExclusive<T>(chainRef: { current: Promise<unknown> }, operation: () => Promise<T>): Promise<T> {
   const run = chainRef.current.then(operation, operation);
   chainRef.current = run.then(
     () => undefined,
@@ -22,7 +22,7 @@ export function useTripTracking() {
   const watchSubRef = useRef<LocationSubscription | number | null>(null);
   const idleWatchRef = useRef<LocationSubscription | number | null>(null);
   const sessionIdRef = useRef(0);
-  const opChainRef = useRef(Promise.resolve());
+  const opChainRef = useRef<Promise<unknown>>(Promise.resolve());
   const pathRef = useRef<TrackPoint[]>([]);
   const metersRef = useRef(0);
   const startTsRef = useRef<number | null>(null);
@@ -206,11 +206,13 @@ export function useTripTracking() {
     startIdleWatcher();
   }, [hasPerm, tracking, startIdleWatcher]);
 
-  const start = useCallback(() => {
+  const start = useCallback((): Promise<boolean> => {
     return enqueueExclusive(opChainRef, async () => {
+      if (trackingRef.current) return true;
+
       if (!hasPerm) {
         const granted = await requestLocationPermission();
-        if (!granted) return;
+        if (!granted) return false;
       }
 
       const session = ++sessionIdRef.current;
@@ -241,11 +243,12 @@ export function useTripTracking() {
         const subscription = await createLocationWatcher(handleLocationUpdate);
         if (sessionIdRef.current !== session) {
           safeRemoveSubscription(subscription);
-          return;
+          return false;
         }
         watchSubRef.current = subscription;
         trackingRef.current = true;
         setTracking(true);
+        return true;
       } catch (error) {
         console.warn('Failed to start location tracking:', error);
         if (sessionIdRef.current === session) {
@@ -253,11 +256,12 @@ export function useTripTracking() {
           trackingRef.current = false;
           setTracking(false);
         }
+        return false;
       }
     });
   }, [hasPerm, handleLocationUpdate, requestLocationPermission, clearTrackingSubscription]);
 
-  const stop = useCallback((options?: { name?: string }) => {
+  const stop = useCallback((options?: { name?: string }): Promise<{ saved: boolean; attempted: boolean }> => {
     return enqueueExclusive(opChainRef, async () => {
       if (__DEV__) {
         console.debug('Stop button pressed - saving trip and resetting');
@@ -272,12 +276,14 @@ export function useTripTracking() {
 
       const now = Date.now();
       const snapshotPath = pathRef.current;
-      const snapshotMeters = metersRef.current;
+      const snapshotMeters = metersRef.current > 0
+        ? metersRef.current
+        : calculatePathDistance(snapshotPath);
       const snapshotStartTs = startTsRef.current;
       const snapshotPausedAccum =
         pausedAccumRef.current + (pausedSinceRef.current ? now - pausedSinceRef.current : 0);
 
-      const willSave = snapshotPath.length > 0 && snapshotMeters > 0 && Boolean(snapshotStartTs);
+      const willSave = snapshotPath.length >= 1 && Boolean(snapshotStartTs);
       const tripName = options?.name ? formatTripName(options.name) : undefined;
 
       resetRecordingState(now);
@@ -295,17 +301,17 @@ export function useTripTracking() {
         if (__DEV__) {
           console.debug(`[TripTracking] Saving trip: ${snapshotPath.length} points, ${snapshotMeters.toFixed(0)}m, ${((now - snapshotStartTs) / 1000).toFixed(0)}s`);
         }
-        try {
-          await addTrip(trip);
-          if (__DEV__) {
-            console.debug('[TripTracking] Trip saved successfully');
-          }
-        } catch (error) {
-          console.warn('[TripTracking] Failed to save trip:', error);
+        const saved = await addTrip(trip);
+        if (!saved) {
+          console.warn('[TripTracking] Failed to save trip: storage write returned false');
+        } else if (__DEV__) {
+          console.debug('[TripTracking] Trip saved successfully');
         }
-      } else {
-        console.warn(`[TripTracking] Trip not saved - insufficient data: ${snapshotPath.length} points, ${snapshotMeters}m, startTs: ${snapshotStartTs ? 'yes' : 'no'}`);
+        return { saved, attempted: true };
       }
+
+      console.warn(`[TripTracking] Trip not saved - insufficient data: ${snapshotPath.length} points, ${snapshotMeters}m, startTs: ${snapshotStartTs ? 'yes' : 'no'}`);
+      return { saved: false, attempted: false };
     });
   }, [clearTrackingSubscription, resetRecordingState]);
 
