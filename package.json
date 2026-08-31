@@ -61,7 +61,7 @@
     "baseline-browser-mapping": "^2.9.19",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~10.0.0",
-    "tsx": "^4.20.5",
+    "tsx": "^4.23.13",
     "typescript": "~5.9.2"
   },
   "private": true
