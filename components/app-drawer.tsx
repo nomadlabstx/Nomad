@@ -104,10 +104,10 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose, panHandlers }: {
         <Text style={[styles.drawerTitle, { color: theme.text }]}>Menu</Text>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
           <DrawerItem label="Home" icon="house.fill" href="/" isActive={isActive('/')} onNavigate={onNavigate} />
-          <DrawerItem label="Pathfinder" icon="brain.head.profile" href="/(tabs)/ai-assistant" isActive={isActive('/(tabs)/ai-assistant')} onNavigate={onNavigate} />
           <DrawerItem label="GPS" icon="paperplane.fill" href="/(tabs)/recorder" isActive={isActive('/(tabs)/recorder')} onNavigate={onNavigate} />
-          <DrawerItem label="Travel Log" icon="map.fill" href="/(tabs)/travel-log" isActive={isActive('/(tabs)/travel-log')} onNavigate={onNavigate} />
           <DrawerItem label="Checklist" icon="checkmark.circle.fill" href="/(tabs)/explore" isActive={isActive('/(tabs)/explore')} onNavigate={onNavigate} />
+          <DrawerItem label="Pathfinder" icon="brain.head.profile" href="/(tabs)/ai-assistant" isActive={isActive('/(tabs)/ai-assistant')} onNavigate={onNavigate} />
+          <DrawerItem label="Travel Log" icon="map.fill" href="/(tabs)/travel-log" isActive={isActive('/(tabs)/travel-log')} onNavigate={onNavigate} />
         </View>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
           <DrawerItem label="Trips" icon="list.bullet" href="/(tabs)/planned-trips" isActive={isActive('/(tabs)/planned-trips')} onNavigate={onNavigate} />
