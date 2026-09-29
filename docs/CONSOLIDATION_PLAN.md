@@ -8,7 +8,7 @@ Deliver a stable core loop for highway roadtrippers:
 
 1. Pick a highway or stretch to complete
 2. Drive it and record
-3. Review checklist + travel log; use Pathfinder for stay-on-highway control and new miles
+3. Review checklist + travel log; use Pathfinder for places to go, stay-on-highway control, and new miles
 
 If work does not improve this loop in a measurable way, it is deferred.
 
@@ -25,7 +25,7 @@ If work does not improve this loop in a measurable way, it is deferred.
 - `Travel Log` (`app/(tabs)/travel-log.tsx`, `app/trip/[id].tsx`)
   - Keep trip list and trip detail viewing.
 - `Pathfinder` (`app/(tabs)/ai-assistant.tsx`)
-  - Copilot for stay-on-highway routing and new miles along the road.
+  - Planner for destinations and city itineraries, plus stay-on-highway routing and new miles.
 - Core reliability services
   - Keep offline/network state, storage, navigation, and error handling.
 

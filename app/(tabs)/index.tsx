@@ -124,7 +124,7 @@ const HomeScreen = memo(() => {
         <QuickActionButton
           icon="brain.head.profile"
           title="Pathfinder"
-          description="Stay on a named road or find something new along it"
+          description="Plan a destination or keep the drive on a named highway"
           onPress={handleOpenPathfinder}
           tint={tint}
         />

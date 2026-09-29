@@ -66,7 +66,7 @@ Confidence level: Low.
 - GPS/Recorder/Navigation
 - Checklist (highways, counties, exits)
 - Travel Log and Trip Detail
-- Pathfinder as highway copilot
+- Pathfinder as destination planner and highway copilot
 - Reliability and storage/network/error handling
 
 ### Hide (Remain in Code, Not Primary Path)

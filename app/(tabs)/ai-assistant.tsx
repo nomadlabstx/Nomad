@@ -25,8 +25,15 @@ const AIAssistantTab = memo(() => {
     }
   }, [params.mode, router]);
 
-  const handleQuickPlan = useCallback((type: 'stay-on' | 'challenge' | 'along-route' | 'custom') => {
+  const handleQuickPlan = useCallback((type: 'destination' | 'stay-on' | 'challenge' | 'custom') => {
     switch (type) {
+      case 'destination':
+        setInitialRequest({
+          type: 'chat',
+          data: 'I want suggestions for places to go. Plan a weekend in Austin with specific restaurants, attractions, and things to do — not just stops along a highway. Ask if I have a different city in mind.',
+        });
+        setShowChat(true);
+        return;
       case 'stay-on':
         setInitialRequest({
           type: 'chat',
@@ -38,13 +45,6 @@ const AIAssistantTab = memo(() => {
         setInitialRequest({
           type: 'chat',
           data: 'Challenge me to finish unfinished highway miles. Suggest a stretch, exits, or a county dip that would be new for a roadtripper who collects highways.',
-        });
-        setShowChat(true);
-        return;
-      case 'along-route':
-        setInitialRequest({
-          type: 'chat',
-          data: 'I want to see something new along the highway I am completing — small towns, overlooks, or food just off the road. Not a generic city weekend itinerary.',
         });
         setShowChat(true);
         return;
@@ -71,13 +71,26 @@ const AIAssistantTab = memo(() => {
          <View style={styles.header}>
            <Text style={[styles.title, { color: theme.text }]}>🧭 Pathfinder</Text>
            <Text style={[styles.subtitle, { color: theme.secondaryText }]}>
-             Copilot for highway miles and new things along the road
+             Plan a destination, then keep the drive on the road you want
            </Text>
          </View>
 
         {/* Quick Actions */}
         <View style={styles.section}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>What do you need?</Text>
+
+          <TouchableOpacity 
+            style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
+            onPress={() => handleQuickPlan('destination')}
+          >
+            <Text style={styles.actionEmoji}>📍</Text>
+            <View style={styles.actionContent}>
+              <Text style={[styles.actionTitle, { color: theme.text }]}>Plan a destination</Text>
+              <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
+                City weekends, day trips, food, and places to go — not just stops along a highway
+              </Text>
+            </View>
+          </TouchableOpacity>
           
           <TouchableOpacity 
             style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
@@ -106,19 +119,6 @@ const AIAssistantTab = memo(() => {
           </TouchableOpacity>
 
           <TouchableOpacity 
-            style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
-            onPress={() => handleQuickPlan('along-route')}
-          >
-            <Text style={styles.actionEmoji}>📍</Text>
-            <View style={styles.actionContent}>
-              <Text style={[styles.actionTitle, { color: theme.text }]}>New things along the road</Text>
-              <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
-                Towns, food, and overlooks on or just off the highway you are driving
-              </Text>
-            </View>
-          </TouchableOpacity>
-
-          <TouchableOpacity 
             style={[styles.actionCard, { borderColor: selectedBgColor, backgroundColor: selectedBgColor }]}
             onPress={() => handleQuickPlan('custom')}
           >
@@ -126,7 +126,7 @@ const AIAssistantTab = memo(() => {
             <View style={styles.actionContent}>
               <Text style={[styles.actionTitle, { color: getOnAccentColor(selectedBgColor) }]}>Custom Request</Text>
               <Text style={[styles.actionDescription, { color: getOnAccentColor(selectedBgColor), opacity: 0.9 }]}>
-                Name a highway, a stretch, or a constraint. Pathfinder will keep the route honest.
+                Ask for a city plan, a place to go, or a highway to stay on
               </Text>
             </View>
           </TouchableOpacity>
@@ -136,6 +136,36 @@ const AIAssistantTab = memo(() => {
         <View style={styles.section}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>Example Requests</Text>
           
+          <TouchableOpacity 
+            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
+            onPress={() => {
+              setInitialRequest({ 
+                type: 'chat', 
+                data: 'Plan a weekend trip to Austin with great food and live music. Give me specific restaurants and places to go, not just things along the drive.' 
+              });
+              setShowChat(true);
+            }}
+          >
+            <Text style={[styles.exampleText, { color: theme.text }]}>
+              &quot;Plan a weekend trip to Austin with great food and live music.&quot;
+            </Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity 
+            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
+            onPress={() => {
+              setInitialRequest({ 
+                type: 'chat', 
+                data: 'What should I do in Austin today? Suggest named restaurants, attractions, and neighborhoods.' 
+              });
+              setShowChat(true);
+            }}
+          >
+            <Text style={[styles.exampleText, { color: theme.text }]}>
+              &quot;What should I do in Austin today? Suggest named restaurants and places.&quot;
+            </Text>
+          </TouchableOpacity>
+
           <TouchableOpacity 
             style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
             onPress={() => {
@@ -165,36 +195,6 @@ const AIAssistantTab = memo(() => {
               &quot;Challenge me to finish a stretch of highway I have not completed. I am driving in Texas.&quot;
             </Text>
           </TouchableOpacity>
-
-          <TouchableOpacity 
-            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
-            onPress={() => {
-              setInitialRequest({ 
-                type: 'chat', 
-                data: 'What is a new county or exit I can dip between Houston and El Paso while staying on I-10?' 
-              });
-              setShowChat(true);
-            }}
-          >
-            <Text style={[styles.exampleText, { color: theme.text }]}>
-              &quot;What is a new county or exit I can dip between Houston and El Paso while staying on I-10?&quot;
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity 
-            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
-            onPress={() => {
-              setInitialRequest({ 
-                type: 'chat', 
-                data: 'Keep me on US-281. Suggest food and a small town just off the highway, not a big city itinerary.' 
-              });
-              setShowChat(true);
-            }}
-          >
-            <Text style={[styles.exampleText, { color: theme.text }]}>
-              &quot;Keep me on US-281. Suggest food and a small town just off the highway, not a big city itinerary.&quot;
-            </Text>
-          </TouchableOpacity>
         </View>
 
         {/* Features */}
@@ -203,32 +203,32 @@ const AIAssistantTab = memo(() => {
           
           <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🗺️</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Keep you on a named highway</Text>
-          </View>
-
-          <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>⛽</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Challenge unfinished exits and counties</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Plan city itineraries and weekends</Text>
           </View>
 
           <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🍽️</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Suggest named restaurants and places to go</Text>
+          </View>
+
+          <View style={styles.featureRow}>
+            <Text style={styles.featureEmoji}>🛣️</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Keep you on a named highway when you ask</Text>
+          </View>
+
+          <View style={styles.featureRow}>
+            <Text style={styles.featureEmoji}>🏁</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Challenge unfinished exits and counties</Text>
+          </View>
+
+          <View style={styles.featureRow}>
+            <Text style={styles.featureEmoji}>📍</Text>
             <Text style={[styles.featureText, { color: theme.text }]}>Find new things on or just off the road</Text>
           </View>
 
           <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>💰</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Prefer completion over the fastest ETA</Text>
-          </View>
-
-          <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>🎯</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Turn stay-on-I-95 into a real route pick</Text>
-          </View>
-
-          <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🚗</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Hand the constrained route to GPS</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Hand the plan and route to GPS</Text>
           </View>
         </View>
       </ScrollView>
