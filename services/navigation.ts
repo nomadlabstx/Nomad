@@ -20,6 +20,7 @@ import { networkStatusService } from './network-status';
 import { classifyTraffic } from '../utils/traffic';
 import { formatDirectionInstructionText } from '../utils/format-directions';
 import { instructionIndicatesHighway } from '../utils/highway-refs';
+import { rankRoutesForPreferredHighways } from '../utils/preferred-highways';
 import { routeMatchingService } from './route-matching';
 import { attachTrafficOverlays, fetchTrafficOverlays } from './routes-traffic';
 
@@ -198,6 +199,10 @@ class NavigationService {
 
       // Parse routes
       let routes = data.routes.map((route: any, index: number) => this.parseRoute(route, index));
+
+      if (options.preferredHighways && options.preferredHighways.length > 0) {
+        routes = rankRoutesForPreferredHighways(routes, options.preferredHighways);
+      }
 
       try {
         const overlays = await fetchTrafficOverlays(

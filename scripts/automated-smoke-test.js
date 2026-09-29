@@ -6,7 +6,7 @@ const repoRoot = path.resolve(__dirname, '..');
 const checks = [
   {
     file: 'app/(tabs)/ai-assistant.tsx',
-    patterns: [/AIChat/, /Pathfinder/],
+    patterns: [/AIChat/, /Pathfinder/, /Plan a destination/, /Plan a weekend trip to Austin/],
   },
   {
     file: 'components/ai-chat.tsx',
@@ -18,7 +18,7 @@ const checks = [
   },
   {
     file: 'services/gemini-ai.ts',
-    patterns: [/buildTripPlanPrompt/, /buildChatPrompt/],
+    patterns: [/buildTripPlanPrompt/, /buildChatPrompt/, /Destination planning/, /Stay on: I-95/],
   },
   {
     file: 'services/conversational-booking.ts',

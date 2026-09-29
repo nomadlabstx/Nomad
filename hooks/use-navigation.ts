@@ -336,6 +336,7 @@ export function useNavigation(): UseNavigationReturn {
         avoidTolls: previousOptions.avoidTolls,
         avoidHighways: previousOptions.avoidHighways,
         avoidFerries: previousOptions.avoidFerries,
+        preferredHighways: previousOptions.preferredHighways,
         waypoints: remainingWaypoints,
       },
       location

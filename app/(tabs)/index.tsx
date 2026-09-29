@@ -2,7 +2,7 @@ import { useAppTint } from '@/components/color-context';
 import { IconSymbol } from '@/components/ui/icon-symbol';
 import * as Haptics from 'expo-haptics';
 import { useRouter } from 'expo-router';
-import { memo, useCallback, useEffect } from 'react';
+import { memo, useCallback } from 'react';
 import { Platform, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import Animated, { FadeInDown, FadeInUp, useAnimatedStyle, useSharedValue, withSpring } from 'react-native-reanimated';
 import { useThemeColors } from '../../hooks/use-theme-colors';
@@ -92,8 +92,8 @@ const HomeScreen = memo(() => {
     router.push('/(tabs)/travel-log');
   }, [router]);
 
-  const handleOpenBookings = useCallback(() => {
-    router.push('/(tabs)/bookings');
+  const handleOpenChecklist = useCallback(() => {
+    router.push('/(tabs)/explore');
   }, [router]);
 
   return (
@@ -102,37 +102,37 @@ const HomeScreen = memo(() => {
         style={styles.headerSection}
         entering={FadeInUp.duration(500).springify()}
       >
-        <Text style={[styles.greeting, { color: theme.text }]}>What&apos;s the move,</Text>
+        <Text style={[styles.greeting, { color: theme.text }]}>Where to next,</Text>
         <Text style={[styles.greeting, styles.greetingSubtitle, { color: theme.text }]}>Chief?</Text>
       </Animated.View>
 
       <View style={styles.actionsSection}>
         <QuickActionButton
-          icon="brain.head.profile"
-          title="Pathfinder"
-          description="Plan your trip with AI"
-          onPress={handleOpenPathfinder}
+          icon="location.fill"
+          title="GPS"
+          description="Drive, record, and stay on the highway you picked"
+          onPress={handleOpenGPS}
           tint={tint}
         />
         <QuickActionButton
-          icon="location.fill"
-          title="GPS"
-          description="Navigate and track your route"
-          onPress={handleOpenGPS}
+          icon="checkmark.circle.fill"
+          title="Checklist"
+          description="Highways, counties, and exits you have completed"
+          onPress={handleOpenChecklist}
+          tint={tint}
+        />
+        <QuickActionButton
+          icon="brain.head.profile"
+          title="Pathfinder"
+          description="Plan a destination or keep the drive on a named highway"
+          onPress={handleOpenPathfinder}
           tint={tint}
         />
         <QuickActionButton
           icon="map.fill"
           title="Travel Log"
-          description="View your trip history"
+          description="Trips you have already driven"
           onPress={handleOpenTravelLog}
-          tint={tint}
-        />
-        <QuickActionButton
-          icon="calendar"
-          title="My Bookings"
-          description="Manage your travel bookings"
-          onPress={handleOpenBookings}
           tint={tint}
         />
       </View>
