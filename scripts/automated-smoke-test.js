@@ -28,6 +28,14 @@ const checks = [
     file: 'hooks/use-gemini.ts',
     patterns: [/useGemini/],
   },
+  {
+    file: 'components/place-identity-hud.tsx',
+    patterns: [/PlaceIdentityHud/, /formatPlaceLine/, /formatCountyLine/],
+  },
+  {
+    file: 'utils/place-identity.ts',
+    patterns: [/parsePlaceIdentity/, /pickTown/, /keepLastGoodRoad/],
+  },
 ];
 
 function fail(message) {

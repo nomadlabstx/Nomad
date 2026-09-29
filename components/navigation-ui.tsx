@@ -36,6 +36,7 @@ interface NavigationUIProps {
   currentLegIndex?: number;
   currentStepIndex?: number;
   cameraAlerts?: CameraAlert[]; // Speed camera warnings
+  topOffset?: number;
 }
 
 const NavigationUI = memo<NavigationUIProps>(({
@@ -55,6 +56,7 @@ const NavigationUI = memo<NavigationUIProps>(({
   route,
   currentLegIndex = 0,
   currentStepIndex = 0,
+  topOffset = 60,
 }) => {
   const { tint } = useAppTint();
   const [showRouteOverview, setShowRouteOverview] = useState(false);
@@ -118,7 +120,7 @@ const NavigationUI = memo<NavigationUIProps>(({
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
-          style={styles.cameraAlertsContainer}
+          style={[styles.cameraAlertsContainer, { marginTop: topOffset }]}
         >
           {cameraAlerts.slice(0, 3).map((alert) => (
             <SpeedCameraAlert key={alert.camera.id} alert={alert} />
@@ -128,7 +130,11 @@ const NavigationUI = memo<NavigationUIProps>(({
 
       {/* Main Navigation Panel */}
       <TouchableOpacity
-        style={[styles.mainPanel, urgencyLevel === 'now' && styles.mainPanelUrgent]}
+        style={[
+          styles.mainPanel,
+          { marginTop: cameraAlerts.length > 0 ? 8 : topOffset },
+          urgencyLevel === 'now' && styles.mainPanelUrgent,
+        ]}
         onPress={handleOpenOverview}
         activeOpacity={0.7}
       >
@@ -255,7 +261,7 @@ const styles = StyleSheet.create({
     pointerEvents: 'box-none', // Allow touches to pass through to map
   },
   cameraAlertsContainer: {
-    marginTop: 60, // Below status bar
+    marginTop: 8, // Below status bar / place identity
     marginBottom: 8,
     maxHeight: 100,
     zIndex: 1000,
@@ -264,7 +270,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     backgroundColor: '#fff',
     padding: 16,
-    marginTop: 60,
+    marginTop: 8,
     marginHorizontal: 16,
     borderRadius: 12,
     alignItems: 'center',

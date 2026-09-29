@@ -111,7 +111,6 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose, panHandlers }: {
         </View>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
           <DrawerItem label="Trips" icon="list.bullet" href="/(tabs)/planned-trips" isActive={isActive('/(tabs)/planned-trips')} onNavigate={onNavigate} />
-          <DrawerItem label="Achievements" icon="trophy.fill" href="/(tabs)/achievements" isActive={isActive('/(tabs)/achievements')} onNavigate={onNavigate} />
           <DrawerItem label="Bookings" icon="calendar" href="/(tabs)/bookings" isActive={isActive('/(tabs)/bookings')} onNavigate={onNavigate} />
         </View>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
