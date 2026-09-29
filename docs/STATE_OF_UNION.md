@@ -63,7 +63,7 @@ Confidence level: Low.
 
 ### Keep (MVP-Critical)
 - Home
-- GPS/Recorder/Navigation
+- GPS/Recorder/Navigation with Tesla-style place identity
 - Checklist (highways, counties, exits)
 - Travel Log and Trip Detail
 - Pathfinder as destination planner and highway copilot
@@ -71,6 +71,7 @@ Confidence level: Low.
 
 ### Hide (Remain in Code, Not Primary Path)
 - Planned Trips
+- Achievements and RPG overlay (unmounted; off the drawer)
 
 ### Pause (No Work Until v0.1 Stable)
 - Achievements/gamification

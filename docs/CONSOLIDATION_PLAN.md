@@ -19,7 +19,7 @@ If work does not improve this loop in a measurable way, it is deferred.
 - `Home` (`app/(tabs)/index.tsx`)
   - Keep only actions that lead into the core loop: GPS, Checklist, Pathfinder, Travel Log.
 - `GPS` (`app/(tabs)/recorder.tsx`)
-  - Keep destination search, route start, active navigation, recording, and trip save.
+  - Keep destination search, route start, active navigation, recording, trip save, and place identity (road / town / county).
 - `Checklist / Explorer` (`app/(tabs)/explore.tsx`)
   - Primary atlas: highways, counties, exits.
 - `Travel Log` (`app/(tabs)/travel-log.tsx`, `app/trip/[id].tsx`)
