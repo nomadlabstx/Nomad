@@ -74,6 +74,13 @@ const WebMapView = React.forwardRef<any, any>((props, ref) => {
       if (!googleMapRef.current || !region) return;
       googleMapRef.current.panTo({ lat: region.latitude, lng: region.longitude });
     },
+    animateCamera: (camera: { center?: { latitude: number; longitude: number }; heading?: number }) => {
+      if (!googleMapRef.current || !camera?.center) return;
+      googleMapRef.current.panTo({ lat: camera.center.latitude, lng: camera.center.longitude });
+      if (typeof camera.heading === 'number' && typeof googleMapRef.current.setHeading === 'function') {
+        googleMapRef.current.setHeading(camera.heading);
+      }
+    },
   }));
 
   React.useEffect(() => {
@@ -113,13 +120,6 @@ const WebMapView = React.forwardRef<any, any>((props, ref) => {
           mapTypeId: google.maps.MapTypeId.ROADMAP,
           gestureHandling: 'greedy',
           disableDefaultUI: true,
-          styles: [
-            {
-              featureType: 'poi',
-              elementType: 'labels',
-              stylers: [{ visibility: 'off' }]
-            }
-          ]
         });
 
         googleMapRef.current = map;

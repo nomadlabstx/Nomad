@@ -29,12 +29,36 @@ const checks = [
     patterns: [/useGemini/],
   },
   {
+    file: 'docs/PRODUCT.md',
+    patterns: [/Achievements are in/, /SPEED LIMIT/, /Along the interstate/],
+  },
+  {
+    file: 'components/app-drawer.tsx',
+    patterns: [/Achievements/],
+  },
+  {
     file: 'components/place-identity-hud.tsx',
-    patterns: [/PlaceIdentityHud/, /formatPlaceLine/, /formatCountyLine/],
+    patterns: [/PlaceIdentityHud/, /formatPlaceLine/, /formatCountyLine/, /compact/],
   },
   {
     file: 'utils/place-identity.ts',
     patterns: [/parsePlaceIdentity/, /pickTown/, /keepLastGoodRoad/],
+  },
+  {
+    file: 'components/navigation-ui.tsx',
+    patterns: [/PlaceIdentityHud/, /End/],
+  },
+  {
+    file: 'components/speed-limit-display.tsx',
+    patterns: [/SPEED/, /LIMIT/],
+  },
+  {
+    file: 'services/speed-camera.ts',
+    patterns: [/refreshNearbyFromOsm/, /highway"="speed_camera/],
+  },
+  {
+    file: 'utils/osm-cameras.ts',
+    patterns: [/parseOverpassCameras/],
   },
 ];
 
