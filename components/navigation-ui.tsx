@@ -1,22 +1,19 @@
 /**
- * Navigation UI Component
- * Displays turn-by-turn navigation interface with map, instructions, and ETA
+ * Compact Apple Maps-style turn-by-turn chrome.
  */
 
 import * as Haptics from 'expo-haptics';
 import { memo, useCallback, useMemo, useState } from 'react';
-import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import type { LaneInfo, Route } from '../services/navigation';
 import { navigationService } from '../services/navigation';
-import type { CameraAlert } from '../services/speed-camera';
+import type { PlaceIdentity } from '../utils/place-identity';
 import { useAppTint } from './color-context';
 import InstructionText from './instruction-text';
 import LaneGuidance from './lane-guidance';
+import PlaceIdentityHud from './place-identity-hud';
 import RouteOverview from './route-overview';
-import { SpeedCameraAlert } from './speed-camera-alert';
-import SpeedLimitDisplay from './speed-limit-display';
 
-/** Fixed accent for map overlays — theme tint is white in dark mode. */
 const NAV_ACCENT = '#007AFF';
 
 interface NavigationUIProps {
@@ -25,18 +22,18 @@ interface NavigationUIProps {
   timeToDestination: number;
   distanceRemaining: number;
   currentManeuver?: string;
-  lanes?: LaneInfo[]; // Lane guidance data
+  lanes?: LaneInfo[];
   voiceEnabled: boolean;
   onToggleVoice: () => void;
   onStopNavigation: () => void;
   unit?: 'miles' | 'km';
   currentLocation?: { latitude: number; longitude: number };
-  currentSpeed?: number; // m/s from GPS
-  route?: Route; // Full route for overview
+  currentSpeed?: number;
+  route?: Route;
   currentLegIndex?: number;
   currentStepIndex?: number;
-  cameraAlerts?: CameraAlert[]; // Speed camera warnings
   topOffset?: number;
+  identity?: PlaceIdentity | null;
 }
 
 const NavigationUI = memo<NavigationUIProps>(({
@@ -50,18 +47,15 @@ const NavigationUI = memo<NavigationUIProps>(({
   onToggleVoice,
   onStopNavigation,
   unit = 'miles',
-  currentLocation,
-  currentSpeed = 0,
-  cameraAlerts = [],
   route,
   currentLegIndex = 0,
   currentStepIndex = 0,
   topOffset = 60,
+  identity = null,
 }) => {
   const { tint } = useAppTint();
   const [showRouteOverview, setShowRouteOverview] = useState(false);
 
-  // Format displays
   const distanceToTurnDisplay = useMemo(
     () => navigationService.formatDistance(distanceToTurn, unit),
     [distanceToTurn, unit]
@@ -77,10 +71,8 @@ const NavigationUI = memo<NavigationUIProps>(({
     [timeToDestination]
   );
 
-  // Calculate actual arrival time
   const arrivalTime = useMemo(() => {
-    const now = new Date();
-    const arrivalDate = new Date(now.getTime() + timeToDestination * 1000);
+    const arrivalDate = new Date(Date.now() + timeToDestination * 1000);
     const hours = arrivalDate.getHours();
     const minutes = arrivalDate.getMinutes();
     const ampm = hours >= 12 ? 'PM' : 'AM';
@@ -89,19 +81,12 @@ const NavigationUI = memo<NavigationUIProps>(({
     return `${displayHours}:${displayMinutes} ${ampm}`;
   }, [timeToDestination]);
 
-
-  // Determine urgency level for styling
   const urgencyLevel = useMemo(() => {
     if (distanceToTurn < 50) return 'now';
     if (distanceToTurn < 100) return 'near';
     if (distanceToTurn < 400) return 'medium';
     return 'far';
   }, [distanceToTurn]);
-
-  const handleToggleVoice = useCallback(() => {
-    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-    onToggleVoice();
-  }, [onToggleVoice]);
 
   const handleStop = useCallback(() => {
     Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning);
@@ -115,35 +100,19 @@ const NavigationUI = memo<NavigationUIProps>(({
 
   return (
     <View style={styles.container}>
-      {/* Speed Camera Alerts */}
-      {cameraAlerts.length > 0 && (
-        <ScrollView
-          horizontal
-          showsHorizontalScrollIndicator={false}
-          style={[styles.cameraAlertsContainer, { marginTop: topOffset }]}
-        >
-          {cameraAlerts.slice(0, 3).map((alert) => (
-            <SpeedCameraAlert key={alert.camera.id} alert={alert} />
-          ))}
-        </ScrollView>
-      )}
-
-      {/* Main Navigation Panel */}
       <TouchableOpacity
         style={[
           styles.mainPanel,
-          { marginTop: cameraAlerts.length > 0 ? 8 : topOffset },
+          { marginTop: topOffset },
           urgencyLevel === 'now' && styles.mainPanelUrgent,
         ]}
         onPress={handleOpenOverview}
-        activeOpacity={0.7}
+        activeOpacity={0.8}
       >
-        {/* Maneuver Icon */}
-        <View style={styles.maneuverContainer}>
+        <View style={[styles.maneuverContainer, urgencyLevel === 'now' && styles.maneuverUrgent]}>
           <Text style={styles.maneuverIcon}>{getManeuverSymbol(currentManeuver)}</Text>
         </View>
 
-        {/* Instruction */}
         <View style={styles.instructionContainer}>
           <Text style={[styles.distanceText, urgencyLevel === 'now' && styles.distanceTextUrgent]}>
             {distanceToTurnDisplay}
@@ -156,58 +125,33 @@ const NavigationUI = memo<NavigationUIProps>(({
             ]}
             compact
           />
-          
-          {/* Lane Guidance */}
+          <PlaceIdentityHud identity={identity} compact inverted={urgencyLevel === 'now'} />
           {lanes && distanceToTurn < 800 && (
             <LaneGuidance lanes={lanes} tint={tint} />
           )}
         </View>
       </TouchableOpacity>
 
-      {/* Bottom Info Bar */}
       <View style={styles.bottomBar}>
-        {/* ETA */}
         <View style={styles.infoItem}>
           <Text style={styles.infoLabel}>Arrive</Text>
           <Text style={styles.infoValue}>{arrivalTime}</Text>
           <Text style={styles.infoSubtext}>{etaDisplay}</Text>
         </View>
 
-        {/* Distance Remaining */}
         <View style={styles.infoItem}>
           <Text style={styles.infoLabel}>Distance</Text>
           <Text style={styles.infoValue}>{distanceRemainingDisplay}</Text>
         </View>
 
-        {/* Speed Limit Display */}
-        {currentLocation && (
-          <SpeedLimitDisplay
-            currentSpeed={currentSpeed}
-            latitude={currentLocation.latitude}
-            longitude={currentLocation.longitude}
-            unit={unit === 'miles' ? 'mph' : 'km/h'}
-            showCurrentSpeed={false}
-          />
-        )}
-
-        {/* Voice Toggle */}
-        <TouchableOpacity
-          onPress={handleToggleVoice}
-          style={[styles.iconButton, voiceEnabled ? styles.iconButtonActive : styles.iconButtonInactive]}
-        >
-          <Text style={styles.iconButtonText}>{voiceEnabled ? '🔊' : '🔇'}</Text>
-        </TouchableOpacity>
-
-        {/* Stop Navigation */}
         <TouchableOpacity
           onPress={handleStop}
-          style={[styles.iconButton, { backgroundColor: '#ff3b30' }]}
+          style={styles.endButton}
         >
-          <Text style={styles.iconButtonText}>✕</Text>
+          <Text style={styles.endButtonText}>End</Text>
         </TouchableOpacity>
       </View>
 
-      {/* Route Overview Modal */}
       <RouteOverview
         visible={showRouteOverview}
         onClose={() => setShowRouteOverview(false)}
@@ -215,6 +159,8 @@ const NavigationUI = memo<NavigationUIProps>(({
         currentLegIndex={currentLegIndex}
         currentStepIndex={currentStepIndex}
         unit={unit}
+        voiceEnabled={voiceEnabled}
+        onToggleVoice={onToggleVoice}
       />
     </View>
   );
@@ -222,9 +168,6 @@ const NavigationUI = memo<NavigationUIProps>(({
 
 NavigationUI.displayName = 'NavigationUI';
 
-/**
- * Get symbol for maneuver type
- */
 function getManeuverSymbol(maneuver?: string): string {
   if (!maneuver) return '↑';
 
@@ -241,8 +184,8 @@ function getManeuverSymbol(maneuver?: string): string {
     'fork-left': '↖',
     'fork-right': '↗',
     'ferry': '⛴',
-    'roundabout-left': '⭯',
-    'roundabout-right': '⭮',
+    'roundabout-left': 'O',
+    'roundabout-right': 'O',
     'ramp-left': '↙',
     'ramp-right': '↘',
     'straight': '↑',
@@ -258,44 +201,36 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
-    pointerEvents: 'box-none', // Allow touches to pass through to map
-  },
-  cameraAlertsContainer: {
-    marginTop: 8, // Below status bar / place identity
-    marginBottom: 8,
-    maxHeight: 100,
-    zIndex: 1000,
+    pointerEvents: 'box-none',
   },
   mainPanel: {
     flexDirection: 'row',
-    backgroundColor: '#fff',
-    padding: 16,
-    marginTop: 8,
-    marginHorizontal: 16,
-    borderRadius: 12,
+    backgroundColor: 'rgba(255, 255, 255, 0.86)',
+    paddingVertical: 10,
+    paddingHorizontal: 12,
+    marginHorizontal: 12,
+    borderRadius: 14,
     alignItems: 'center',
-    borderWidth: 1,
+    borderWidth: StyleSheet.hairlineWidth,
     borderColor: 'rgba(0, 0, 0, 0.12)',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.25,
-    shadowRadius: 4,
-    elevation: 5,
   },
   mainPanelUrgent: {
-    backgroundColor: 'rgba(255, 59, 48, 0.95)',
+    backgroundColor: 'rgba(255, 59, 48, 0.9)',
   },
   maneuverContainer: {
-    width: 60,
-    height: 60,
-    borderRadius: 30,
+    width: 40,
+    height: 40,
+    borderRadius: 20,
     justifyContent: 'center',
     alignItems: 'center',
-    marginRight: 16,
+    marginRight: 10,
     backgroundColor: NAV_ACCENT,
   },
+  maneuverUrgent: {
+    backgroundColor: 'rgba(255, 255, 255, 0.25)',
+  },
   maneuverIcon: {
-    fontSize: 32,
+    fontSize: 22,
     color: '#fff',
     fontWeight: 'bold',
   },
@@ -303,82 +238,65 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   distanceText: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    color: '#000',
-    marginBottom: 4,
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#111',
   },
   distanceTextUrgent: {
     color: '#fff',
   },
   instructionText: {
-    fontSize: 16,
+    fontSize: 14,
     color: '#333',
-    lineHeight: 22,
+    lineHeight: 18,
   },
   instructionTextUrgent: {
     color: '#fff',
   },
   bottomBar: {
     position: 'absolute',
-    bottom: 40,
-    left: 16,
-    right: 16,
+    bottom: 24,
+    left: 12,
+    right: 12,
     flexDirection: 'row',
-    backgroundColor: '#fff',
-    paddingVertical: 12,
-    paddingHorizontal: 16,
-    borderRadius: 12,
+    backgroundColor: 'rgba(255, 255, 255, 0.86)',
+    paddingVertical: 8,
+    paddingHorizontal: 14,
+    borderRadius: 14,
     alignItems: 'center',
     justifyContent: 'space-between',
-    borderWidth: 1,
+    borderWidth: StyleSheet.hairlineWidth,
     borderColor: 'rgba(0, 0, 0, 0.12)',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.2,
-    shadowRadius: 3,
-    elevation: 5,
   },
   infoItem: {
-    alignItems: 'center',
+    alignItems: 'flex-start',
   },
   infoLabel: {
-    fontSize: 11,
+    fontSize: 10,
     color: '#888',
     textTransform: 'uppercase',
     fontWeight: '600',
-    marginBottom: 2,
   },
   infoValue: {
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: '#000',
+    fontSize: 15,
+    fontWeight: '700',
+    color: '#111',
   },
   infoSubtext: {
     fontSize: 11,
     color: '#888',
-    marginTop: 2,
   },
-  iconButton: {
-    width: 44,
-    height: 44,
-    borderRadius: 22,
-    justifyContent: 'center',
-    alignItems: 'center',
-    borderWidth: 1,
+  endButton: {
+    paddingVertical: 8,
+    paddingHorizontal: 14,
+    borderRadius: 12,
+    backgroundColor: '#ff3b30',
   },
-  iconButtonActive: {
-    backgroundColor: NAV_ACCENT,
-    borderColor: NAV_ACCENT,
-  },
-  iconButtonInactive: {
-    backgroundColor: '#f0f0f0',
-    borderColor: '#ccc',
-  },
-  iconButtonText: {
-    fontSize: 20,
+  endButtonText: {
+    color: '#fff',
+    fontSize: 14,
+    fontWeight: '700',
   },
 });
 
 export default NavigationUI;
-
