@@ -23,6 +23,7 @@ import { instructionIndicatesHighway } from '../utils/highway-refs';
 import { rankRoutesForPreferredHighways } from '../utils/preferred-highways';
 import { routeMatchingService } from './route-matching';
 import { attachTrafficOverlays, fetchTrafficOverlays } from './routes-traffic';
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
 // Re-export types for other modules to use
 export type {
@@ -34,8 +35,6 @@ export type {
     RouteOptions,
     RouteStep
 } from '../types/navigation';
-
-const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
 
 // ==================== TYPES ====================
 
@@ -131,8 +130,9 @@ class NavigationService {
     destination: Coordinates,
     options: RouteOptions = {}
   ): Promise<Route[]> {
-    if (!GOOGLE_MAPS_API_KEY) {
-      throw new Error('Google Maps API key is not configured');
+    const apiKey = getGoogleMapsApiKey();
+    if (!apiKey) {
+      throw new Error('Google Maps API key is not configured. Set EXPO_PUBLIC_GOOGLE_MAPS_API_KEY on the EAS production environment (TestFlight) or in .env (Expo Go).');
     }
 
     // Check if we're online
@@ -157,7 +157,7 @@ class NavigationService {
       const params = new URLSearchParams({
         origin: `${origin.latitude},${origin.longitude}`,
         destination: `${destination.latitude},${destination.longitude}`,
-        key: GOOGLE_MAPS_API_KEY,
+        key: apiKey,
         alternatives: 'true', // Request multiple route options
         mode: 'driving',
         departure_time: 'now', // Enable real-time traffic data

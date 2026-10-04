@@ -26,7 +26,7 @@ flowchart LR
 
 ## Now
 
-**Phase 1 — blocked on credentials.** Stack + store identity are on `cursor/october-mvp-795e`. First TestFlight needs Expo login and an Apple team. No new GPS chrome until that build exists.
+**Phase 1 — in progress.** Store identity, EAS profiles, and Maps/Gemini env wiring are on `cursor/october-mvp-795e`. First TestFlight still needs Expo login, an Apple team, and production env keys on expo.dev. No new GPS chrome until that build exists.
 
 Reliability evidence still lives in [MVP Release Gate](../MVP_RELEASE_GATE.md). Gate is FAIL until navigation-while-moving, background, and offline are proven on device.
 

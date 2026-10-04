@@ -136,7 +136,7 @@ nomad/
 
 ## 🔑 Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env` file from `.env.example` for Expo Go / web. For TestFlight, put the same names on expo.dev → Project → Environment variables → **production** (see `docs/mvp-october/phase-1-install.md`). Never commit real keys.
 
 ```env
 EXPO_PUBLIC_GOOGLE_MAPS_API_KEY=your_maps_api_key_here

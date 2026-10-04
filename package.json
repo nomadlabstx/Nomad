@@ -10,6 +10,7 @@
     "web": "expo start --web",
     "lint": "expo lint",
     "test:smoke": "node ./scripts/automated-smoke-test.js",
+    "test:phase1": "node ./scripts/check-phase-1-config.js",
     "eas:preview": "eas build --platform ios --profile preview",
     "eas:ios": "eas build --platform ios --profile production",
     "eas:submit": "eas submit --platform ios --profile production --latest",

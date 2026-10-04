@@ -9,9 +9,13 @@ cd "$ROOT"
 
 EAS=(npx --yes eas-cli)
 
+node ./scripts/check-phase-1-config.js
+
 if ! "${EAS[@]}" whoami >/dev/null 2>&1; then
   echo "EAS is not logged in. Run: eas login"
   echo "Or set EXPO_TOKEN from expo.dev → Account settings → Access tokens."
+  echo "Also create EXPO_PUBLIC_GOOGLE_MAPS_API_KEY and EXPO_PUBLIC_GEMINI_API_KEY"
+  echo "on expo.dev → Project → Environment variables → production."
   exit 1
 fi
 
@@ -22,6 +26,7 @@ if [[ "$BUNDLE" != "com.nomadlabstx.nomad" ]]; then
 fi
 
 echo "Building iOS production (store) for TestFlight…"
+echo "Maps/Gemini keys must exist in the EAS production environment, not in git."
 "${EAS[@]}" build --platform ios --profile production --non-interactive "$@"
 
 echo "Submitting latest iOS production build to App Store Connect / TestFlight…"

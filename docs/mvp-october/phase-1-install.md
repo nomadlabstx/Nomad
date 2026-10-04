@@ -1,7 +1,7 @@
 # Phase 1 — Installable
 
 Window: 6–12 Oct 2026  
-Status: **Blocked** on Expo login + Apple team for the first TestFlight binary
+Status: **In progress** — config is ready; first binary still needs Expo login + Apple team
 
 ## Goal
 
@@ -10,6 +10,7 @@ You are driving a production iOS build, not Expo Go.
 ## In progress
 
 - First TestFlight: `npm run eas:testflight` after `eas login` (or `EXPO_TOKEN`) and an Apple team that owns the bundle
+- Create `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY` and `EXPO_PUBLIC_GEMINI_API_KEY` on expo.dev → Project → Environment variables → **production** (preview env for internal builds)
 
 ## Next
 
@@ -23,6 +24,7 @@ You are driving a production iOS build, not Expo Go.
 
 - Expo account logged in for `eas build`
 - Apple team ID / App Store Connect app for `eas submit`
+- Maps + Gemini keys in the EAS **production** environment (not in git)
 
 Store identifiers default to `com.nomadlabstx.nomad` (GitHub org reverse-DNS). Change them in [app.json](../../app.json) before the first store upload if Apple already has a different bundle. Do not invent App Store Connect IDs.
 
@@ -37,7 +39,10 @@ Store identifiers default to `com.nomadlabstx.nomad` (GitHub org reverse-DNS). C
 - Automated smoke (`npm run test:smoke`) passed after the stack merge
 - `ios.bundleIdentifier` / `android.package` = `com.nomadlabstx.nomad`
 - Location purpose strings in `app.json` + `expo-location` plugin (When In Use; background location flags off until Gate C)
-- EAS `preview` (internal) and `production` (store / TestFlight) in [eas.json](../../eas.json)
+- EAS `preview` (internal) and `production` (store / TestFlight) in [eas.json](../../eas.json), each bound to the matching EAS environment
+- [app.config.js](../../app.config.js) injects native Google Maps keys from env when present (iOS GPS still uses Apple Maps tiles)
+- Route / place-identity / speed-limit / explorer geocode share [utils/google-maps-key.ts](../../utils/google-maps-key.ts)
+- `npm run test:phase1` static config check
 
 ## Pass
 
@@ -53,8 +58,16 @@ New GPS chrome, camera database work, eat/drink rec polish.
 
 ## TestFlight operator notes
 
+On expo.dev (once), for environment **production**:
+
+- `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY`
+- `EXPO_PUBLIC_GEMINI_API_KEY`
+
+Then:
+
 ```bash
 eas login
+npm run test:phase1
 npm run eas:ios          # production store build
 npm run eas:submit       # latest → TestFlight
 # or

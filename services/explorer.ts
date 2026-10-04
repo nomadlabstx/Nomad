@@ -69,8 +69,8 @@ import { normalizeExitNumber } from '../utils/exit-labels';
 import { parsePlaceIdentity } from '../utils/place-identity';
 import { mergeAddressComponents } from './place-identity';
 import { locationAutoDiscovery } from './location-auto-discovery';
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
-const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
 const EXPLORER_DATA_KEY = '@nomad_explorer_data';
 
 interface GeocodingResult {
@@ -401,13 +401,14 @@ class ExplorerService {
    * Reverse geocode coordinates to location hierarchy
    */
   async reverseGeocode(latitude: number, longitude: number): Promise<GeocodingResult | null> {
-    if (!GOOGLE_MAPS_API_KEY) {
+    const apiKey = getGoogleMapsApiKey();
+    if (!apiKey) {
       console.warn('Google Maps API key not configured');
       return null;
     }
 
     try {
-      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}&result_type=street_address|route|neighborhood|sublocality|locality|administrative_area_level_2|administrative_area_level_1|country`;
+      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${apiKey}&result_type=street_address|route|neighborhood|sublocality|locality|administrative_area_level_2|administrative_area_level_1|country`;
 
       const response = await fetch(url);
       const data = await response.json();

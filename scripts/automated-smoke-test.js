@@ -72,7 +72,22 @@ const checks = [
   },
   {
     file: 'eas.json',
-    patterns: [/"preview"/, /"production"/, /"distribution": "store"/, /"distribution": "internal"/],
+    patterns: [
+      /"preview"/,
+      /"production"/,
+      /"distribution": "store"/,
+      /"distribution": "internal"/,
+      /"environment": "preview"/,
+      /"environment": "production"/,
+    ],
+  },
+  {
+    file: 'app.config.js',
+    patterns: [/googleMapsApiKey/, /EXPO_PUBLIC_GOOGLE_MAPS_API_KEY/],
+  },
+  {
+    file: 'services/navigation.ts',
+    patterns: [/getGoogleMapsApiKey/],
   },
 ];
 
