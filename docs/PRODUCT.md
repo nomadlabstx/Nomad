@@ -24,6 +24,18 @@ While driving — including free-drive with no destination — GPS shows:
 
 If a change is not identity, completion, or Pathfinder, it waits.
 
+## GPS chrome
+
+GPS should feel like Apple Maps: the map is the product. Overlays stay thin and translucent. One compact turn banner (place identity sits inside it), a MUTCD posted **SPEED LIMIT** plaque, and a slim Arrive / distance / End bar. Business POIs stay on the map. While following in navigation the camera is heading-up.
+
+## Achievements
+
+Achievements are in. Extra-miler progress lives next to the atlas in the drawer. Unlocks are a small toast (name + check), then gone — no RPG overlay, XP, or level-up chrome. The Achievements screen is the place to browse the list.
+
+## Along the interstate
+
+When you are on an interstate / US / loop / state highway, GPS can show one quiet Eat / Drink / Do chip ahead and within the detour preset. Add or Go puts it on the route; Not now snoozes it. Cameras always win that slot. Recs are visual only. Off plus food/activity standards live in Settings. Stay-on-highway is respected.
+
 ## Pathfinder's job
 
 Pathfinder is the planner and copilot. It still does destination plans. Highway control is extra, not a replacement.
@@ -37,9 +49,8 @@ Navigation still happens in GPS. Pathfinder plans the place and, when asked, sha
 
 ## Out of primary scope
 
-- Achievements, RPG overlays, XP, and level-up chrome. Code may remain; it is not on the drive path.
-- Bookings and Planned Trips stay in the app but off the home path.
+- RPG overlays, XP, and level-up chrome. Achievements stay as a list.
+- Bookings and Planned Trips stay in the app but off the home path. Bookings remain later — useful for all-in-one trip planning, not this pass.
 - An in-house / 3D Tesla-style map renderer. Keep Google/Apple tiles for now.
-- Competing with Google on turn-by-turn chrome. Turns stay secondary to place identity.
 
 Pathfinder destination planning stays in the primary path.

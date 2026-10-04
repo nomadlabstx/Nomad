@@ -108,6 +108,7 @@ const AppDrawerOverlay = memo(({ translateX, isOpen, onClose, panHandlers }: {
           <DrawerItem label="Checklist" icon="checkmark.circle.fill" href="/(tabs)/explore" isActive={isActive('/(tabs)/explore')} onNavigate={onNavigate} />
           <DrawerItem label="Pathfinder" icon="brain.head.profile" href="/(tabs)/ai-assistant" isActive={isActive('/(tabs)/ai-assistant')} onNavigate={onNavigate} />
           <DrawerItem label="Travel Log" icon="map.fill" href="/(tabs)/travel-log" isActive={isActive('/(tabs)/travel-log')} onNavigate={onNavigate} />
+          <DrawerItem label="Achievements" icon="trophy.fill" href="/(tabs)/achievements" isActive={isActive('/(tabs)/achievements')} onNavigate={onNavigate} />
         </View>
         <View style={[styles.drawerSection, { borderTopColor: theme.border }]}>
           <DrawerItem label="Trips" icon="list.bullet" href="/(tabs)/planned-trips" isActive={isActive('/(tabs)/planned-trips')} onNavigate={onNavigate} />

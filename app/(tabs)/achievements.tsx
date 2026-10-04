@@ -98,12 +98,12 @@ export default function AchievementsTab() {
    */
   const getCategoryName = (category: Achievement['category']) => {
     switch (category) {
-      case 'explorer': return '🗺️ Explorer';
-      case 'navigator': return '🧭 Navigator';
-      case 'highways': return '🛣️ Highways';
-      case 'distance': return '🚙 Distance';
-      case 'social': return '📤 Social';
-      case 'special': return '⭐ Special';
+      case 'explorer': return 'Explorer';
+      case 'navigator': return 'Navigator';
+      case 'highways': return 'Highways';
+      case 'distance': return 'Distance';
+      case 'social': return 'Social';
+      case 'special': return 'Special';
       default: return category;
     }
   };
@@ -145,7 +145,7 @@ export default function AchievementsTab() {
             </Text>
             <Text style={[styles.achievementDescription, { color: theme.secondaryText }]}>{achievement.description}</Text>
             <Text style={[styles.achievementTier, { color: tierColor }]}>
-              {achievement.tier.toUpperCase()} • {achievement.points} pts
+              {achievement.tier}
             </Text>
           </View>
           {achievement.unlocked && (
@@ -202,16 +202,16 @@ export default function AchievementsTab() {
       >
         {/* Overall Progress */}
         <View style={[styles.progressCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}>
-          <Text style={[styles.progressCardTitle, { color: theme.text }]}>🏆 Achievement Progress</Text>
+          <Text style={[styles.progressCardTitle, { color: theme.text }]}>Achievements</Text>
           
           <View style={styles.statsRow}>
             <View style={styles.statItem}>
-              <Text style={[styles.statValue, { color: theme.text }]}>{progress?.level || 1}</Text>
-              <Text style={[styles.statLabel, { color: theme.secondaryText }]}>Level</Text>
-            </View>
-            <View style={styles.statItem}>
               <Text style={[styles.statValue, { color: theme.text }]}>{progress?.unlockedAchievements || 0}</Text>
               <Text style={[styles.statLabel, { color: theme.secondaryText }]}>Unlocked</Text>
+            </View>
+            <View style={styles.statItem}>
+              <Text style={[styles.statValue, { color: theme.text }]}>{progress?.totalAchievements || 0}</Text>
+              <Text style={[styles.statLabel, { color: theme.secondaryText }]}>Total</Text>
             </View>
             <View style={styles.statItem}>
               <Text style={[styles.statValue, { color: theme.text }]}>{progress?.completionPercent || 0}%</Text>
@@ -219,7 +219,6 @@ export default function AchievementsTab() {
             </View>
           </View>
 
-          {/* Overall Progress Bar */}
           <View style={styles.overallProgressContainer}>
             <View style={[styles.progressBar, { backgroundColor: theme.inactive }]}>
               <View
@@ -232,9 +231,6 @@ export default function AchievementsTab() {
                 ]}
               />
             </View>
-            <Text style={[styles.overallProgressText, { color: theme.secondaryText }]}>
-              {progress?.currentPoints || 0} / {progress?.totalPoints || 0} points
-            </Text>
           </View>
         </View>
 
@@ -298,19 +294,18 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   progressCard: {
-    backgroundColor: '#f0f9ff',
-    borderRadius: 16,
-    padding: 20,
-    marginBottom: 24,
+    backgroundColor: '#fff',
+    borderRadius: 12,
+    padding: 16,
+    marginBottom: 20,
     borderWidth: 1,
-    borderColor: '#0ea5e9',
+    borderColor: '#e5e5e5',
   },
   progressCardTitle: {
-    fontSize: 20,
+    fontSize: 22,
     fontWeight: '700',
-    color: '#0369a1',
+    color: '#111',
     marginBottom: 16,
-    textAlign: 'center',
   },
   statsRow: {
     flexDirection: 'row',
@@ -321,9 +316,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   statValue: {
-    fontSize: 28,
+    fontSize: 24,
     fontWeight: '700',
-    color: '#0369a1',
+    color: '#111',
   },
   statLabel: {
     fontSize: 13,
@@ -334,8 +329,8 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   progressBar: {
-    height: 12,
-    backgroundColor: '#e0f2fe',
+    height: 8,
+    backgroundColor: '#e5e5e5',
     borderRadius: 6,
     overflow: 'hidden',
   },
@@ -387,7 +382,6 @@ const styles = StyleSheet.create({
     borderColor: '#e5e5e5',
   },
   achievementUnlocked: {
-    backgroundColor: '#f0fdf4',
     borderColor: '#10b981',
   },
   achievementHeader: {
@@ -416,7 +410,7 @@ const styles = StyleSheet.create({
     marginBottom: 2,
   },
   achievementNameUnlocked: {
-    color: '#10b981',
+    color: '#111',
   },
   achievementDescription: {
     fontSize: 14,
