@@ -29,7 +29,7 @@ Store identifiers default to `com.nomadlabstx.nomad` (GitHub org reverse-DNS). C
 ## Done
 
 - October boards exist in this folder
-- Draft stack landed on `cursor/october-mvp-795e` in Git order (GitHub PRs stay open drafts until this ship PR merges):
+- Draft stack landed on `cursor/october-mvp-795e` ([PR #7](https://github.com/nomadlabstx/Nomad/pull/7)) in Git order (GitHub PRs stay open drafts until this ship PR merges):
   - [#3 SDK 57](https://github.com/nomadlabstx/Nomad/pull/3)
   - [#4 highway identity](https://github.com/nomadlabstx/Nomad/pull/4)
   - [#5 place identity](https://github.com/nomadlabstx/Nomad/pull/5)
@@ -64,3 +64,13 @@ npm run eas:testflight
 Preview (ad-hoc / internal, not TestFlight): `npm run eas:preview`.
 
 GPS + save-trip cannot be confirmed from this cloud VM. Tick Pass only after a real-phone run on the TestFlight binary, then log it in [MVP Test Run Log](../MVP_TEST_RUN_LOG.md).
+
+Ship PR: [#7](https://github.com/nomadlabstx/Nomad/pull/7).
+
+### Device pass on the TestFlight binary
+
+- [ ] Install from TestFlight (not Expo Go)
+- [ ] GPS opens; location permission prompt uses extra-miler copy
+- [ ] Place identity shows a road / town / county after a fix
+- [ ] A route starts
+- [ ] Stop and save; trip appears in Travel Log
