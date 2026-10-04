@@ -60,6 +60,20 @@ const checks = [
     file: 'utils/osm-cameras.ts',
     patterns: [/parseOverpassCameras/],
   },
+  {
+    file: 'app.json',
+    patterns: [
+      /"bundleIdentifier": "com\.nomadlabstx\.nomad"/,
+      /"package": "com\.nomadlabstx\.nomad"/,
+      /NSLocationWhenInUseUsageDescription/,
+      /NSLocationAlwaysAndWhenInUseUsageDescription/,
+      /expo-location/,
+    ],
+  },
+  {
+    file: 'eas.json',
+    patterns: [/"preview"/, /"production"/, /"distribution": "store"/, /"distribution": "internal"/],
+  },
 ];
 
 function fail(message) {

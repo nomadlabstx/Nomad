@@ -9,7 +9,11 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "test:smoke": "node ./scripts/automated-smoke-test.js"
+    "test:smoke": "node ./scripts/automated-smoke-test.js",
+    "eas:preview": "eas build --platform ios --profile preview",
+    "eas:ios": "eas build --platform ios --profile production",
+    "eas:submit": "eas submit --platform ios --profile production --latest",
+    "eas:testflight": "bash ./scripts/eas-testflight.sh"
   },
   "dependencies": {
     "@expo/ngrok": "^4.1.3",

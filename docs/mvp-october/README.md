@@ -26,7 +26,7 @@ flowchart LR
 
 ## Now
 
-**Phase 1.** Real-phone pass of the draft stack, store identity, first TestFlight. No new GPS chrome until that build exists.
+**Phase 1 — blocked on credentials.** Stack + store identity are on `cursor/october-mvp-795e`. First TestFlight needs Expo login and an Apple team. No new GPS chrome until that build exists.
 
 Reliability evidence still lives in [MVP Release Gate](../MVP_RELEASE_GATE.md). Gate is FAIL until navigation-while-moving, background, and offline are proven on device.
 

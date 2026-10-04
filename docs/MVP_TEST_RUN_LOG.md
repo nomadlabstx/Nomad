@@ -65,18 +65,18 @@ Use this log to capture repeatable evidence for v0.1 stability.
 - Follow-up issue: Continue Run #3 — core loop (plan → navigate → record → save → review), then Gate C edge cases in Run #5.
 
 ### Run #4
-- Date:
-- Device:
-- Build/Runtime:
-- Tester:
+- Date: 2026-10-04
+- Device: Cloud agent VM (no iOS device)
+- Build/Runtime: Stack on `cursor/october-mvp-795e` (SDK 57 + highway + place identity + sleek GPS). EAS production profile ready. `eas build` not started — no Expo login / `EXPO_TOKEN`.
+- Tester: Cloud agent
 - Scenario:
-  - Plan destination:
-  - Navigate/record:
-  - Review saved trip:
-- Result:
-- Fail point (if any):
-- Notes:
-- Follow-up issue:
+  - Plan destination: Not exercised (needs TestFlight binary).
+  - Navigate/record: Not exercised (needs TestFlight binary).
+  - Review saved trip: Not exercised (needs TestFlight binary).
+- Result: FAIL (credentials)
+- Fail point (if any): `npx eas-cli whoami` → Not logged in. `eas build --platform ios --profile production --non-interactive` → "An Expo user account is required."
+- Notes: Automated smoke passed, including store identity (`com.nomadlabstx.nomad`, NSLocation strings, EAS preview/production). GPS + save-trip on a TestFlight binary is the next human step after `eas login`.
+- Follow-up issue: Log in to Expo, confirm Apple team owns `com.nomadlabstx.nomad`, run `npm run eas:testflight`, then tick Phase 1 Pass on device.
 
 ### Run #5
 - Date:
