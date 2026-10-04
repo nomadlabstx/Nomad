@@ -1,9 +1,10 @@
 # Nomad Priority Buckets
 
-Last updated: 2026-06-20
+Last updated: 2026-10-04
 Owner: Majim
-Purpose: Single prioritized list reconciling v0.1 consolidation (current truth) with long-term product vision.
+Purpose: Single prioritized list reconciling October TestFlight MVP with long-term product vision.
 
+**Source of truth for October ship:** [mvp-october/README.md](./mvp-october/README.md)  
 **Source of truth for reliability:** [STATE_OF_UNION.md](./STATE_OF_UNION.md) and [MVP_RELEASE_GATE.md](./MVP_RELEASE_GATE.md)  
 **Source of truth for data direction:** [AUDIT_REPORT.md](./AUDIT_REPORT.md) and [DATA_STRATEGY_WIKIPEDIA.md](./DATA_STRATEGY_WIKIPEDIA.md)  
 **Source of truth for ambition/backlog:** [NOMAD_MASTER_FEATURE_LIST.md](../NOMAD_MASTER_FEATURE_LIST.md) and [travel-stats-feature.plan.md](../travel-stats-feature.plan.md)
@@ -12,7 +13,7 @@ Purpose: Single prioritized list reconciling v0.1 consolidation (current truth) 
 
 ## Bucket 1 — Ship blockers (v0.1 must pass)
 
-Work here until [MVP_RELEASE_GATE.md](./MVP_RELEASE_GATE.md) is PASS. No new features.
+Work here until [MVP_RELEASE_GATE.md](./MVP_RELEASE_GATE.md) is PASS. Track the week on the [October boards](./mvp-october/README.md).
 
 | Priority | Item | Affects | Status | Evidence needed |
 |----------|------|---------|--------|-----------------|
@@ -43,7 +44,7 @@ Work here until [MVP_RELEASE_GATE.md](./MVP_RELEASE_GATE.md) is PASS. No new fea
 
 **Release gate:** FAIL (navigation/device matrix — not Explorer P0s)
 
-**Active workboard items:** [CONSOLIDATION_WORKBOARD.md](./CONSOLIDATION_WORKBOARD.md)
+**Active workboard items:** [October MVP](./mvp-october/README.md)
 
 ---
 

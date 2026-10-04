@@ -2,11 +2,11 @@
 
 ## Current truth (start here)
 
-For **what works today** and v0.1 release status, read these first:
+For **what to ship in October** and v0.1 release status, read these first:
 
+- **[October MVP](./mvp-october/README.md)** — Four phase dashboards (install → extra-miler → live drives → ship)
 - **[State of the Union](./STATE_OF_UNION.md)** — Implemented / Verified / Unverified
-- **[Consolidation Plan](./CONSOLIDATION_PLAN.md)** — 14-day scope and engineering freeze
-- **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Active task queue
+- **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Pointer to October boards; June history
 - **[Priority Buckets](./PRIORITY_BUCKETS.md)** — Ship blockers vs post-v0.1 vs vision backlog
 - **[MVP Release Gate](./MVP_RELEASE_GATE.md)** — Pass/fail checklist (currently FAIL)
 - **[MVP Test Run Log](./MVP_TEST_RUN_LOG.md)** — Run-by-run evidence

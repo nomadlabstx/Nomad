@@ -483,10 +483,10 @@ const AIChat = memo<AIChatProps>(({ onClose, initialRequest }) => {
          Your AI travel companion
        </Text>
        <Text style={[styles.emptyText, { color: theme.secondaryText }]}>
-         Try: &quot;Plan a weekend trip to Dallas&quot;
+         Try: &quot;Plan a weekend trip to Austin&quot;
        </Text>
        <Text style={[styles.emptyText, { color: theme.secondaryText }]}>
-         Or: &quot;Find cheap gas near me&quot;
+         Or: &quot;Stay on I-95 from DC to Boston&quot;
        </Text>
      </View>
    ), [theme]);
