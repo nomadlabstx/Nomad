@@ -1,5 +1,5 @@
 /**
- * GPS Tab — Maps, routing, and turn-by-turn navigation.
+ * GPS Tab — Maps, routing, place identity, and turn-by-turn navigation.
  * Trip/path recording runs automatically in the background while navigating.
  */
 
@@ -8,6 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Alert, Dimensions, Linking, Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { useLocalSearchParams, useFocusEffect, useRouter } from 'expo-router';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { DestinationParkingPreview } from '../../components/destination-parking-preview';
 import DestinationSearch from '../../components/destination-search';
 import MaybeMapView, {
@@ -18,18 +19,20 @@ import MaybeMapView, {
 import { Platform } from 'react-native';
 import { MultiStopPlanner } from '../../components/multi-stop-planner';
 import NavigationUI from '../../components/navigation-ui';
+import PlaceIdentityHud from '../../components/place-identity-hud';
 import { ParkingSuggestions } from '../../components/parking-suggestions';
 import RouteSelector from '../../components/route-selector';
 import RoutePreviewPolylines from '../../components/route-preview-polylines';
 import { OfflineIndicator } from '../../components/offline-indicator';
 import GpsSimulatorPanel from '../../components/gps-simulator-panel';
 import { useAppTint } from '../../components/color-context';
-import { useAchievements } from '../../hooks/use-achievements';
 import { useNavigation } from '../../hooks/use-navigation';
+import { usePlaceIdentity } from '../../hooks/use-place-identity';
 import { useTripTracking } from '../../hooks/use-trip-tracking';
 import { useGpsSimulator } from '../../hooks/use-gps-simulator';
 import { aiPlannerContextService } from '../../services/ai-planner-context';
 import { Coordinates, navigationService } from '../../services/navigation';
+import { formatDirectionInstructionText, roadNameFromInstruction } from '../../utils/format-directions';
 import { gpsSimulator, type GpsSimulatorPreset } from '../../utils/gps-simulator';
 import { getAccentFill, getOnAccentColor } from '../../utils/theme-helpers';
 import { formatTripName } from '../../utils/trip-names';
@@ -51,11 +54,12 @@ const RecorderTab = memo(() => {
   const inboundReplayRef = useRef<string | null>(null);
   const hasInitialCenteredRef = useRef(false);
   const [followsUser, setFollowsUser] = useState(false);
+  const [topChromeHeight, setTopChromeHeight] = useState(96);
 
   // Hooks
+  const insets = useSafeAreaInsets();
   const passiveTracking = useTripTracking();
   const navigation = useNavigation();
-  const achievements = useAchievements();
   const gpsSim = useGpsSimulator();
   const { tint: themeTint } = useAppTint();
   const tint = getAccentFill(themeTint);
@@ -74,7 +78,6 @@ const RecorderTab = memo(() => {
         if (plan) {
           void (async () => {
             await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-            achievements.recordAITripPlanned();
             await navigation.calculateRoute(plan.finalDestination.location, {
               waypoints: plan.stops.map(stop => stop.location),
               ...plan.routeOptions,
@@ -108,7 +111,7 @@ const RecorderTab = memo(() => {
           })();
         }
       }
-    }, [params.applyAIPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
+    }, [params.applyAIPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation])
   );
 
   // Auto-show route selector when routes become available after planned trip navigation
@@ -143,31 +146,28 @@ const RecorderTab = memo(() => {
     }
   }, [navigation.isNavigating, navigation.getDestinationLabel, destinationName, passiveTracking.tracking, passiveTracking.start, passiveTracking.stop]);
 
-  // Check achievements periodically during navigation
-  useEffect(() => {
-    if (!navigation.isNavigating) return;
-    
-    const interval = setInterval(() => {
-      achievements.checkAchievements();
-    }, 10000); // Check every 10 seconds
-    
-    return () => clearInterval(interval);
-  }, [navigation.isNavigating, achievements]);
-
-  // Track navigation completion when navigation stops
-  const previousNavigatingRef = useRef(false);
-  useEffect(() => {
-    // If navigation was active and now stopped, track completion
-    if (previousNavigatingRef.current && !navigation.isNavigating) {
-      achievements.recordNavigationComplete();
-    }
-    previousNavigatingRef.current = navigation.isNavigating;
-  }, [navigation.isNavigating, achievements]);
-
   /**
    * Get current location for map center
    */
   const currentLocation = navigation.currentLocation ?? passiveTracking.loc;
+
+  const fallbackRoad = useMemo(() => {
+    const route = navigation.selectedRoute;
+    const state = navigation.navigationState;
+    if (route && state) {
+      const step = route.legs?.[state.currentLegIndex]?.steps?.[state.currentStepIndex];
+      if (step?.instruction) {
+        return roadNameFromInstruction(formatDirectionInstructionText(step.instruction));
+      }
+    }
+    if (state?.nextInstruction) {
+      return roadNameFromInstruction(state.nextInstruction);
+    }
+    return undefined;
+  }, [navigation.selectedRoute, navigation.navigationState]);
+
+  const placeIdentity = usePlaceIdentity(currentLocation, fallbackRoad);
+  const navTopOffset = insets.top + 8 + topChromeHeight + 8;
 
   /**
    * Center map once when location first becomes available.
@@ -465,8 +465,20 @@ const RecorderTab = memo(() => {
         </View>
       )}
 
-      {!navigation.isNavigating && !showRouteSelector && (
-        <View style={styles.navigationControls} pointerEvents="box-none">
+      {(!navigation.isNavigating || currentLocation) && (
+        <View
+          style={[styles.topChrome, { top: insets.top + 8 }]}
+          pointerEvents="box-none"
+          onLayout={(event) => {
+            const nextHeight = Math.round(event.nativeEvent.layout.height);
+            if (nextHeight > 0 && nextHeight !== topChromeHeight) {
+              setTopChromeHeight(nextHeight);
+            }
+          }}
+        >
+          {currentLocation ? <PlaceIdentityHud identity={placeIdentity} /> : null}
+          {!navigation.isNavigating && !showRouteSelector && (
+            <View style={styles.freeDriveActions} pointerEvents="box-none">
               <TouchableOpacity
                 style={styles.whereToButton}
                 onPress={() => setShowDestinationSearch(true)}
@@ -491,6 +503,8 @@ const RecorderTab = memo(() => {
               </View>
             </View>
           )}
+        </View>
+      )}
 
       {navigation.isNavigating && navigation.navigationState && navigation.currentLocation && (
             <>
@@ -511,6 +525,7 @@ const RecorderTab = memo(() => {
                 currentLegIndex={navigation.navigationState.currentLegIndex}
                 currentStepIndex={navigation.navigationState.currentStepIndex}
                 cameraAlerts={navigation.cameraAlerts}
+                topOffset={navTopOffset}
               />
             </>
           )}
@@ -620,11 +635,15 @@ const styles = StyleSheet.create({
   map: {
     flex: 1,
   },
-  navigationControls: {
+  topChrome: {
     position: 'absolute',
-    top: 60,
-    left: 16,
-    right: 16,
+    left: 0,
+    right: 0,
+    zIndex: 35,
+    gap: 10,
+  },
+  freeDriveActions: {
+    marginHorizontal: 16,
     gap: 8,
   },
   whereToButton: {

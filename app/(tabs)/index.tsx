@@ -110,7 +110,7 @@ const HomeScreen = memo(() => {
         <QuickActionButton
           icon="location.fill"
           title="GPS"
-          description="Drive, record, and stay on the highway you picked"
+          description="See the road you're on, record, and complete the highway"
           onPress={handleOpenGPS}
           tint={tint}
         />

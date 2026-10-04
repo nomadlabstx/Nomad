@@ -66,6 +66,8 @@ import type {
     ExplorerState
 } from '../types/explorer';
 import { normalizeExitNumber } from '../utils/exit-labels';
+import { parsePlaceIdentity } from '../utils/place-identity';
+import { mergeAddressComponents } from './place-identity';
 import { locationAutoDiscovery } from './location-auto-discovery';
 
 const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
@@ -405,7 +407,7 @@ class ExplorerService {
     }
 
     try {
-      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}&result_type=street_address|route|neighborhood|locality|administrative_area_level_2|administrative_area_level_1|country`;
+      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${GOOGLE_MAPS_API_KEY}&result_type=street_address|route|neighborhood|sublocality|locality|administrative_area_level_2|administrative_area_level_1|country`;
 
       const response = await fetch(url);
       const data = await response.json();
@@ -414,35 +416,21 @@ class ExplorerService {
         return null;
       }
 
-      // Parse address components
-      const result = data.results[0];
-      const components = result.address_components;
-
-      const geocodingResult: GeocodingResult = {
-        country: '',
-        countryCode: '',
-      };
-
-      for (const component of components) {
-        const types = component.types;
-
-        if (types.includes('country')) {
-          geocodingResult.country = component.long_name;
-          geocodingResult.countryCode = component.short_name;
-        } else if (types.includes('administrative_area_level_1')) {
-          geocodingResult.state = component.long_name;
-        } else if (types.includes('administrative_area_level_2')) {
-          geocodingResult.county = component.long_name;
-        } else if (types.includes('locality')) {
-          geocodingResult.city = component.long_name;
-        } else if (types.includes('neighborhood') || types.includes('sublocality')) {
-          geocodingResult.neighborhood = component.long_name;
-        } else if (types.includes('route')) {
-          geocodingResult.street = component.long_name;
-        }
+      const parsed = parsePlaceIdentity(mergeAddressComponents(data.results));
+      if (!parsed.country) {
+        return null;
       }
 
-      return geocodingResult;
+      return {
+        country: parsed.country,
+        countryCode: parsed.countryCode,
+        state: parsed.state || undefined,
+        county: parsed.county || undefined,
+        city: parsed.town || undefined,
+        neighborhood: parsed.town || undefined,
+        street: parsed.road || undefined,
+        route: parsed.road || undefined,
+      };
     } catch (error) {
       console.error('Geocoding error:', error);
       return null;
