@@ -1,5 +1,6 @@
 import { googlePlaces } from '../services/google-places';
 import type { Coordinates, RouteOptions } from '../types/navigation';
+import { extractPreferredHighways } from './preferred-highways';
 import {
   AI_PLAN_MAX_STOPS,
   capNamedLocations,
@@ -106,6 +107,7 @@ export async function parsePlanTextToStops(
       avoidTolls: /avoid.*toll/i.test(planText),
       avoidHighways: /avoid.*highway|avoid.*freeway/i.test(planText),
       optimizeWaypoints: /optimize|efficient|fastest/i.test(planText),
+      preferredHighways: extractPreferredHighways(planText),
     },
     summary: planText,
   };
