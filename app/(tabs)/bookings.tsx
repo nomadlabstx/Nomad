@@ -675,7 +675,7 @@ export default function BookingsTab() {
                 <View style={[styles.noticeContainer, { backgroundColor: '#FEF3C7', borderColor: '#F59E0B' }]}>
                   <Ionicons name="information-circle" size={20} color="#F59E0B" />
                   <Text style={[styles.noticeText, { color: '#92400E' }]}>
-                    To cancel and get a refund, you must cancel through {getProviderLabel(selectedBooking.provider)}'s website or app. This app only tracks your bookings locally.
+                    To cancel and get a refund, you must cancel through {`${getProviderLabel(selectedBooking.provider)}'s`} website or app. This app only tracks your bookings locally.
                   </Text>
                 </View>
 
