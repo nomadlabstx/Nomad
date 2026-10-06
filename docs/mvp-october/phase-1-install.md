@@ -9,8 +9,9 @@ You are driving a production iOS build, not Expo Go.
 
 ## In progress
 
-- First TestFlight: `npm run eas:testflight` after `eas login` (or `EXPO_TOKEN`) and an Apple team that owns the bundle
+- First TestFlight: approve Expo device login, then `npm run eas:testflight`
 - Create `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY` and `EXPO_PUBLIC_GEMINI_API_KEY` on expo.dev → Project → Environment variables → **production** (preview env for internal builds)
+- Backup path: GitHub Action `.github/workflows/eas-ios-testflight.yml` (`workflow_dispatch`) once `EXPO_TOKEN` is a repo secret
 
 ## Next
 
