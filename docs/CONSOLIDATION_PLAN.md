@@ -4,11 +4,11 @@ This plan resets Nomad around one goal: build a reliable personal MVP that can b
 
 ## North Star
 
-Deliver a stable core loop:
+Deliver a stable core loop for highway roadtrippers:
 
-1. Plan a destination
-2. Navigate and record
-3. Review trip history
+1. Pick a highway or stretch to complete
+2. Drive it and record
+3. Review checklist + travel log; use Pathfinder for places to go, stay-on-highway control, and new miles
 
 If work does not improve this loop in a measurable way, it is deferred.
 
@@ -17,20 +17,20 @@ If work does not improve this loop in a measurable way, it is deferred.
 ### Keep (MVP-Critical)
 
 - `Home` (`app/(tabs)/index.tsx`)
-  - Keep only actions that lead into the core loop.
+  - Keep only actions that lead into the core loop: GPS, Checklist, Pathfinder, Travel Log.
 - `GPS` (`app/(tabs)/recorder.tsx`)
-  - Keep destination search, route start, active navigation, recording, and trip save.
+  - Keep destination search, route start, active navigation, recording, trip save, and place identity (road / town / county).
+- `Checklist / Explorer` (`app/(tabs)/explore.tsx`)
+  - Primary atlas: highways, counties, exits.
 - `Travel Log` (`app/(tabs)/travel-log.tsx`, `app/trip/[id].tsx`)
   - Keep trip list and trip detail viewing.
+- `Pathfinder` (`app/(tabs)/ai-assistant.tsx`)
+  - Planner for destinations and city itineraries, plus stay-on-highway routing and new miles.
 - Core reliability services
   - Keep offline/network state, storage, navigation, and error handling.
 
 ### Hide (Implemented But Not MVP-Critical)
 
-- `Pathfinder` (`app/(tabs)/ai-assistant.tsx`)
-  - Keep code, hide from primary user path unless needed for route planning.
-- `Checklist / Explorer` (`app/(tabs)/explore.tsx`)
-  - Keep code, remove from primary loop for now.
 - `Planned Trips` (`app/(tabs)/planned-trips.tsx`)
   - Keep code, optional access only.
 

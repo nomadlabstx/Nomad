@@ -1,6 +1,6 @@
 import { useToast } from '@/components/toast';
 import * as Clipboard from 'expo-clipboard';
-import * as FileSystem from 'expo-file-system';
+import { File, Paths } from 'expo-file-system';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import * as Sharing from 'expo-sharing';
 import React, { useCallback, useEffect, useState } from 'react';
@@ -104,13 +104,14 @@ const TripDetail = React.memo(() => {
       let gpx = '';
       gpx = toGPX(trip);
       const fileName = `trip-${trip.id}.gpx`;
-      const cacheDir = (FileSystem as any).cacheDirectory;
-      
-      if (cacheDir && typeof cacheDir === 'string') {
-        const path = cacheDir + fileName;
-        await FileSystem.writeAsStringAsync(path, gpx);
+      const cacheDir = Paths.cache;
+
+      if (cacheDir) {
+        const file = new File(cacheDir, fileName);
+        file.create({ overwrite: true });
+        file.write(gpx);
         if (await Sharing.isAvailableAsync()) {
-          await Sharing.shareAsync(path);
+          await Sharing.shareAsync(file.uri);
           toast.show('GPX exported');
           return;
         }
@@ -140,13 +141,14 @@ const TripDetail = React.memo(() => {
       let kml = '';
       kml = toKML(trip);
       const fileName = `trip-${trip.id}.kml`;
-      const cacheDir = (FileSystem as any).cacheDirectory;
-      
-      if (cacheDir && typeof cacheDir === 'string') {
-        const path = cacheDir + fileName;
-        await FileSystem.writeAsStringAsync(path, kml);
+      const cacheDir = Paths.cache;
+
+      if (cacheDir) {
+        const file = new File(cacheDir, fileName);
+        file.create({ overwrite: true });
+        file.write(kml);
         if (await Sharing.isAvailableAsync()) {
-          await Sharing.shareAsync(path);
+          await Sharing.shareAsync(file.uri);
           toast.show('KML exported');
           return;
         }

@@ -3,7 +3,7 @@
  * Fetches and manages speed limit data using Google Roads API
  */
 
-const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
 export interface Coordinates {
   latitude: number;
@@ -25,7 +25,8 @@ class SpeedLimitService {
    * Get speed limit for a location using Google Roads API
    */
   async getSpeedLimit(location: Coordinates): Promise<SpeedLimitData | null> {
-    if (!GOOGLE_MAPS_API_KEY) {
+    const apiKey = getGoogleMapsApiKey();
+    if (!apiKey) {
       console.warn('Google Maps API key not configured');
       return null;
     }
@@ -42,7 +43,7 @@ class SpeedLimitService {
       // Use Google Roads API to get speed limit
       const params = new URLSearchParams({
         path: `${location.latitude},${location.longitude}`,
-        key: GOOGLE_MAPS_API_KEY,
+        key: apiKey,
       });
 
       const url = `https://roads.googleapis.com/v1/speedLimits?${params.toString()}`;

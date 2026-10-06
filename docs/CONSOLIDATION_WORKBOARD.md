@@ -1,28 +1,25 @@
 # Nomad Consolidation Workboard
 
-Use this as the active queue during the 14-day consolidation sprint.
+**Active queue as of 4 Oct 2026:** [October MVP](./mvp-october/README.md)
 
-## Rules
+The June consolidation sprint is closed. Reliability evidence still lives in [MVP Release Gate](./MVP_RELEASE_GATE.md) (FAIL until navigation-while-moving, background, and offline are proven on device).
+
+## October phases
+
+- [Phase 1 — Installable](./mvp-october/phase-1-install.md) — TestFlight, not Expo Go
+- [Phase 2 — Extra-miler truth](./mvp-october/phase-2-extra-miler.md) — checklist and stay-on-highway
+- [Phase 3 — Live like the user](./mvp-october/phase-3-live-drive.md) — two highway drives
+- [Phase 4 — Ship what you drove](./mvp-october/phase-4-ship.md) — App Review or TestFlight-as-MVP
+
+## Historical (June 2026)
+
+Rules from the 14-day freeze (kept for the record):
 
 - One in-progress item at a time.
-- No new features.
+- No new features during that sprint.
 - Every completed item includes verification notes.
-- If an item does not support the core loop, move it to Deferred.
 
-## In Progress
-
-- [ ] Verify route failure fallback behavior
-
-## Next Up
-
-- [ ] Verify weak/offline network state is visible and usable
-- [ ] Verify background/foreground stability during active navigation
-
-## Blocked
-
-- [ ] (none)
-
-## Done
+### Done then
 
 - [x] Created `docs/PRIORITY_BUCKETS.md` (2026-06-20 planning session)
 - [x] Run #2 logged in `docs/MVP_TEST_RUN_LOG.md` (desktop/web smoke)
@@ -34,36 +31,21 @@ Use this as the active queue during the 14-day consolidation sprint.
 - [x] Aligned `README.md` with MVP consolidation scope
 - [x] Verified location permission deny/recover behavior
 - [x] Verified trip save/read reliability after app restart
-
-## Validation Session Notes (Items 18-22)
-
 - [x] Home -> GPS -> Travel Log golden path
-  - Code check: Home "Travel Log" action now routes to `/(tabs)/travel-log`.
-  - Manual evidence: saved trip still present after reload/restart.
-- [x] Location permission deny/recover behavior
-  - Manual evidence: denied permission now shows explicit recovery UI; recording is no longer a silent no-op.
-- [ ] Route failure fallback behavior
-  - Still required: simulate route/API failure and verify retry/dismiss recovery behavior.
-- [x] Trip save/read reliability after app restart
-  - Manual evidence: travel log entry remains accessible after reload.
 
-## Deferred (Post-v0.1)
+### Still unverified (moved into Phase 2)
 
-- [ ] Achievements/gamification enhancements
+- [ ] Route/API failure fallback on device
+- [ ] Weak/offline network state during navigation
+- [ ] Background/foreground stability during active navigation
+- [ ] Navigation progress updates while moving
+
+### Deferred past October
+
 - [ ] Booking flow expansion
-- [ ] Explorer/checklist deepening
-- [ ] Advanced analytics dashboard expansion
-- [ ] New external integrations
-
-## Item Template
-
-Copy/paste:
-
-- Title:
-- Category: Bug | Hardening | Docs | Test
-- Affects core loop step: Plan | Navigate/Record | Review
-- Repro steps:
-- Expected behavior:
-- Fix summary:
-- Verification performed:
-- Status: Open | Done
+- [ ] Tesla 3D renderer
+- [ ] CarPlay / Android Auto
+- [ ] National camera completeness
+- [ ] RPG overlay
+- [ ] Social features
+- [ ] Checklist / Travel Log visual rewrite

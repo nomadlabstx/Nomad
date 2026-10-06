@@ -14,6 +14,8 @@ export interface RouteOptions {
   avoidFerries?: boolean;
   waypoints?: Coordinates[];
   optimizeWaypoints?: boolean;
+  /** Named roads the driver wants to stay on, e.g. ["I-95", "US-281"]. */
+  preferredHighways?: string[];
 }
 
 export interface RouteStep {

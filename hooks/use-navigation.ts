@@ -22,6 +22,7 @@ interface UseNavigationReturn {
   isNavigating: boolean;
   currentLocation: Coordinates | null;
   currentSpeed: number; // m/s
+  currentHeading: number | null;
   routes: Route[];
   selectedRoute: Route | null;
   navigationState: NavigationState | null;
@@ -33,7 +34,9 @@ interface UseNavigationReturn {
 
   // Actions
   calculateRoute: (destination: Coordinates, options?: RouteOptions, origin?: Coordinates, destinationName?: string) => Promise<void>;
+  addWaypoint: (waypoint: Coordinates, name?: string) => Promise<void>;
   getDestinationLabel: () => string | null;
+  getRouteOptions: () => RouteOptions;
   selectRoute: (routeId: string) => void;
   startNavigation: () => void;
   stopNavigation: () => void;
@@ -48,6 +51,7 @@ export function useNavigation(): UseNavigationReturn {
   const [isNavigating, setIsNavigating] = useState(false);
   const [currentLocation, setCurrentLocation] = useState<Coordinates | null>(null);
   const [currentSpeed, setCurrentSpeed] = useState(0); // m/s
+  const [currentHeading, setCurrentHeading] = useState<number | null>(null);
   const [routes, setRoutes] = useState<Route[]>([]);
   const [selectedRoute, setSelectedRoute] = useState<Route | null>(null);
   const [navigationState, setNavigationState] = useState<NavigationState | null>(null);
@@ -58,7 +62,9 @@ export function useNavigation(): UseNavigationReturn {
   const [cameraAlerts, setCameraAlerts] = useState<CameraAlert[]>([]); // Speed camera warnings
 
   // Refs
-  const locationSubscription = useRef<Location.LocationSubscription | null>(null);
+  const locationSubscription = useRef<{ remove: () => void } | null>(null);
+  const idleSubscription = useRef<{ remove: () => void } | null>(null);
+  const isNavigatingRef = useRef(false);
   const currentStepIndex = useRef(0);
   const currentLegIndex = useRef(0);
   const currentLandmark = useRef<PlaceResult | null>(null);
@@ -272,6 +278,7 @@ export function useNavigation(): UseNavigationReturn {
     }
 
     // Stop navigation and clear ALL navigation state
+    isNavigatingRef.current = false;
     setIsNavigating(false);
     setNavigationState(null);
     setSelectedRoute(null); // Clear route (fixes lingering polyline)
@@ -336,6 +343,7 @@ export function useNavigation(): UseNavigationReturn {
         avoidTolls: previousOptions.avoidTolls,
         avoidHighways: previousOptions.avoidHighways,
         avoidFerries: previousOptions.avoidFerries,
+        preferredHighways: previousOptions.preferredHighways,
         waypoints: remainingWaypoints,
       },
       location
@@ -586,9 +594,17 @@ export function useNavigation(): UseNavigationReturn {
         ? location.coords.speed
         : 0;
     setCurrentSpeed(speedMps);
+    const heading =
+      location.coords.heading != null && location.coords.heading >= 0
+        ? location.coords.heading
+        : 0;
+    setCurrentHeading(
+      location.coords.heading != null && location.coords.heading >= 0
+        ? location.coords.heading
+        : null
+    );
 
     const speedMph = speedMps * 2.23694;
-    const heading = location.coords.heading || 0;
     const alerts = speedCameraService.checkForCameras(
       newLocation,
       speedMph,
@@ -598,7 +614,7 @@ export function useNavigation(): UseNavigationReturn {
     const activeAlerts = alerts.filter(a => a.shouldAlert);
     setCameraAlerts(activeAlerts);
 
-    if (voiceEnabled && activeAlerts.length > 0) {
+    if (isNavigatingRef.current && voiceEnabled && activeAlerts.length > 0) {
       const urgentAlert = activeAlerts.find(a => a.alertLevel === 'very_near' || a.alertLevel === 'near');
       if (urgentAlert && lastCameraAlertRef.current !== urgentAlert.camera.id) {
         const alertMessage = speedCameraService.getAlertMessage(urgentAlert);
@@ -607,10 +623,75 @@ export function useNavigation(): UseNavigationReturn {
       }
     }
 
-    updateNavigation(newLocation, speedMps);
+    if (isNavigatingRef.current) {
+      updateNavigation(newLocation, speedMps);
+    }
   }, [voiceEnabled, updateNavigation]);
 
   const getDestinationLabel = useCallback(() => destinationLabelRef.current, []);
+  const getRouteOptions = useCallback(() => routeOptionsRef.current, []);
+
+  const stopIdleWatch = useCallback(() => {
+    if (idleSubscription.current) {
+      idleSubscription.current.remove();
+      idleSubscription.current = null;
+    }
+  }, []);
+
+  const startIdleWatch = useCallback(async () => {
+    if (isNavigatingRef.current || idleSubscription.current) {
+      return;
+    }
+    try {
+      const sub = await Location.watchPositionAsync(
+        {
+          accuracy: Location.Accuracy.Balanced,
+          timeInterval: 4000,
+          distanceInterval: 20,
+        },
+        (location) => {
+          if (isNavigatingRef.current || gpsSimulator.isRunning()) return;
+          applyLocationUpdate(location);
+        }
+      );
+      if (isNavigatingRef.current) {
+        sub.remove();
+        return;
+      }
+      idleSubscription.current = sub;
+    } catch (error) {
+      console.warn('[Navigation] Idle location watch unavailable:', error);
+    }
+  }, [applyLocationUpdate]);
+
+  const addWaypoint = useCallback(async (waypoint: Coordinates, name?: string) => {
+    const destination = destinationRef.current;
+    if (!destination) {
+      await calculateRoute(waypoint, routeOptionsRef.current, undefined, name);
+      return;
+    }
+    const previous = routeOptionsRef.current;
+    await calculateRoute(
+      destination,
+      {
+        ...previous,
+        waypoints: [...(previous.waypoints ?? []), waypoint],
+      },
+      undefined,
+      destinationLabelRef.current ?? name
+    );
+  }, [calculateRoute]);
+
+  useEffect(() => {
+    if (isNavigating) {
+      stopIdleWatch();
+      return;
+    }
+    void startIdleWatch();
+    return () => {
+      stopIdleWatch();
+    };
+  }, [isNavigating, startIdleWatch, stopIdleWatch]);
 
   /**
    * Start navigation
@@ -625,6 +706,9 @@ export function useNavigation(): UseNavigationReturn {
     }
 
     const startId = ++navStartIdRef.current;
+
+    isNavigatingRef.current = true;
+    stopIdleWatch();
 
     if (locationSubscription.current) {
       locationSubscription.current.remove();
@@ -721,9 +805,10 @@ export function useNavigation(): UseNavigationReturn {
       console.error('❌ [NAV] Failed to start navigation:', err);
       gpsSimulator.stop();
       setError('Failed to start location tracking');
+      isNavigatingRef.current = false;
       setIsNavigating(false);
     }
-  }, [selectedRoute, currentLocation, voiceEnabled, applyLocationUpdate]);
+  }, [selectedRoute, currentLocation, voiceEnabled, applyLocationUpdate, stopIdleWatch]);
 
   /**
    * Stop navigation
@@ -732,6 +817,7 @@ export function useNavigation(): UseNavigationReturn {
     navStartIdRef.current += 1;
     routeRequestIdRef.current += 1;
     offRouteRecalcRef.current = false;
+    isNavigatingRef.current = false;
     setIsNavigating(false);
     setNavigationState(null);
     setSelectedRoute(null); // Clear route (fixes lingering polyline)
@@ -787,6 +873,9 @@ export function useNavigation(): UseNavigationReturn {
       if (locationSubscription.current) {
         locationSubscription.current.remove();
       }
+      if (idleSubscription.current) {
+        idleSubscription.current.remove();
+      }
       gpsSimulator.stop();
       navigationService.stopSpeaking();
     };
@@ -817,6 +906,7 @@ export function useNavigation(): UseNavigationReturn {
     isNavigating,
     currentLocation,
     currentSpeed,
+    currentHeading,
     routes,
     selectedRoute,
     navigationState,
@@ -828,7 +918,9 @@ export function useNavigation(): UseNavigationReturn {
 
     // Actions
     calculateRoute,
+    addWaypoint,
     getDestinationLabel,
+    getRouteOptions,
     selectRoute,
     startNavigation,
     stopNavigation,
