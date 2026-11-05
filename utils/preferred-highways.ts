@@ -14,6 +14,12 @@ function formatPreferred(ref: HighwayRef): string {
   if (ref.kind === 'us') {
     return `US-${ref.number}`;
   }
+  if (ref.kind === 'loop') {
+    return `Loop ${ref.number}`;
+  }
+  if (ref.kind === 'fm') {
+    return `FM ${ref.number}`;
+  }
   if (ref.state) {
     return `${ref.state}-${ref.number}`;
   }

@@ -38,6 +38,7 @@ import { useAchievements } from '../../hooks/use-achievements';
 import { useInterstateRecs } from '../../hooks/use-interstate-recs';
 import { aiPlannerContextService } from '../../services/ai-planner-context';
 import { Coordinates, navigationService } from '../../services/navigation';
+import { getErrorMessage } from '../../utils/error-messages';
 import { formatDirectionInstructionText, roadNameFromInstruction } from '../../utils/format-directions';
 import { gpsSimulator, type GpsSimulatorPreset } from '../../utils/gps-simulator';
 import { getAccentFill, getOnAccentColor } from '../../utils/theme-helpers';
@@ -324,6 +325,24 @@ const RecorderTab = memo(() => {
       );
     });
   }, []);
+
+  const routeErrorInfo = useMemo(
+    () => (navigation.error ? getErrorMessage(new Error(navigation.error)) : null),
+    [navigation.error]
+  );
+
+  const handleRetryRoute = useCallback(() => {
+    if (!destinationMarker) {
+      navigation.clearError();
+      return;
+    }
+    void navigation.calculateRoute(
+      destinationMarker,
+      navigation.getRouteOptions(),
+      undefined,
+      destinationName || undefined
+    );
+  }, [destinationMarker, destinationName, navigation]);
 
   /**
    * Handle destination selection
@@ -737,12 +756,25 @@ const RecorderTab = memo(() => {
             </View>
           )}
 
-      {navigation.error && (
+      {navigation.error && routeErrorInfo && (
         <View style={styles.errorContainer}>
-          <Text style={styles.errorText}>{navigation.error}</Text>
-          <TouchableOpacity onPress={navigation.clearError}>
-            <Text style={styles.errorDismiss}>Dismiss</Text>
-          </TouchableOpacity>
+          <Text style={styles.errorTitle}>{routeErrorInfo.title}</Text>
+          <Text style={styles.errorText}>{routeErrorInfo.message}</Text>
+          {routeErrorInfo.suggestions.slice(0, 2).map((suggestion) => (
+            <Text key={suggestion} style={styles.errorSuggestion}>
+              • {suggestion}
+            </Text>
+          ))}
+          <View style={styles.errorActions}>
+            {routeErrorInfo.actionLabel ? (
+              <TouchableOpacity onPress={handleRetryRoute}>
+                <Text style={[styles.errorAction, { color: tint }]}>{routeErrorInfo.actionLabel}</Text>
+              </TouchableOpacity>
+            ) : null}
+            <TouchableOpacity onPress={navigation.clearError}>
+              <Text style={styles.errorDismiss}>Dismiss</Text>
+            </TouchableOpacity>
+          </View>
         </View>
       )}
 
@@ -900,23 +932,43 @@ const styles = StyleSheet.create({
     bottom: 40,
     left: 16,
     right: 16,
-    backgroundColor: '#ff3b30',
-    paddingVertical: 12,
+    backgroundColor: 'rgba(28, 28, 30, 0.94)',
+    paddingVertical: 14,
     paddingHorizontal: 16,
     borderRadius: 12,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: 'rgba(255, 59, 48, 0.55)',
+    gap: 6,
+  },
+  errorTitle: {
+    color: '#fff',
+    fontSize: 15,
+    fontWeight: '700',
   },
   errorText: {
-    color: '#fff',
+    color: 'rgba(255, 255, 255, 0.9)',
+    fontSize: 13,
+    lineHeight: 18,
+  },
+  errorSuggestion: {
+    color: 'rgba(255, 255, 255, 0.75)',
+    fontSize: 12,
+    lineHeight: 16,
+  },
+  errorActions: {
+    flexDirection: 'row',
+    gap: 16,
+    marginTop: 4,
+    alignItems: 'center',
+  },
+  errorAction: {
     fontSize: 14,
-    flex: 1,
+    fontWeight: '700',
   },
   errorDismiss: {
-    color: '#fff',
+    color: 'rgba(255, 255, 255, 0.7)',
     fontSize: 14,
-    fontWeight: 'bold',
+    fontWeight: '600',
   },
   recenterButton: {
     position: 'absolute',

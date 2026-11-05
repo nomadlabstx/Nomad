@@ -70,4 +70,17 @@ describe('rankRoutesForPreferredHighways', () => {
     const ranked = rankRoutesForPreferredHighways([fastShortcut, stayOn], ['I-95']);
     assert.equal(ranked[0].id, 'stay');
   });
+
+  it('prefers Loop 340 over a faster shortcut', () => {
+    const shortcut = fakeRoute('fast', 'I-35 N', 'Merge onto I-35 N', 40_000);
+    const loop = fakeRoute('loop', 'Loop 340 E', 'Continue on Loop 340 E', 55_000);
+    const ranked = rankRoutesForPreferredHighways([shortcut, loop], ['Loop 340']);
+    assert.equal(ranked[0].id, 'loop');
+  });
+});
+
+describe('extractPreferredHighways loops', () => {
+  it('reads stay on Loop 340', () => {
+    assert.deepEqual(extractPreferredHighways('Stay on Loop 340 around Waco.'), ['Loop 340']);
+  });
 });

@@ -130,7 +130,8 @@ const HighwayShield = memo<HighwayShieldProps>(({ refData, compact = false }) =>
 
   const width = compact ? 24 : 28;
   const height = compact ? 26 : 30;
-  const label = refData.state || 'SR';
+  const label =
+    refData.kind === 'loop' ? 'LOOP' : refData.kind === 'fm' ? 'FM' : refData.state || 'SR';
 
   return (
     <View style={styles.wrap}>
