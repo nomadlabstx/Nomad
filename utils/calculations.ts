@@ -1,4 +1,4 @@
-import { LocationCoordinates, TrackPoint } from '../types';
+import type { LocationCoordinates, TrackPoint } from '../types';
 
 /**
  * Converts degrees to radians

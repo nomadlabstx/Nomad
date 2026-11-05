@@ -20,8 +20,10 @@ import { networkStatusService } from './network-status';
 import { classifyTraffic } from '../utils/traffic';
 import { formatDirectionInstructionText } from '../utils/format-directions';
 import { instructionIndicatesHighway } from '../utils/highway-refs';
+import { rankRoutesForPreferredHighways } from '../utils/preferred-highways';
 import { routeMatchingService } from './route-matching';
 import { attachTrafficOverlays, fetchTrafficOverlays } from './routes-traffic';
+import { getGoogleMapsApiKey } from '../utils/google-maps-key';
 
 // Re-export types for other modules to use
 export type {
@@ -33,8 +35,6 @@ export type {
     RouteOptions,
     RouteStep
 } from '../types/navigation';
-
-const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
 
 // ==================== TYPES ====================
 
@@ -130,8 +130,9 @@ class NavigationService {
     destination: Coordinates,
     options: RouteOptions = {}
   ): Promise<Route[]> {
-    if (!GOOGLE_MAPS_API_KEY) {
-      throw new Error('Google Maps API key is not configured');
+    const apiKey = getGoogleMapsApiKey();
+    if (!apiKey) {
+      throw new Error('Google Maps API key is not configured. Set EXPO_PUBLIC_GOOGLE_MAPS_API_KEY on the EAS production environment (TestFlight) or in .env (Expo Go).');
     }
 
     // Check if we're online
@@ -156,7 +157,7 @@ class NavigationService {
       const params = new URLSearchParams({
         origin: `${origin.latitude},${origin.longitude}`,
         destination: `${destination.latitude},${destination.longitude}`,
-        key: GOOGLE_MAPS_API_KEY,
+        key: apiKey,
         alternatives: 'true', // Request multiple route options
         mode: 'driving',
         departure_time: 'now', // Enable real-time traffic data
@@ -190,6 +191,9 @@ class NavigationService {
       const url = `https://maps.googleapis.com/maps/api/directions/json?${params.toString()}`;
       
       const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`Directions API HTTP ${response.status}`);
+      }
       const data = await response.json();
 
       if (data.status !== 'OK') {
@@ -198,6 +202,10 @@ class NavigationService {
 
       // Parse routes
       let routes = data.routes.map((route: any, index: number) => this.parseRoute(route, index));
+
+      if (options.preferredHighways && options.preferredHighways.length > 0) {
+        routes = rankRoutesForPreferredHighways(routes, options.preferredHighways);
+      }
 
       try {
         const overlays = await fetchTrafficOverlays(
@@ -337,12 +345,15 @@ class NavigationService {
     currentStepIndex: number
   ): NavigationState {
     const currentLeg = route.legs[currentLegIndex];
-    const currentStep = currentLeg.steps[currentStepIndex];
+    const currentStep = currentLeg?.steps?.[currentStepIndex];
 
-    // Validate coordinates before calculating
-    if (!currentLocation || !currentStep.endLocation) {
-      console.error('Missing location data:', { currentLocation, endLocation: currentStep.endLocation });
-      // Return safe default state
+    if (!currentLocation || !currentLeg || !currentStep?.endLocation) {
+      console.error('Missing location data:', {
+        currentLocation,
+        currentLegIndex,
+        currentStepIndex,
+        endLocation: currentStep?.endLocation,
+      });
       return {
         isNavigating: true,
         currentRoute: route,
@@ -351,11 +362,11 @@ class NavigationService {
         distanceToNextTurn: 0,
         timeToDestination: 0,
         distanceRemaining: 0,
-        nextInstruction: currentLeg.steps[currentStepIndex + 1]
+        nextInstruction: currentLeg?.steps?.[currentStepIndex + 1]
           ? formatDirectionInstructionText(currentLeg.steps[currentStepIndex + 1].instruction)
-          : 'Arrive at destination',
-        currentManeuver: currentStep.maneuver,
-        lanes: currentStep.lanes,
+          : 'Continue to destination',
+        currentManeuver: currentStep?.maneuver,
+        lanes: currentStep?.lanes,
       };
     }
 

@@ -27,6 +27,8 @@ interface RouteOverviewProps {
   currentLegIndex: number;
   currentStepIndex: number;
   unit?: 'miles' | 'km';
+  voiceEnabled?: boolean;
+  onToggleVoice?: () => void;
 }
 
 const RouteOverview = memo<RouteOverviewProps>(({
@@ -36,6 +38,8 @@ const RouteOverview = memo<RouteOverviewProps>(({
   currentLegIndex,
   currentStepIndex,
   unit = 'miles',
+  voiceEnabled = true,
+  onToggleVoice,
 }) => {
   const { tint } = useAppTint();
 
@@ -43,6 +47,11 @@ const RouteOverview = memo<RouteOverviewProps>(({
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
     onClose();
   }, [onClose]);
+
+  const handleVoice = useCallback(() => {
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+    onToggleVoice?.();
+  }, [onToggleVoice]);
 
   const renderStep = useCallback(
     ({ item }: { item: RouteStep & { isCurrent: boolean }; index: number }) => {
@@ -118,9 +127,16 @@ const RouteOverview = memo<RouteOverviewProps>(({
           {remainingSteps.length} remaining {remainingSteps.length === 1 ? 'step' : 'steps'}
         </Text>
       </View>
-      <TouchableOpacity onPress={handleClose} style={styles.closeButton}>
-        <Text style={styles.closeButtonText}>✕</Text>
-      </TouchableOpacity>
+      <View style={styles.headerActions}>
+        {onToggleVoice ? (
+          <TouchableOpacity onPress={handleVoice} style={styles.closeButton}>
+            <Text style={styles.closeButtonText}>{voiceEnabled ? '🔊' : '🔇'}</Text>
+          </TouchableOpacity>
+        ) : null}
+        <TouchableOpacity onPress={handleClose} style={styles.closeButton}>
+          <Text style={styles.closeButtonText}>✕</Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 
@@ -188,6 +204,11 @@ const styles = StyleSheet.create({
     padding: 20,
     borderBottomWidth: 1,
     borderBottomColor: '#e5e7eb',
+  },
+  headerActions: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
   },
   headerTitle: {
     fontSize: 24,

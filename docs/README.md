@@ -2,11 +2,13 @@
 
 ## Current truth (start here)
 
-For **what works today** and v0.1 release status, read these first:
+For **what to ship now** and v0.1 release status, read these first:
 
+- **[Master task list](./TASKS.md)** — Ordered queue; ship bar = Expo Go personal MVP (TestFlight deferred)
+- **[November ship boards](./mvp-october/README.md)** — Phase dashboards (Expo Go → extra-miler → live drives → daily driver)
+- **[Code Audit 31 Aug 2026](./CODE_AUDIT_2026-08-31.md)** — Debug-pass audit (supersedes June)
 - **[State of the Union](./STATE_OF_UNION.md)** — Implemented / Verified / Unverified
-- **[Consolidation Plan](./CONSOLIDATION_PLAN.md)** — 14-day scope and engineering freeze
-- **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Active task queue
+- **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Pointer to October boards; June history
 - **[Priority Buckets](./PRIORITY_BUCKETS.md)** — Ship blockers vs post-v0.1 vs vision backlog
 - **[MVP Release Gate](./MVP_RELEASE_GATE.md)** — Pass/fail checklist (currently FAIL)
 - **[MVP Test Run Log](./MVP_TEST_RUN_LOG.md)** — Run-by-run evidence

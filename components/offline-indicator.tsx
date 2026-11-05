@@ -56,7 +56,7 @@ export const OfflineIndicator = memo<OfflineIndicatorProps>(({ showWhenOnline = 
       pointerEvents="none"
     >
       <Text style={styles.text}>
-        {isOnline ? '🟢 Online' : '🔴 Offline - Using Cached Data'}
+        {isOnline ? 'Online' : 'Offline — using cached routes when available'}
       </Text>
     </Animated.View>
   );

@@ -1,6 +1,6 @@
 /**
  * Achievement Hook
- * Manages achievement tracking and updates
+ * Checks unlocks while driving and after a trip. UI is a small toast, not RPG chrome.
  */
 
 import { useCallback, useState } from 'react';
@@ -11,15 +11,9 @@ import type { Achievement } from '../types/achievements';
 export function useAchievements() {
   const [newlyUnlocked, setNewlyUnlocked] = useState<Achievement[]>([]);
 
-  /**
-   * Check for achievement unlocks
-   */
   const checkAchievements = useCallback(async () => {
     try {
-      // Get current stats from explorer
       const stats = explorerService.getStats();
-      
-      // Check for unlocks
       const unlocked = await achievementsService.checkAchievements({
         citiesVisited: stats.citiesVisited,
         countiesVisited: stats.countiesVisited || 0,
@@ -27,18 +21,17 @@ export function useAchievements() {
       });
 
       if (unlocked.length > 0) {
-        setNewlyUnlocked(unlocked);
-        // Achievement unlock animations are handled by RPGNavigationOverlay component
-        console.log('[Achievements] Unlocked:', unlocked.map(a => a.name).join(', '));
+        setNewlyUnlocked((previous) => {
+          const seen = new Set(previous.map((item) => item.id));
+          const next = unlocked.filter((item) => !seen.has(item.id));
+          return next.length > 0 ? [...previous, ...next] : previous;
+        });
       }
     } catch (error) {
       console.error('[Achievements] Error checking achievements:', error);
     }
   }, []);
 
-  /**
-   * Record navigation completion
-   */
   const recordNavigationComplete = useCallback(async () => {
     const unlocked: Achievement[] = [];
     for (const id of ['navigator-10', 'navigator-50', 'navigator-100', 'navigator-500']) {
@@ -46,7 +39,7 @@ export function useAchievements() {
       if (result) unlocked.push(result);
     }
     if (unlocked.length > 0) {
-      setNewlyUnlocked(unlocked);
+      setNewlyUnlocked((previous) => [...previous, ...unlocked]);
     }
   }, []);
 
@@ -57,13 +50,24 @@ export function useAchievements() {
       if (result) unlocked.push(result);
     }
     if (unlocked.length > 0) {
-      setNewlyUnlocked(unlocked);
+      setNewlyUnlocked((previous) => [...previous, ...unlocked]);
     }
   }, []);
 
-  /**
-   * Clear newly unlocked achievements
-   */
+  const consumeNextUnlock = useCallback((): Achievement | null => {
+    let next: Achievement | null = null;
+    setNewlyUnlocked((previous) => {
+      if (previous.length === 0) return previous;
+      next = previous[0];
+      return previous.slice(1);
+    });
+    return next;
+  }, []);
+
+  const dismissCurrentUnlock = useCallback(() => {
+    setNewlyUnlocked((previous) => previous.slice(1));
+  }, []);
+
   const clearNewlyUnlocked = useCallback(() => {
     setNewlyUnlocked([]);
   }, []);
@@ -71,9 +75,10 @@ export function useAchievements() {
   return {
     newlyUnlocked,
     clearNewlyUnlocked,
+    consumeNextUnlock,
+    dismissCurrentUnlock,
     checkAchievements,
     recordNavigationComplete,
     recordAITripPlanned,
   };
 }
-

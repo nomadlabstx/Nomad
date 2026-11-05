@@ -3,7 +3,7 @@
  * so the UI can render MUTCD-style shields (Apple Maps / Google Maps style).
  */
 
-export type HighwayKind = 'interstate' | 'us' | 'state';
+export type HighwayKind = 'interstate' | 'us' | 'state' | 'loop' | 'fm';
 
 export interface HighwayRef {
   kind: HighwayKind;
@@ -52,6 +52,18 @@ const STATE_ROUTE_RE = new RegExp(
 /** Route 8, SR 15, Hwy 1 — generic numbered route with no state */
 const GENERIC_ROUTE_RE = new RegExp(
   String.raw`\b(?:State\s+)?(?:Route|Hwy|SR)\s+(\d{1,3}[A-Z]?)\b${DIRECTION_RE}`,
+  'gi'
+);
+
+/** Loop 340, Loop 1604 — Texas / municipal loops */
+const LOOP_RE = new RegExp(
+  String.raw`\bLoop\s+(\d{1,4}[A-Z]?)\b${DIRECTION_RE}`,
+  'gi'
+);
+
+/** FM 1637, RM 620 — Texas farm-to-market / ranch-to-market */
+const FM_RE = new RegExp(
+  String.raw`\b(?:FM|RM)\s+(\d{1,4}[A-Z]?)\b${DIRECTION_RE}`,
   'gi'
 );
 
@@ -129,6 +141,16 @@ export function parseHighwayRefs(text: string): HighwayRef[] {
     pushMatch(matches, 'state', match[0], match.index, match[1], match[2]);
   }
 
+  for (const match of collectMatches(LOOP_RE, text)) {
+    if (match.index == null || match[1] == null) continue;
+    pushMatch(matches, 'loop', match[0], match.index, match[1], match[2]);
+  }
+
+  for (const match of collectMatches(FM_RE, text)) {
+    if (match.index == null || match[1] == null) continue;
+    pushMatch(matches, 'fm', match[0], match.index, match[1], match[2]);
+  }
+
   return matches.sort((a, b) => a.start - b.start);
 }
 
@@ -144,7 +166,9 @@ export function instructionIndicatesHighway(instruction: string, maneuver?: stri
   if (maneuver && RAMP_MERGE_RE.test(maneuver)) {
     return true;
   }
-  return parseHighwayRefs(text).some((ref) => ref.kind === 'interstate' || ref.kind === 'us');
+  return parseHighwayRefs(text).some(
+    (ref) => ref.kind === 'interstate' || ref.kind === 'us' || ref.kind === 'loop' || ref.kind === 'fm'
+  );
 }
 
 export function tokenizeInstruction(text: string): InstructionPart[] {

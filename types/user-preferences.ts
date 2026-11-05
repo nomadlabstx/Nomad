@@ -18,12 +18,20 @@ export interface ActivityPreferences {
   adventureLevel: 'relaxed' | 'moderate' | 'adventurous';
 }
 
+export type DetourPreset = 'this-exit' | 'few-minutes' | 'worth-the-dip';
+
 export interface TravelPreferences {
   avoidTolls: boolean;
   avoidHighways: boolean;
   scenicRoutes: boolean;
   preferredStops: string[]; // e.g., ["Buc-ee's", "Rest stops", "Scenic overlooks"]
   maxDrivingHours: number; // Preferred max hours per day
+  /** Along-interstate Eat chips. All three off is treated as recs Off. */
+  recommendEat: boolean;
+  recommendDrink: boolean;
+  recommendDo: boolean;
+  /** How far off the highway a rec may sit. */
+  detourPreset: DetourPreset;
 }
 
 export interface AccommodationPreferences {
@@ -104,6 +112,10 @@ export const DEFAULT_PREFERENCES: UserPreferences = {
     scenicRoutes: false,
     preferredStops: [],
     maxDrivingHours: 8,
+    recommendEat: true,
+    recommendDrink: true,
+    recommendDo: true,
+    detourPreset: 'few-minutes',
   },
   accommodation: {
     hotelChains: [],

@@ -6,7 +6,6 @@ import { useLocalSearchParams, useRouter } from 'expo-router';
 import AIChat from '../../components/ai-chat';
 import { useAppTint } from '../../components/color-context';
 import { useThemeColors } from '../../hooks/use-theme-colors';
-import { TripPlanRequest } from '../../services/gemini-ai';
 import { getOnAccentColor, useSelectedBackgroundColor } from '../../utils/theme-helpers';
 
 const AIAssistantTab = memo(() => {
@@ -26,49 +25,33 @@ const AIAssistantTab = memo(() => {
     }
   }, [params.mode, router]);
 
-  const handleQuickPlan = useCallback((type: 'weekend' | 'day-trip' | 'scenic' | 'custom') => {
-    let request: TripPlanRequest | null = null;
-    
+  const handleQuickPlan = useCallback((type: 'destination' | 'stay-on' | 'challenge' | 'custom') => {
     switch (type) {
-      case 'weekend':
-        // Instead of generating a trip plan, start a conversation
-        setInitialRequest({ 
-          type: 'chat', 
-          data: 'I want to plan a weekend trip! Can you suggest some great destinations within 3-4 hours drive from my current location? I\'m interested in nature, good food, and local culture. What would you recommend?' 
+      case 'destination':
+        setInitialRequest({
+          type: 'chat',
+          data: 'I want suggestions for places to go. Plan a weekend in Austin with specific restaurants, attractions, and things to do — not just stops along a highway. Ask if I have a different city in mind.',
         });
         setShowChat(true);
         return;
-      
-      case 'day-trip':
-        setInitialRequest({ 
-          type: 'chat', 
-          data: 'I\'m looking for a fun day trip within 2 hours of where I am. What are some interesting places I could visit today? I\'m on a budget and want to make the most of my time.' 
+      case 'stay-on':
+        setInitialRequest({
+          type: 'chat',
+          data: 'I want to stay on a specific highway for this drive. Help me keep the route on that road even if a shortcut is faster. Ask which highway if I have not named one yet.',
         });
         setShowChat(true);
         return;
-      
-      case 'scenic':
-        setInitialRequest({ 
-          type: 'chat', 
-          data: 'I want to take a scenic drive this weekend. Can you suggest some beautiful routes or destinations that would be great for photography and enjoying nature? I\'m flexible on distance.' 
+      case 'challenge':
+        setInitialRequest({
+          type: 'chat',
+          data: 'Challenge me to finish unfinished highway miles. Suggest a stretch, exits, or a county dip that would be new for a roadtripper who collects highways.',
         });
         setShowChat(true);
         return;
-      
       case 'custom':
-        // Just open chat with no initial message
         setInitialRequest(null);
         setShowChat(true);
         return;
-    }
-    
-    if (request) {
-      setInitialRequest({ type: 'trip-plan', data: request });
-      setShowChat(true);
-    } else {
-      // For custom, just open chat
-      setInitialRequest(null);
-      setShowChat(true);
     }
   }, []);
 
@@ -87,48 +70,50 @@ const AIAssistantTab = memo(() => {
          {/* Header */}
          <View style={styles.header}>
            <Text style={[styles.title, { color: theme.text }]}>🧭 Pathfinder</Text>
-           <Text style={[styles.subtitle, { color: theme.secondaryText }]}>Your AI-powered travel companion</Text>
+           <Text style={[styles.subtitle, { color: theme.secondaryText }]}>
+             Plan a destination, then keep the drive on the road you want
+           </Text>
          </View>
 
         {/* Quick Actions */}
         <View style={styles.section}>
-          <Text style={[styles.sectionTitle, { color: theme.text }]}>Quick Trip Planning</Text>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>What do you need?</Text>
+
+          <TouchableOpacity 
+            style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
+            onPress={() => handleQuickPlan('destination')}
+          >
+            <Text style={styles.actionEmoji}>📍</Text>
+            <View style={styles.actionContent}>
+              <Text style={[styles.actionTitle, { color: theme.text }]}>Plan a destination</Text>
+              <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
+                City weekends, day trips, food, and places to go — not just stops along a highway
+              </Text>
+            </View>
+          </TouchableOpacity>
           
           <TouchableOpacity 
             style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
-            onPress={() => handleQuickPlan('weekend')}
+            onPress={() => handleQuickPlan('stay-on')}
           >
-            <Text style={styles.actionEmoji}>🏖️</Text>
+            <Text style={styles.actionEmoji}>🛣️</Text>
             <View style={styles.actionContent}>
-              <Text style={[styles.actionTitle, { color: theme.text }]}>Plan a Weekend Trip</Text>
+              <Text style={[styles.actionTitle, { color: theme.text }]}>Stay on this highway</Text>
               <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
-                Get AI-powered suggestions for a perfect weekend getaway
+                Keep the route on I-95, US-281, or whatever road you are completing
               </Text>
             </View>
           </TouchableOpacity>
 
           <TouchableOpacity 
             style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
-            onPress={() => handleQuickPlan('day-trip')}
+            onPress={() => handleQuickPlan('challenge')}
           >
-            <Text style={styles.actionEmoji}>⏱️</Text>
+            <Text style={styles.actionEmoji}>🏁</Text>
             <View style={styles.actionContent}>
-              <Text style={[styles.actionTitle, { color: theme.text }]}>Quick Day Trip</Text>
+              <Text style={[styles.actionTitle, { color: theme.text }]}>Challenge new miles</Text>
               <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
-                Find nearby destinations for a fun day adventure
-              </Text>
-            </View>
-          </TouchableOpacity>
-
-          <TouchableOpacity 
-            style={[styles.actionCard, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
-            onPress={() => handleQuickPlan('scenic')}
-          >
-            <Text style={styles.actionEmoji}>🌄</Text>
-            <View style={styles.actionContent}>
-              <Text style={[styles.actionTitle, { color: theme.text }]}>Scenic Route</Text>
-              <Text style={[styles.actionDescription, { color: theme.secondaryText }]}>
-                Discover beautiful routes and hidden gems
+                Unfinished highway, exit, or county dips instead of the shortest path
               </Text>
             </View>
           </TouchableOpacity>
@@ -141,7 +126,7 @@ const AIAssistantTab = memo(() => {
             <View style={styles.actionContent}>
               <Text style={[styles.actionTitle, { color: getOnAccentColor(selectedBgColor) }]}>Custom Request</Text>
               <Text style={[styles.actionDescription, { color: getOnAccentColor(selectedBgColor), opacity: 0.9 }]}>
-                Ask me anything! I&apos;m here to help with your travel plans
+                Ask for a city plan, a place to go, or a highway to stay on
               </Text>
             </View>
           </TouchableOpacity>
@@ -156,22 +141,7 @@ const AIAssistantTab = memo(() => {
             onPress={() => {
               setInitialRequest({ 
                 type: 'chat', 
-                data: 'I want to go to Dallas. Find me cheap gas along the way - I have 45 miles of range left.' 
-              });
-              setShowChat(true);
-            }}
-          >
-            <Text style={[styles.exampleText, { color: theme.text }]}>
-              &quot;I want to go to Dallas. Find me cheap gas along the way - I have 45 miles of range left.&quot;
-            </Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity 
-            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
-            onPress={() => {
-              setInitialRequest({ 
-                type: 'chat', 
-                data: 'Plan a weekend trip to Austin with great food and live music.' 
+                data: 'Plan a weekend trip to Austin with great food and live music. Give me specific restaurants and places to go, not just things along the drive.' 
               });
               setShowChat(true);
             }}
@@ -186,13 +156,13 @@ const AIAssistantTab = memo(() => {
             onPress={() => {
               setInitialRequest({ 
                 type: 'chat', 
-                data: 'What are some hidden gems between Houston and San Antonio?' 
+                data: 'What should I do in Austin today? Suggest named restaurants, attractions, and neighborhoods.' 
               });
               setShowChat(true);
             }}
           >
             <Text style={[styles.exampleText, { color: theme.text }]}>
-              &quot;What are some hidden gems between Houston and San Antonio?&quot;
+              &quot;What should I do in Austin today? Suggest named restaurants and places.&quot;
             </Text>
           </TouchableOpacity>
 
@@ -201,13 +171,28 @@ const AIAssistantTab = memo(() => {
             onPress={() => {
               setInitialRequest({ 
                 type: 'chat', 
-                data: 'Where should I stop for lunch on my way to Fredericksburg?' 
+                data: 'Stay on I-95 from Washington, DC to Boston. Do not dump me onto I-495 even if it is faster.' 
               });
               setShowChat(true);
             }}
           >
             <Text style={[styles.exampleText, { color: theme.text }]}>
-              &quot;Where should I stop for lunch on my way to Fredericksburg?&quot;
+              &quot;Stay on I-95 from Washington, DC to Boston. Do not dump me onto I-495 even if it is faster.&quot;
+            </Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity 
+            style={[styles.exampleCard, { backgroundColor: theme.cardBackground, borderLeftColor: selectedBgColor }]}
+            onPress={() => {
+              setInitialRequest({ 
+                type: 'chat', 
+                data: 'Challenge me to finish a stretch of highway I have not completed. I am driving in Texas.' 
+              });
+              setShowChat(true);
+            }}
+          >
+            <Text style={[styles.exampleText, { color: theme.text }]}>
+              &quot;Challenge me to finish a stretch of highway I have not completed. I am driving in Texas.&quot;
             </Text>
           </TouchableOpacity>
         </View>
@@ -218,32 +203,32 @@ const AIAssistantTab = memo(() => {
           
           <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🗺️</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Plan complete trip itineraries</Text>
-          </View>
-
-          <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>⛽</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Find gas stations and estimate costs</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Plan city itineraries and weekends</Text>
           </View>
 
           <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🍽️</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Recommend restaurants and attractions</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Suggest named restaurants and places to go</Text>
           </View>
 
           <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>💰</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Estimate trip budgets</Text>
+            <Text style={styles.featureEmoji}>🛣️</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Keep you on a named highway when you ask</Text>
           </View>
 
           <View style={styles.featureRow}>
-            <Text style={styles.featureEmoji}>🎯</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Personalize suggestions to your preferences</Text>
+            <Text style={styles.featureEmoji}>🏁</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Challenge unfinished exits and counties</Text>
+          </View>
+
+          <View style={styles.featureRow}>
+            <Text style={styles.featureEmoji}>📍</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Find new things on or just off the road</Text>
           </View>
 
           <View style={styles.featureRow}>
             <Text style={styles.featureEmoji}>🚗</Text>
-            <Text style={[styles.featureText, { color: theme.text }]}>Optimize routes and suggest stops</Text>
+            <Text style={[styles.featureText, { color: theme.text }]}>Hand the plan and route to GPS</Text>
           </View>
         </View>
       </ScrollView>

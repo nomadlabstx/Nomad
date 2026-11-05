@@ -1,6 +1,5 @@
 /**
- * Speed Limit Display Component
- * Shows current speed limit and user's speed with visual warning
+ * MUTCD posted SPEED LIMIT plaque. Posted limit only — no live speed vs limit.
  */
 
 import { memo, useEffect, useMemo, useState } from 'react';
@@ -8,11 +7,11 @@ import { StyleSheet, Text, View } from 'react-native';
 import { speedLimitService, type SpeedLimitData } from '../services/speed-limit';
 
 interface SpeedLimitDisplayProps {
-  currentSpeed: number; // m/s from GPS
+  currentSpeed: number;
   latitude: number;
   longitude: number;
   unit?: 'mph' | 'km/h';
-  showCurrentSpeed?: boolean; // Toggle between Waze-style (show speed) and Apple Maps-style (limit only)
+  showCurrentSpeed?: boolean;
 }
 
 const SpeedLimitDisplay = memo<SpeedLimitDisplayProps>(({
@@ -20,24 +19,24 @@ const SpeedLimitDisplay = memo<SpeedLimitDisplayProps>(({
   latitude,
   longitude,
   unit = 'mph',
-  showCurrentSpeed = false, // Default to Apple Maps style (limit only)
+  showCurrentSpeed = false,
 }) => {
   const [speedLimitData, setSpeedLimitData] = useState<SpeedLimitData | null>(null);
-  const [isLoading, setIsLoading] = useState(false);
 
-  // Fetch speed limit when location changes
   useEffect(() => {
+    let cancelled = false;
     const fetchSpeedLimit = async () => {
-      setIsLoading(true);
       const data = await speedLimitService.getSpeedLimit({ latitude, longitude });
-      setSpeedLimitData(data);
-      setIsLoading(false);
+      if (!cancelled) {
+        setSpeedLimitData(data);
+      }
     };
-
-    fetchSpeedLimit();
+    void fetchSpeedLimit();
+    return () => {
+      cancelled = true;
+    };
   }, [latitude, longitude]);
 
-  // Calculate speed status
   const speedStatus = useMemo(() => {
     if (!speedLimitData) return 'unknown';
     return speedLimitService.getSpeedStatus(
@@ -47,66 +46,51 @@ const SpeedLimitDisplay = memo<SpeedLimitDisplayProps>(({
     );
   }, [currentSpeed, speedLimitData]);
 
-  // Format current speed for display
   const formattedCurrentSpeed = useMemo(() => {
     return speedLimitService.formatSpeed(currentSpeed, unit);
   }, [currentSpeed, unit]);
 
-  // Convert speed limit to display unit
-  const formattedSpeedLimit = useMemo(() => {
+  const postedLimit = useMemo(() => {
     if (!speedLimitData) return null;
-    
     let limit = speedLimitData.speedLimit;
-    
-    // Convert if needed
     if (speedLimitData.units === 'km/h' && unit === 'mph') {
       limit = limit / 1.60934;
     } else if (speedLimitData.units === 'mph' && unit === 'km/h') {
       limit = limit * 1.60934;
     }
-
-    return `${Math.round(limit)} ${unit}`;
+    return Math.round(limit);
   }, [speedLimitData, unit]);
 
-  // Get color based on speed status
   const getStatusColor = () => {
     switch (speedStatus) {
       case 'under':
-        return '#00b300'; // Green
+        return '#00b300';
       case 'at':
-        return '#ffa500'; // Orange
+        return '#ffa500';
       case 'over':
-        return '#ff3b30'; // Red
+        return '#ff3b30';
       default:
-        return '#888'; // Gray
+        return '#888';
     }
   };
 
-  if (isLoading && !speedLimitData) {
-    return null; // Don't show while loading
-  }
-
-  if (!speedLimitData) {
-    return null; // No speed limit available
+  if (!speedLimitData || postedLimit == null) {
+    return null;
   }
 
   return (
-    <View style={styles.container}>
-      {/* Speed Limit Sign */}
-      <View style={styles.speedLimitSign}>
-        <Text style={styles.speedLimitLabel}>LIMIT</Text>
-        <Text style={styles.speedLimitValue}>{formattedSpeedLimit}</Text>
+    <View style={styles.container} pointerEvents="none">
+      <View style={styles.sign}>
+        <Text style={styles.signLabel}>SPEED</Text>
+        <Text style={styles.signLabel}>LIMIT</Text>
+        <Text style={styles.signValue}>{postedLimit}</Text>
       </View>
 
-      {/* Current Speed (Waze-style - only show if enabled) */}
       {showCurrentSpeed && (
         <View style={[styles.currentSpeedContainer, { borderColor: getStatusColor() }]}>
           <Text style={[styles.currentSpeedValue, { color: getStatusColor() }]}>
             {formattedCurrentSpeed}
           </Text>
-          {speedStatus === 'over' && (
-            <Text style={styles.warningText}>SLOW DOWN</Text>
-          )}
         </View>
       )}
     </View>
@@ -117,51 +101,45 @@ SpeedLimitDisplay.displayName = 'SpeedLimitDisplay';
 
 const styles = StyleSheet.create({
   container: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 12,
+    alignItems: 'flex-start',
   },
-  speedLimitSign: {
-    width: 60,
-    height: 60,
-    borderRadius: 30,
+  sign: {
+    width: 56,
+    paddingTop: 6,
+    paddingBottom: 4,
     backgroundColor: '#fff',
     borderWidth: 3,
-    borderColor: '#333',
-    justifyContent: 'center',
+    borderColor: '#111',
+    borderRadius: 2,
     alignItems: 'center',
   },
-  speedLimitLabel: {
+  signLabel: {
     fontSize: 8,
-    fontWeight: 'bold',
-    color: '#333',
-    letterSpacing: 0.5,
+    fontWeight: '800',
+    color: '#111',
+    letterSpacing: 0.8,
+    lineHeight: 10,
   },
-  speedLimitValue: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: '#333',
+  signValue: {
+    marginTop: 2,
+    fontSize: 24,
+    lineHeight: 26,
+    fontWeight: '800',
+    color: '#111',
   },
   currentSpeedContainer: {
-    paddingVertical: 8,
-    paddingHorizontal: 12,
+    marginTop: 8,
+    paddingVertical: 6,
+    paddingHorizontal: 10,
     borderRadius: 8,
-    backgroundColor: 'rgba(255, 255, 255, 0.95)',
+    backgroundColor: 'rgba(255, 255, 255, 0.92)',
     borderWidth: 2,
   },
   currentSpeedValue: {
-    fontSize: 20,
+    fontSize: 18,
     fontWeight: 'bold',
     textAlign: 'center',
-  },
-  warningText: {
-    fontSize: 10,
-    fontWeight: 'bold',
-    color: '#ff3b30',
-    textAlign: 'center',
-    marginTop: 2,
   },
 });
 
 export default SpeedLimitDisplay;
-

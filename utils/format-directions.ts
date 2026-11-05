@@ -170,7 +170,7 @@ export function formatDirectionInstructionText(html: string): string {
   return formatDirectionInstruction(html).primary;
 }
 
-function roadNameFromInstruction(primary: string): string {
+export function roadNameFromInstruction(primary: string): string {
   const head = primary.match(/^head\s+\S+\s+on\s+(.+?)(?:\s+toward\b.*)?$/i);
   if (head?.[1]) {
     return head[1].trim();

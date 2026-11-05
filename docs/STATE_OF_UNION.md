@@ -8,9 +8,9 @@ This document is the source of truth for what is implemented, what is verified, 
 
 ## Core Loop for v0.1
 
-1. Plan destination
-2. Navigate and record
-3. Review saved trip
+1. Pick a highway or stretch to complete
+2. Drive it and record
+3. Review saved trip + checklist
 
 If an item does not improve this loop, it is deferred.
 
@@ -63,14 +63,15 @@ Confidence level: Low.
 
 ### Keep (MVP-Critical)
 - Home
-- GPS/Recorder/Navigation
+- GPS/Recorder/Navigation with Tesla-style place identity
+- Checklist (highways, counties, exits)
 - Travel Log and Trip Detail
+- Pathfinder as destination planner and highway copilot
 - Reliability and storage/network/error handling
 
 ### Hide (Remain in Code, Not Primary Path)
-- Pathfinder AI tab as default destination
-- Explorer/Checklist
 - Planned Trips
+- Achievements and RPG overlay (unmounted; off the drawer)
 
 ### Pause (No Work Until v0.1 Stable)
 - Achievements/gamification

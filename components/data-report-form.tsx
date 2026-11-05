@@ -125,7 +125,7 @@ export default function DataReportForm({
 
       {/* Report Type */}
       <View style={styles.section}>
-        <Text style={[styles.label, { color: theme.text }]}>What's Missing?</Text>
+        <Text style={[styles.label, { color: theme.text }]}>What is missing?</Text>
         <View style={styles.typeGrid}>
           {reportTypes.map((rt) => (
             <TouchableOpacity

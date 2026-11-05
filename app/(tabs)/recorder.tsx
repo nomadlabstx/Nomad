@@ -1,5 +1,5 @@
 /**
- * GPS Tab — Maps, routing, and turn-by-turn navigation.
+ * GPS Tab — Maps, routing, place identity, and turn-by-turn navigation.
  * Trip/path recording runs automatically in the background while navigating.
  */
 
@@ -8,6 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Alert, Dimensions, Linking, Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { useLocalSearchParams, useFocusEffect, useRouter } from 'expo-router';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { DestinationParkingPreview } from '../../components/destination-parking-preview';
 import DestinationSearch from '../../components/destination-search';
 import MaybeMapView, {
@@ -18,21 +19,31 @@ import MaybeMapView, {
 import { Platform } from 'react-native';
 import { MultiStopPlanner } from '../../components/multi-stop-planner';
 import NavigationUI from '../../components/navigation-ui';
+import PlaceIdentityHud from '../../components/place-identity-hud';
+import SpeedLimitDisplay from '../../components/speed-limit-display';
+import { SpeedCameraAlert } from '../../components/speed-camera-alert';
+import InterstateRecChip from '../../components/interstate-rec-chip';
+import AchievementToast from '../../components/achievement-toast';
 import { ParkingSuggestions } from '../../components/parking-suggestions';
 import RouteSelector from '../../components/route-selector';
 import RoutePreviewPolylines from '../../components/route-preview-polylines';
 import { OfflineIndicator } from '../../components/offline-indicator';
 import GpsSimulatorPanel from '../../components/gps-simulator-panel';
 import { useAppTint } from '../../components/color-context';
-import { useAchievements } from '../../hooks/use-achievements';
 import { useNavigation } from '../../hooks/use-navigation';
+import { usePlaceIdentity } from '../../hooks/use-place-identity';
 import { useTripTracking } from '../../hooks/use-trip-tracking';
 import { useGpsSimulator } from '../../hooks/use-gps-simulator';
+import { useAchievements } from '../../hooks/use-achievements';
+import { useInterstateRecs } from '../../hooks/use-interstate-recs';
 import { aiPlannerContextService } from '../../services/ai-planner-context';
 import { Coordinates, navigationService } from '../../services/navigation';
+import { getErrorMessage } from '../../utils/error-messages';
+import { formatDirectionInstructionText, roadNameFromInstruction } from '../../utils/format-directions';
 import { gpsSimulator, type GpsSimulatorPreset } from '../../utils/gps-simulator';
 import { getAccentFill, getOnAccentColor } from '../../utils/theme-helpers';
 import { formatTripName } from '../../utils/trip-names';
+import { pickDriveAttentionSlot } from '../../utils/drive-hud';
 
 const RecorderTab = memo(() => {
   // State
@@ -40,6 +51,7 @@ const RecorderTab = memo(() => {
   const [showDestinationSearch, setShowDestinationSearch] = useState(false);
   const [showRouteSelector, setShowRouteSelector] = useState(false);
   const [showMultiStopPlanner, setShowMultiStopPlanner] = useState(false);
+  const [showSearchOverflow, setShowSearchOverflow] = useState(false);
   const [destinationMarker, setDestinationMarker] = useState<Coordinates | null>(null);
   const [destinationName, setDestinationName] = useState<string>('');
   const [showParkingSuggestions, setShowParkingSuggestions] = useState(false);
@@ -51,12 +63,14 @@ const RecorderTab = memo(() => {
   const inboundReplayRef = useRef<string | null>(null);
   const hasInitialCenteredRef = useRef(false);
   const [followsUser, setFollowsUser] = useState(false);
+  const [topChromeHeight, setTopChromeHeight] = useState(96);
 
   // Hooks
+  const insets = useSafeAreaInsets();
   const passiveTracking = useTripTracking();
   const navigation = useNavigation();
-  const achievements = useAchievements();
   const gpsSim = useGpsSimulator();
+  const achievements = useAchievements();
   const { tint: themeTint } = useAppTint();
   const tint = getAccentFill(themeTint);
   const onAccent = getOnAccentColor(tint);
@@ -69,12 +83,14 @@ const RecorderTab = memo(() => {
   useFocusEffect(
     useCallback(() => {
       // Check if we arrived from a planned trip
-      if (params.applyAIPlan === 'true') {
+      if (params.applyAIPlan === 'true' || params.applySavedPlan === 'true') {
         const plan = aiPlannerContextService.consumePendingPlan();
         if (plan) {
           void (async () => {
             await Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
-            achievements.recordAITripPlanned();
+            if (params.applyAIPlan === 'true') {
+              achievements.recordAITripPlanned();
+            }
             await navigation.calculateRoute(plan.finalDestination.location, {
               waypoints: plan.stops.map(stop => stop.location),
               ...plan.routeOptions,
@@ -108,7 +124,7 @@ const RecorderTab = memo(() => {
           })();
         }
       }
-    }, [params.applyAIPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
+    }, [params.applyAIPlan, params.applySavedPlan, params.fromPlannedTrip, params.destinationLat, params.destinationLng, params.destinationName, params.replay, navigation, achievements])
   );
 
   // Auto-show route selector when routes become available after planned trip navigation
@@ -118,56 +134,109 @@ const RecorderTab = memo(() => {
     if (params.fromPlannedTrip === 'true' && navigation.routes.length > 0 && destinationMarker) {
       setShowRouteSelector(true);
     }
-  }, [navigation.routes.length, params.fromPlannedTrip, destinationMarker]);
+    if (params.applySavedPlan === 'true' && navigation.routes.length > 0 && destinationMarker) {
+      setShowRouteSelector(true);
+    }
+  }, [navigation.routes.length, params.fromPlannedTrip, params.applySavedPlan, destinationMarker]);
 
   /**
    * Auto-record trips when navigation is active
    */
   useEffect(() => {
     if (navigation.isNavigating) {
-      if (!passiveTracking.tracking) {
-        tripNameRef.current = formatTripName(
-          destinationName || navigation.getDestinationLabel() || ''
-        );
-        passiveTracking.start();
+      if (passiveTracking.tracking) {
         autoRecordingRef.current = true;
+        return;
       }
-      return;
+
+      tripNameRef.current = formatTripName(
+        destinationName || navigation.getDestinationLabel() || ''
+      );
+      let cancelled = false;
+      const kickOff = async () => {
+        const started = await passiveTracking.start();
+        if (!cancelled && started) {
+          autoRecordingRef.current = true;
+        }
+      };
+      void kickOff();
+      const retry = setTimeout(() => {
+        if (!cancelled) {
+          void kickOff();
+        }
+      }, 1500);
+      return () => {
+        cancelled = true;
+        clearTimeout(retry);
+      };
     }
 
     if (autoRecordingRef.current) {
-      passiveTracking.stop({
-        name: tripNameRef.current || destinationName || navigation.getDestinationLabel() || undefined,
-      });
       autoRecordingRef.current = false;
+      void (async () => {
+        const result = await passiveTracking.stop({
+          name: tripNameRef.current || destinationName || navigation.getDestinationLabel() || undefined,
+        });
+        if (result.attempted && !result.saved) {
+          Alert.alert(
+            'Trip not saved',
+            'Nomad could not write this trip to the Travel Log. Check storage and try again.'
+          );
+        }
+      })();
     }
   }, [navigation.isNavigating, navigation.getDestinationLabel, destinationName, passiveTracking.tracking, passiveTracking.start, passiveTracking.stop]);
-
-  // Check achievements periodically during navigation
-  useEffect(() => {
-    if (!navigation.isNavigating) return;
-    
-    const interval = setInterval(() => {
-      achievements.checkAchievements();
-    }, 10000); // Check every 10 seconds
-    
-    return () => clearInterval(interval);
-  }, [navigation.isNavigating, achievements]);
-
-  // Track navigation completion when navigation stops
-  const previousNavigatingRef = useRef(false);
-  useEffect(() => {
-    // If navigation was active and now stopped, track completion
-    if (previousNavigatingRef.current && !navigation.isNavigating) {
-      achievements.recordNavigationComplete();
-    }
-    previousNavigatingRef.current = navigation.isNavigating;
-  }, [navigation.isNavigating, achievements]);
 
   /**
    * Get current location for map center
    */
   const currentLocation = navigation.currentLocation ?? passiveTracking.loc;
+
+  const fallbackRoad = useMemo(() => {
+    const route = navigation.selectedRoute;
+    const state = navigation.navigationState;
+    if (route && state) {
+      const step = route.legs?.[state.currentLegIndex]?.steps?.[state.currentStepIndex];
+      if (step?.instruction) {
+        return roadNameFromInstruction(formatDirectionInstructionText(step.instruction));
+      }
+    }
+    if (state?.nextInstruction) {
+      return roadNameFromInstruction(state.nextInstruction);
+    }
+    return undefined;
+  }, [navigation.selectedRoute, navigation.navigationState]);
+
+  const placeIdentity = usePlaceIdentity(currentLocation, fallbackRoad);
+  const navTopOffset = insets.top + 8;
+  const wasNavigatingRef = useRef(false);
+  const nearestCamera = navigation.cameraAlerts[0] ?? null;
+  const recs = useInterstateRecs({
+    location: currentLocation,
+    heading: navigation.currentHeading ?? undefined,
+    identity: placeIdentity,
+    route: navigation.selectedRoute,
+    preferredHighways: navigation.getRouteOptions().preferredHighways,
+    cameraActive: Boolean(nearestCamera),
+  });
+  const achievementToast = achievements.newlyUnlocked[0] ?? null;
+  const attentionSlot = pickDriveAttentionSlot({
+    hasCamera: Boolean(nearestCamera),
+    hasRec: Boolean(recs.suggestion),
+    hasAchievement: Boolean(achievementToast),
+  });
+
+  useEffect(() => {
+    void achievements.checkAchievements();
+  }, [placeIdentity?.town, placeIdentity?.county, placeIdentity?.road, achievements.checkAchievements]);
+
+  useEffect(() => {
+    if (wasNavigatingRef.current && !navigation.isNavigating) {
+      void achievements.recordNavigationComplete();
+      void achievements.checkAchievements();
+    }
+    wasNavigatingRef.current = navigation.isNavigating;
+  }, [navigation.isNavigating, achievements.recordNavigationComplete, achievements.checkAchievements]);
 
   /**
    * Center map once when location first becomes available.
@@ -186,9 +255,26 @@ const RecorderTab = memo(() => {
 
   /**
    * Follow user only while followsUser is enabled (after tapping recenter).
+   * Heading-up with a slight pitch while navigating; north-up in free-drive.
    */
   useEffect(() => {
     if (!followsUser || !currentLocation) return;
+
+    if (navigation.isNavigating) {
+      navigationMapRef.current?.animateCamera?.(
+        {
+          center: {
+            latitude: currentLocation.latitude,
+            longitude: currentLocation.longitude,
+          },
+          heading: navigation.currentHeading ?? 0,
+          pitch: 32,
+          zoom: 17,
+        },
+        { duration: 350 }
+      );
+      return;
+    }
 
     navigationMapRef.current?.animateToRegion({
       latitude: currentLocation.latitude,
@@ -196,7 +282,7 @@ const RecorderTab = memo(() => {
       latitudeDelta: 0.01,
       longitudeDelta: 0.01,
     }, 300);
-  }, [currentLocation, followsUser]);
+  }, [currentLocation, followsUser, navigation.isNavigating, navigation.currentHeading]);
 
   /**
    * Recenter map on user location and resume following GPS.
@@ -206,14 +292,26 @@ const RecorderTab = memo(() => {
     setFollowsUser(true);
 
     if (navigationMapRef.current && currentLocation) {
-      navigationMapRef.current.animateToRegion({
-        latitude: currentLocation.latitude,
-        longitude: currentLocation.longitude,
-        latitudeDelta: 0.01,
-        longitudeDelta: 0.01,
-      }, 500);
+      if (navigation.isNavigating) {
+        navigationMapRef.current.animateCamera?.({
+          center: {
+            latitude: currentLocation.latitude,
+            longitude: currentLocation.longitude,
+          },
+          heading: navigation.currentHeading ?? 0,
+          pitch: 32,
+          zoom: 17,
+        }, { duration: 500 });
+      } else {
+        navigationMapRef.current.animateToRegion({
+          latitude: currentLocation.latitude,
+          longitude: currentLocation.longitude,
+          latitudeDelta: 0.01,
+          longitudeDelta: 0.01,
+        }, 500);
+      }
     }
-  }, [currentLocation]);
+  }, [currentLocation, navigation.isNavigating, navigation.currentHeading]);
 
   const handleMapPan = useCallback(() => {
     setFollowsUser(false);
@@ -227,6 +325,24 @@ const RecorderTab = memo(() => {
       );
     });
   }, []);
+
+  const routeErrorInfo = useMemo(
+    () => (navigation.error ? getErrorMessage(new Error(navigation.error)) : null),
+    [navigation.error]
+  );
+
+  const handleRetryRoute = useCallback(() => {
+    if (!destinationMarker) {
+      navigation.clearError();
+      return;
+    }
+    void navigation.calculateRoute(
+      destinationMarker,
+      navigation.getRouteOptions(),
+      undefined,
+      destinationName || undefined
+    );
+  }, [destinationMarker, destinationName, navigation]);
 
   /**
    * Handle destination selection
@@ -327,6 +443,21 @@ const RecorderTab = memo(() => {
     [navigation]
   );
 
+  const handleRecAddOrGo = useCallback(async () => {
+    const rec = recs.suggestion;
+    if (!rec) return;
+    recs.dismiss(rec.placeId);
+    if (navigation.isNavigating) {
+      await navigation.addWaypoint(rec.coordinates, rec.name);
+      return;
+    }
+    setDestinationMarker(rec.coordinates);
+    setDestinationName(rec.name);
+    await navigation.calculateRoute(rec.coordinates, undefined, undefined, rec.name);
+    await navigation.startNavigation();
+    setFollowsUser(true);
+  }, [recs, navigation]);
+
   /**
    * Memoize initial region with closer zoom
    */
@@ -396,7 +527,7 @@ const RecorderTab = memo(() => {
         provider={Platform.OS === 'ios' ? MAYBE_PROVIDER_DEFAULT : MAYBE_PROVIDER_GOOGLE}
         showsUserLocation={!gpsSim.running}
         followsUserLocation={followsUser && !gpsSim.running}
-        onRegionChangeComplete={(_, details) => {
+        onRegionChangeComplete={(_: unknown, details?: { isGesture?: boolean }) => {
           if (details?.isGesture) {
             handleMapPan();
           }
@@ -404,8 +535,8 @@ const RecorderTab = memo(() => {
         scrollEnabled
         zoomEnabled
         zoomTapEnabled
-        rotateEnabled={false}
-        pitchEnabled={false}
+        rotateEnabled
+        pitchEnabled
         showsMyLocationButton={false}
         initialRegion={initialRegion}
         mapType="standard"
@@ -465,32 +596,62 @@ const RecorderTab = memo(() => {
         </View>
       )}
 
-      {!navigation.isNavigating && !showRouteSelector && (
-        <View style={styles.navigationControls} pointerEvents="box-none">
-              <TouchableOpacity
-                style={styles.whereToButton}
-                onPress={() => setShowDestinationSearch(true)}
-              >
-                <Text style={styles.whereToText}>Search Destination</Text>
-              </TouchableOpacity>
-
-              <View style={styles.quickActions}>
+      {(!navigation.isNavigating || currentLocation) && (
+        <View
+          style={[styles.topChrome, { top: insets.top + 8 }]}
+          pointerEvents="box-none"
+          onLayout={(event) => {
+            const nextHeight = Math.round(event.nativeEvent.layout.height);
+            if (nextHeight > 0 && nextHeight !== topChromeHeight) {
+              setTopChromeHeight(nextHeight);
+            }
+          }}
+        >
+          {currentLocation && !navigation.isNavigating ? <PlaceIdentityHud identity={placeIdentity} /> : null}
+          {!navigation.isNavigating && !showRouteSelector && (
+            <View style={styles.freeDriveActions} pointerEvents="box-none">
+              <View style={styles.searchRow}>
                 <TouchableOpacity
-                  style={styles.quickActionButton}
-                  onPress={() => router.push('/(tabs)/ai-assistant?mode=planner&source=navigate')}
+                  style={styles.whereToButton}
+                  onPress={() => setShowDestinationSearch(true)}
                 >
-                  <Text style={styles.quickActionText}>Pathfinder</Text>
+                  <Text style={styles.whereToText}>Search</Text>
                 </TouchableOpacity>
-
                 <TouchableOpacity
-                  style={styles.quickActionButton}
-                  onPress={() => setShowMultiStopPlanner(true)}
+                  style={styles.overflowButton}
+                  onPress={() => setShowSearchOverflow((open) => !open)}
+                  accessibilityRole="button"
+                  accessibilityLabel="More search actions"
                 >
-                  <Text style={styles.quickActionText}>Multi-Stop</Text>
+                  <Text style={styles.overflowButtonText}>···</Text>
                 </TouchableOpacity>
               </View>
+              {showSearchOverflow ? (
+                <View style={styles.overflowMenu}>
+                  <TouchableOpacity
+                    style={styles.overflowItem}
+                    onPress={() => {
+                      setShowSearchOverflow(false);
+                      router.push('/(tabs)/ai-assistant?mode=planner&source=navigate');
+                    }}
+                  >
+                    <Text style={styles.overflowItemText}>Pathfinder</Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    style={styles.overflowItem}
+                    onPress={() => {
+                      setShowSearchOverflow(false);
+                      setShowMultiStopPlanner(true);
+                    }}
+                  >
+                    <Text style={styles.overflowItemText}>Multi-Stop</Text>
+                  </TouchableOpacity>
+                </View>
+              ) : null}
             </View>
           )}
+        </View>
+      )}
 
       {navigation.isNavigating && navigation.navigationState && navigation.currentLocation && (
             <>
@@ -510,10 +671,69 @@ const RecorderTab = memo(() => {
                 route={navigation.selectedRoute || undefined}
                 currentLegIndex={navigation.navigationState.currentLegIndex}
                 currentStepIndex={navigation.navigationState.currentStepIndex}
-                cameraAlerts={navigation.cameraAlerts}
+                topOffset={navTopOffset}
+                identity={placeIdentity}
               />
             </>
           )}
+
+      {currentLocation ? (
+        <View
+          style={[
+            styles.speedLimitAnchor,
+            { bottom: navigation.isNavigating ? 92 : 118 },
+          ]}
+          pointerEvents="none"
+        >
+          <SpeedLimitDisplay
+            currentSpeed={navigation.currentSpeed}
+            latitude={currentLocation.latitude}
+            longitude={currentLocation.longitude}
+            unit={unit === 'miles' ? 'mph' : 'km/h'}
+            showCurrentSpeed={false}
+          />
+        </View>
+      ) : null}
+
+      {attentionSlot ? (
+        <View
+          style={[
+            styles.attentionSlot,
+            {
+              top: navigation.isNavigating
+                ? insets.top + 96
+                : insets.top + 8 + topChromeHeight + 8,
+            },
+          ]}
+          pointerEvents="box-none"
+        >
+          {attentionSlot === 'camera' && nearestCamera ? (
+            <SpeedCameraAlert alert={nearestCamera} />
+          ) : null}
+          {attentionSlot === 'rec' && recs.suggestion ? (
+            <InterstateRecChip
+              rec={recs.suggestion}
+              isNavigating={navigation.isNavigating}
+              sheetOpen={recs.sheetOpen}
+              onOpenSheet={() => recs.setSheetOpen(true)}
+              onCloseSheet={() => recs.setSheetOpen(false)}
+              onAddOrGo={() => {
+                void handleRecAddOrGo();
+              }}
+              onDismiss={() => recs.dismiss(recs.suggestion?.placeId)}
+              onMute={() => {
+                void recs.muteRecs();
+              }}
+            />
+          ) : null}
+          {attentionSlot === 'achievement' && achievementToast ? (
+            <AchievementToast
+              name={achievementToast.name}
+              onDone={achievements.dismissCurrentUnlock}
+            />
+          ) : null}
+        </View>
+      ) : null}
 
       {showRouteSelector && !navigation.isNavigating && (
             <RouteSelector
@@ -536,12 +756,25 @@ const RecorderTab = memo(() => {
             </View>
           )}
 
-      {navigation.error && (
+      {navigation.error && routeErrorInfo && (
         <View style={styles.errorContainer}>
-          <Text style={styles.errorText}>{navigation.error}</Text>
-          <TouchableOpacity onPress={navigation.clearError}>
-            <Text style={styles.errorDismiss}>Dismiss</Text>
-          </TouchableOpacity>
+          <Text style={styles.errorTitle}>{routeErrorInfo.title}</Text>
+          <Text style={styles.errorText}>{routeErrorInfo.message}</Text>
+          {routeErrorInfo.suggestions.slice(0, 2).map((suggestion) => (
+            <Text key={suggestion} style={styles.errorSuggestion}>
+              • {suggestion}
+            </Text>
+          ))}
+          <View style={styles.errorActions}>
+            {routeErrorInfo.actionLabel ? (
+              <TouchableOpacity onPress={handleRetryRoute}>
+                <Text style={[styles.errorAction, { color: tint }]}>{routeErrorInfo.actionLabel}</Text>
+              </TouchableOpacity>
+            ) : null}
+            <TouchableOpacity onPress={navigation.clearError}>
+              <Text style={styles.errorDismiss}>Dismiss</Text>
+            </TouchableOpacity>
+          </View>
         </View>
       )}
 
@@ -620,78 +853,122 @@ const styles = StyleSheet.create({
   map: {
     flex: 1,
   },
-  navigationControls: {
+  topChrome: {
     position: 'absolute',
-    top: 60,
-    left: 16,
-    right: 16,
+    left: 0,
+    right: 0,
+    zIndex: 35,
+    gap: 10,
+  },
+  freeDriveActions: {
+    marginHorizontal: 16,
+    gap: 8,
+  },
+  searchRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
     gap: 8,
   },
   whereToButton: {
-    backgroundColor: '#fff',
-    paddingVertical: 14,
-    paddingHorizontal: 20,
-    borderRadius: 12,
-    borderWidth: 1,
-    borderColor: 'rgba(0, 0, 0, 0.15)',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.2,
-    shadowRadius: 4,
-    elevation: 6,
+    flex: 1,
+    backgroundColor: 'rgba(255, 255, 255, 0.86)',
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 22,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: 'rgba(0, 0, 0, 0.12)',
   },
   whereToText: {
+    fontSize: 15,
+    fontWeight: '600',
+    color: '#333',
+    textAlign: 'left',
+  },
+  overflowButton: {
+    width: 44,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: 'rgba(255, 255, 255, 0.86)',
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: 'rgba(0, 0, 0, 0.12)',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  overflowButtonText: {
     fontSize: 16,
+    fontWeight: '700',
+    color: '#333',
+  },
+  overflowMenu: {
+    backgroundColor: 'rgba(255, 255, 255, 0.92)',
+    borderRadius: 12,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: 'rgba(0, 0, 0, 0.12)',
+    overflow: 'hidden',
+  },
+  overflowItem: {
+    paddingVertical: 12,
+    paddingHorizontal: 14,
+  },
+  overflowItemText: {
+    fontSize: 15,
     fontWeight: '600',
     color: '#333',
-    textAlign: 'center',
   },
-  quickActions: {
-    flexDirection: 'row',
-    gap: 8,
+  speedLimitAnchor: {
+    position: 'absolute',
+    left: 16,
+    zIndex: 28,
   },
-  quickActionButton: {
-    flex: 1,
-    backgroundColor: '#fff',
-    paddingVertical: 10,
-    paddingHorizontal: 8,
-    borderRadius: 10,
-    borderWidth: 1,
-    borderColor: 'rgba(0, 0, 0, 0.15)',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.12,
-    shadowRadius: 2,
-    elevation: 4,
-  },
-  quickActionText: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: '#333',
-    textAlign: 'center',
+  attentionSlot: {
+    position: 'absolute',
+    left: 12,
+    right: 12,
+    zIndex: 36,
+    alignItems: 'center',
   },
   errorContainer: {
     position: 'absolute',
     bottom: 40,
     left: 16,
     right: 16,
-    backgroundColor: '#ff3b30',
-    paddingVertical: 12,
+    backgroundColor: 'rgba(28, 28, 30, 0.94)',
+    paddingVertical: 14,
     paddingHorizontal: 16,
     borderRadius: 12,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: 'rgba(255, 59, 48, 0.55)',
+    gap: 6,
+  },
+  errorTitle: {
+    color: '#fff',
+    fontSize: 15,
+    fontWeight: '700',
   },
   errorText: {
-    color: '#fff',
+    color: 'rgba(255, 255, 255, 0.9)',
+    fontSize: 13,
+    lineHeight: 18,
+  },
+  errorSuggestion: {
+    color: 'rgba(255, 255, 255, 0.75)',
+    fontSize: 12,
+    lineHeight: 16,
+  },
+  errorActions: {
+    flexDirection: 'row',
+    gap: 16,
+    marginTop: 4,
+    alignItems: 'center',
+  },
+  errorAction: {
     fontSize: 14,
-    flex: 1,
+    fontWeight: '700',
   },
   errorDismiss: {
-    color: '#fff',
+    color: 'rgba(255, 255, 255, 0.7)',
     fontSize: 14,
-    fontWeight: 'bold',
+    fontWeight: '600',
   },
   recenterButton: {
     position: 'absolute',

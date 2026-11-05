@@ -3,9 +3,10 @@
 Use this index to find all manual checklists and testing guides.
 
 ## Consolidation Control Docs
+- `docs/mvp-october/README.md` - October TestFlight MVP (active queue)
 - `docs/CONSOLIDATION_PLAN.md` - 14-day consolidation strategy and scope decisions
 - `docs/STATE_OF_UNION.md` - implemented vs verified vs unverified truth source
-- `docs/CONSOLIDATION_WORKBOARD.md` - active queue for sprint execution
+- `docs/CONSOLIDATION_WORKBOARD.md` - pointer to October boards; June history
 - `docs/PRIORITY_BUCKETS.md` - ship blockers, post-v0.1, and vision backlog (single priority list)
 - `docs/FULL_CODE_AUDIT.md` - full codebase audit (June 2026 baseline — read before coding)
 - `docs/DAILY_OPERATING_RHYTHM.md` - day-to-day solo execution cadence

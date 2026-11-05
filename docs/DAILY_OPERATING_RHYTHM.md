@@ -5,8 +5,8 @@ Use this routine to stay focused and avoid scope drift.
 ## Daily Session (60-90 minutes minimum)
 
 1. Open:
-   - `docs/STATE_OF_UNION.md`
-   - `docs/CONSOLIDATION_WORKBOARD.md`
+   - `docs/mvp-october/README.md`
+   - the current phase board (`phase-1-install.md` until TestFlight exists)
    - `docs/MVP_RELEASE_GATE.md`
 2. Pick one in-progress blocker from the workboard.
 3. Reproduce issue and document expected behavior.
@@ -31,7 +31,7 @@ Use this routine to stay focused and avoid scope drift.
 
 ## End-of-Week Output
 
-- Updated `docs/STATE_OF_UNION.md`
-- Updated `docs/CONSOLIDATION_WORKBOARD.md`
+- Updated current October phase board
+- Updated `docs/MVP_RELEASE_GATE.md` when a gate item is proven
 - At least 3 recorded runs in `docs/MVP_TEST_RUN_LOG.md`
 - Clear PASS/FAIL status using `docs/MVP_RELEASE_GATE.md`

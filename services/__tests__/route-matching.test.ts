@@ -237,5 +237,64 @@ describe('trackRouteProgress', () => {
     const progress = routeMatchingService.trackRouteProgress(c, route as any, 1, 1);
     assert.equal(progress.currentLegIndex, 1);
     assert.equal(progress.currentStepIndex, 1);
+    assert.ok(
+      progress.totalRouteProgress >= 60,
+      `second-leg progress should count finished first leg, got ${progress.totalRouteProgress}`
+    );
+    assert.ok(progress.totalRouteProgress <= 100);
+  });
+
+  it('does not reset to ~0% when a new leg starts', () => {
+    const a = { latitude: 41.4, longitude: -73.05 };
+    const b = { latitude: 41.41, longitude: -73.05 };
+    const c = { latitude: 41.42, longitude: -73.05 };
+
+    const makeStep = (
+      id: string,
+      start: { latitude: number; longitude: number },
+      end: { latitude: number; longitude: number }
+    ) => ({
+      id,
+      instruction: id,
+      distance: 1000,
+      duration: 60,
+      startLocation: start,
+      endLocation: end,
+      polyline: encodePolyline([start, end]),
+      travelMode: 'DRIVING',
+    });
+
+    const makeLeg = (
+      start: { latitude: number; longitude: number },
+      end: { latitude: number; longitude: number }
+    ) => ({
+      steps: [makeStep(`${start.latitude}`, start, end)],
+      distance: 1000,
+      duration: 60,
+      startAddress: '',
+      endAddress: '',
+      startLocation: start,
+      endLocation: end,
+    });
+
+    const route = {
+      id: 'two-legs',
+      legs: [makeLeg(a, b), makeLeg(b, c)],
+      overviewPolyline: encodePolyline([a, b, c]),
+      summary: '',
+      warnings: [],
+      bounds: { northeast: c, southwest: a },
+      totalDistance: 2000,
+      totalDuration: 120,
+      hasTolls: false,
+      hasHighways: false,
+    };
+
+    const atStartOfSecond = routeMatchingService.trackRouteProgress(b, route as any, 0, 1);
+    assert.equal(atStartOfSecond.currentLegIndex, 1);
+    assert.ok(
+      atStartOfSecond.totalRouteProgress >= 45,
+      `expected ~50% after finishing first of two equal legs, got ${atStartOfSecond.totalRouteProgress}`
+    );
   });
 });

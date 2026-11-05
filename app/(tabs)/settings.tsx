@@ -6,6 +6,7 @@
 import { useAppTint, useDarkMode } from '@/components/color-context';
 import { userPreferencesService } from '@/services/user-preferences';
 import type { UserPreferences } from '@/types/user-preferences';
+import { DETOUR_PRESETS, type DetourPreset } from '@/utils/drive-hud';
 import { Ionicons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import { useCallback, useEffect, useState } from 'react';
@@ -818,6 +819,83 @@ export default function SettingsTab() {
               color={preferences.travel.scenicRoutes ? (tint || '#007AFF') : '#999'}
             />
           </TouchableOpacity>
+
+          <Text style={styles.subsectionTitle}>Along the interstate</Text>
+          <Text style={styles.subsectionDescription}>Quiet Eat / Drink / Do chips while you are on a highway. Off means no extra Places polling.</Text>
+
+          {([
+            ['recommendEat', 'Eat'],
+            ['recommendDrink', 'Drink'],
+            ['recommendDo', 'Do'],
+          ] as const).map(([key, label]) => (
+            <TouchableOpacity
+              key={key}
+              style={[
+                styles.toggleOption,
+                preferences.travel[key] && {
+                  backgroundColor: (tint || '#007AFF') + '20',
+                  borderColor: tint || '#007AFF'
+                },
+              ]}
+              onPress={async () => {
+                await userPreferencesService.updateTravelPreferences({
+                  [key]: !preferences.travel[key],
+                });
+                const freshPrefs = await userPreferencesService.getPreferences();
+                setPreferences({ ...freshPrefs });
+              }}
+            >
+              <View style={styles.toggleInfo}>
+                <Text style={[
+                  styles.toggleLabel,
+                  preferences.travel[key] && { color: tint || '#007AFF' }
+                ]}>
+                  {label}
+                </Text>
+              </View>
+              <Ionicons
+                name={preferences.travel[key] ? 'checkmark-circle' : 'add-circle-outline'}
+                size={32}
+                color={preferences.travel[key] ? (tint || '#007AFF') : '#999'}
+              />
+            </TouchableOpacity>
+          ))}
+
+          <Text style={styles.subsectionTitle}>How far off the route</Text>
+          <View style={styles.optionsGrid}>
+            {(Object.keys(DETOUR_PRESETS) as DetourPreset[]).map((preset) => (
+              <TouchableOpacity
+                key={preset}
+                style={[
+                  styles.optionButton,
+                  {
+                    borderColor: theme.border,
+                    backgroundColor: theme.cardBackground,
+                  },
+                  (preferences.travel.detourPreset ?? 'few-minutes') === preset && {
+                    backgroundColor: isDarkMode ? '#0a7ea4' : (tint || '#007AFF'),
+                    borderColor: isDarkMode ? '#0a7ea4' : (tint || '#007AFF'),
+                  },
+                ]}
+                onPress={async () => {
+                  await userPreferencesService.updateTravelPreferences({ detourPreset: preset });
+                  const freshPrefs = await userPreferencesService.getPreferences();
+                  setPreferences({ ...freshPrefs });
+                }}
+              >
+                <Text style={[
+                  styles.optionText,
+                  { color: theme.text },
+                  (preferences.travel.detourPreset ?? 'few-minutes') === preset && { color: '#fff' },
+                ]}>
+                  {DETOUR_PRESETS[preset].label}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+          <Text style={styles.subsectionDescription}>
+            {DETOUR_PRESETS[preferences.travel.detourPreset ?? 'few-minutes'].description}
+          </Text>
         </View>
 
         {/* Travel Details */}
@@ -1115,7 +1193,7 @@ export default function SettingsTab() {
               ]}>
                 Proactive Suggestions
               </Text>
-              <Text style={styles.toggleDescription}>AI suggests activities and restaurants without being asked</Text>
+              <Text style={styles.toggleDescription}>Along-interstate Eat / Drink / Do chips while driving. Off means none.</Text>
             </View>
             <Ionicons
               name={preferences.proactiveSuggestions ? "checkmark-circle" : "add-circle-outline"}

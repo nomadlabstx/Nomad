@@ -18,6 +18,24 @@ export function getErrorMessage(error: unknown): ErrorInfo {
   const errorMessage = error instanceof Error ? error.message : String(error);
   const errorString = errorMessage.toLowerCase();
 
+  // Offline / no cached route (thrown by navigationService.calculateRoute)
+  if (
+    errorString.includes('no internet') ||
+    errorString.includes('no cached route') ||
+    errorString.includes('offline')
+  ) {
+    return {
+      title: 'You Are Offline',
+      message: 'Nomad cannot calculate a new route without a connection, and no cached route matches this trip.',
+      suggestions: [
+        'Reconnect to Wi-Fi or cellular data',
+        'Retry once you are back online',
+        'If you already routed this trip before, stay on the map until the connection returns',
+      ],
+      actionLabel: 'Retry',
+    };
+  }
+
   // Network errors
   if (errorString.includes('network') || errorString.includes('fetch') || errorString.includes('timeout')) {
     return {

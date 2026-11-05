@@ -41,6 +41,21 @@ describe('parseHighwayRefs', () => {
     const refs = parseHighwayRefs('Destination will be on the right in 5 miles');
     assert.equal(refs.length, 0);
   });
+
+  it('finds a Texas loop', () => {
+    const refs = parseHighwayRefs('Continue on Loop 340 E');
+    assert.equal(refs.length, 1);
+    assert.equal(refs[0].kind, 'loop');
+    assert.equal(refs[0].number, '340');
+    assert.equal(refs[0].direction, 'E');
+  });
+
+  it('finds a farm-to-market road', () => {
+    const refs = parseHighwayRefs('Turn left onto FM 1637');
+    assert.equal(refs.length, 1);
+    assert.equal(refs[0].kind, 'fm');
+    assert.equal(refs[0].number, '1637');
+  });
 });
 
 describe('tokenizeInstruction', () => {
