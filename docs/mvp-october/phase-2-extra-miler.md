@@ -1,7 +1,7 @@
 # Phase 2 — Extra-miler truth
 
-Window: 13–19 Oct 2026  
-Status: **Not started** (after Phase 1 pass)
+Window: originally 13–19 Oct 2026  
+Status: **Prep in progress** — device Pass still waits on Phase 1
 
 ## Goal
 
@@ -9,14 +9,14 @@ The atlas is honest on a real drive.
 
 ## In progress
 
-- (starts after TestFlight exists)
+- Device validation after TestFlight exists
 
 ## Next
 
 - Highway / county / exit checkoff on device
   - [services/explorer.ts](../../services/explorer.ts)
   - [app/(tabs)/explore.tsx](../../app/(tabs)/explore.tsx)
-- Pathfinder stay-on-highway after recalc
+- Pathfinder stay-on-highway after recalc on device
   - [hooks/use-navigation.ts](../../hooks/use-navigation.ts)
   - [utils/preferred-highways.ts](../../utils/preferred-highways.ts)
 - Gate C from [MVP Release Gate](../MVP_RELEASE_GATE.md): API failure, airplane mode, background / foreground
@@ -25,9 +25,11 @@ The atlas is honest on a real drive.
 
 - Phase 1 pass (TestFlight install + save-trip)
 
-## Done
+## Done (code prep, 2026-11-05)
 
-- (none)
+- Loop / FM highway refs parse + stay-on ranking prefers `Loop 340` over shortcuts (unit tests)
+- Offline / no-cache route failures map to Retry UX on GPS
+- Connectivity probe + OfflineIndicator already in stack from PR #2
 
 ## Pass
 

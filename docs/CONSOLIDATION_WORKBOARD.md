@@ -1,6 +1,6 @@
 # Nomad Consolidation Workboard
 
-**Active queue as of 4 Oct 2026:** [October MVP](./mvp-october/README.md)
+**Active queue as of 5 Nov 2026:** [Master task list](./TASKS.md) · [November ship boards](./mvp-october/README.md)
 
 The June consolidation sprint is closed. Reliability evidence still lives in [MVP Release Gate](./MVP_RELEASE_GATE.md) (FAIL until navigation-while-moving, background, and offline are proven on device).
 
