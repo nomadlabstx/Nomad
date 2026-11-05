@@ -1,11 +1,12 @@
 # Phase 3 — Live like the user
 
-Window: 20–26 Oct 2026  
-Status: **Not started** (after Phase 2 pass)
+Window: originally 20–26 Oct 2026  
+Status: **Not started** (after Phase 2 pass)  
+Runtime: **Expo Go** (TestFlight deferred)
 
 ## Goal
 
-Two full extra-miler TestFlight drives. Store listing written as extra-miler software, not a Google Maps clone.
+Two full extra-miler drives on Expo Go. You trust Nomad as the atlas, not a Google Maps clone.
 
 ## In progress
 
@@ -14,9 +15,7 @@ Two full extra-miler TestFlight drives. Store listing written as extra-miler sof
 ## Next
 
 - Log crashes, wrong town names, lost recording, bad stay-on-highway
-- Privacy policy and location purpose strings ready to paste
-- Screenshots
-- Extra-miler App Store copy
+- Note Expo Go limits (background GPS kills, cold starts) so they are not confused with store bugs
 
 ## Blocked until
 
@@ -29,7 +28,12 @@ Two full extra-miler TestFlight drives. Store listing written as extra-miler sof
 ## Pass
 
 - Two drives without losing the trip
-- Listing and privacy are ready for App Store Connect
+- Issues from those drives are listed for Phase 4
+
+## Deferred with store
+
+- Privacy policy paste-ready for App Store Connect
+- Screenshots + App Store listing copy
 
 ## Out of this phase
 

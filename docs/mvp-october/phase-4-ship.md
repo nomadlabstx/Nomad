@@ -1,11 +1,11 @@
 # Phase 4 — Ship what you drove
 
-Window: 27–31 Oct 2026  
+Window: originally 27–31 Oct 2026  
 Status: **Not started** (after Phase 3 pass)
 
 ## Goal
 
-Submit to App Review if Gates B–C are green. Otherwise TestFlight **is** the MVP.
+Freeze Nomad as your **Expo Go daily-driver** personal MVP. Store / TestFlight only if you later renew Apple Developer.
 
 ## In progress
 
@@ -14,7 +14,7 @@ Submit to App Review if Gates B–C are green. Otherwise TestFlight **is** the M
 ## Next
 
 - Fix only what the two drives broke
-- App Review submit **or** freeze TestFlight as the daily driver
+- Mark personal MVP Pass in [TASKS.md](../TASKS.md) and [MVP Release Gate](../MVP_RELEASE_GATE.md) with Expo Go evidence
 
 ## Blocked until
 
@@ -26,13 +26,13 @@ Submit to App Review if Gates B–C are green. Otherwise TestFlight **is** the M
 
 ## Pass
 
-- You are using Nomad as the atlas on a highway this weekend
-
-## Out of this phase
-
-Anything that would slip 31 Oct.
+- You are using Nomad as the atlas on a highway this weekend (Expo Go)
 
 ## Decision
 
-- Gates B–C green → App Review
-- Gates B–C not green → TestFlight stays the ship
+- Default: **Expo Go is the ship**
+- Optional later: renew Apple membership → resume Deferred TestFlight track in TASKS → App Review only if Gates B–C are green on a store binary
+
+## Out of this phase
+
+Anything that requires spending on Apple Developer before you choose to.

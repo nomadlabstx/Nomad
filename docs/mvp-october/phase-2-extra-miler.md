@@ -23,7 +23,7 @@ The atlas is honest on a real drive.
 
 ## Blocked until
 
-- Phase 1 pass (TestFlight install + save-trip)
+- Phase 1 pass (Expo Go install + save-trip)
 
 ## Done (code prep, 2026-11-05)
 

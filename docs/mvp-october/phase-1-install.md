@@ -1,89 +1,84 @@
-# Phase 1 — Installable
+# Phase 1 — Expo Go personal MVP
 
-Window: originally 6–12 Oct 2026; **still open as of 2026-11-05**  
-Status: **In progress** — EAS project linked; first binary still needs API keys + Apple credentials
+Window: originally TestFlight 6–12 Oct 2026; **retargeted 2026-11-04**  
+Status: **In progress** — needs Maps + Gemini keys + Expo Go device pass  
+Ship bar: **Expo Go on iPhone** (no paid Apple membership)
 
 ## Goal
 
-You are driving a production iOS build, not Expo Go.
+You are driving Nomad on your phone in Expo Go with routing and place identity working.
+
+## Why not TestFlight
+
+Apple Developer Program renewal (~$99/yr) is deferred on purpose. Store / TestFlight steps live under **Deferred** in [TASKS.md](../TASKS.md). Do not block this phase on them.
 
 ## In progress
 
-- Create `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY` and `EXPO_PUBLIC_GEMINI_API_KEY` on expo.dev → Project → Environment variables → **production** (preview env for internal builds)
-- Interactive Apple credential setup for store distribution
-- Backup path: GitHub Action `.github/workflows/eas-ios-testflight.yml` (`workflow_dispatch`) once `EXPO_TOKEN` is a repo secret
+- Add Gemini API key (Maps key already created with the required APIs)
+- Put keys in local `.env` and open the November branch in Expo Go
+- Run the device-pass checklist below
 
 ## Next
 
-- Confirm or change `com.nomadlabstx.nomad` if Apple already has a different bundle
-- Fill `eas.json` → `submit.production.ios` with `appleId`, `appleTeamId`, `ascAppId` once App Store Connect has the app
-- `npm run eas:ios` then `npm run eas:submit` (or `npm run eas:testflight`)
-- Device pass on that binary: GPS opens, place identity shows, a route starts, a trip saves to Travel Log
+```bash
+git checkout cursor/november-mvp-continuation-7c25
+npm install
+```
 
-## Blocked until
+Create **`.env`** at the repo root (gitignored):
 
-- Maps + Gemini keys in the EAS **production** environment (not in git)
-- Apple Distribution Certificate / provisioning via interactive `eas credentials` or first interactive build
-- Apple team ID / App Store Connect app for `eas submit`
+```env
+EXPO_PUBLIC_GOOGLE_MAPS_API_KEY=your_maps_key
+EXPO_PUBLIC_GEMINI_API_KEY=your_gemini_key
+```
 
-Store identifiers default to `com.nomadlabstx.nomad` (GitHub org reverse-DNS). Change them in [app.json](../../app.json) before the first store upload if Apple already has a different bundle. Do not invent App Store Connect IDs.
+Then:
 
-## Done
+```bash
+npx expo start
+```
 
-- October boards exist in this folder
-- Draft stack landed on `cursor/october-mvp-795e` ([PR #7](https://github.com/nomadlabstx/Nomad/pull/7)) in Git order; continuation is `cursor/november-mvp-continuation-7c25`
-  - [#3 SDK 57](https://github.com/nomadlabstx/Nomad/pull/3)
-  - [#4 highway identity](https://github.com/nomadlabstx/Nomad/pull/4)
-  - [#5 place identity](https://github.com/nomadlabstx/Nomad/pull/5)
-  - [#6 sleek GPS](https://github.com/nomadlabstx/Nomad/pull/6)
-  - PR #2 core-loop bugfixes cherry-picked onto the tip (2026-11-05)
-- Automated smoke + unit tests passed after the stack merge / continuation
-- `ios.bundleIdentifier` / `android.package` = `com.nomadlabstx.nomad`
-- Location purpose strings in `app.json` + `expo-location` plugin (When In Use; background location flags off until Gate C)
-- EAS `preview` (internal) and `production` (store / TestFlight) in [eas.json](../../eas.json)
-- [app.config.js](../../app.config.js) injects native Google Maps keys from env when present
-- Route / place-identity / speed-limit / explorer geocode share [utils/google-maps-key.ts](../../utils/google-maps-key.ts)
-- `npm run test:phase1` static config check
-- EAS project linked: `adc0e18c-6f98-4d6c-8dec-f688c46f5bc9` (`owner`: `theimprovisedpixel`)
+Scan the QR with **Expo Go** on your iPhone (same Wi‑Fi, or enable tunnel in the Expo UI if needed).
+
+Optional: also paste the same two vars on [expo.dev environment variables](https://expo.dev/accounts/theimprovisedpixel/projects/Nomad/environment-variables) for **development** / **preview** so cloud agents can use them later. Not required for Expo Go if `.env` is local.
+
+## Maps API checklist (already done if your key matches)
+
+Required for Nomad:
+
+- Directions API
+- Geocoding API
+- Places API (New)
+- Maps SDK for iOS
+- Roads API
+
+Optional / unused today: Routes API, Geolocation API.
 
 ## Pass
 
-- App installs from TestFlight
-- GPS opens
-- Place identity shows
+- App opens in Expo Go without a red screen
+- GPS opens; location permission prompt uses extra-miler copy
+- Place identity shows a road / town / county after a fix
 - A route starts
-- A trip saves to Travel Log
+- Stop and save; trip appears in Travel Log
 
-## Out of this phase
+Log the run in [MVP Test Run Log](../MVP_TEST_RUN_LOG.md).
 
-New GPS chrome, camera database work, eat/drink rec polish.
+### Device pass checklist
 
-## TestFlight operator notes
-
-On expo.dev (once), for environment **production**:
-
-- `EXPO_PUBLIC_GOOGLE_MAPS_API_KEY`
-- `EXPO_PUBLIC_GEMINI_API_KEY`
-
-Then on a machine that can run interactive Apple login:
-
-```bash
-npx eas-cli credentials   # or first interactive eas build
-npm run test:phase1
-npm run eas:ios          # production store build
-npm run eas:submit       # latest → TestFlight
-# or
-npm run eas:testflight
-```
-
-Preview (ad-hoc / internal, not TestFlight): `npm run eas:preview`.
-
-GPS + save-trip cannot be confirmed from a cloud VM. Tick Pass only after a real-phone run on the TestFlight binary, then log it in [MVP Test Run Log](../MVP_TEST_RUN_LOG.md).
-
-### Device pass on the TestFlight binary
-
-- [ ] Install from TestFlight (not Expo Go)
+- [ ] Expo Go install of this branch (not a store binary)
 - [ ] GPS opens; location permission prompt uses extra-miler copy
 - [ ] Place identity shows a road / town / county after a fix
 - [ ] A route starts
 - [ ] Stop and save; trip appears in Travel Log
+
+## Done (engineering)
+
+- October stack + PR #2 core-loop fixes on `cursor/november-mvp-continuation-7c25`
+- EAS project linked (`adc0e18c-6f98-4d6c-8dec-f688c46f5bc9`) for when store is wanted later
+- Store identity / EAS profiles remain in repo but are not this phase’s Pass criteria
+- Automated `npm test` / `test:smoke` / `test:phase1` green
+
+## Out of this phase
+
+TestFlight, App Store Connect, Distribution certificates, eat/drink polish, new GPS chrome.

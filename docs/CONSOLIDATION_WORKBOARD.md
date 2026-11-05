@@ -1,15 +1,15 @@
 # Nomad Consolidation Workboard
 
-**Active queue as of 5 Nov 2026:** [Master task list](./TASKS.md) · [November ship boards](./mvp-october/README.md)
+**Active queue as of 4 Nov 2026 (CT):** [Master task list](./TASKS.md) · [November ship boards](./mvp-october/README.md)
 
-The June consolidation sprint is closed. Reliability evidence still lives in [MVP Release Gate](./MVP_RELEASE_GATE.md) (FAIL until navigation-while-moving, background, and offline are proven on device).
+Ship bar: **Expo Go personal MVP**. TestFlight / paid Apple membership deferred. Reliability evidence still lives in [MVP Release Gate](./MVP_RELEASE_GATE.md) (FAIL until navigation-while-moving, background, and offline are proven on device).
 
-## October phases
+## November phases
 
-- [Phase 1 — Installable](./mvp-october/phase-1-install.md) — TestFlight, not Expo Go
+- [Phase 1 — Expo Go personal MVP](./mvp-october/phase-1-install.md) — keys + Expo Go device pass
 - [Phase 2 — Extra-miler truth](./mvp-october/phase-2-extra-miler.md) — checklist and stay-on-highway
-- [Phase 3 — Live like the user](./mvp-october/phase-3-live-drive.md) — two highway drives
-- [Phase 4 — Ship what you drove](./mvp-october/phase-4-ship.md) — App Review or TestFlight-as-MVP
+- [Phase 3 — Live like the user](./mvp-october/phase-3-live-drive.md) — two highway drives on Expo Go
+- [Phase 4 — Ship what you drove](./mvp-october/phase-4-ship.md) — freeze Expo Go as daily driver
 
 ## Historical (June 2026)
 

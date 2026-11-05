@@ -4,8 +4,8 @@
 
 For **what to ship now** and v0.1 release status, read these first:
 
-- **[Master task list](./TASKS.md)** — Ordered queue across Phases 0–4 + Gate leftovers
-- **[November ship boards](./mvp-october/README.md)** — Phase dashboards (install → extra-miler → live drives → ship)
+- **[Master task list](./TASKS.md)** — Ordered queue; ship bar = Expo Go personal MVP (TestFlight deferred)
+- **[November ship boards](./mvp-october/README.md)** — Phase dashboards (Expo Go → extra-miler → live drives → daily driver)
 - **[Code Audit 31 Aug 2026](./CODE_AUDIT_2026-08-31.md)** — Debug-pass audit (supersedes June)
 - **[State of the Union](./STATE_OF_UNION.md)** — Implemented / Verified / Unverified
 - **[Consolidation Workboard](./CONSOLIDATION_WORKBOARD.md)** — Pointer to October boards; June history
